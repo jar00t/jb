@@ -2,19 +2,15 @@
 <html>
 	<head>
 		<?php echo $head; ?>
-		<link href="<?php echo base_url(); ?>assets/plugins/pace/pace-theme-flash.css" rel="stylesheet" type="text/css" />
-		<link href="<?php echo base_url(); ?>assets/plugins/bootstrap/css/bootstrap.min.css" rel="stylesheet" type="text/css" />
-		<link href="<?php echo base_url(); ?>assets/plugins/font-awesome/css/font-awesome.css" rel="stylesheet" type="text/css" />
+		<link href="<?php echo base_url(); ?>assets/plugins/pace/pace.css" rel="stylesheet" type="text/css" />
+		<link href="<?php echo base_url(); ?>assets/plugins/bootstrap/bootstrap.css" rel="stylesheet" type="text/css" />
+		<link href="<?php echo base_url(); ?>assets/plugins/font-awesome/font-awesome.css" rel="stylesheet" type="text/css" />
 		<link href="<?php echo base_url(); ?>assets/plugins/jquery-scrollbar/jquery.scrollbar.css" rel="stylesheet" type="text/css" media="screen" />
-		<link href="<?php echo base_url(); ?>assets/plugins/select2/css/select2.min.css" rel="stylesheet" type="text/css" media="screen" />
-		<link href="<?php echo base_url(); ?>assets/plugins/switchery/css/switchery.min.css" rel="stylesheet" type="text/css" media="screen" />
-		<link href="<?php echo base_url(); ?>assets/plugins/nvd3/nv.d3.min.css" rel="stylesheet" type="text/css" media="screen" />
-		<link href="<?php echo base_url(); ?>assets/plugins/rickshaw/rickshaw.min.css" rel="stylesheet" type="text/css" />
-		<link href="<?php echo base_url(); ?>assets/plugins/bootstrap-datepicker/css/datepicker3.css" rel="stylesheet" type="text/css" media="screen" />
-		<link href="<?php echo base_url(); ?>assets/plugins/mapplic/css/mapplic.css" rel="stylesheet" type="text/css" />
-		<link href="<?php echo base_url(); ?>assets/css/dashboard.widgets.css" rel="stylesheet" type="text/css" media="screen" />
+		<link href="<?php echo base_url(); ?>assets/plugins/select2/select2.css" rel="stylesheet" type="text/css" media="screen" />
+		<link href="<?php echo base_url(); ?>assets/plugins/switchery/switchery.css" rel="stylesheet" type="text/css" media="screen" />
+		<link href="<?php echo base_url(); ?>assets/css/pages-widgets.css" rel="stylesheet" type="text/css" media="screen" />
 		<link href="<?php echo base_url(); ?>assets/css/pages-icons.css" rel="stylesheet" type="text/css">
-		<link class="main-stylesheet" href="<?php echo base_url(); ?>assets/css/themes/light.css" rel="stylesheet" type="text/css" />
+		<link class="main-stylesheet" href="<?php echo base_url(); ?>assets/css/pages-light.css" rel="stylesheet" type="text/css" />
 	</head>
 	<body class="fixed-header dashboard menu-pin">
 		<nav class="page-sidebar" data-pages="sidebar">
@@ -166,35 +162,111 @@
 			</div>
 		</div>
 
-		<script src="<?php echo base_url(); ?>assets/plugins/feather-icons/feather.min.js" type="text/javascript"></script>
-		<script src="<?php echo base_url(); ?>assets/plugins/pace/pace.min.js" type="text/javascript"></script>
-		<script src="<?php echo base_url(); ?>assets/plugins/jquery/jquery-1.11.1.min.js" type="text/javascript"></script>
-		<script src="<?php echo base_url(); ?>assets/plugins/modernizr.custom.js" type="text/javascript"></script>
-		<script src="<?php echo base_url(); ?>assets/plugins/jquery-ui/jquery-ui.min.js" type="text/javascript"></script>
-		<script src="<?php echo base_url(); ?>assets/plugins/tether/js/tether.min.js" type="text/javascript"></script>
-		<script src="<?php echo base_url(); ?>assets/plugins/bootstrap/js/bootstrap.min.js" type="text/javascript"></script>
+		<script src="<?php echo base_url(); ?>assets/plugins/feather-icons/feather.js" type="text/javascript"></script>
+		<script src="<?php echo base_url(); ?>assets/plugins/pace/pace.js" type="text/javascript"></script>
+		<script src="<?php echo base_url(); ?>assets/plugins/jquery/jquery.js" type="text/javascript"></script>
+		<script src="<?php echo base_url(); ?>assets/plugins/modernizr/modernizr.js" type="text/javascript"></script>
+		<script src="<?php echo base_url(); ?>assets/plugins/jquery-ui/jquery-ui.js" type="text/javascript"></script>
+		<script src="<?php echo base_url(); ?>assets/plugins/tether/tether.js" type="text/javascript"></script>
+		<script src="<?php echo base_url(); ?>assets/plugins/bootstrap/bootstrap.js" type="text/javascript"></script>
 		<script src="<?php echo base_url(); ?>assets/plugins/jquery/jquery-easy.js" type="text/javascript"></script>
 		<script src="<?php echo base_url(); ?>assets/plugins/jquery-unveil/jquery.unveil.min.js" type="text/javascript"></script>
-		<script src="<?php echo base_url(); ?>assets/plugins/jquery-ios-list/jquery.ioslist.min.js" type="text/javascript"></script>
-		<script src="<?php echo base_url(); ?>assets/plugins/jquery-actual/jquery.actual.min.js"></script>
-		<script src="<?php echo base_url(); ?>assets/plugins/jquery-scrollbar/jquery.scrollbar.min.js"></script>
-		<script src="<?php echo base_url(); ?>assets/plugins/select2/js/select2.full.min.js" type="text/javascript"></script>
+		<script src="<?php echo base_url(); ?>assets/plugins/jquery-ios-list/jquery.ioslist.js" type="text/javascript"></script>
+		<script src="<?php echo base_url(); ?>assets/plugins/jquery-actual/jquery.actual.js"></script>
+		<script src="<?php echo base_url(); ?>assets/plugins/jquery-scrollbar/jquery.scrollbar.js"></script>
+		<script src="<?php echo base_url(); ?>assets/plugins/select2/select2.js" type="text/javascript"></script>
 		<script src="<?php echo base_url(); ?>assets/plugins/classie/classie.js" type="text/javascript"></script>
-		<script src="<?php echo base_url(); ?>assets/plugins/switchery/js/switchery.min.js" type="text/javascript"></script>
-		<script src="<?php echo base_url(); ?>assets/plugins/nvd3/lib/d3.v3.js" type="text/javascript"></script>
-		<script src="<?php echo base_url(); ?>assets/plugins/nvd3/nv.d3.min.js" type="text/javascript"></script>
-		<script src="<?php echo base_url(); ?>assets/plugins/nvd3/src/utils.js" type="text/javascript"></script>
-		<script src="<?php echo base_url(); ?>assets/plugins/nvd3/src/tooltip.js" type="text/javascript"></script>
-		<script src="<?php echo base_url(); ?>assets/plugins/nvd3/src/interactiveLayer.js" type="text/javascript"></script>
-		<script src="<?php echo base_url(); ?>assets/plugins/nvd3/src/models/axis.js" type="text/javascript"></script>
-		<script src="<?php echo base_url(); ?>assets/plugins/nvd3/src/models/line.js" type="text/javascript"></script>
-		<script src="<?php echo base_url(); ?>assets/plugins/nvd3/src/models/lineWithFocusChart.js" type="text/javascript"></script>
-		<script src="<?php echo base_url(); ?>assets/plugins/rickshaw/rickshaw.min.js"></script>
-		<script src="<?php echo base_url(); ?>assets/plugins/mapplic/js/hammer.js"></script>
-		<script src="<?php echo base_url(); ?>assets/plugins/mapplic/js/jquery.mousewheel.js"></script>
-		<script src="<?php echo base_url(); ?>assets/plugins/mapplic/js/mapplic.js"></script>
-		<script src="<?php echo base_url(); ?>assets/js/pages.min.js"></script>
-		<script src="<?php echo base_url(); ?>assets/js/dashboard.js" type="text/javascript"></script>
-		<script src="<?php echo base_url(); ?>assets/js/scripts.js" type="text/javascript"></script>
+		<script src="<?php echo base_url(); ?>assets/plugins/switchery/switchery.js" type="text/javascript"></script>
+		<script src="<?php echo base_url(); ?>assets/js/pages.js"></script>
+		<script type="text/javascript">
+		    $(document).ready(function() {
+		        var bars = $('.widget-loader-bar');
+		        var circles = $('.widget-loader-circle');
+		        var circlesLg = $('.widget-loader-circle-lg');
+		        var circlesLgMaster = $('.widget-loader-circle-lg-master');
+
+		        bars.each(function() {
+		            var elem = $(this);
+		            elem.card({
+		                progress: 'bar',
+		                onRefresh: function() {
+		                    setTimeout(function() {
+		                        elem.card({
+		                            refresh: false
+		                        });
+		                    }.bind(this), 2000);
+		                }
+		            });
+		        });
+
+		        circles.each(function() {
+		            var elem = $(this);
+		            elem.card({
+		                progress: 'circle',
+		                onRefresh: function() {
+		                    setTimeout(function() {
+		                        elem.card({
+		                            refresh: false
+		                        });
+		                    }.bind(this), 2000);
+		                }
+		            });
+		        });
+
+		        circlesLg.each(function() {
+		            var elem = $(this);
+		            elem.card({
+		                progress: 'circle-lg',
+		                progressColor: 'white',
+		                overlayColor: '0,0,0',
+		                overlayOpacity: 0.6,
+		                onRefresh: function() {
+		                    setTimeout(function() {
+		                        elem.card({
+		                            refresh: false
+		                        });
+		                    }.bind(this), 2000);
+		                }
+		            });
+		        });
+
+		        circlesLgMaster.each(function() {
+		            var elem = $(this);
+		            elem.card({
+		                progress: 'circle-lg',
+		                progressColor: 'master',
+		                overlayOpacity: 0.6,
+		                onRefresh: function() {
+		                    setTimeout(function() {
+		                        elem.card({
+		                            refresh: false
+		                        });
+		                    }.bind(this), 2000);
+		                }
+		            });
+		        });
+		        
+		     });
+		</script>
+		<script type="text/javascript">
+			(function($) {
+
+			    'use strict';
+
+			    $(document).ready(function() {
+			        $(".list-view-wrapper").scrollbar();
+			    });
+
+			    $('.panel-collapse label').on('click', function(e){
+			        e.stopPropagation();
+			    });
+
+			    feather.replace({
+			        'width':16, 
+			        'height':16 
+			    })
+			    
+			})(window.jQuery);
+		</script>
 	</body>
 </html>
