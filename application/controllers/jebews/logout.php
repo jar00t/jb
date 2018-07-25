@@ -11,7 +11,7 @@
 			$sess_array = array(
 				'username' => ''
 			);
-			$this->session->unset_userdata('logged_in', $sess_array);
+			$this->session->unset_userdata('jb-user', $sess_array);
 			header("location: " . base_url('jebews/login'));
 		}
 	}

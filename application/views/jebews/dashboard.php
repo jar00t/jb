@@ -23,7 +23,7 @@
 			<div class="sidebar-menu">
 				<ul class="menu-items">
 					<li class="m-t-30 active">
-						<a href="<?php echo base_url(); ?>dashboard" class="detailed">
+						<a href="<?php echo base_url(); ?>jebews/dashboard" class="detailed">
 							<span class="title">Dashboard</span>
 						</a>
 						<span class="icon-thumbnail"><i data-feather="shield"></i></span>
@@ -34,11 +34,11 @@
 						<span class="icon-thumbnail"><i data-feather="grid"></i></span>
 						<ul class="sub-menu">
 							<li class="">
-								<a href="<?php echo base_url(); ?>product/add">Tambah Produk</a>
+								<a href="<?php echo base_url(); ?>jebews/product/add">Tambah Produk</a>
 								<span class="icon-thumbnail"><i data-feather="plus"></i></span>
 							</li>
 							<li class="">
-								<a href="<?php echo base_url(); ?>product/manage">Manage Produk</a>
+								<a href="<?php echo base_url(); ?>jebews/product/manage">Manage Produk</a>
 								<span class="icon-thumbnail"><i data-feather="list"></i></span>
 							</li>
 						</ul>
@@ -49,7 +49,7 @@
 						<span class="icon-thumbnail"><i data-feather="user"></i></span>
 						<ul class="sub-menu">
 							<li class="">
-								<a href="<?php echo base_url(); ?>logout">Logout</a>
+								<a href="<?php echo base_url(); ?>jebews/logout">Logout</a>
 								<span class="icon-thumbnail"><i data-feather="power"></i></span>
 							</li>
 						</ul>
@@ -68,8 +68,6 @@
 							data-src="<?php echo base_url(); ?>assets/img/logo.png" 
 							data-src-retina="<?php echo base_url(); ?>assets/img/logo_2x.png" alt="logo" width="78" height="22">
 					</div>
-					<a href="<?php echo base_url(); ?>product/add" class="btn btn-link text-primary m-l-20 hidden-md-down">Tambah Produk</a>
-					<a href="javascript:void(0);" class="search-link hidden-md-down" data-toggle="search"><i class="pg-search"></i>Cari <span class="bold">sesuatu...</span></a>
 				</div>
 			</div>
 			<div class="page-content-wrapper">
@@ -78,7 +76,7 @@
 						<div class="container-fluid p-l-25 p-r-25 sm-p-l-0 sm-p-r-0">
 							<div class="inner">
 								<ol class="breadcrumb sm-p-b-5">
-									<li class="breadcrumb-item"><a href="<?php echo base_url(); ?>dashboard">Home</a></li>
+									<li class="breadcrumb-item"><a href="<?php echo base_url(); ?>jebews/dashboard">Home</a></li>
 									<li class="breadcrumb-item active">Dashboard</li>
 								</ol>
 							</div>
@@ -87,7 +85,7 @@
 					<div class="container-fluid p-l-25 p-r-25 p-t-0 p-b-25 sm-padding-10">
 						<div class="row">
 							<div class="col-lg-3 col-sm-6 d-flex flex-column">
-								<div class="card no-border widget-loader-bar m-b-10">
+								<div class="card no-border m-b-10">
 									<div class="container-xs-height full-height">
 										<div class="row-xs-height">
 											<div class="col-xs-height col-top">
@@ -101,15 +99,15 @@
 										<div class="row-xs-height">
 											<div class="col-xs-height col-top">
 												<div class="p-l-20 p-t-50 p-b-40 p-r-20">
-													<h3 class="no-margin p-b-5">56</h3>
-													<span class="small hint-text pull-left">dari 8 Merek</span>
+													<h3 class="no-margin p-b-5"><?php echo $product_available; ?></h3>
+													<span class="small hint-text pull-left">dari <?php echo $product_total; ?> Produk</span>
 												</div>
 											</div>
 										</div>
 										<div class="row-xs-height">
 											<div class="col-xs-height col-bottom">
 												<div class="progress progress-small m-b-0">
-													<div class="progress-bar progress-bar-primary" style="width:71%"></div>
+													<div class="progress-bar progress-bar-primary" style="width:<?php echo $product_percentage; ?>%"></div>
 												</div>
 											</div>
 										</div>
@@ -117,7 +115,7 @@
 								</div>
 							</div>
 							<div class="col-lg-3 col-sm-6 d-flex flex-column">
-								<div class="card no-border widget-loader-bar m-b-10">
+								<div class="card no-border m-b-10">
 									<div class="container-xs-height full-height">
 										<div class="row-xs-height">
 											<div class="col-xs-height col-top">
@@ -131,15 +129,15 @@
 										<div class="row-xs-height">
 											<div class="col-xs-height col-top">
 												<div class="p-l-20 p-t-50 p-b-40 p-r-20">
-													<h3 class="no-margin p-b-5">423</h3>
-													<span class="small hint-text pull-left">22% lebih banyak dari kemarin</span>
+													<h3 class="no-margin p-b-5"><?php echo $visitor_today; ?></h3>
+													<span class="small hint-text pull-left"><?php echo round($visitor_percentage, 2); ?>% <?php echo $visitor_howmuach; ?> kemarin</span>
 												</div>
 											</div>
 										</div>
 										<div class="row-xs-height">
 											<div class="col-xs-height col-bottom">
 												<div class="progress progress-small m-b-0">
-													<div class="progress-bar progress-bar-danger" style="width:15%"></div>
+													<div class="progress-bar progress-bar-danger" style="width:<?php echo $visitor_percentage; ?>%"></div>
 												</div>
 											</div>
 										</div>
@@ -170,7 +168,7 @@
 		<script src="<?php echo base_url(); ?>assets/plugins/tether/tether.js" type="text/javascript"></script>
 		<script src="<?php echo base_url(); ?>assets/plugins/bootstrap/bootstrap.js" type="text/javascript"></script>
 		<script src="<?php echo base_url(); ?>assets/plugins/jquery/jquery-easy.js" type="text/javascript"></script>
-		<script src="<?php echo base_url(); ?>assets/plugins/jquery-unveil/jquery.unveil.min.js" type="text/javascript"></script>
+		<script src="<?php echo base_url(); ?>assets/plugins/jquery-unveil/jquery.unveil.js" type="text/javascript"></script>
 		<script src="<?php echo base_url(); ?>assets/plugins/jquery-ios-list/jquery.ioslist.js" type="text/javascript"></script>
 		<script src="<?php echo base_url(); ?>assets/plugins/jquery-actual/jquery.actual.js"></script>
 		<script src="<?php echo base_url(); ?>assets/plugins/jquery-scrollbar/jquery.scrollbar.js"></script>
@@ -178,76 +176,6 @@
 		<script src="<?php echo base_url(); ?>assets/plugins/classie/classie.js" type="text/javascript"></script>
 		<script src="<?php echo base_url(); ?>assets/plugins/switchery/switchery.js" type="text/javascript"></script>
 		<script src="<?php echo base_url(); ?>assets/js/pages.js"></script>
-		<script type="text/javascript">
-		    $(document).ready(function() {
-		        var bars = $('.widget-loader-bar');
-		        var circles = $('.widget-loader-circle');
-		        var circlesLg = $('.widget-loader-circle-lg');
-		        var circlesLgMaster = $('.widget-loader-circle-lg-master');
-
-		        bars.each(function() {
-		            var elem = $(this);
-		            elem.card({
-		                progress: 'bar',
-		                onRefresh: function() {
-		                    setTimeout(function() {
-		                        elem.card({
-		                            refresh: false
-		                        });
-		                    }.bind(this), 2000);
-		                }
-		            });
-		        });
-
-		        circles.each(function() {
-		            var elem = $(this);
-		            elem.card({
-		                progress: 'circle',
-		                onRefresh: function() {
-		                    setTimeout(function() {
-		                        elem.card({
-		                            refresh: false
-		                        });
-		                    }.bind(this), 2000);
-		                }
-		            });
-		        });
-
-		        circlesLg.each(function() {
-		            var elem = $(this);
-		            elem.card({
-		                progress: 'circle-lg',
-		                progressColor: 'white',
-		                overlayColor: '0,0,0',
-		                overlayOpacity: 0.6,
-		                onRefresh: function() {
-		                    setTimeout(function() {
-		                        elem.card({
-		                            refresh: false
-		                        });
-		                    }.bind(this), 2000);
-		                }
-		            });
-		        });
-
-		        circlesLgMaster.each(function() {
-		            var elem = $(this);
-		            elem.card({
-		                progress: 'circle-lg',
-		                progressColor: 'master',
-		                overlayOpacity: 0.6,
-		                onRefresh: function() {
-		                    setTimeout(function() {
-		                        elem.card({
-		                            refresh: false
-		                        });
-		                    }.bind(this), 2000);
-		                }
-		            });
-		        });
-		        
-		     });
-		</script>
 		<script type="text/javascript">
 			(function($) {
 

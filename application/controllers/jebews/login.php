@@ -7,19 +7,23 @@
 		public function __construct() {
 			parent::__construct();
 			$this->load->library('session');
+			if (isset($this->session->userdata['jb-user'])) {
+	            header("location: " . base_url('jebews/dashboard'));
+	        }
 		}
 
 		public function auth() {
-			if (isset($this->session->userdata['logged_in'])) {
-				echo "Sudah Login";
+			$this->load->model('user');
+			if ($this->user->auth() == FALSE) {
+				$this->data['error_msg'] = "Username & Password salah";
 			} else {
 				$this->data = array(
 					'username' => $this->input->post('username'),
 					'password' => $this->input->post('password')
 				);
 
-				$this->session->set_userdata('logged_in', $this->data);
-				echo "Berhasil Login";
+				$this->session->set_userdata('jb-user', $this->data);
+				header("location: " . base_url('jebews/dashboard'));
 			}
 		}
 
@@ -33,6 +37,9 @@
 		}
 
 		public function index() {
+			if ($this->input->post('username') !== NULL) {
+				$this->auth();
+			}
 			$this->load();
 		}
 	}

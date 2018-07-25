@@ -3,13 +3,13 @@
     <head>
         <?php echo $head; ?>
         <link href="https://fonts.googleapis.com/css?family=Open+Sans:300,400,600,700" rel="stylesheet" />
-        <link href="<?php echo base_url(); ?>assets/plugins/bootstrap/css/bootstrap.min.css" rel="stylesheet" type="text/css" />
-        <link href="<?php echo base_url(); ?>assets/plugins/font-awesome/css/font-awesome.css" rel="stylesheet" type="text/css" />
-        <link href="<?php echo base_url(); ?>assets/css/animate.css" rel="stylesheet" />
-        <link href="<?php echo base_url(); ?>assets/css/fonts.css" rel="stylesheet" />
-        <link href="<?php echo base_url(); ?>assets/css/slick.css" rel="stylesheet" />
-        <link href="<?php echo base_url(); ?>assets/css/main.css" rel="stylesheet" />
-        <link href="<?php echo base_url(); ?>assets/css/responsive.css" rel="stylesheet" />
+        <link href="<?php echo base_url(); ?>assets/plugins/bootstrap/bootstrap.css" rel="stylesheet" type="text/css" />
+        <link href="<?php echo base_url(); ?>assets/plugins/font-awesome/font-awesome.css" rel="stylesheet" type="text/css" />
+        <link href="<?php echo base_url(); ?>assets/css/pages-animate.css" rel="stylesheet" />
+        <link href="<?php echo base_url(); ?>assets/css/pages-fonts.css" rel="stylesheet" />
+        <link href="<?php echo base_url(); ?>assets/plugins/slick/slick.css" rel="stylesheet" />
+        <link href="<?php echo base_url(); ?>assets/css/pages-main.css" rel="stylesheet" />
+        <link href="<?php echo base_url(); ?>assets/css/pages-responsive.css" rel="stylesheet" />
     </head>
     <body class="bg-light">
         <div class="tr-menu">
@@ -404,12 +404,181 @@
             </div>
         </div>      
 
-        <script src="<?php echo base_url(); ?>assets/plugins/jquery/jquery-1.11.1.min.js" type="text/javascript"></script>
-        <script src="<?php echo base_url(); ?>assets/plugins/tether/js/tether.min.js" type="text/javascript"></script>
-        <script src="<?php echo base_url(); ?>assets/plugins/bootstrap/js/bootstrap.min.js" type="text/javascript"></script>
-        <script src="<?php echo base_url(); ?>assets/plugins/slick/slick.min.js"></script>
-        <script src="<?php echo base_url(); ?>assets/plugins/jquery-ui/jquery-ui.min.js" type="text/javascript"></script>
-        <script src="<?php echo base_url(); ?>assets/plugins/jquery-spinner/jquery.spinner.min.js"></script>
-        <script src="<?php echo base_url(); ?>assets/js/main.js"></script>
+        <script src="<?php echo base_url(); ?>assets/plugins/jquery/jquery.js" type="text/javascript"></script>
+        <script src="<?php echo base_url(); ?>assets/plugins/tether/tether.js" type="text/javascript"></script>
+        <script src="<?php echo base_url(); ?>assets/plugins/bootstrap/bootstrap.js" type="text/javascript"></script>
+        <script src="<?php echo base_url(); ?>assets/plugins/slick/slick.js"></script>
+        <script src="<?php echo base_url(); ?>assets/plugins/jquery-ui/jquery-ui.js" type="text/javascript"></script>
+        <script src="<?php echo base_url(); ?>assets/plugins/jquery-spinner/jquery.spinner.js"></script>
+        <script type="text/javascript">
+            jQuery(function ($) {
+
+                'use strict';
+
+                (function() {
+                    $(".product-slider").slick({
+                        infinite: true,
+                        dots: true,
+                        slidesToShow: 3,
+                        autoplay:true,
+                        autoplaySpeed:10000,
+                        slidesToScroll: 1,
+                        responsive: [
+                        {
+                          breakpoint: 1200,
+                          settings: {
+                            slidesToShow: 2,
+                          }
+                        },
+                        {
+                          breakpoint: 990,
+                          settings: {
+                            slidesToShow: 1,
+                          }
+                        },
+                        {
+                          breakpoint: 767,
+                          settings: {
+                            slidesToShow: 2,
+                          }
+                        },
+                        {
+                          breakpoint: 480,
+                          settings: {
+                            slidesToShow: 1,
+                          }
+                        }
+                        ]        
+                    }); 
+
+                    $(".cta-slider").slick({
+                        infinite: true,
+                        dots: true,
+                        slidesToShow: 1,
+                        autoplay:true,
+                        autoplaySpeed:10000,
+                        slidesToScroll: 1      
+                    }); 
+
+                    $(".image-slider").slick({
+                        infinite: true,
+                        dots: true,
+                        slidesToShow: 1,
+                        autoplay:false,
+                        autoplaySpeed:10000,
+                        slidesToScroll: 1      
+                    }); 
+
+                    $(".brands-slider").slick({
+                        infinite: true,
+                        dots: true,
+                        slidesToShow: 4,
+                        autoplay:true,
+                        autoplaySpeed:10000,
+                        slidesToScroll: 1,
+                        responsive: [
+                        {
+                          breakpoint: 1025,
+                          settings: {
+                            slidesToShow: 3,
+                          }
+                        },
+                        {
+                          breakpoint: 767,
+                          settings: {
+                            slidesToShow: 2,
+                          }
+                        },
+                        {
+                          breakpoint: 450,
+                          settings: {
+                            slidesToShow: 1,
+                          }
+                        }
+                        ]        
+                    });  
+
+                    $(".product-details-slider").slick({
+                        dots: true,
+                        infinite: true,
+                        speed: 500,
+                        fade: true,
+                        cssEase: 'linear',            
+                        infinite: true,
+                        dots: true,
+                        slidesToShow: 1,
+                        autoplay:true,
+                        autoplaySpeed:10000,
+                        slidesToScroll: 1      
+                    });                                 
+                }());
+
+                (function() {
+
+                    $('[data-toggle="tooltip"]').tooltip();
+
+                }());
+
+                (function() {
+
+                    $( ".remove-icon" ).on('click', function() {
+                        $(this).parents('.remove-item').fadeOut();
+                    });
+
+                }());
+
+               (function() {
+
+                    $('.tr-dropdown').on('click', '.tr-change a', function(ev) {
+                        if ("#" === $(this).attr('href')) {
+                            ev.preventDefault();
+                            var parent = $(this).parents('.tr-dropdown');
+                            parent.find('.change-text').html($(this).html());
+                        }
+                    });
+
+                }()); 
+
+                (function( $ ) {
+                    function doAnimations( elems ) {
+                        var animEndEv = 'webkitAnimationEnd animationend';
+                        elems.each(function () {
+                            var $this = $(this),
+                                $animationType = $this.data('animation');
+                            $this.addClass($animationType).one(animEndEv, function () {
+                                $this.removeClass($animationType);
+                            });
+                        });
+                    }
+                    
+                    var $myCarousel = $('#home-carousel'),
+                        $firstAnimatingElems = $myCarousel.find('.item:first').find("[data-animation ^= 'animated']");
+                        
+                    $myCarousel.carousel();
+                    doAnimations($firstAnimatingElems);
+                    $myCarousel.carousel('pause');
+                    $myCarousel.on('slide.bs.carousel', function (e) {
+                        var $animatingElems = $(e.relatedTarget).find("[data-animation ^= 'animated']");
+                        doAnimations($animatingElems);
+                    });  
+                    
+                })(jQuery);      
+
+                /*$( function() {
+                    $( "#price_slider" ).slider({
+                    range: true,
+                    min: 0,
+                    max: 20,
+                    values: [ 0, 20 ],
+                    slide: function( event, ui ) {
+                    $( "#amount" ).val( "Rp." + ui.values[ 0 ] + " - Rp." + ui.values[ 1 ] + " jt" );
+                    }
+                    });
+                    $( "#amount" ).val( "Rp." + $( "#price_slider" ).slider( "values", 0 ) +
+                    " - Rp." + $( "#price_slider" ).slider( "values", 1 ) + " jt");
+                } );*/
+
+            });
+        </script>
     </body>
 </html> 

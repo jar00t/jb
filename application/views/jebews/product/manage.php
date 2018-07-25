@@ -25,7 +25,7 @@
             <div class="sidebar-menu">
                 <ul class="menu-items">
                     <li class="m-t-30">
-                        <a href="<?php echo base_url(); ?>dashboard" class="detailed">
+                        <a href="<?php echo base_url(); ?>jebews/dashboard" class="detailed">
                             <span class="title">Dashboard</span>
                         </a>
                         <span class="icon-thumbnail"><i data-feather="shield"></i></span>
@@ -36,11 +36,11 @@
                         <span class="icon-thumbnail"><i data-feather="grid"></i></span>
                         <ul class="sub-menu">
                             <li class="">
-                                <a href="<?php echo base_url(); ?>product/add">Tambah Produk</a>
+                                <a href="<?php echo base_url(); ?>jebews/product/add">Tambah Produk</a>
                                 <span class="icon-thumbnail"><i data-feather="plus"></i></span>
                             </li>
                             <li class="active">
-                                <a href="<?php echo base_url(); ?>product/manage">Manage Produk</a>
+                                <a href="<?php echo base_url(); ?>jebews/product/manage">Manage Produk</a>
                                 <span class="icon-thumbnail"><i data-feather="list"></i></span>
                             </li>
                         </ul>
@@ -51,7 +51,7 @@
                         <span class="icon-thumbnail"><i data-feather="user"></i></span>
                         <ul class="sub-menu">
                             <li class="">
-                                <a href="<?php echo base_url(); ?>logout">Logout</a>
+                                <a href="<?php echo base_url(); ?>jebews/logout">Logout</a>
                                 <span class="icon-thumbnail"><i data-feather="power"></i></span>
                             </li>
                         </ul>
@@ -70,8 +70,6 @@
                             data-src="<?php echo base_url(); ?>assets/img/logo.png" 
                             data-src-retina="<?php echo base_url(); ?>assets/img/logo_2x.png" alt="logo" width="78" height="22">
                     </div>
-                    <a href="<?php echo base_url(); ?>product/add" class="btn btn-link text-primary m-l-20 hidden-md-down">Tambah Produk</a>
-                    <a href="javascript:void(0);" class="search-link hidden-md-down" data-toggle="search"><i class="pg-search"></i>Cari <span class="bold">sesuatu...</span></a>
                 </div>
             </div>
             <div class="page-content-wrapper">

@@ -1,10 +1,5 @@
 <!DOCTYPE html>
 <html>
-    <?php
-        if (isset($this->session->userdata['logged_in'])) {
-            header("location: " . base_url('jebews/dashboard'));
-        }
-    ?>
 	<head>
 		<?php echo $head; ?>
 		<link href="<?php echo base_url(); ?>assets/plugins/pace/pace.css" rel="stylesheet" type="text/css" />
@@ -23,7 +18,7 @@
         </script>
 	</head>
     <body class="fixed-header menu-pin">
-        <div class="login-wrapper ">
+        <div class="login-wrapper">
             <div class="bg-pic">
                 <img class="lazy"
                 	src="<?php echo base_url(); ?>assets/img/login-wallpaper.jpg" 
@@ -39,7 +34,7 @@
 
                     <p class="p-t-35">Login menggunakan userid yang aktif.</p>
                     
-                    <form id="form-login" class="p-t-15" role="form" method="POST" action="login/auth">
+                    <form id="form-login" class="p-t-15" role="form" method="POST" action="">
                         <div class="form-group form-group-default">
                             <label>Login</label>
                             <div class="controls">
@@ -78,6 +73,18 @@
             $(function() {
               $('#form-login').validate()
             })
+            $(document).ready(function() {
+                var message = '<?php if (isset($error_msg)) { echo $error_msg; } else { echo ''; } ?>';
+                if (message !== '') {
+                    $('.bg-pic').pgNotification({
+                        style: 'bar',
+                        message: message,
+                        position: 'top',
+                        timeout: 0,
+                        type: 'danger'
+                    }).show();
+                }
+            });
         </script>
     </body>
 </html>
