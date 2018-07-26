@@ -586,7 +586,7 @@
                     }
                 }
             }
-            $error =& load_class('Pengecualian', 'core');
+            $error =& load_class('Exceptions', 'core');
             echo $error->show_error($heading, $message, 'error_db');
             exit(8);
         }

@@ -76,11 +76,11 @@
             $(document).ready(function() {
                 var message = '<?php if (isset($error_msg)) { echo $error_msg; } else { echo ''; } ?>';
                 if (message !== '') {
-                    $('.bg-pic').pgNotification({
+                    $('body').pgNotification({
                         style: 'bar',
                         message: message,
                         position: 'top',
-                        timeout: 0,
+                        timeout: 3000,
                         type: 'danger'
                     }).show();
                 }

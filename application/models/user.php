@@ -3,10 +3,11 @@
     class user extends CI_Model {
 
         public function auth() {
-            $username = 'jar00t';
-            $password = 'P@ssw0rd';
+            $this->load->database();
+            $this->db->where('USERNAME', $this->input->post('username'));
+            $this->db->where('PASSWORD', $this->input->post('password'));
 
-            if ($this->input->post('username') === $username && $this->input->post('password') === $password) {
+            if ($this->db->get('USER')->num_rows() == 1) {
                 return TRUE;
             } else {
                 return FALSE;

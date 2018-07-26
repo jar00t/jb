@@ -85,18 +85,14 @@
                                         <div class="card-title">Upload Gambar</div>
                                     </div>
                                     <div class="card-block">
-                                        <form class="dropzone" action="/form-upload">
-                                            <div class="fallback">
-                                                <input name="file" type="file" multiple />
-                                            </div>
-                                        </form>
+                                        <div class="dropzone"></div>
                                     </div>
                                 </div>
                             </div>
                         </div>
                     </div>
                     <div class="container-fluid container-fixed-lg">
-                        <form id="form-work" class="form-horizontal" role="form" autocomplete="off">
+                        <form id="add-product" class="form-horizontal" role="form" method="POST" action="" autocomplete="off">
                             <div class="card">
                                 <div class="card-header">
                                     <div class="card-title">Informasi Produk</div>
@@ -105,36 +101,36 @@
                                     <div class="row">
                                         <div class="col-md-10">
                                             <div class="form-group row">
-                                                <label for="fname" class="col-md-3 control-label">Nama Produk</label>
+                                                <label for="product-name" class="col-md-3 control-label">Nama Produk</label>
                                                 <div class="col-md-9">
-                                                    <input id="fname" class="form-control" type="text" placeholder="Nama Produk" name="name" required>
+                                                    <input id="product-name" class="form-control" type="text" placeholder="Nama Produk" name="product-name" required>
                                                 </div>
                                             </div>
                                             <div class="form-group row">
                                                 <label class="col-md-3 control-label">Merek</label>
                                                 <div class="col-md-9">
-                                                    <div class="radio radio-success">
-                                                        <input id="male" type="radio" name="optionyes" value="male">
-                                                        <label for="male">Advan</label>
-                                                        <input id="female" type="radio" name="optionyes" value="female" checked="checked">
-                                                        <label for="female">Asus</label>
+                                                    <div class="form-group p-t-0 p-b-0">
+                                                        <select class="full-width" name="product-brand" data-init-plugin="select2">
+                                                            <option value="ADVAN">Advan</option>
+                                                            <option value="ASUS">Asus</option>
+                                                        </select>
                                                     </div>
                                                 </div>
                                             </div>
                                             <div class="form-group row">
-                                                <label for="jumlah" class="col-md-3 control-label">Jumlah Produk</label>
+                                                <label for="product-quantity" class="col-md-3 control-label">Jumlah Produk</label>
                                                 <div class="col-md-9">
-                                                    <input id="jumlah" class="form-control" type="text" name="jumlah" placeholder="Jumlah Produk" required>
+                                                    <input id="product-quantity" class="form-control" type="number" name="product-quantity" placeholder="Jumlah Produk" required>
                                                 </div>
                                             </div>
                                             <div class="form-group row">
                                                 <label class="col-md-3 control-label">Kapasitas</label>
                                                 <div class="col-md-9">
                                                     <div class="radio radio-success">
-                                                        <input id="male" type="radio" name="optionyes" value="male">
-                                                        <label for="male">4/16</label>
-                                                        <input id="female" type="radio" name="optionyes" value="female" checked="checked">
-                                                        <label for="female">8/32</label>
+                                                        <input id="product-capacity-4-16" type="radio" name="product-capacity" value="4/16">
+                                                        <label for="product-capacity-4-16">4/16</label>
+                                                        <input id="product-capacity-8-32" type="radio" name="product-capacity" value="8/32">
+                                                        <label for="product-capacity-8-32">8/32</label>
                                                     </div>
                                                 </div>
                                             </div>
@@ -142,21 +138,17 @@
                                                 <label class="col-md-3 control-label">Warna</label>
                                                 <div class="col-md-9">
                                                     <div class="radio radio-success">
-                                                        <input id="male" type="radio" name="optionyes" value="male">
-                                                        <label for="male">Merah</label>
-                                                        <input id="female" type="radio" name="optionyes" value="female" checked="checked">
-                                                        <label for="female">Kuning</label>
-                                                        <input id="female" type="radio" name="optionyes" value="female" checked="checked">
-                                                        <label for="female">Hijau</label>
-                                                        <input id="female" type="radio" name="optionyes" value="female" checked="checked">
-                                                        <label for="female">Biru</label>
+                                                        <input id="product-color-black" type="radio" name="product-color" value="BLACK">
+                                                        <label for="product-color-black">Hitam</label>
+                                                        <input id="product-color-white" type="radio" name="product-color" value="WHITE">
+                                                        <label for="product-color-white">Putih</label>
                                                     </div>
                                                 </div>
                                             </div>
                                             <div class="form-group row">
-                                                <label for="harga" class="col-md-3 control-label">Harga</label>
+                                                <label for="product-price" class="col-md-3 control-label">Harga</label>
                                                 <div class="col-md-9">
-                                                    <input id="harga" class="form-control" type="text" name="harga" placeholder="Harga" required>
+                                                    <input id="product-price" class="form-control" type="text" name="product-price" placeholder="Harga" required>
                                                 </div>
                                             </div>
                                         </div>
@@ -164,11 +156,12 @@
                                 </div>
                             </div>
                             <div class="card card-default">
-                                <div class="card-header ">
+                                <div class="card-header">
                                     <div class="card-title">Detil</div>
                                 </div>
                                 <div class="card-block no-scroll card-toolbar">
                                     <div id="detil-form"></div>
+                                    <textarea id="productDetail" style="display:none" name="product-detail"></textarea>
                                 </div>
                             </div>
                             <div class="card card-default">
@@ -177,11 +170,11 @@
                                 </div>
                                 <div class="card-block no-scroll card-toolbar">
                                     <div id="spek-form"></div>
+                                    <textarea id="productSpec" style="display:none" name="product-spec"></textarea>
                                     <br>
                                     <div class="row">
                                         <div class="col-md-9">
                                             <button class="btn btn-success" type="submit">Simpan</button>
-                                            <button class="btn btn-default"><i class="pg-close"></i> Reset</button>
                                         </div>
                                     </div>
                                 </div>
@@ -227,35 +220,6 @@
                 'use strict';
 
                 $(document).ready(function() {
-
-                    $.validator.addMethod("usd", function(value, element) {
-                        return this.optional(element) || /^(\$?)(\d{1,3}(\,\d{3})*|(\d+))(\.\d{2})?$/.test(value);
-                    }, "Please specify a valid dollar amount");
-
-                    $('#form-personal').validate();
-                    $("#form-project").validate();
-                    $("#form-work").validate();
-
-                    $('#form-personal').submit(function(e){
-                      e.preventDefault()
-                    })
-                    $('#form-project').submit(function(e){
-                      e.preventDefault()
-                    })
-                    $('#form-work').submit(function(e){
-                      e.preventDefault()
-                    })
-
-                });
-
-            })(window.jQuery);
-        </script>
-        <script type="text/javascript">
-            (function($) {
-
-                'use strict';
-
-                $(document).ready(function() {
                     $(".list-view-wrapper").scrollbar();
                 });
 
@@ -275,6 +239,51 @@
                $('#detil-form, #spek-form').summernote({
                     height: "250px"
                });
+            });
+
+            $('#add-product').submit(function( event ) {
+                $("#productDetail").val($('#detil-form').code());
+                $("#productSpec").val($('#spek-form').code());
+            });
+
+            Dropzone.autoDiscover = false;
+
+            var productimg_upload = new Dropzone(".dropzone",{
+            url: '<?php echo base_url("jebews/product/add/upload") ?>',
+                maxFilesize: 2,
+                method: 'post',
+                acceptedFiles: 'image/*',
+                paramName: 'productimgfile',
+                dictInvalidFileType: 'Type file ini tidak dizinkan',
+                addRemoveLinks: true,
+            });
+
+            productimg_upload.on('sending', function(a,b,c){
+                a.token = Math.random();
+                c.append('img_token', a.token);
+            });
+
+            productimg_upload.on('removedfile', function(a){
+                var token = a.token;
+                $.ajax({
+                    type: 'post',
+                    data: {token:token},
+                    url: '<?php echo base_url("jebews/product/add/delete") ?>',
+                    cache: false,
+                    dataType: 'json',
+                    success: function(){
+                        $('body').pgNotification({
+                            style: 'bar',
+                            message: 'Foto terhapus',
+                            position: 'bottom',
+                            timeout: 3000,
+                            type: 'success'
+                        }).show();
+                    },
+                    error: function(){
+                        console.log('Error');
+                    }
+                });
             });
         </script>
     </body>
