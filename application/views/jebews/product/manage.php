@@ -60,7 +60,7 @@
                 <div class="clearfix"></div>
             </div>
         </nav>
-        <div class="page-container ">
+        <div class="page-container">
             <div class="header">
                 <a href="javascript:void(0);" class="btn-link toggle-sidebar hidden-lg-up pg pg-menu" data-toggle="sidebar"></a>
                 <div class="">
@@ -80,219 +80,27 @@
                             <li class="breadcrumb-item active">Manage Produk</li>
                         </ol>
                     </div>
-                    <div class="container-fluid container-fixed-lg">
+                    <div class="container-fluid container-fixed-lg well">
                         <div class="card card-transparent">
                             <div class="card-block">
-                                <table id="tableWithExportOptions" class="table table-striped">
+                                <table id="product-table" class="table table-striped table-bordered dt-responsive">
                                     <thead>
                                         <tr>
+                                            <th>No</th>
                                             <th>Nama Produk</th>
                                             <th>Merek</th>
                                             <th>Stok</th>
                                             <th>Harga</th>
-                                            <th>Action</th>
+                                            <!--<th>Action</th>-->
                                         </tr>
                                     </thead>
-                                    <tbody>
-                                        <tr class="odd gradeX">
-                                            <td>Advan i6</td>
-                                            <td>Advan</td>
-                                            <td>20</td>
-                                            <td class="center"> Rp.4.000.000,-</td>
-                                            <td class="center">
-                                                <div class="btn-group">
-                                                    <button type="button" class="btn btn-success"><i class="fa fa-pencil"></i></button>
-                                                    <button type="button" class="btn btn-danger"><i class="fa fa-trash-o"></i></button>
-                                                </div>
-                                            </td>
-                                        </tr>
-                                        <tr class="odd gradeX">
-                                            <td>Advan i6</td>
-                                            <td>Advan</td>
-                                            <td>20</td>
-                                            <td class="center"> Rp.4.000.000,-</td>
-                                            <td class="center">
-                                                <div class="btn-group">
-                                                    <button type="button" class="btn btn-success"><i class="fa fa-pencil"></i></button>
-                                                    <button type="button" class="btn btn-danger"><i class="fa fa-trash-o"></i></button>
-                                                </div>
-                                            </td>
-                                        </tr>
-                                        <tr class="odd gradeX">
-                                            <td>Advan i6</td>
-                                            <td>Advan</td>
-                                            <td>20</td>
-                                            <td class="center"> Rp.4.000.000,-</td>
-                                            <td class="center">
-                                                <div class="btn-group">
-                                                    <button type="button" class="btn btn-success"><i class="fa fa-pencil"></i></button>
-                                                    <button type="button" class="btn btn-danger"><i class="fa fa-trash-o"></i></button>
-                                                </div>
-                                            </td>
-                                        </tr>
-                                        <tr class="odd gradeX">
-                                            <td>Advan i6</td>
-                                            <td>Advan</td>
-                                            <td>20</td>
-                                            <td class="center"> Rp.4.000.000,-</td>
-                                            <td class="center">
-                                                <div class="btn-group">
-                                                    <button type="button" class="btn btn-success"><i class="fa fa-pencil"></i></button>
-                                                    <button type="button" class="btn btn-danger"><i class="fa fa-trash-o"></i></button>
-                                                </div>
-                                            </td>
-                                        </tr>
-                                        <tr class="odd gradeX">
-                                            <td>Advan i6</td>
-                                            <td>Advan</td>
-                                            <td>20</td>
-                                            <td class="center"> Rp.4.000.000,-</td>
-                                            <td class="center">
-                                                <div class="btn-group">
-                                                    <button type="button" class="btn btn-success"><i class="fa fa-pencil"></i></button>
-                                                    <button type="button" class="btn btn-danger"><i class="fa fa-trash-o"></i></button>
-                                                </div>
-                                            </td>
-                                        </tr>
-                                        <tr class="odd gradeX">
-                                            <td>Advan i6</td>
-                                            <td>Advan</td>
-                                            <td>20</td>
-                                            <td class="center"> Rp.4.000.000,-</td>
-                                            <td class="center">
-                                                <div class="btn-group">
-                                                    <button type="button" class="btn btn-success"><i class="fa fa-pencil"></i></button>
-                                                    <button type="button" class="btn btn-danger"><i class="fa fa-trash-o"></i></button>
-                                                </div>
-                                            </td>
-                                        </tr>
-                                        <tr class="odd gradeX">
-                                            <td>Advan i6</td>
-                                            <td>Advan</td>
-                                            <td>20</td>
-                                            <td class="center"> Rp.4.000.000,-</td>
-                                            <td class="center">
-                                                <div class="btn-group">
-                                                    <button type="button" class="btn btn-success"><i class="fa fa-pencil"></i></button>
-                                                    <button type="button" class="btn btn-danger"><i class="fa fa-trash-o"></i></button>
-                                                </div>
-                                            </td>
-                                        </tr>
-                                        <tr class="odd gradeX">
-                                            <td>Advan i6</td>
-                                            <td>Advan</td>
-                                            <td>20</td>
-                                            <td class="center"> Rp.4.000.000,-</td>
-                                            <td class="center">
-                                                <div class="btn-group">
-                                                    <button type="button" class="btn btn-success"><i class="fa fa-pencil"></i></button>
-                                                    <button type="button" class="btn btn-danger"><i class="fa fa-trash-o"></i></button>
-                                                </div>
-                                            </td>
-                                        </tr>
-                                        <tr class="odd gradeX">
-                                            <td>Advan i6</td>
-                                            <td>Advan</td>
-                                            <td>20</td>
-                                            <td class="center"> Rp.4.000.000,-</td>
-                                            <td class="center">
-                                                <div class="btn-group">
-                                                    <button type="button" class="btn btn-success"><i class="fa fa-pencil"></i></button>
-                                                    <button type="button" class="btn btn-danger"><i class="fa fa-trash-o"></i></button>
-                                                </div>
-                                            </td>
-                                        </tr>
-                                        <tr class="odd gradeX">
-                                            <td>Advan i6</td>
-                                            <td>Advan</td>
-                                            <td>20</td>
-                                            <td class="center"> Rp.4.000.000,-</td>
-                                            <td class="center">
-                                                <div class="btn-group">
-                                                    <button type="button" class="btn btn-success"><i class="fa fa-pencil"></i></button>
-                                                    <button type="button" class="btn btn-danger"><i class="fa fa-trash-o"></i></button>
-                                                </div>
-                                            </td>
-                                        </tr>
-                                        <tr class="odd gradeX">
-                                            <td>Advan i6</td>
-                                            <td>Advan</td>
-                                            <td>20</td>
-                                            <td class="center"> Rp.4.000.000,-</td>
-                                            <td class="center">
-                                                <div class="btn-group">
-                                                    <button type="button" class="btn btn-success"><i class="fa fa-pencil"></i></button>
-                                                    <button type="button" class="btn btn-danger"><i class="fa fa-trash-o"></i></button>
-                                                </div>
-                                            </td>
-                                        </tr>
-                                        <tr class="odd gradeX">
-                                            <td>Advan i6</td>
-                                            <td>Advan</td>
-                                            <td>20</td>
-                                            <td class="center"> Rp.4.000.000,-</td>
-                                            <td class="center">
-                                                <div class="btn-group">
-                                                    <button type="button" class="btn btn-success"><i class="fa fa-pencil"></i></button>
-                                                    <button type="button" class="btn btn-danger"><i class="fa fa-trash-o"></i></button>
-                                                </div>
-                                            </td>
-                                        </tr>
-                                        <tr class="odd gradeX">
-                                            <td>Advan i6</td>
-                                            <td>Advan</td>
-                                            <td>20</td>
-                                            <td class="center"> Rp.4.000.000,-</td>
-                                            <td class="center">
-                                                <div class="btn-group">
-                                                    <button type="button" class="btn btn-success"><i class="fa fa-pencil"></i></button>
-                                                    <button type="button" class="btn btn-danger"><i class="fa fa-trash-o"></i></button>
-                                                </div>
-                                            </td>
-                                        </tr>
-                                        <tr class="odd gradeX">
-                                            <td>Advan i6</td>
-                                            <td>Advan</td>
-                                            <td>20</td>
-                                            <td class="center"> Rp.4.000.000,-</td>
-                                            <td class="center">
-                                                <div class="btn-group">
-                                                    <button type="button" class="btn btn-success"><i class="fa fa-pencil"></i></button>
-                                                    <button type="button" class="btn btn-danger"><i class="fa fa-trash-o"></i></button>
-                                                </div>
-                                            </td>
-                                        </tr>
-                                        <tr class="odd gradeX">
-                                            <td>Advan i6</td>
-                                            <td>Advan</td>
-                                            <td>20</td>
-                                            <td class="center"> Rp.4.000.000,-</td>
-                                            <td class="center">
-                                                <div class="btn-group">
-                                                    <button type="button" class="btn btn-success"><i class="fa fa-pencil"></i></button>
-                                                    <button type="button" class="btn btn-danger"><i class="fa fa-trash-o"></i></button>
-                                                </div>
-                                            </td>
-                                        </tr>
-                                        <tr class="odd gradeX">
-                                            <td>Advan i6</td>
-                                            <td>Advan</td>
-                                            <td>20</td>
-                                            <td class="center"> Rp.4.000.000,-</td>
-                                            <td class="center">
-                                                <div class="btn-group">
-                                                    <button type="button" class="btn btn-success"><i class="fa fa-pencil"></i></button>
-                                                    <button type="button" class="btn btn-danger"><i class="fa fa-trash-o"></i></button>
-                                                </div>
-                                            </td>
-                                        </tr>
-                                    </tbody>
+                                    <tbody></tbody>
                                 </table>
                             </div>
                         </div>
                     </div>
                 </div>
-                <div class=" container-fluid container-fixed-lg footer">
+                <div class="container-fluid container-fixed-lg footer">
                     <div class="copyright sm-text-center">
                         <p class="small no-margin pull-left sm-pull-reset">
                             <span class="hint-text">Copyright &copy; 2018 </span>
@@ -332,140 +140,53 @@
 
                 'use strict';
 
-                var responsiveHelper = undefined;
-                var breakpointDefinition = {
-                    tablet: 1024,
-                    phone: 480
-                };
-
-                var initTableWithSearch = function() {
-                    var table = $('#tableWithSearch');
+                var initProductTable = function() {
+                    var table = $('#product-table');
 
                     var settings = {
-                        "sDom": "<t><'row'<p i>>",
-                        "destroy": true,
-                        "scrollCollapse": true,
-                        "oLanguage": {
-                            "sLengthMenu": "_MENU_ ",
-                            "sInfo": "Showing <b>_START_ to _END_</b> of _TOTAL_ entries"
+                        'dom': '<"row"<f l>><tr><"row"<"col-6"i><"col-6"p>>',
+                        'destroy': true,
+                        'scrollCollapse': true,
+                        'processing': true,
+                        'serverSide': true,
+                        'order': [],
+                        'ajax': {
+                            'url': '<?php echo base_url("jebews/product/manage/load"); ?>',
+                            'type': 'POST'
                         },
-                        "iDisplayLength": 5
+                        'columnDefs': [{
+                            'targets': [0],
+                            'orderable': false
+                        }],
+                        'oLanguage': {
+                            'sLengthMenu': '_MENU_ ',
+                            'sInfo': 'Menampilkan <b>_START_ sampai _END_</b> dari _TOTAL_ produk'
+                        },
+                        'iDisplayLength': 5
                     };
 
                     table.dataTable(settings);
-
-                    $('#search-table').keyup(function() {
-                        table.fnFilter($(this).val());
-                    });
                 }
-
-                var initTableWithDynamicRows = function() {
-                    var table = $('#tableWithDynamicRows');
-
-
-                    var settings = {
-                        "sDom": "<t><'row'<p i>>",
-                        "destroy": true,
-                        "scrollCollapse": true,
-                        "oLanguage": {
-                            "sLengthMenu": "_MENU_ ",
-                            "sInfo": "Showing <b>_START_ to _END_</b> of _TOTAL_ entries"
-                        },
-                        "iDisplayLength": 5
-                    };
-
-
-                    table.dataTable(settings);
-
-                    $('#show-modal').click(function() {
-                        $('#addNewAppModal').modal('show');
-                    });
-
-                    $('#add-app').click(function() {
-                        table.dataTable().fnAddData([
-                            $("#appName").val(),
-                            $("#appDescription").val(),
-                            $("#appPrice").val(),
-                            $("#appNotes").val()
-                        ]);
-                        $('#addNewAppModal').modal('hide');
-
-                    });
-                }
-
-                var initTableWithExportOptions = function() {
-                    var table = $('#tableWithExportOptions');
-
-
-                    var settings = {
-                        "sDom": "<'exportOptions'T><'table-responsive't><'row'<p i>>",
-                        "destroy": true,
-                        "scrollCollapse": true,
-                        "oLanguage": {
-                            "sLengthMenu": "_MENU_ ",
-                            "sInfo": "Showing <b>_START_ to _END_</b> of _TOTAL_ entries"
-                        },
-                        "iDisplayLength": 5,
-                        "oTableTools": {
-                            "sSwfPath": "assets/plugins/jquery-datatable/extensions/TableTools/swf/copy_csv_xls_pdf.swf",
-                            "aButtons": [{
-                                "sExtends": "csv",
-                                "sButtonText": "<i class='pg-grid'></i>",
-                            }, {
-                                "sExtends": "xls",
-                                "sButtonText": "<i class='fa fa-file-excel-o'></i>",
-                            }, {
-                                "sExtends": "pdf",
-                                "sButtonText": "<i class='fa fa-file-pdf-o'></i>",
-                            }, {
-                                "sExtends": "copy",
-                                "sButtonText": "<i class='fa fa-copy'></i>",
-                            }]
-                        },
-                        fnDrawCallback: function(oSettings) {
-                            $('.export-options-container').append($('.exportOptions'));
-
-                            $('#ToolTables_tableWithExportOptions_0').tooltip({
-                                title: 'Export as CSV',
-                                container: 'body'
-                            });
-
-                            $('#ToolTables_tableWithExportOptions_1').tooltip({
-                                title: 'Export as Excel',
-                                container: 'body'
-                            });
-
-                            $('#ToolTables_tableWithExportOptions_2').tooltip({
-                                title: 'Export as PDF',
-                                container: 'body'
-                            });
-
-                            $('#ToolTables_tableWithExportOptions_3').tooltip({
-                                title: 'Copy data',
-                                container: 'body'
-                            });
-                        }
-                    };
-
-
-                    table.dataTable(settings);
-
-                }
-
-                initTableWithSearch();
-                initTableWithDynamicRows();
-                initTableWithExportOptions();
-
-            })(window.jQuery);
-        </script>
-        <script type="text/javascript">
-            (function($) {
-
-                'use strict';
 
                 $(document).ready(function() {
-                    $(".list-view-wrapper").scrollbar();
+                    $('.list-view-wrapper').scrollbar();
+                    $('select').select2({
+                        placeholder: 'Baris per halaman',
+                        width: '200px'
+                    });
+                    <?php if (isset($message)) { ?>
+                    var message = '<?php echo $message[1]; ?>';
+                    $('body').pgNotification({
+                        style: 'bar',
+                        message: message,
+                        position: 'bottom',
+                        timeout: 3000,
+                        type: '<?php echo $message[0]; ?>'
+                    }).show();
+                    <?php } ?>
                 });
+
+                initProductTable();
 
                 $('.panel-collapse label').on('click', function(e){
                     e.stopPropagation();

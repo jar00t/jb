@@ -93,6 +93,7 @@
                     </div>
                     <div class="container-fluid container-fixed-lg">
                         <form id="add-product" class="form-horizontal" role="form" method="POST" action="" autocomplete="off">
+                            <input id="productImage" type="text" name="product-image" style="display:none" />
                             <div class="card">
                                 <div class="card-header">
                                     <div class="card-title">Informasi Produk</div>
@@ -148,7 +149,7 @@
                                             <div class="form-group row">
                                                 <label for="product-price" class="col-md-3 control-label">Harga</label>
                                                 <div class="col-md-9">
-                                                    <input id="product-price" class="form-control" type="text" name="product-price" placeholder="Harga" required>
+                                                    <input id="product-price" class="form-control" type="number" name="product-price" placeholder="Harga" required>
                                                 </div>
                                             </div>
                                         </div>
@@ -261,6 +262,7 @@
             productimg_upload.on('sending', function(a,b,c){
                 a.token = Math.random();
                 c.append('img_token', a.token);
+                $('#productImage').val($('#productImage').val() + '|' + a.token);
             });
 
             productimg_upload.on('removedfile', function(a){
@@ -272,6 +274,7 @@
                     cache: false,
                     dataType: 'json',
                     success: function(){
+                        $('#productImage').val($('#productImage').val().replace('|' + a.token, ''));
                         $('body').pgNotification({
                             style: 'bar',
                             message: 'Foto terhapus',

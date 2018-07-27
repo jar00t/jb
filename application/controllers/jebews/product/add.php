@@ -40,20 +40,34 @@
 
 		public function save() {
 			$data = array(
-				'ID' => rand(0, 1000000),
 				'NAME' => $this->input->post('product-name'),
 				'BRAND' => $this->input->post('product-brand'),
 				'QUANTITY' => $this->input->post('product-quantity'),
+				'PRICE' => $this->input->post('product-price'),
 				'CAPACITY' => $this->input->post('product-capacity'),
 				'COLOR' => $this->input->post('product-color'),
 				'DETAIL' => $this->input->post('product-detail'),
 				'SPEC' => $this->input->post('product-spec'),
-				'IMAGE' => '',
+				'IMAGE' => $this->input->post('product-image'),
 				'STATUS' => 'ACTIVE'
 			);
 			$this->load->database();
-			$this->db->insert('PRODUCT', $data);
-			redirect(base_url('jebews/product/manage'));
+			$this->load->helper('cookie');
+			if($this->db->insert('PRODUCT', $data)) {
+				$cookie = array(
+		        	'name' => 'throw-message',
+		        	'value' => 'success,Produk baru berhasil ditambahkan',
+		           	'expire' => '3600',
+		       	);
+			} else {
+				$cookie= array(
+		        	'name' => 'throw-message',
+		        	'value' => 'failed,Produk baru gagal ditambahkan',
+		           	'expire' => '3600',
+		       	);
+			}
+			$this->input->set_cookie($cookie);
+			redirect(base_url('jebews/product/manage/'));
 		}
 
 		public function load() {
