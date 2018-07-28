@@ -23,8 +23,7 @@
                     <ul class="navbar-nav mr-auto">
                         <form id="jb-search-form" class="form-inline">
                             <span id="basic-addon1" class="input-group-text ml-lg-5"><i style="padding:4px" class="fa fa-search"></i></span>
-                            <input class="form-control" type="search" placeholder="Search" aria-label="Search">
-                            <button class="btn my-2 my-sm-0" type="submit">Cari</button>
+                            <input class="form-control" type="search" placeholder="Cari sesuatu..." aria-label="Cari sesuatu...">
                         </form>
                     </ul>
                 </div>

@@ -2276,3 +2276,421 @@ INFO - 2018-07-28 10:23:47 --> File telah dimuat: D:\XAMPP\htdocs\jb\application
 INFO - 2018-07-28 10:23:47 --> File telah dimuat: D:\XAMPP\htdocs\jb\application\views\home.php
 INFO - 2018-07-28 10:23:47 --> Output akhir dikirim ke browser
 DEBUG - 2018-07-28 10:23:47 --> Total waktu eksekusi: 0.2136
+INFO - 2018-07-28 12:31:52 --> Config Class telah di inisialisasi
+INFO - 2018-07-28 12:31:52 --> Hooks Class telah di inisialisasi
+DEBUG - 2018-07-28 12:31:52 --> UTF-8 Support Aktif
+INFO - 2018-07-28 12:31:52 --> Utf8 Class telah di inisialisasi
+INFO - 2018-07-28 12:31:52 --> URI Class telah di inisialisasi
+DEBUG - 2018-07-28 12:31:52 --> Tidak ada URI. Memakai Default controller.
+INFO - 2018-07-28 12:31:52 --> Router Class telah di inisialisasi
+INFO - 2018-07-28 12:31:52 --> Output Class telah di inisialisasi
+INFO - 2018-07-28 12:31:52 --> Security Class telah di inisialisasi
+DEBUG - 2018-07-28 12:31:53 --> Global POST, GET dan COOKIE data telah disanitasi
+INFO - 2018-07-28 12:31:53 --> Input Class telah di inisialisasi
+INFO - 2018-07-28 12:31:53 --> Language Class telah di inisialisasi
+INFO - 2018-07-28 12:31:53 --> Loader Class telah di inisialisasi
+INFO - 2018-07-28 12:31:53 --> Helper telah dimuat: url_helper
+INFO - 2018-07-28 12:31:53 --> Controller Class telah di inisialisasi
+INFO - 2018-07-28 12:31:53 --> File telah dimuat: D:\XAMPP\htdocs\jb\application\views\html/head.php
+INFO - 2018-07-28 12:31:53 --> File telah dimuat: D:\XAMPP\htdocs\jb\application\views\home.php
+INFO - 2018-07-28 12:31:53 --> Output akhir dikirim ke browser
+DEBUG - 2018-07-28 12:31:53 --> Total waktu eksekusi: 0.2590
+INFO - 2018-07-28 12:32:13 --> Config Class telah di inisialisasi
+INFO - 2018-07-28 12:32:13 --> Hooks Class telah di inisialisasi
+DEBUG - 2018-07-28 12:32:13 --> UTF-8 Support Aktif
+INFO - 2018-07-28 12:32:13 --> Utf8 Class telah di inisialisasi
+INFO - 2018-07-28 12:32:13 --> URI Class telah di inisialisasi
+DEBUG - 2018-07-28 12:32:13 --> Tidak ada URI. Memakai Default controller.
+INFO - 2018-07-28 12:32:13 --> Router Class telah di inisialisasi
+INFO - 2018-07-28 12:32:13 --> Output Class telah di inisialisasi
+INFO - 2018-07-28 12:32:13 --> Security Class telah di inisialisasi
+DEBUG - 2018-07-28 12:32:13 --> Global POST, GET dan COOKIE data telah disanitasi
+INFO - 2018-07-28 12:32:13 --> Input Class telah di inisialisasi
+INFO - 2018-07-28 12:32:13 --> Language Class telah di inisialisasi
+INFO - 2018-07-28 12:32:13 --> Loader Class telah di inisialisasi
+INFO - 2018-07-28 12:32:13 --> Helper telah dimuat: url_helper
+INFO - 2018-07-28 12:32:13 --> Controller Class telah di inisialisasi
+INFO - 2018-07-28 12:32:13 --> File telah dimuat: D:\XAMPP\htdocs\jb\application\views\html/head.php
+INFO - 2018-07-28 12:32:13 --> File telah dimuat: D:\XAMPP\htdocs\jb\application\views\home.php
+INFO - 2018-07-28 12:32:13 --> Output akhir dikirim ke browser
+DEBUG - 2018-07-28 12:32:13 --> Total waktu eksekusi: 0.2046
+INFO - 2018-07-28 12:32:23 --> Config Class telah di inisialisasi
+INFO - 2018-07-28 12:32:23 --> Hooks Class telah di inisialisasi
+DEBUG - 2018-07-28 12:32:23 --> UTF-8 Support Aktif
+INFO - 2018-07-28 12:32:23 --> Utf8 Class telah di inisialisasi
+INFO - 2018-07-28 12:32:23 --> URI Class telah di inisialisasi
+DEBUG - 2018-07-28 12:32:23 --> Tidak ada URI. Memakai Default controller.
+INFO - 2018-07-28 12:32:23 --> Router Class telah di inisialisasi
+INFO - 2018-07-28 12:32:23 --> Output Class telah di inisialisasi
+INFO - 2018-07-28 12:32:23 --> Security Class telah di inisialisasi
+DEBUG - 2018-07-28 12:32:23 --> Global POST, GET dan COOKIE data telah disanitasi
+INFO - 2018-07-28 12:32:23 --> Input Class telah di inisialisasi
+INFO - 2018-07-28 12:32:23 --> Language Class telah di inisialisasi
+INFO - 2018-07-28 12:32:23 --> Loader Class telah di inisialisasi
+INFO - 2018-07-28 12:32:23 --> Helper telah dimuat: url_helper
+INFO - 2018-07-28 12:32:23 --> Controller Class telah di inisialisasi
+INFO - 2018-07-28 12:32:23 --> File telah dimuat: D:\XAMPP\htdocs\jb\application\views\html/head.php
+INFO - 2018-07-28 12:32:23 --> File telah dimuat: D:\XAMPP\htdocs\jb\application\views\home.php
+INFO - 2018-07-28 12:32:23 --> Output akhir dikirim ke browser
+DEBUG - 2018-07-28 12:32:23 --> Total waktu eksekusi: 0.2390
+INFO - 2018-07-28 12:33:00 --> Config Class telah di inisialisasi
+INFO - 2018-07-28 12:33:00 --> Hooks Class telah di inisialisasi
+DEBUG - 2018-07-28 12:33:00 --> UTF-8 Support Aktif
+INFO - 2018-07-28 12:33:01 --> Utf8 Class telah di inisialisasi
+INFO - 2018-07-28 12:33:01 --> URI Class telah di inisialisasi
+DEBUG - 2018-07-28 12:33:01 --> Tidak ada URI. Memakai Default controller.
+INFO - 2018-07-28 12:33:01 --> Router Class telah di inisialisasi
+INFO - 2018-07-28 12:33:01 --> Output Class telah di inisialisasi
+INFO - 2018-07-28 12:33:01 --> Security Class telah di inisialisasi
+DEBUG - 2018-07-28 12:33:01 --> Global POST, GET dan COOKIE data telah disanitasi
+INFO - 2018-07-28 12:33:01 --> Input Class telah di inisialisasi
+INFO - 2018-07-28 12:33:01 --> Language Class telah di inisialisasi
+INFO - 2018-07-28 12:33:01 --> Loader Class telah di inisialisasi
+INFO - 2018-07-28 12:33:01 --> Helper telah dimuat: url_helper
+INFO - 2018-07-28 12:33:01 --> Controller Class telah di inisialisasi
+INFO - 2018-07-28 12:33:01 --> File telah dimuat: D:\XAMPP\htdocs\jb\application\views\html/head.php
+INFO - 2018-07-28 12:33:01 --> File telah dimuat: D:\XAMPP\htdocs\jb\application\views\home.php
+INFO - 2018-07-28 12:33:01 --> Output akhir dikirim ke browser
+DEBUG - 2018-07-28 12:33:01 --> Total waktu eksekusi: 0.2016
+INFO - 2018-07-28 12:33:16 --> Config Class telah di inisialisasi
+INFO - 2018-07-28 12:33:16 --> Hooks Class telah di inisialisasi
+DEBUG - 2018-07-28 12:33:16 --> UTF-8 Support Aktif
+INFO - 2018-07-28 12:33:16 --> Utf8 Class telah di inisialisasi
+INFO - 2018-07-28 12:33:16 --> URI Class telah di inisialisasi
+DEBUG - 2018-07-28 12:33:16 --> Tidak ada URI. Memakai Default controller.
+INFO - 2018-07-28 12:33:16 --> Router Class telah di inisialisasi
+INFO - 2018-07-28 12:33:16 --> Output Class telah di inisialisasi
+INFO - 2018-07-28 12:33:16 --> Security Class telah di inisialisasi
+DEBUG - 2018-07-28 12:33:16 --> Global POST, GET dan COOKIE data telah disanitasi
+INFO - 2018-07-28 12:33:16 --> Input Class telah di inisialisasi
+INFO - 2018-07-28 12:33:16 --> Language Class telah di inisialisasi
+INFO - 2018-07-28 12:33:16 --> Loader Class telah di inisialisasi
+INFO - 2018-07-28 12:33:16 --> Helper telah dimuat: url_helper
+INFO - 2018-07-28 12:33:16 --> Controller Class telah di inisialisasi
+INFO - 2018-07-28 12:33:16 --> File telah dimuat: D:\XAMPP\htdocs\jb\application\views\html/head.php
+INFO - 2018-07-28 12:33:16 --> File telah dimuat: D:\XAMPP\htdocs\jb\application\views\home.php
+INFO - 2018-07-28 12:33:16 --> Output akhir dikirim ke browser
+DEBUG - 2018-07-28 12:33:16 --> Total waktu eksekusi: 0.2460
+INFO - 2018-07-28 12:33:17 --> Config Class telah di inisialisasi
+INFO - 2018-07-28 12:33:17 --> Hooks Class telah di inisialisasi
+DEBUG - 2018-07-28 12:33:17 --> UTF-8 Support Aktif
+INFO - 2018-07-28 12:33:17 --> Utf8 Class telah di inisialisasi
+INFO - 2018-07-28 12:33:18 --> URI Class telah di inisialisasi
+DEBUG - 2018-07-28 12:33:18 --> Tidak ada URI. Memakai Default controller.
+INFO - 2018-07-28 12:33:18 --> Router Class telah di inisialisasi
+INFO - 2018-07-28 12:33:18 --> Output Class telah di inisialisasi
+INFO - 2018-07-28 12:33:18 --> Security Class telah di inisialisasi
+DEBUG - 2018-07-28 12:33:18 --> Global POST, GET dan COOKIE data telah disanitasi
+INFO - 2018-07-28 12:33:18 --> Input Class telah di inisialisasi
+INFO - 2018-07-28 12:33:18 --> Language Class telah di inisialisasi
+INFO - 2018-07-28 12:33:18 --> Loader Class telah di inisialisasi
+INFO - 2018-07-28 12:33:18 --> Helper telah dimuat: url_helper
+INFO - 2018-07-28 12:33:18 --> Controller Class telah di inisialisasi
+INFO - 2018-07-28 12:33:18 --> File telah dimuat: D:\XAMPP\htdocs\jb\application\views\html/head.php
+INFO - 2018-07-28 12:33:18 --> File telah dimuat: D:\XAMPP\htdocs\jb\application\views\home.php
+INFO - 2018-07-28 12:33:18 --> Output akhir dikirim ke browser
+DEBUG - 2018-07-28 12:33:18 --> Total waktu eksekusi: 0.2340
+INFO - 2018-07-28 12:33:41 --> Config Class telah di inisialisasi
+INFO - 2018-07-28 12:33:41 --> Hooks Class telah di inisialisasi
+DEBUG - 2018-07-28 12:33:41 --> UTF-8 Support Aktif
+INFO - 2018-07-28 12:33:41 --> Utf8 Class telah di inisialisasi
+INFO - 2018-07-28 12:33:41 --> URI Class telah di inisialisasi
+DEBUG - 2018-07-28 12:33:41 --> Tidak ada URI. Memakai Default controller.
+INFO - 2018-07-28 12:33:41 --> Router Class telah di inisialisasi
+INFO - 2018-07-28 12:33:41 --> Output Class telah di inisialisasi
+INFO - 2018-07-28 12:33:41 --> Security Class telah di inisialisasi
+DEBUG - 2018-07-28 12:33:41 --> Global POST, GET dan COOKIE data telah disanitasi
+INFO - 2018-07-28 12:33:41 --> Input Class telah di inisialisasi
+INFO - 2018-07-28 12:33:41 --> Language Class telah di inisialisasi
+INFO - 2018-07-28 12:33:41 --> Loader Class telah di inisialisasi
+INFO - 2018-07-28 12:33:41 --> Helper telah dimuat: url_helper
+INFO - 2018-07-28 12:33:41 --> Controller Class telah di inisialisasi
+INFO - 2018-07-28 12:33:41 --> File telah dimuat: D:\XAMPP\htdocs\jb\application\views\html/head.php
+INFO - 2018-07-28 12:33:41 --> File telah dimuat: D:\XAMPP\htdocs\jb\application\views\home.php
+INFO - 2018-07-28 12:33:42 --> Output akhir dikirim ke browser
+DEBUG - 2018-07-28 12:33:42 --> Total waktu eksekusi: 0.2216
+INFO - 2018-07-28 12:33:50 --> Config Class telah di inisialisasi
+INFO - 2018-07-28 12:33:50 --> Hooks Class telah di inisialisasi
+DEBUG - 2018-07-28 12:33:50 --> UTF-8 Support Aktif
+INFO - 2018-07-28 12:33:50 --> Utf8 Class telah di inisialisasi
+INFO - 2018-07-28 12:33:50 --> URI Class telah di inisialisasi
+DEBUG - 2018-07-28 12:33:50 --> Tidak ada URI. Memakai Default controller.
+INFO - 2018-07-28 12:33:50 --> Router Class telah di inisialisasi
+INFO - 2018-07-28 12:33:50 --> Output Class telah di inisialisasi
+INFO - 2018-07-28 12:33:50 --> Security Class telah di inisialisasi
+DEBUG - 2018-07-28 12:33:50 --> Global POST, GET dan COOKIE data telah disanitasi
+INFO - 2018-07-28 12:33:50 --> Input Class telah di inisialisasi
+INFO - 2018-07-28 12:33:50 --> Language Class telah di inisialisasi
+INFO - 2018-07-28 12:33:50 --> Loader Class telah di inisialisasi
+INFO - 2018-07-28 12:33:50 --> Helper telah dimuat: url_helper
+INFO - 2018-07-28 12:33:50 --> Controller Class telah di inisialisasi
+INFO - 2018-07-28 12:33:50 --> File telah dimuat: D:\XAMPP\htdocs\jb\application\views\html/head.php
+INFO - 2018-07-28 12:33:50 --> File telah dimuat: D:\XAMPP\htdocs\jb\application\views\home.php
+INFO - 2018-07-28 12:33:50 --> Output akhir dikirim ke browser
+DEBUG - 2018-07-28 12:33:50 --> Total waktu eksekusi: 0.2116
+INFO - 2018-07-28 12:34:03 --> Config Class telah di inisialisasi
+INFO - 2018-07-28 12:34:03 --> Hooks Class telah di inisialisasi
+DEBUG - 2018-07-28 12:34:03 --> UTF-8 Support Aktif
+INFO - 2018-07-28 12:34:03 --> Utf8 Class telah di inisialisasi
+INFO - 2018-07-28 12:34:03 --> URI Class telah di inisialisasi
+DEBUG - 2018-07-28 12:34:03 --> Tidak ada URI. Memakai Default controller.
+INFO - 2018-07-28 12:34:03 --> Router Class telah di inisialisasi
+INFO - 2018-07-28 12:34:03 --> Output Class telah di inisialisasi
+INFO - 2018-07-28 12:34:03 --> Security Class telah di inisialisasi
+DEBUG - 2018-07-28 12:34:03 --> Global POST, GET dan COOKIE data telah disanitasi
+INFO - 2018-07-28 12:34:03 --> Input Class telah di inisialisasi
+INFO - 2018-07-28 12:34:03 --> Language Class telah di inisialisasi
+INFO - 2018-07-28 12:34:03 --> Loader Class telah di inisialisasi
+INFO - 2018-07-28 12:34:03 --> Helper telah dimuat: url_helper
+INFO - 2018-07-28 12:34:03 --> Controller Class telah di inisialisasi
+INFO - 2018-07-28 12:34:03 --> File telah dimuat: D:\XAMPP\htdocs\jb\application\views\html/head.php
+INFO - 2018-07-28 12:34:03 --> File telah dimuat: D:\XAMPP\htdocs\jb\application\views\home.php
+INFO - 2018-07-28 12:34:03 --> Output akhir dikirim ke browser
+DEBUG - 2018-07-28 12:34:03 --> Total waktu eksekusi: 0.2066
+INFO - 2018-07-28 12:34:32 --> Config Class telah di inisialisasi
+INFO - 2018-07-28 12:34:32 --> Hooks Class telah di inisialisasi
+DEBUG - 2018-07-28 12:34:32 --> UTF-8 Support Aktif
+INFO - 2018-07-28 12:34:32 --> Utf8 Class telah di inisialisasi
+INFO - 2018-07-28 12:34:32 --> URI Class telah di inisialisasi
+DEBUG - 2018-07-28 12:34:32 --> Tidak ada URI. Memakai Default controller.
+INFO - 2018-07-28 12:34:32 --> Router Class telah di inisialisasi
+INFO - 2018-07-28 12:34:32 --> Output Class telah di inisialisasi
+INFO - 2018-07-28 12:34:32 --> Security Class telah di inisialisasi
+DEBUG - 2018-07-28 12:34:32 --> Global POST, GET dan COOKIE data telah disanitasi
+INFO - 2018-07-28 12:34:32 --> Input Class telah di inisialisasi
+INFO - 2018-07-28 12:34:32 --> Language Class telah di inisialisasi
+INFO - 2018-07-28 12:34:32 --> Loader Class telah di inisialisasi
+INFO - 2018-07-28 12:34:32 --> Helper telah dimuat: url_helper
+INFO - 2018-07-28 12:34:32 --> Controller Class telah di inisialisasi
+INFO - 2018-07-28 12:34:32 --> File telah dimuat: D:\XAMPP\htdocs\jb\application\views\html/head.php
+INFO - 2018-07-28 12:34:32 --> File telah dimuat: D:\XAMPP\htdocs\jb\application\views\home.php
+INFO - 2018-07-28 12:34:32 --> Output akhir dikirim ke browser
+DEBUG - 2018-07-28 12:34:32 --> Total waktu eksekusi: 0.2116
+INFO - 2018-07-28 12:34:42 --> Config Class telah di inisialisasi
+INFO - 2018-07-28 12:34:42 --> Hooks Class telah di inisialisasi
+DEBUG - 2018-07-28 12:34:42 --> UTF-8 Support Aktif
+INFO - 2018-07-28 12:34:42 --> Utf8 Class telah di inisialisasi
+INFO - 2018-07-28 12:34:42 --> URI Class telah di inisialisasi
+DEBUG - 2018-07-28 12:34:42 --> Tidak ada URI. Memakai Default controller.
+INFO - 2018-07-28 12:34:42 --> Router Class telah di inisialisasi
+INFO - 2018-07-28 12:34:42 --> Output Class telah di inisialisasi
+INFO - 2018-07-28 12:34:42 --> Security Class telah di inisialisasi
+DEBUG - 2018-07-28 12:34:42 --> Global POST, GET dan COOKIE data telah disanitasi
+INFO - 2018-07-28 12:34:42 --> Input Class telah di inisialisasi
+INFO - 2018-07-28 12:34:42 --> Language Class telah di inisialisasi
+INFO - 2018-07-28 12:34:42 --> Loader Class telah di inisialisasi
+INFO - 2018-07-28 12:34:42 --> Helper telah dimuat: url_helper
+INFO - 2018-07-28 12:34:42 --> Controller Class telah di inisialisasi
+INFO - 2018-07-28 12:34:42 --> File telah dimuat: D:\XAMPP\htdocs\jb\application\views\html/head.php
+INFO - 2018-07-28 12:34:42 --> File telah dimuat: D:\XAMPP\htdocs\jb\application\views\home.php
+INFO - 2018-07-28 12:34:42 --> Output akhir dikirim ke browser
+DEBUG - 2018-07-28 12:34:42 --> Total waktu eksekusi: 0.2226
+INFO - 2018-07-28 12:34:55 --> Config Class telah di inisialisasi
+INFO - 2018-07-28 12:34:55 --> Hooks Class telah di inisialisasi
+DEBUG - 2018-07-28 12:34:55 --> UTF-8 Support Aktif
+INFO - 2018-07-28 12:34:55 --> Utf8 Class telah di inisialisasi
+INFO - 2018-07-28 12:34:55 --> URI Class telah di inisialisasi
+DEBUG - 2018-07-28 12:34:56 --> Tidak ada URI. Memakai Default controller.
+INFO - 2018-07-28 12:34:56 --> Router Class telah di inisialisasi
+INFO - 2018-07-28 12:34:56 --> Output Class telah di inisialisasi
+INFO - 2018-07-28 12:34:56 --> Security Class telah di inisialisasi
+DEBUG - 2018-07-28 12:34:56 --> Global POST, GET dan COOKIE data telah disanitasi
+INFO - 2018-07-28 12:34:56 --> Input Class telah di inisialisasi
+INFO - 2018-07-28 12:34:56 --> Language Class telah di inisialisasi
+INFO - 2018-07-28 12:34:56 --> Loader Class telah di inisialisasi
+INFO - 2018-07-28 12:34:56 --> Helper telah dimuat: url_helper
+INFO - 2018-07-28 12:34:56 --> Controller Class telah di inisialisasi
+INFO - 2018-07-28 12:34:56 --> File telah dimuat: D:\XAMPP\htdocs\jb\application\views\html/head.php
+INFO - 2018-07-28 12:34:56 --> File telah dimuat: D:\XAMPP\htdocs\jb\application\views\home.php
+INFO - 2018-07-28 12:34:56 --> Output akhir dikirim ke browser
+DEBUG - 2018-07-28 12:34:56 --> Total waktu eksekusi: 0.2136
+INFO - 2018-07-28 12:35:07 --> Config Class telah di inisialisasi
+INFO - 2018-07-28 12:35:07 --> Hooks Class telah di inisialisasi
+DEBUG - 2018-07-28 12:35:07 --> UTF-8 Support Aktif
+INFO - 2018-07-28 12:35:07 --> Utf8 Class telah di inisialisasi
+INFO - 2018-07-28 12:35:07 --> URI Class telah di inisialisasi
+DEBUG - 2018-07-28 12:35:07 --> Tidak ada URI. Memakai Default controller.
+INFO - 2018-07-28 12:35:07 --> Router Class telah di inisialisasi
+INFO - 2018-07-28 12:35:07 --> Output Class telah di inisialisasi
+INFO - 2018-07-28 12:35:07 --> Security Class telah di inisialisasi
+DEBUG - 2018-07-28 12:35:08 --> Global POST, GET dan COOKIE data telah disanitasi
+INFO - 2018-07-28 12:35:08 --> Input Class telah di inisialisasi
+INFO - 2018-07-28 12:35:08 --> Language Class telah di inisialisasi
+INFO - 2018-07-28 12:35:08 --> Loader Class telah di inisialisasi
+INFO - 2018-07-28 12:35:08 --> Helper telah dimuat: url_helper
+INFO - 2018-07-28 12:35:08 --> Controller Class telah di inisialisasi
+INFO - 2018-07-28 12:35:08 --> File telah dimuat: D:\XAMPP\htdocs\jb\application\views\html/head.php
+INFO - 2018-07-28 12:35:08 --> File telah dimuat: D:\XAMPP\htdocs\jb\application\views\home.php
+INFO - 2018-07-28 12:35:08 --> Output akhir dikirim ke browser
+DEBUG - 2018-07-28 12:35:08 --> Total waktu eksekusi: 0.2136
+INFO - 2018-07-28 12:35:23 --> Config Class telah di inisialisasi
+INFO - 2018-07-28 12:35:23 --> Hooks Class telah di inisialisasi
+DEBUG - 2018-07-28 12:35:23 --> UTF-8 Support Aktif
+INFO - 2018-07-28 12:35:23 --> Utf8 Class telah di inisialisasi
+INFO - 2018-07-28 12:35:23 --> URI Class telah di inisialisasi
+DEBUG - 2018-07-28 12:35:23 --> Tidak ada URI. Memakai Default controller.
+INFO - 2018-07-28 12:35:23 --> Router Class telah di inisialisasi
+INFO - 2018-07-28 12:35:23 --> Output Class telah di inisialisasi
+INFO - 2018-07-28 12:35:23 --> Security Class telah di inisialisasi
+DEBUG - 2018-07-28 12:35:23 --> Global POST, GET dan COOKIE data telah disanitasi
+INFO - 2018-07-28 12:35:23 --> Input Class telah di inisialisasi
+INFO - 2018-07-28 12:35:23 --> Language Class telah di inisialisasi
+INFO - 2018-07-28 12:35:23 --> Loader Class telah di inisialisasi
+INFO - 2018-07-28 12:35:23 --> Helper telah dimuat: url_helper
+INFO - 2018-07-28 12:35:23 --> Controller Class telah di inisialisasi
+INFO - 2018-07-28 12:35:23 --> File telah dimuat: D:\XAMPP\htdocs\jb\application\views\html/head.php
+INFO - 2018-07-28 12:35:23 --> File telah dimuat: D:\XAMPP\htdocs\jb\application\views\home.php
+INFO - 2018-07-28 12:35:23 --> Output akhir dikirim ke browser
+DEBUG - 2018-07-28 12:35:24 --> Total waktu eksekusi: 0.2126
+INFO - 2018-07-28 12:35:48 --> Config Class telah di inisialisasi
+INFO - 2018-07-28 12:35:48 --> Hooks Class telah di inisialisasi
+DEBUG - 2018-07-28 12:35:48 --> UTF-8 Support Aktif
+INFO - 2018-07-28 12:35:48 --> Utf8 Class telah di inisialisasi
+INFO - 2018-07-28 12:35:48 --> URI Class telah di inisialisasi
+DEBUG - 2018-07-28 12:35:49 --> Tidak ada URI. Memakai Default controller.
+INFO - 2018-07-28 12:35:49 --> Router Class telah di inisialisasi
+INFO - 2018-07-28 12:35:49 --> Output Class telah di inisialisasi
+INFO - 2018-07-28 12:35:49 --> Security Class telah di inisialisasi
+DEBUG - 2018-07-28 12:35:49 --> Global POST, GET dan COOKIE data telah disanitasi
+INFO - 2018-07-28 12:35:49 --> Input Class telah di inisialisasi
+INFO - 2018-07-28 12:35:49 --> Language Class telah di inisialisasi
+INFO - 2018-07-28 12:35:49 --> Loader Class telah di inisialisasi
+INFO - 2018-07-28 12:35:49 --> Helper telah dimuat: url_helper
+INFO - 2018-07-28 12:35:49 --> Controller Class telah di inisialisasi
+INFO - 2018-07-28 12:35:49 --> File telah dimuat: D:\XAMPP\htdocs\jb\application\views\html/head.php
+INFO - 2018-07-28 12:35:49 --> File telah dimuat: D:\XAMPP\htdocs\jb\application\views\home.php
+INFO - 2018-07-28 12:35:49 --> Output akhir dikirim ke browser
+DEBUG - 2018-07-28 12:35:49 --> Total waktu eksekusi: 0.2240
+INFO - 2018-07-28 12:41:07 --> Config Class telah di inisialisasi
+INFO - 2018-07-28 12:41:07 --> Hooks Class telah di inisialisasi
+DEBUG - 2018-07-28 12:41:07 --> UTF-8 Support Aktif
+INFO - 2018-07-28 12:41:07 --> Utf8 Class telah di inisialisasi
+INFO - 2018-07-28 12:41:07 --> URI Class telah di inisialisasi
+DEBUG - 2018-07-28 12:41:07 --> Tidak ada URI. Memakai Default controller.
+INFO - 2018-07-28 12:41:07 --> Router Class telah di inisialisasi
+INFO - 2018-07-28 12:41:07 --> Output Class telah di inisialisasi
+INFO - 2018-07-28 12:41:07 --> Security Class telah di inisialisasi
+DEBUG - 2018-07-28 12:41:07 --> Global POST, GET dan COOKIE data telah disanitasi
+INFO - 2018-07-28 12:41:07 --> Input Class telah di inisialisasi
+INFO - 2018-07-28 12:41:07 --> Language Class telah di inisialisasi
+INFO - 2018-07-28 12:41:07 --> Loader Class telah di inisialisasi
+INFO - 2018-07-28 12:41:07 --> Helper telah dimuat: url_helper
+INFO - 2018-07-28 12:41:07 --> Controller Class telah di inisialisasi
+INFO - 2018-07-28 12:41:07 --> File telah dimuat: D:\XAMPP\htdocs\jb\application\views\html/head.php
+INFO - 2018-07-28 12:41:07 --> File telah dimuat: D:\XAMPP\htdocs\jb\application\views\home.php
+INFO - 2018-07-28 12:41:07 --> Output akhir dikirim ke browser
+DEBUG - 2018-07-28 12:41:07 --> Total waktu eksekusi: 0.2370
+INFO - 2018-07-28 12:41:42 --> Config Class telah di inisialisasi
+INFO - 2018-07-28 12:41:42 --> Hooks Class telah di inisialisasi
+DEBUG - 2018-07-28 12:41:42 --> UTF-8 Support Aktif
+INFO - 2018-07-28 12:41:43 --> Utf8 Class telah di inisialisasi
+INFO - 2018-07-28 12:41:43 --> URI Class telah di inisialisasi
+DEBUG - 2018-07-28 12:41:43 --> Tidak ada URI. Memakai Default controller.
+INFO - 2018-07-28 12:41:43 --> Router Class telah di inisialisasi
+INFO - 2018-07-28 12:41:43 --> Output Class telah di inisialisasi
+INFO - 2018-07-28 12:41:43 --> Security Class telah di inisialisasi
+DEBUG - 2018-07-28 12:41:43 --> Global POST, GET dan COOKIE data telah disanitasi
+INFO - 2018-07-28 12:41:43 --> Input Class telah di inisialisasi
+INFO - 2018-07-28 12:41:43 --> Language Class telah di inisialisasi
+INFO - 2018-07-28 12:41:43 --> Loader Class telah di inisialisasi
+INFO - 2018-07-28 12:41:43 --> Helper telah dimuat: url_helper
+INFO - 2018-07-28 12:41:43 --> Controller Class telah di inisialisasi
+INFO - 2018-07-28 12:41:43 --> File telah dimuat: D:\XAMPP\htdocs\jb\application\views\html/head.php
+INFO - 2018-07-28 12:41:43 --> File telah dimuat: D:\XAMPP\htdocs\jb\application\views\home.php
+INFO - 2018-07-28 12:41:43 --> Output akhir dikirim ke browser
+DEBUG - 2018-07-28 12:41:43 --> Total waktu eksekusi: 0.2146
+INFO - 2018-07-28 12:41:53 --> Config Class telah di inisialisasi
+INFO - 2018-07-28 12:41:53 --> Hooks Class telah di inisialisasi
+DEBUG - 2018-07-28 12:41:53 --> UTF-8 Support Aktif
+INFO - 2018-07-28 12:41:53 --> Utf8 Class telah di inisialisasi
+INFO - 2018-07-28 12:41:53 --> URI Class telah di inisialisasi
+DEBUG - 2018-07-28 12:41:53 --> Tidak ada URI. Memakai Default controller.
+INFO - 2018-07-28 12:41:53 --> Router Class telah di inisialisasi
+INFO - 2018-07-28 12:41:53 --> Output Class telah di inisialisasi
+INFO - 2018-07-28 12:41:53 --> Security Class telah di inisialisasi
+DEBUG - 2018-07-28 12:41:53 --> Global POST, GET dan COOKIE data telah disanitasi
+INFO - 2018-07-28 12:41:53 --> Input Class telah di inisialisasi
+INFO - 2018-07-28 12:41:53 --> Language Class telah di inisialisasi
+INFO - 2018-07-28 12:41:53 --> Loader Class telah di inisialisasi
+INFO - 2018-07-28 12:41:53 --> Helper telah dimuat: url_helper
+INFO - 2018-07-28 12:41:53 --> Controller Class telah di inisialisasi
+INFO - 2018-07-28 12:41:53 --> File telah dimuat: D:\XAMPP\htdocs\jb\application\views\html/head.php
+INFO - 2018-07-28 12:41:53 --> File telah dimuat: D:\XAMPP\htdocs\jb\application\views\home.php
+INFO - 2018-07-28 12:41:53 --> Output akhir dikirim ke browser
+DEBUG - 2018-07-28 12:41:53 --> Total waktu eksekusi: 0.2570
+INFO - 2018-07-28 12:42:03 --> Config Class telah di inisialisasi
+INFO - 2018-07-28 12:42:03 --> Hooks Class telah di inisialisasi
+DEBUG - 2018-07-28 12:42:03 --> UTF-8 Support Aktif
+INFO - 2018-07-28 12:42:03 --> Utf8 Class telah di inisialisasi
+INFO - 2018-07-28 12:42:03 --> URI Class telah di inisialisasi
+DEBUG - 2018-07-28 12:42:04 --> Tidak ada URI. Memakai Default controller.
+INFO - 2018-07-28 12:42:04 --> Router Class telah di inisialisasi
+INFO - 2018-07-28 12:42:04 --> Output Class telah di inisialisasi
+INFO - 2018-07-28 12:42:04 --> Security Class telah di inisialisasi
+DEBUG - 2018-07-28 12:42:04 --> Global POST, GET dan COOKIE data telah disanitasi
+INFO - 2018-07-28 12:42:04 --> Input Class telah di inisialisasi
+INFO - 2018-07-28 12:42:04 --> Language Class telah di inisialisasi
+INFO - 2018-07-28 12:42:04 --> Loader Class telah di inisialisasi
+INFO - 2018-07-28 12:42:04 --> Helper telah dimuat: url_helper
+INFO - 2018-07-28 12:42:04 --> Controller Class telah di inisialisasi
+INFO - 2018-07-28 12:42:04 --> File telah dimuat: D:\XAMPP\htdocs\jb\application\views\html/head.php
+INFO - 2018-07-28 12:42:04 --> File telah dimuat: D:\XAMPP\htdocs\jb\application\views\home.php
+INFO - 2018-07-28 12:42:04 --> Output akhir dikirim ke browser
+DEBUG - 2018-07-28 12:42:04 --> Total waktu eksekusi: 0.2260
+INFO - 2018-07-28 12:42:29 --> Config Class telah di inisialisasi
+INFO - 2018-07-28 12:42:29 --> Hooks Class telah di inisialisasi
+DEBUG - 2018-07-28 12:42:29 --> UTF-8 Support Aktif
+INFO - 2018-07-28 12:42:29 --> Utf8 Class telah di inisialisasi
+INFO - 2018-07-28 12:42:29 --> URI Class telah di inisialisasi
+DEBUG - 2018-07-28 12:42:29 --> Tidak ada URI. Memakai Default controller.
+INFO - 2018-07-28 12:42:29 --> Router Class telah di inisialisasi
+INFO - 2018-07-28 12:42:29 --> Output Class telah di inisialisasi
+INFO - 2018-07-28 12:42:29 --> Security Class telah di inisialisasi
+DEBUG - 2018-07-28 12:42:29 --> Global POST, GET dan COOKIE data telah disanitasi
+INFO - 2018-07-28 12:42:29 --> Input Class telah di inisialisasi
+INFO - 2018-07-28 12:42:29 --> Language Class telah di inisialisasi
+INFO - 2018-07-28 12:42:29 --> Loader Class telah di inisialisasi
+INFO - 2018-07-28 12:42:29 --> Helper telah dimuat: url_helper
+INFO - 2018-07-28 12:42:29 --> Controller Class telah di inisialisasi
+INFO - 2018-07-28 12:42:29 --> File telah dimuat: D:\XAMPP\htdocs\jb\application\views\html/head.php
+INFO - 2018-07-28 12:42:29 --> File telah dimuat: D:\XAMPP\htdocs\jb\application\views\home.php
+INFO - 2018-07-28 12:42:29 --> Output akhir dikirim ke browser
+DEBUG - 2018-07-28 12:42:29 --> Total waktu eksekusi: 0.2156
+INFO - 2018-07-28 12:42:54 --> Config Class telah di inisialisasi
+INFO - 2018-07-28 12:42:54 --> Hooks Class telah di inisialisasi
+DEBUG - 2018-07-28 12:42:54 --> UTF-8 Support Aktif
+INFO - 2018-07-28 12:42:54 --> Utf8 Class telah di inisialisasi
+INFO - 2018-07-28 12:42:54 --> URI Class telah di inisialisasi
+DEBUG - 2018-07-28 12:42:54 --> Tidak ada URI. Memakai Default controller.
+INFO - 2018-07-28 12:42:54 --> Router Class telah di inisialisasi
+INFO - 2018-07-28 12:42:54 --> Output Class telah di inisialisasi
+INFO - 2018-07-28 12:42:54 --> Security Class telah di inisialisasi
+DEBUG - 2018-07-28 12:42:54 --> Global POST, GET dan COOKIE data telah disanitasi
+INFO - 2018-07-28 12:42:54 --> Input Class telah di inisialisasi
+INFO - 2018-07-28 12:42:54 --> Language Class telah di inisialisasi
+INFO - 2018-07-28 12:42:54 --> Loader Class telah di inisialisasi
+INFO - 2018-07-28 12:42:54 --> Helper telah dimuat: url_helper
+INFO - 2018-07-28 12:42:54 --> Controller Class telah di inisialisasi
+INFO - 2018-07-28 12:42:54 --> File telah dimuat: D:\XAMPP\htdocs\jb\application\views\html/head.php
+INFO - 2018-07-28 12:42:54 --> File telah dimuat: D:\XAMPP\htdocs\jb\application\views\home.php
+INFO - 2018-07-28 12:42:54 --> Output akhir dikirim ke browser
+DEBUG - 2018-07-28 12:42:54 --> Total waktu eksekusi: 0.2066
+INFO - 2018-07-28 12:43:06 --> Config Class telah di inisialisasi
+INFO - 2018-07-28 12:43:06 --> Hooks Class telah di inisialisasi
+DEBUG - 2018-07-28 12:43:06 --> UTF-8 Support Aktif
+INFO - 2018-07-28 12:43:06 --> Utf8 Class telah di inisialisasi
+INFO - 2018-07-28 12:43:06 --> URI Class telah di inisialisasi
+DEBUG - 2018-07-28 12:43:06 --> Tidak ada URI. Memakai Default controller.
+INFO - 2018-07-28 12:43:06 --> Router Class telah di inisialisasi
+INFO - 2018-07-28 12:43:06 --> Output Class telah di inisialisasi
+INFO - 2018-07-28 12:43:06 --> Security Class telah di inisialisasi
+DEBUG - 2018-07-28 12:43:06 --> Global POST, GET dan COOKIE data telah disanitasi
+INFO - 2018-07-28 12:43:06 --> Input Class telah di inisialisasi
+INFO - 2018-07-28 12:43:06 --> Language Class telah di inisialisasi
+INFO - 2018-07-28 12:43:06 --> Loader Class telah di inisialisasi
+INFO - 2018-07-28 12:43:06 --> Helper telah dimuat: url_helper
+INFO - 2018-07-28 12:43:06 --> Controller Class telah di inisialisasi
+INFO - 2018-07-28 12:43:06 --> File telah dimuat: D:\XAMPP\htdocs\jb\application\views\html/head.php
+INFO - 2018-07-28 12:43:06 --> File telah dimuat: D:\XAMPP\htdocs\jb\application\views\home.php
+INFO - 2018-07-28 12:43:06 --> Output akhir dikirim ke browser
+DEBUG - 2018-07-28 12:43:06 --> Total waktu eksekusi: 0.2206
