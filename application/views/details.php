@@ -87,17 +87,6 @@
                             <button class="btn my-2 my-sm-0" type="submit">Cari</button>
                         </form>
                     </ul>
-                    <ul class="navbar-nav mr-auto">
-                        <li class="nav-item active">
-                            <a class="nav-link" href="javascript:void(0)"><i class="fa fa-users"></i></a>
-                        </li>
-                        <li class="nav-item">
-                            <a class="nav-link" href="javascript:void(0)"><i class="fa fa-phone"></i></a>
-                        </li>
-                        <li class="nav-item">
-                            <a class="nav-link" href="javascript:void(0)"><i class="fa fa-location-arrow"></i></a>
-                        </li>
-                    </ul>
                 </div>
             </nav>
         </div>     
@@ -110,252 +99,54 @@
                             <div class="row">
                                 <div class="col-lg-6">
                                     <div class="product-details-slider">
+                                        <?php 
+                                            $images = explode('|', $product->IMAGE);
+                                            foreach ($images as $image) {
+                                                $this->db->select('NAME');
+                                                $this->db->where('TOKEN', $image);
+                                                $query = $this->db->get('UPLOAD');
+                                                if ($query->num_rows() != 0) {
+                                                    $img = $query->row()->NAME;
+                                        ?>
                                         <div class="product">
-                                            <img class="img-fluid" src="<?php echo base_url(); ?>assets/img/product/slider1.png" alt="Image">
+                                            <img class="img-fluid" src="<?php echo base_url('uploads/products/' . $img); ?>" alt="<?php echo $product->NAME; ?>">
                                         </div>
-                                        <div class="product">
-                                            <img class="img-fluid" src="<?php echo base_url(); ?>assets/img/product/slider2.png" alt="Image">
-                                        </div>
+                                        <?php
+                                                }
+                                            }
+                                        ?>
                                     </div>
                                 </div>
                                 <div class="col-lg-6">
                                     <div class="products-details-info">
-                                        <ul class="tr-list list-inline tr-share-content">
-                                            <li class="share-icon">
-                                                <i class="fa fa-share-alt" aria-hidden="true"></i>
-                                                <span>
-                                                    <a href="javascript:void(0)"><i class="fa fa-facebook" aria-hidden="true"></i></a>
-                                                    <a href="javascript:void(0)"><i class="fa fa-twitter" aria-hidden="true"></i></a>
-                                                    <a href="javascript:void(0)"><i class="fa fa-google-plus" aria-hidden="true"></i></a>
-                                                </span>
-                                            </li>
-                                        </ul>
-                                        <span class="product-title">Apple</span>
-                                        <h1>Iphone 7</h1>
-                                        <div class="rating-star">
-                                            <ul class="tr-list rating">
-                                                <li><i class="fa fa-star" aria-hidden="true"></i></li>
-                                                <li><i class="fa fa-star" aria-hidden="true"></i></li>
-                                                <li><i class="fa fa-star" aria-hidden="true"></i></li>
-                                                <li><i class="fa fa-star" aria-hidden="true"></i></li>
-                                                <li><i class="fa fa-star-o" aria-hidden="true"></i></li>
-                                            </ul>                                      
-                                        </div>
+                                        <span class="product-title"><?php echo $product->BRAND; ?></span>
+                                        <h1><?php echo $product->NAME; ?></h1>
                                         <div class="quantity-price">
                                             <div class="price">
-                                                <span><del>Rp.20.000,-</del> Rp.20.000.000,-</span>
-                                            </div>
-                                            <div class="quantity" data-trigger="spinner">
-                                                <a class="btn" href="javascript:void(0)" data-spin="down"><i class="fa fa-minus"></i></a>
-                                                <input class="input-text" type="text" name="quantity" value="1" title="quantity">
-                                                <a class="btn" href="javascript:void(0)" data-spin="up"><i class="fa fa-plus"></i></a>
-                                            </div>                                              
-                                        </div>
-                                        <div class="add-to-cart">
-                                            <a class="btn btn-primary" href="javascript:void(0)">Cek</a>
-                                            <a href="javascript:void(0)"><span class="icon icon-pulse"></span></a>
+                                                <span>Rp.<?php echo $product->PRICE; ?>,-</span>
+                                            </div>                                             
                                         </div>
                                     </div>
                                 </div>
                             </div>
                         </div>
-                        <div class="tr-section color-and-size">
-                            <div class="tr-color">
-                                <span>Warna</span>
-                                <form action="#">
-                                    <input type="radio" name="sellType" value="color1" id="color1"><label for="color1"></label>
-                                    <input type="radio" name="sellType" value="color2" id="color2"><label for="color2"></label> 
-                                    <input type="radio" name="sellType" value="color3" id="color3"><label for="color3"></label> 
-                                    <input type="radio" name="sellType" value="color4" id="color4"><label for="color4"></label>
-                                    <input type="radio" name="sellType" value="color5" id="color5"><label for="color5"></label>
-                                    <input type="radio" name="sellType" value="color6" id="color6"><label for="color6"></label>
-                                </form>
-                            </div>
-                            <div class="tr-size">
-                                <div class="title">
-                                    <span class="pull-left">Kapasitas</span>
-                                </div>
-                                <ul class="tr-list">
-                                    <li><a href="javascript:void(0)">4/16</a></li>
-                                    <li><a href="javascript:void(0)">8/32</a></li>
-                                </ul>
-                            </div>                                                   
-                        </div>
-
                         <div class="tr-section products-description">
                             <ul class="nav nav-tabs description-tabs" role="tablist">
                                 <li class="nav-item" role="presentation"><a class="nav-link active" href="#details" aria-controls="details" role="tab" data-toggle="tab">Detil</a></li>
-                                <li class="nav-item" role="presentation"><a class="nav-link" href="#payment" aria-controls="payment" role="tab" data-toggle="tab" aria-expanded="true">Spesifikasi</a></li>
+                                <li class="nav-item" role="presentation"><a class="nav-link" href="#spec" aria-controls="spec" role="tab" data-toggle="tab" aria-expanded="true">Spesifikasi</a></li>
                             </ul>  
 
                             <div class="tab-content">
                                 <div id="details" role="tabpanel" class="tab-pane fade show active">
-                                    <p>#BREAKRESISTANT</p>
-                                    <p>Polytron PRIME 7 didesain khusus dengan konstruksi frame metal dan teknologi Nano Molding yang presisi sehingga menghasilkan smartphone dengan built quality yang tinggi, menjadikannya kuat sekaligus ringan digenggam untuk melengkapi gaya hidupmu yang aktif.<br>Dipadukan dengan layar IPS Retina display dan Gorilla Glass dengan Native Damage Resistant yang dikenal dengan kekuatan pelindung display yang sudah teruji. Gorilla Glass juga memiliki kemampuan mentransmisikan spektrum warna secara luas sehingga kualitas layar tetap tajam dan kaya warna.</p>
-                                    <p></p>
-                                    <p></p>
-                                    <p></p>
-                                    <p>ENHANCED AUDIO</p>
-                                    <p>Teknologi audio multi-channel yang memberikan suara surround, lengkap dengan suara bass yang mendalam dan suara vokal sejernih kristal. Dengan DTS Sound, dapatkan pengalaman mendengarkan suara seperti di barisan depan konser.</p>
-                                    <p></p>
-                                    <p></p>
-                                    <p>WIRELESS CONTROL</p>
-                                    <p>Dilengkapi dengan sensor pemancar infra red yang memungkinkan pengguna mengontrol perangkat elektronik* seperti AC, LED TV, Home Theater dan lainnya menggunakan Polytron PRIME 7.</p>
-                                    <p></p>
-                                    <p></p>
-                                    <p>NFC WITH eSE</p>
-                                    <p>Chip NFC dengan eSE (embedded Secure Element) yang ditanamkan pada Polytron PRIME 7 menawarkan perlindungan keamanan data pengguna dan mendukung transaksi pembayaran contactless yang aman. Mendukung standar EMVCo (Europay International, Mastercard, VISA) chip ini dapat memfasilitasi interoperabilitas dan penerimaan transaksi pembayaran yang aman.</p>
-                                    <p></p>
-                                    <p></p>
-                                    <p>TURBO CHARGING</p>
-                                    <p>Didukung dengan teknologi Turbo Charging terbaru sehingga proses pengisian baterai lebih cepat dan lebih efisien dari generasi sebelumnya. Cocok untuk menemani aktifitasmu yang padat sepanjang hari.</p>
-                                    <p></p>
-                                    <p></p>
-                                    <p>13 MP REAR CAMERA</p>
-                                    <p>Kualitas gambar optimal dengan kamera 13MP dan resolusi gambar 4160 x 3120 pixel, di lengkapi dengan Dual Tone Bright LED Flash yang memberikan cahaya secara merata untuk hasil foto lebih terang dan jelas di setiap kondisi</p>
-                                    <p></p>
-                                    <p></p>
-                                    <p>ANTI FLARE LENS CONSTRUCTION</p>
-                                    <p>Lensa kamera berkualitas tinggi yang didesain untuk mengurangi efek flare pada saat memotret dekat dengan sumber cahaya dan memaksimalkan penangkapan cahaya dari lingkungan sekitar sehingga menghasilkan kualitas gambar yang optimal.</p>
-                                    <p></p>
-                                    <p>PDAF SENSOR</p>
-                                    <p>Sensor PDAF (Phase Detection Auto Focus] yang dilengkapi dengan Ball Bearing AF Motor menghasilkan pengambilan fokus gambar yang akurat dan lebih cepat, bahkan pada saat objek foto bergerak.</p>
-                                    <p></p>
-                                    <p></p>
-                                    <p></p>
-                                    <p>8MP FRONT CAMERA</p>
-                                    <p>Kamera depan 8MP (wide angle) menangkap gambar dengan terang dan tajam. Tampilan Ultra High Definition dengan resolusi tinggi 3264 x 2448 pixel dilengkapi dengan multilayer lensa optikal, menjadikan setiap momen selfie-mu lebih berkesan.</p>
-                                    <p></p>
-                                    <p></p>
-                                    <p>ISOCELL</p>
-                                    <p>Sensor ISOCELL menghasilkan komposisi warna dan kualitas gambar lebih tajam walaupun dalam kondisi minim cahaya.</p>
+                                    <?php echo $product->DETAIL; ?>
                                 </div>
 
-                                <div id="payment" role="tabpanel" class="tab-pane fade">
-                                   <ul class="tr-list">
-                                        <li>Analogue Display </li>
-                                        <li>Band Material: PU Leather Quartz movement</li>
-                                        <li>Case Material: alloy </li>
-                                        <li>High Quality, Stylish Design</li>
-                                    </ul>
+                                <div id="spec" role="tabpanel" class="tab-pane fade">
+                                    <?php echo $product->SPEC; ?>
                                 </div>
                             </div>           
                         </div>
                     </div>
-                </div>
-
-                <div class="related-product">
-                    <div class="section-title text-center">
-                        <h1><span>Produk Tak Kalah Keren</span></h1>
-                    </div> 
-                    <div class="random-product">
-                        <div class="row">
-                            <div class="col-sm-6 col-lg-3">
-                                <div class="products">
-                                    <div class="product">
-                                        <div class="image-slider">
-                                            <div class="product-image">
-                                                <a href="javascript:void(0)"><img class="img-fluid" src="<?php echo base_url(); ?>assets/img/product/product1.png" alt="Image"></a>
-                                            </div>
-                                            <div class="product-image">
-                                                <a href="javascript:void(0)"><img class="img-fluid" src="<?php echo base_url(); ?>assets/img/product/product1.png" alt="Image"></a>
-                                            </div>
-                                            <div class="product-image">
-                                                <a href="javascript:void(0)"><img class="img-fluid" src="<?php echo base_url(); ?>assets/img/product/product1.png" alt="Image"></a>
-                                            </div>
-                                        </div>                                     
-                                        <a href="javascript:void(0)">
-                                            <span class="product-title">Apple Iphone 7</span>
-                                            <span class="color">Dark Metal</span>
-                                            <span class="price">Rp.123.000,-</span>
-                                        </a>
-                                        <div class="product-icon">
-                                            <a href="javascript:void(0)"><span class="icon icon-info"></span></a>
-                                            <a href="javascript:void(0)"><span class="icon icon-pulse"></span></a>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                            <div class="col-sm-6 col-lg-3">
-                                <div class="products">
-                                    <div class="product">
-                                        <div class="image-slider">
-                                            <div class="product-image">
-                                                <a href="javascript:void(0)"><img class="img-fluid" src="<?php echo base_url(); ?>assets/img/product/product1.png" alt="Image"></a>
-                                            </div>
-                                            <div class="product-image">
-                                                <a href="javascript:void(0)"><img class="img-fluid" src="<?php echo base_url(); ?>assets/img/product/product1.png" alt="Image"></a>
-                                            </div>
-                                            <div class="product-image">
-                                                <a href="javascript:void(0)"><img class="img-fluid" src="<?php echo base_url(); ?>assets/img/product/product1.png" alt="Image"></a>
-                                            </div>
-                                        </div>                                     
-                                        <a href="javascript:void(0)">
-                                            <span class="product-title">Apple Iphone 7</span>
-                                            <span class="color">Dark Metal</span>
-                                            <span class="price">Rp.123.000,-</span>
-                                        </a>
-                                        <div class="product-icon">
-                                            <a href="javascript:void(0)"><span class="icon icon-info"></span></a>
-                                            <a href="javascript:void(0)"><span class="icon icon-pulse"></span></a>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                            <div class="col-sm-6 col-lg-3">
-                                <div class="products">
-                                    <div class="product">
-                                        <div class="image-slider">
-                                            <div class="product-image">
-                                                <a href="javascript:void(0)"><img class="img-fluid" src="<?php echo base_url(); ?>assets/img/product/product1.png" alt="Image"></a>
-                                            </div>
-                                            <div class="product-image">
-                                                <a href="javascript:void(0)"><img class="img-fluid" src="<?php echo base_url(); ?>assets/img/product/product1.png" alt="Image"></a>
-                                            </div>
-                                            <div class="product-image">
-                                                <a href="javascript:void(0)"><img class="img-fluid" src="<?php echo base_url(); ?>assets/img/product/product1.png" alt="Image"></a>
-                                            </div>
-                                        </div>                                     
-                                        <a href="javascript:void(0)">
-                                            <span class="product-title">Apple Iphone 7</span>
-                                            <span class="color">Dark Metal</span>
-                                            <span class="price">Rp.123.000,-</span>
-                                        </a>
-                                        <div class="product-icon">
-                                            <a href="javascript:void(0)"><span class="icon icon-info"></span></a>
-                                            <a href="javascript:void(0)"><span class="icon icon-pulse"></span></a>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                            <div class="col-sm-6 col-lg-3">
-                                <div class="products">
-                                    <div class="product">
-                                        <div class="image-slider">
-                                            <div class="product-image">
-                                                <a href="javascript:void(0)"><img class="img-fluid" src="<?php echo base_url(); ?>assets/img/product/product1.png" alt="Image"></a>
-                                            </div>
-                                            <div class="product-image">
-                                                <a href="javascript:void(0)"><img class="img-fluid" src="<?php echo base_url(); ?>assets/img/product/product1.png" alt="Image"></a>
-                                            </div>
-                                            <div class="product-image">
-                                                <a href="javascript:void(0)"><img class="img-fluid" src="<?php echo base_url(); ?>assets/img/product/product1.png" alt="Image"></a>
-                                            </div>
-                                        </div>                                     
-                                        <a href="javascript:void(0)">
-                                            <span class="product-title">Apple Iphone 7</span>
-                                            <span class="color">Dark Metal</span>
-                                            <span class="price">Rp.123.000,-</span>
-                                        </a>
-                                        <div class="product-icon">
-                                            <a href="javascript:void(0)"><span class="icon icon-info"></span></a>
-                                            <a href="javascript:void(0)"><span class="icon icon-pulse"></span></a>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                    </div>                               
                 </div>         
             </div>
         </div>
@@ -416,88 +207,6 @@
                 'use strict';
 
                 (function() {
-                    $(".product-slider").slick({
-                        infinite: true,
-                        dots: true,
-                        slidesToShow: 3,
-                        autoplay:true,
-                        autoplaySpeed:10000,
-                        slidesToScroll: 1,
-                        responsive: [
-                        {
-                          breakpoint: 1200,
-                          settings: {
-                            slidesToShow: 2,
-                          }
-                        },
-                        {
-                          breakpoint: 990,
-                          settings: {
-                            slidesToShow: 1,
-                          }
-                        },
-                        {
-                          breakpoint: 767,
-                          settings: {
-                            slidesToShow: 2,
-                          }
-                        },
-                        {
-                          breakpoint: 480,
-                          settings: {
-                            slidesToShow: 1,
-                          }
-                        }
-                        ]        
-                    }); 
-
-                    $(".cta-slider").slick({
-                        infinite: true,
-                        dots: true,
-                        slidesToShow: 1,
-                        autoplay:true,
-                        autoplaySpeed:10000,
-                        slidesToScroll: 1      
-                    }); 
-
-                    $(".image-slider").slick({
-                        infinite: true,
-                        dots: true,
-                        slidesToShow: 1,
-                        autoplay:false,
-                        autoplaySpeed:10000,
-                        slidesToScroll: 1      
-                    }); 
-
-                    $(".brands-slider").slick({
-                        infinite: true,
-                        dots: true,
-                        slidesToShow: 4,
-                        autoplay:true,
-                        autoplaySpeed:10000,
-                        slidesToScroll: 1,
-                        responsive: [
-                        {
-                          breakpoint: 1025,
-                          settings: {
-                            slidesToShow: 3,
-                          }
-                        },
-                        {
-                          breakpoint: 767,
-                          settings: {
-                            slidesToShow: 2,
-                          }
-                        },
-                        {
-                          breakpoint: 450,
-                          settings: {
-                            slidesToShow: 1,
-                          }
-                        }
-                        ]        
-                    });  
-
                     $(".product-details-slider").slick({
                         dots: true,
                         infinite: true,
@@ -514,21 +223,16 @@
                 }());
 
                 (function() {
-
                     $('[data-toggle="tooltip"]').tooltip();
-
                 }());
 
                 (function() {
-
-                    $( ".remove-icon" ).on('click', function() {
+                    $(".remove-icon").on('click', function() {
                         $(this).parents('.remove-item').fadeOut();
                     });
-
                 }());
 
                (function() {
-
                     $('.tr-dropdown').on('click', '.tr-change a', function(ev) {
                         if ("#" === $(this).attr('href')) {
                             ev.preventDefault();
@@ -536,48 +240,7 @@
                             parent.find('.change-text').html($(this).html());
                         }
                     });
-
-                }()); 
-
-                (function( $ ) {
-                    function doAnimations( elems ) {
-                        var animEndEv = 'webkitAnimationEnd animationend';
-                        elems.each(function () {
-                            var $this = $(this),
-                                $animationType = $this.data('animation');
-                            $this.addClass($animationType).one(animEndEv, function () {
-                                $this.removeClass($animationType);
-                            });
-                        });
-                    }
-                    
-                    var $myCarousel = $('#home-carousel'),
-                        $firstAnimatingElems = $myCarousel.find('.item:first').find("[data-animation ^= 'animated']");
-                        
-                    $myCarousel.carousel();
-                    doAnimations($firstAnimatingElems);
-                    $myCarousel.carousel('pause');
-                    $myCarousel.on('slide.bs.carousel', function (e) {
-                        var $animatingElems = $(e.relatedTarget).find("[data-animation ^= 'animated']");
-                        doAnimations($animatingElems);
-                    });  
-                    
-                })(jQuery);      
-
-                /*$( function() {
-                    $( "#price_slider" ).slider({
-                    range: true,
-                    min: 0,
-                    max: 20,
-                    values: [ 0, 20 ],
-                    slide: function( event, ui ) {
-                    $( "#amount" ).val( "Rp." + ui.values[ 0 ] + " - Rp." + ui.values[ 1 ] + " jt" );
-                    }
-                    });
-                    $( "#amount" ).val( "Rp." + $( "#price_slider" ).slider( "values", 0 ) +
-                    " - Rp." + $( "#price_slider" ).slider( "values", 1 ) + " jt");
-                } );*/
-
+                }());  
             });
         </script>
     </body>

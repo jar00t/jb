@@ -3,7 +3,7 @@
 	$active_group = 'default';
 	$query_builder = TRUE;
 	$db['default'] = array(
-		'dsn'	=> '',
+		'dsn' => '',
 		'hostname' => 'server_retail',
 		'username' => 'SA',
 		'password' => '',

@@ -87,17 +87,6 @@
                             <button class="btn my-2 my-sm-0" type="submit">Cari</button>
                         </form>
                     </ul>
-                    <ul class="navbar-nav mr-auto">
-                        <li class="nav-item active">
-                            <a class="nav-link" href="javascript:void(0)"><i class="fa fa-users"></i></a>
-                        </li>
-                        <li class="nav-item">
-                            <a class="nav-link" href="javascript:void(0)"><i class="fa fa-phone"></i></a>
-                        </li>
-                        <li class="nav-item">
-                            <a class="nav-link" href="javascript:void(0)"><i class="fa fa-location-arrow"></i></a>
-                        </li>
-                    </ul>
                 </div>
             </nav>
         </div>  

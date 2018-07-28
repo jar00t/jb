@@ -26,7 +26,7 @@
                 $no++;
                 $row = array();
                 $row[] = $no;
-                $row[] = $field->NAME;
+                $row[] = '<a href="' . base_url($field->URL) . '" target="_blank">' . $field->NAME . '</a>';
                 $row[] = $field->BRAND;
                 $row[] = $field->QUANTITY;
                 $row[] = $field->PRICE;

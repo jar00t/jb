@@ -12,6 +12,6 @@
 				'username' => ''
 			);
 			$this->session->unset_userdata('jb-user', $sess_array);
-			header("location: " . base_url('jebews/login'));
+			header('location: ' . base_url('jebews/login'));
 		}
 	}
