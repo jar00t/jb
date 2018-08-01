@@ -13443,3 +13443,23 @@ body.overflow-hidden{
         background:#fff
     }
 }
+.tbl-len {
+    position: fixed;
+    bottom: 0;
+    margin-left: .5rem;
+}
+.tbl-src {
+    position: fixed;
+    bottom: 0;
+    margin-left: 7.5rem;
+}
+.tbl-prc {
+    position: fixed;
+    bottom: 1rem;
+    margin-left: 22rem;
+}
+.tbl-pgn {
+    position: fixed;
+    bottom: 0;
+    right: 0;
+}

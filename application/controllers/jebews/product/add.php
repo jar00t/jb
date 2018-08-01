@@ -41,14 +41,17 @@
 		public function save() {
 			$data = array(
 				'NAME' => $this->input->post('product-name'),
+				'TYPE' => $this->input->post('product-type'),
 				'BRAND' => $this->input->post('product-brand'),
 				'QUANTITY' => $this->input->post('product-quantity'),
 				'PRICE' => $this->input->post('product-price'),
 				'CAPACITY' => $this->input->post('product-capacity'),
-				'COLOR' => $this->input->post('product-color'),
+				'CAPTION' => $this->input->post('product-caption'),
 				'DETAIL' => $this->input->post('product-detail'),
 				'SPEC' => $this->input->post('product-spec'),
+				'URL' => strtolower(preg_replace('/\W+/' , '-', $this->input->post('product-name'))),
 				'IMAGE' => $this->input->post('product-image'),
+				'BANNER' => '',
 				'STATUS' => 'ACTIVE'
 			);
 			$this->load->database();

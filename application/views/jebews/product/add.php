@@ -108,6 +108,17 @@
                                                 </div>
                                             </div>
                                             <div class="form-group row">
+                                                <label class="col-md-3 control-label">Tipe</label>
+                                                <div class="col-md-9">
+                                                    <div class="form-group p-t-0 p-b-0">
+                                                        <select class="full-width" name="product-type" data-init-plugin="select2">
+                                                            <option value="Smartphone">Smartphone</option>
+                                                            <option value="Tablet">Tablet</option>
+                                                        </select>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                            <div class="form-group row">
                                                 <label class="col-md-3 control-label">Merek</label>
                                                 <div class="col-md-9">
                                                     <div class="form-group p-t-0 p-b-0">
@@ -136,20 +147,15 @@
                                                 </div>
                                             </div>
                                             <div class="form-group row">
-                                                <label class="col-md-3 control-label">Warna</label>
-                                                <div class="col-md-9">
-                                                    <div class="radio radio-success">
-                                                        <input id="product-color-black" type="radio" name="product-color" value="BLACK">
-                                                        <label for="product-color-black">Hitam</label>
-                                                        <input id="product-color-white" type="radio" name="product-color" value="WHITE">
-                                                        <label for="product-color-white">Putih</label>
-                                                    </div>
-                                                </div>
-                                            </div>
-                                            <div class="form-group row">
                                                 <label for="product-price" class="col-md-3 control-label">Harga</label>
                                                 <div class="col-md-9">
                                                     <input id="product-price" class="form-control" type="number" name="product-price" placeholder="Harga" required>
+                                                </div>
+                                            </div>
+                                            <div class="form-group row">
+                                                <label for="product-quantity" class="col-md-3 control-label">Caption</label>
+                                                <div class="col-md-9">
+                                                    <textarea class="form-control" style="min-height:200px" name="product-caption" required></textarea>
                                                 </div>
                                             </div>
                                         </div>

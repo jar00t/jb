@@ -14,7 +14,7 @@
 			$this->db->select(array('NAME', 'PRICE', 'IMAGE', 'BANNER', 'URL', 'CAPTION'));
 			$this->db->order_by('ID', 'asc');
 			$this->data['product_total'] = $this->db->get('PRODUCT')->num_rows();
-			$this->db->limit(2);
+			$this->db->where('STATUS', 'PROMOTED');
 			$this->data['new_products'] = $this->db->get('PRODUCT')->result_array();
 			$this->load->view('home', $this->data);
 		}

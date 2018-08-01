@@ -74,17 +74,17 @@
             </div>
             <div class="page-content-wrapper">
                 <div class="content ">
-                    <div class="container-fluid container-fixed-lg">
+                    <div class="container-fluid container-fixed-lg" style="z-index:2">
                         <ol class="breadcrumb">
-                            <li class="breadcrumb-item"><a href="<?php echo base_url(); ?>dashboard">Home</a></li>
+                            <li class="breadcrumb-item"><a href="<?php echo base_url(); ?>jebews/dashboard">Home</a></li>
                             <li class="breadcrumb-item active">Manage Produk</li>
                         </ol>
                     </div>
-                    <div class="container-fluid container-fixed-lg well">
-                        <div class="card card-transparent">
-                            <div class="card-block">
-                                <table id="product-table" class="table table-striped table-bordered dt-responsive">
-                                    <thead>
+                    <div style="position:fixed;height:100%;top:0;width:100%;margin-left:-250px;padding-left:230px;padding-right:0;padding-top:90px">
+                        <div class="card card-transparent" style="position:fixed;width:100%;margin-right:0;padding-right:0">
+                            <div class="card-block" style="position:fixed;width:100%;margin-right:0;padding-right:0;overflow:auto">
+                                <table id="product-table" class="table table-striped dt-responsive" style="position:fixed;margin-right:0;padding-right:0">
+                                    <thead style="background:#ffffff">
                                         <tr>
                                             <th>No</th>
                                             <th>Nama Produk</th>
@@ -97,16 +97,6 @@
                                 </table>
                             </div>
                         </div>
-                    </div>
-                </div>
-                <div class="container-fluid container-fixed-lg footer">
-                    <div class="copyright sm-text-center">
-                        <p class="small no-margin pull-left sm-pull-reset">
-                            <span class="hint-text">Copyright &copy; 2018 </span>
-                            <span class="font-montserrat">JAYABARU SELULAR</span>.
-                            <span class="hint-text">All rights reserved. </span>
-                        </p>
-                        <div class="clearfix"></div>
                     </div>
                 </div>
             </div>
@@ -143,7 +133,7 @@
                     var table = $('#product-table');
 
                     var settings = {
-                        'dom': '<"row"<f l>><tr><"row"<"col-6"i><"col-6"p>>',
+                        'dom': '<t><<"tbl-prc"r><"tbl-pgn"p>><<"tbl-src"f><"tbl-len"l>>',
                         'destroy': true,
                         'scrollCollapse': true,
                         'processing': true,
@@ -158,8 +148,10 @@
                             'orderable': false
                         }],
                         'oLanguage': {
-                            'sLengthMenu': '_MENU_ ',
-                            'sInfo': 'Menampilkan <b>_START_ sampai _END_</b> dari _TOTAL_ produk'
+                            'sLengthMenu': '_MENU_',
+                            'sSearch': 'Cari',
+                            'sEmptyTable': 'Data masih kosong',
+                            'sZeroRecords': 'Data tidak ditemukan'
                         },
                         'iDisplayLength': 5
                     };
@@ -170,8 +162,8 @@
                 $(document).ready(function() {
                     $('.list-view-wrapper').scrollbar();
                     $('select').select2({
-                        placeholder: 'Baris per halaman',
-                        width: '200px'
+                        placeholder: 'Baris',
+                        width: '100px'
                     });
                     <?php if (isset($message)) { ?>
                     var message = '<?php echo $message[1]; ?>';
@@ -183,6 +175,24 @@
                         type: '<?php echo $message[0]; ?>'
                     }).show();
                     <?php } ?>
+
+                    if ($(document).width() <= 1200) {
+                        $('#product-table').css('width', ($(document).width() - 70) + 'px');
+                    } else if ($(document).width() <= 992) {
+                        $('#product-table').css('width', ($(document).width()) + 'px');
+                    } else {
+                        $('#product-table').css('width', ($(document).width() - 250) + 'px');
+                    }
+                });
+                $(window).resize(function() {
+                    if ($(document).width() <= 1200) {
+                        $('#product-table').css('width', ($(document).width() - 70) + 'px');
+                    } else if ($(document).width() <= 992) {
+                        $('#product-table').css('width', ($(document).width()) + 'px');
+                    } else {
+                        $('#product-table').css('width', ($(document).width() - 250) + 'px');
+                    }
+                    
                 });
 
                 initProductTable();

@@ -4554,3 +4554,9670 @@ INFO - 2018-08-01 09:53:01 --> File telah dimuat: D:\XAMPP\htdocs\jb\application
 INFO - 2018-08-01 09:53:01 --> File telah dimuat: D:\XAMPP\htdocs\jb\application\views\jebews/product/add.php
 INFO - 2018-08-01 09:53:01 --> Output akhir dikirim ke browser
 DEBUG - 2018-08-01 09:53:01 --> Total waktu eksekusi: 0.2922
+INFO - 2018-08-01 10:03:13 --> Config Class telah di inisialisasi
+INFO - 2018-08-01 10:03:13 --> Hooks Class telah di inisialisasi
+DEBUG - 2018-08-01 10:03:13 --> UTF-8 Support Aktif
+INFO - 2018-08-01 10:03:13 --> Utf8 Class telah di inisialisasi
+INFO - 2018-08-01 10:03:13 --> URI Class telah di inisialisasi
+INFO - 2018-08-01 10:03:13 --> Router Class telah di inisialisasi
+INFO - 2018-08-01 10:03:13 --> Output Class telah di inisialisasi
+INFO - 2018-08-01 10:03:13 --> Security Class telah di inisialisasi
+DEBUG - 2018-08-01 10:03:13 --> Global POST, GET dan COOKIE data telah disanitasi
+INFO - 2018-08-01 10:03:13 --> Input Class telah di inisialisasi
+INFO - 2018-08-01 10:03:13 --> Language Class telah di inisialisasi
+INFO - 2018-08-01 10:03:13 --> Loader Class telah di inisialisasi
+INFO - 2018-08-01 10:03:13 --> Helper telah dimuat: url_helper
+INFO - 2018-08-01 10:03:13 --> Controller Class telah di inisialisasi
+DEBUG - 2018-08-01 10:03:13 --> Session: "sess_save_path" kosong; pakai "session.save_path" data dari php.ini.
+INFO - 2018-08-01 10:03:13 --> Session: Class initialized using 'files' driver.
+INFO - 2018-08-01 10:03:13 --> Helper telah dimuat: file_helper
+INFO - 2018-08-01 10:03:13 --> File telah dimuat: D:\XAMPP\htdocs\jb\application\views\jebews/html/head.php
+INFO - 2018-08-01 10:03:13 --> File telah dimuat: D:\XAMPP\htdocs\jb\application\views\jebews/product/add.php
+INFO - 2018-08-01 10:03:13 --> Output akhir dikirim ke browser
+DEBUG - 2018-08-01 10:03:13 --> Total waktu eksekusi: 0.2930
+INFO - 2018-08-01 10:10:19 --> Config Class telah di inisialisasi
+INFO - 2018-08-01 10:10:19 --> Hooks Class telah di inisialisasi
+DEBUG - 2018-08-01 10:10:19 --> UTF-8 Support Aktif
+INFO - 2018-08-01 10:10:19 --> Utf8 Class telah di inisialisasi
+INFO - 2018-08-01 10:10:19 --> URI Class telah di inisialisasi
+INFO - 2018-08-01 10:10:19 --> Router Class telah di inisialisasi
+INFO - 2018-08-01 10:10:19 --> Output Class telah di inisialisasi
+INFO - 2018-08-01 10:10:19 --> Security Class telah di inisialisasi
+DEBUG - 2018-08-01 10:10:19 --> Global POST, GET dan COOKIE data telah disanitasi
+INFO - 2018-08-01 10:10:19 --> Input Class telah di inisialisasi
+INFO - 2018-08-01 10:10:19 --> Language Class telah di inisialisasi
+INFO - 2018-08-01 10:10:19 --> Loader Class telah di inisialisasi
+INFO - 2018-08-01 10:10:19 --> Helper telah dimuat: url_helper
+INFO - 2018-08-01 10:10:19 --> Controller Class telah di inisialisasi
+DEBUG - 2018-08-01 10:10:19 --> Session: "sess_save_path" kosong; pakai "session.save_path" data dari php.ini.
+INFO - 2018-08-01 10:10:19 --> Session: Class initialized using 'files' driver.
+INFO - 2018-08-01 10:10:19 --> Helper telah dimuat: file_helper
+INFO - 2018-08-01 10:10:19 --> File telah dimuat: D:\XAMPP\htdocs\jb\application\views\jebews/html/head.php
+INFO - 2018-08-01 10:10:19 --> File telah dimuat: D:\XAMPP\htdocs\jb\application\views\jebews/product/add.php
+INFO - 2018-08-01 10:10:19 --> Output akhir dikirim ke browser
+DEBUG - 2018-08-01 10:10:19 --> Total waktu eksekusi: 0.3012
+INFO - 2018-08-01 10:12:41 --> Config Class telah di inisialisasi
+INFO - 2018-08-01 10:12:41 --> Hooks Class telah di inisialisasi
+DEBUG - 2018-08-01 10:12:41 --> UTF-8 Support Aktif
+INFO - 2018-08-01 10:12:41 --> Utf8 Class telah di inisialisasi
+INFO - 2018-08-01 10:12:41 --> URI Class telah di inisialisasi
+INFO - 2018-08-01 10:12:41 --> Router Class telah di inisialisasi
+INFO - 2018-08-01 10:12:41 --> Output Class telah di inisialisasi
+INFO - 2018-08-01 10:12:41 --> Security Class telah di inisialisasi
+DEBUG - 2018-08-01 10:12:41 --> Global POST, GET dan COOKIE data telah disanitasi
+INFO - 2018-08-01 10:12:41 --> Input Class telah di inisialisasi
+INFO - 2018-08-01 10:12:41 --> Language Class telah di inisialisasi
+INFO - 2018-08-01 10:12:41 --> Loader Class telah di inisialisasi
+INFO - 2018-08-01 10:12:41 --> Helper telah dimuat: url_helper
+INFO - 2018-08-01 10:12:41 --> Controller Class telah di inisialisasi
+DEBUG - 2018-08-01 10:12:41 --> Session: "sess_save_path" kosong; pakai "session.save_path" data dari php.ini.
+INFO - 2018-08-01 10:12:41 --> Session: Class initialized using 'files' driver.
+INFO - 2018-08-01 10:12:41 --> Helper telah dimuat: file_helper
+INFO - 2018-08-01 10:12:41 --> File telah dimuat: D:\XAMPP\htdocs\jb\application\views\jebews/html/head.php
+INFO - 2018-08-01 10:12:41 --> File telah dimuat: D:\XAMPP\htdocs\jb\application\views\jebews/product/add.php
+INFO - 2018-08-01 10:12:41 --> Output akhir dikirim ke browser
+DEBUG - 2018-08-01 10:12:41 --> Total waktu eksekusi: 0.2846
+INFO - 2018-08-01 10:13:09 --> Config Class telah di inisialisasi
+INFO - 2018-08-01 10:13:09 --> Hooks Class telah di inisialisasi
+DEBUG - 2018-08-01 10:13:09 --> UTF-8 Support Aktif
+INFO - 2018-08-01 10:13:09 --> Utf8 Class telah di inisialisasi
+INFO - 2018-08-01 10:13:09 --> URI Class telah di inisialisasi
+INFO - 2018-08-01 10:13:09 --> Router Class telah di inisialisasi
+INFO - 2018-08-01 10:13:09 --> Output Class telah di inisialisasi
+INFO - 2018-08-01 10:13:09 --> Security Class telah di inisialisasi
+DEBUG - 2018-08-01 10:13:09 --> Global POST, GET dan COOKIE data telah disanitasi
+INFO - 2018-08-01 10:13:09 --> Input Class telah di inisialisasi
+INFO - 2018-08-01 10:13:09 --> Language Class telah di inisialisasi
+INFO - 2018-08-01 10:13:09 --> Loader Class telah di inisialisasi
+INFO - 2018-08-01 10:13:09 --> Helper telah dimuat: url_helper
+INFO - 2018-08-01 10:13:09 --> Controller Class telah di inisialisasi
+DEBUG - 2018-08-01 10:13:09 --> Session: "sess_save_path" kosong; pakai "session.save_path" data dari php.ini.
+INFO - 2018-08-01 10:13:09 --> Session: Class initialized using 'files' driver.
+INFO - 2018-08-01 10:13:09 --> Helper telah dimuat: file_helper
+INFO - 2018-08-01 10:13:09 --> File telah dimuat: D:\XAMPP\htdocs\jb\application\views\jebews/html/head.php
+INFO - 2018-08-01 10:13:09 --> File telah dimuat: D:\XAMPP\htdocs\jb\application\views\jebews/product/add.php
+INFO - 2018-08-01 10:13:09 --> Output akhir dikirim ke browser
+DEBUG - 2018-08-01 10:13:09 --> Total waktu eksekusi: 0.2946
+INFO - 2018-08-01 10:13:15 --> Config Class telah di inisialisasi
+INFO - 2018-08-01 10:13:15 --> Hooks Class telah di inisialisasi
+DEBUG - 2018-08-01 10:13:15 --> UTF-8 Support Aktif
+INFO - 2018-08-01 10:13:15 --> Utf8 Class telah di inisialisasi
+INFO - 2018-08-01 10:13:15 --> URI Class telah di inisialisasi
+INFO - 2018-08-01 10:13:15 --> Router Class telah di inisialisasi
+INFO - 2018-08-01 10:13:15 --> Output Class telah di inisialisasi
+INFO - 2018-08-01 10:13:15 --> Security Class telah di inisialisasi
+DEBUG - 2018-08-01 10:13:15 --> Global POST, GET dan COOKIE data telah disanitasi
+INFO - 2018-08-01 10:13:15 --> Input Class telah di inisialisasi
+INFO - 2018-08-01 10:13:16 --> Language Class telah di inisialisasi
+INFO - 2018-08-01 10:13:16 --> Loader Class telah di inisialisasi
+INFO - 2018-08-01 10:13:16 --> Helper telah dimuat: url_helper
+INFO - 2018-08-01 10:13:16 --> Controller Class telah di inisialisasi
+DEBUG - 2018-08-01 10:13:16 --> Session: "sess_save_path" kosong; pakai "session.save_path" data dari php.ini.
+INFO - 2018-08-01 10:13:16 --> Session: Class initialized using 'files' driver.
+INFO - 2018-08-01 10:13:16 --> Helper telah dimuat: file_helper
+INFO - 2018-08-01 10:13:16 --> File telah dimuat: D:\XAMPP\htdocs\jb\application\views\jebews/html/head.php
+INFO - 2018-08-01 10:13:16 --> File telah dimuat: D:\XAMPP\htdocs\jb\application\views\jebews/product/add.php
+INFO - 2018-08-01 10:13:16 --> Output akhir dikirim ke browser
+DEBUG - 2018-08-01 10:13:16 --> Total waktu eksekusi: 0.2946
+INFO - 2018-08-01 10:13:36 --> Config Class telah di inisialisasi
+INFO - 2018-08-01 10:13:36 --> Hooks Class telah di inisialisasi
+DEBUG - 2018-08-01 10:13:36 --> UTF-8 Support Aktif
+INFO - 2018-08-01 10:13:36 --> Utf8 Class telah di inisialisasi
+INFO - 2018-08-01 10:13:36 --> URI Class telah di inisialisasi
+INFO - 2018-08-01 10:13:36 --> Router Class telah di inisialisasi
+INFO - 2018-08-01 10:13:36 --> Output Class telah di inisialisasi
+INFO - 2018-08-01 10:13:36 --> Security Class telah di inisialisasi
+DEBUG - 2018-08-01 10:13:36 --> Global POST, GET dan COOKIE data telah disanitasi
+INFO - 2018-08-01 10:13:36 --> Input Class telah di inisialisasi
+INFO - 2018-08-01 10:13:36 --> Language Class telah di inisialisasi
+INFO - 2018-08-01 10:13:36 --> Loader Class telah di inisialisasi
+INFO - 2018-08-01 10:13:36 --> Helper telah dimuat: url_helper
+INFO - 2018-08-01 10:13:36 --> Controller Class telah di inisialisasi
+DEBUG - 2018-08-01 10:13:36 --> Session: "sess_save_path" kosong; pakai "session.save_path" data dari php.ini.
+INFO - 2018-08-01 10:13:36 --> Session: Class initialized using 'files' driver.
+INFO - 2018-08-01 10:13:36 --> Helper telah dimuat: file_helper
+INFO - 2018-08-01 10:13:36 --> File telah dimuat: D:\XAMPP\htdocs\jb\application\views\jebews/html/head.php
+INFO - 2018-08-01 10:13:36 --> File telah dimuat: D:\XAMPP\htdocs\jb\application\views\jebews/product/add.php
+INFO - 2018-08-01 10:13:36 --> Output akhir dikirim ke browser
+DEBUG - 2018-08-01 10:13:36 --> Total waktu eksekusi: 0.2946
+INFO - 2018-08-01 10:14:50 --> Config Class telah di inisialisasi
+INFO - 2018-08-01 10:14:50 --> Hooks Class telah di inisialisasi
+DEBUG - 2018-08-01 10:14:50 --> UTF-8 Support Aktif
+INFO - 2018-08-01 10:14:50 --> Utf8 Class telah di inisialisasi
+INFO - 2018-08-01 10:14:50 --> URI Class telah di inisialisasi
+INFO - 2018-08-01 10:14:50 --> Router Class telah di inisialisasi
+INFO - 2018-08-01 10:14:50 --> Output Class telah di inisialisasi
+INFO - 2018-08-01 10:14:50 --> Security Class telah di inisialisasi
+DEBUG - 2018-08-01 10:14:50 --> Global POST, GET dan COOKIE data telah disanitasi
+INFO - 2018-08-01 10:14:50 --> Input Class telah di inisialisasi
+INFO - 2018-08-01 10:14:50 --> Language Class telah di inisialisasi
+INFO - 2018-08-01 10:14:50 --> Loader Class telah di inisialisasi
+INFO - 2018-08-01 10:14:50 --> Helper telah dimuat: url_helper
+INFO - 2018-08-01 10:14:50 --> Controller Class telah di inisialisasi
+DEBUG - 2018-08-01 10:14:50 --> Session: "sess_save_path" kosong; pakai "session.save_path" data dari php.ini.
+INFO - 2018-08-01 10:14:50 --> Session: Class initialized using 'files' driver.
+INFO - 2018-08-01 10:14:50 --> Helper telah dimuat: file_helper
+INFO - 2018-08-01 10:14:50 --> File telah dimuat: D:\XAMPP\htdocs\jb\application\views\jebews/html/head.php
+INFO - 2018-08-01 10:14:51 --> File telah dimuat: D:\XAMPP\htdocs\jb\application\views\jebews/product/add.php
+INFO - 2018-08-01 10:14:51 --> Output akhir dikirim ke browser
+DEBUG - 2018-08-01 10:14:51 --> Total waktu eksekusi: 0.2946
+INFO - 2018-08-01 10:28:10 --> Config Class telah di inisialisasi
+INFO - 2018-08-01 10:28:10 --> Hooks Class telah di inisialisasi
+DEBUG - 2018-08-01 10:28:10 --> UTF-8 Support Aktif
+INFO - 2018-08-01 10:28:10 --> Utf8 Class telah di inisialisasi
+INFO - 2018-08-01 10:28:10 --> URI Class telah di inisialisasi
+INFO - 2018-08-01 10:28:10 --> Router Class telah di inisialisasi
+INFO - 2018-08-01 10:28:11 --> Output Class telah di inisialisasi
+INFO - 2018-08-01 10:28:11 --> Security Class telah di inisialisasi
+DEBUG - 2018-08-01 10:28:11 --> Global POST, GET dan COOKIE data telah disanitasi
+INFO - 2018-08-01 10:28:11 --> Input Class telah di inisialisasi
+INFO - 2018-08-01 10:28:11 --> Language Class telah di inisialisasi
+INFO - 2018-08-01 10:28:11 --> Loader Class telah di inisialisasi
+INFO - 2018-08-01 10:28:11 --> Helper telah dimuat: url_helper
+INFO - 2018-08-01 10:28:11 --> Controller Class telah di inisialisasi
+DEBUG - 2018-08-01 10:28:11 --> Session: "sess_save_path" kosong; pakai "session.save_path" data dari php.ini.
+INFO - 2018-08-01 10:28:11 --> Session: Class initialized using 'files' driver.
+INFO - 2018-08-01 10:28:11 --> Helper telah dimuat: cookie_helper
+INFO - 2018-08-01 10:28:11 --> File telah dimuat: D:\XAMPP\htdocs\jb\application\views\jebews/html/head.php
+INFO - 2018-08-01 10:28:11 --> File telah dimuat: D:\XAMPP\htdocs\jb\application\views\jebews/product/manage.php
+INFO - 2018-08-01 10:28:11 --> Output akhir dikirim ke browser
+DEBUG - 2018-08-01 10:28:11 --> Total waktu eksekusi: 0.2810
+INFO - 2018-08-01 10:28:11 --> Config Class telah di inisialisasi
+INFO - 2018-08-01 10:28:11 --> Hooks Class telah di inisialisasi
+DEBUG - 2018-08-01 10:28:11 --> UTF-8 Support Aktif
+INFO - 2018-08-01 10:28:11 --> Utf8 Class telah di inisialisasi
+INFO - 2018-08-01 10:28:11 --> URI Class telah di inisialisasi
+INFO - 2018-08-01 10:28:11 --> Router Class telah di inisialisasi
+INFO - 2018-08-01 10:28:11 --> Output Class telah di inisialisasi
+INFO - 2018-08-01 10:28:11 --> Security Class telah di inisialisasi
+DEBUG - 2018-08-01 10:28:11 --> Global POST, GET dan COOKIE data telah disanitasi
+INFO - 2018-08-01 10:28:11 --> Input Class telah di inisialisasi
+INFO - 2018-08-01 10:28:11 --> Language Class telah di inisialisasi
+INFO - 2018-08-01 10:28:11 --> Loader Class telah di inisialisasi
+INFO - 2018-08-01 10:28:11 --> Helper telah dimuat: url_helper
+INFO - 2018-08-01 10:28:11 --> Controller Class telah di inisialisasi
+DEBUG - 2018-08-01 10:28:11 --> Session: "sess_save_path" kosong; pakai "session.save_path" data dari php.ini.
+INFO - 2018-08-01 10:28:11 --> Session: Class initialized using 'files' driver.
+INFO - 2018-08-01 10:28:11 --> Helper telah dimuat: cookie_helper
+INFO - 2018-08-01 10:28:11 --> Database Driver Class telah di inisialisasi
+INFO - 2018-08-01 10:28:11 --> Model "datatable" telah di inisialisasi
+INFO - 2018-08-01 10:28:11 --> Output akhir dikirim ke browser
+DEBUG - 2018-08-01 10:28:11 --> Total waktu eksekusi: 0.3590
+INFO - 2018-08-01 10:28:29 --> Config Class telah di inisialisasi
+INFO - 2018-08-01 10:28:29 --> Hooks Class telah di inisialisasi
+DEBUG - 2018-08-01 10:28:29 --> UTF-8 Support Aktif
+INFO - 2018-08-01 10:28:29 --> Utf8 Class telah di inisialisasi
+INFO - 2018-08-01 10:28:29 --> URI Class telah di inisialisasi
+INFO - 2018-08-01 10:28:29 --> Router Class telah di inisialisasi
+INFO - 2018-08-01 10:28:29 --> Output Class telah di inisialisasi
+INFO - 2018-08-01 10:28:29 --> Security Class telah di inisialisasi
+DEBUG - 2018-08-01 10:28:29 --> Global POST, GET dan COOKIE data telah disanitasi
+INFO - 2018-08-01 10:28:29 --> Input Class telah di inisialisasi
+INFO - 2018-08-01 10:28:29 --> Language Class telah di inisialisasi
+INFO - 2018-08-01 10:28:29 --> Loader Class telah di inisialisasi
+INFO - 2018-08-01 10:28:29 --> Helper telah dimuat: url_helper
+INFO - 2018-08-01 10:28:29 --> Controller Class telah di inisialisasi
+INFO - 2018-08-01 10:29:01 --> Config Class telah di inisialisasi
+INFO - 2018-08-01 10:29:01 --> Hooks Class telah di inisialisasi
+DEBUG - 2018-08-01 10:29:01 --> UTF-8 Support Aktif
+INFO - 2018-08-01 10:29:01 --> Utf8 Class telah di inisialisasi
+INFO - 2018-08-01 10:29:01 --> URI Class telah di inisialisasi
+INFO - 2018-08-01 10:29:01 --> Router Class telah di inisialisasi
+INFO - 2018-08-01 10:29:01 --> Output Class telah di inisialisasi
+INFO - 2018-08-01 10:29:01 --> Security Class telah di inisialisasi
+DEBUG - 2018-08-01 10:29:01 --> Global POST, GET dan COOKIE data telah disanitasi
+INFO - 2018-08-01 10:29:01 --> Input Class telah di inisialisasi
+INFO - 2018-08-01 10:29:01 --> Language Class telah di inisialisasi
+INFO - 2018-08-01 10:29:01 --> Loader Class telah di inisialisasi
+INFO - 2018-08-01 10:29:01 --> Helper telah dimuat: url_helper
+INFO - 2018-08-01 10:29:01 --> Controller Class telah di inisialisasi
+INFO - 2018-08-01 10:36:16 --> Config Class telah di inisialisasi
+INFO - 2018-08-01 10:36:17 --> Hooks Class telah di inisialisasi
+DEBUG - 2018-08-01 10:36:17 --> UTF-8 Support Aktif
+INFO - 2018-08-01 10:36:17 --> Utf8 Class telah di inisialisasi
+INFO - 2018-08-01 10:36:17 --> URI Class telah di inisialisasi
+INFO - 2018-08-01 10:36:17 --> Router Class telah di inisialisasi
+INFO - 2018-08-01 10:36:17 --> Output Class telah di inisialisasi
+INFO - 2018-08-01 10:36:17 --> Security Class telah di inisialisasi
+DEBUG - 2018-08-01 10:36:17 --> Global POST, GET dan COOKIE data telah disanitasi
+INFO - 2018-08-01 10:36:17 --> Input Class telah di inisialisasi
+INFO - 2018-08-01 10:36:17 --> Language Class telah di inisialisasi
+INFO - 2018-08-01 10:36:17 --> Loader Class telah di inisialisasi
+INFO - 2018-08-01 10:36:17 --> Helper telah dimuat: url_helper
+INFO - 2018-08-01 10:36:17 --> Controller Class telah di inisialisasi
+DEBUG - 2018-08-01 10:36:17 --> Session: "sess_save_path" kosong; pakai "session.save_path" data dari php.ini.
+INFO - 2018-08-01 10:36:17 --> Session: Class initialized using 'files' driver.
+INFO - 2018-08-01 10:36:17 --> Helper telah dimuat: file_helper
+INFO - 2018-08-01 10:36:17 --> File telah dimuat: D:\XAMPP\htdocs\jb\application\views\jebews/html/head.php
+INFO - 2018-08-01 10:36:17 --> File telah dimuat: D:\XAMPP\htdocs\jb\application\views\jebews/product/add.php
+INFO - 2018-08-01 10:36:17 --> Output akhir dikirim ke browser
+DEBUG - 2018-08-01 10:36:17 --> Total waktu eksekusi: 0.3092
+INFO - 2018-08-01 10:36:28 --> Config Class telah di inisialisasi
+INFO - 2018-08-01 10:36:28 --> Hooks Class telah di inisialisasi
+DEBUG - 2018-08-01 10:36:28 --> UTF-8 Support Aktif
+INFO - 2018-08-01 10:36:28 --> Utf8 Class telah di inisialisasi
+INFO - 2018-08-01 10:36:28 --> URI Class telah di inisialisasi
+DEBUG - 2018-08-01 10:36:28 --> Tidak ada URI. Memakai Default controller.
+INFO - 2018-08-01 10:36:28 --> Router Class telah di inisialisasi
+INFO - 2018-08-01 10:36:28 --> Output Class telah di inisialisasi
+INFO - 2018-08-01 10:36:28 --> Security Class telah di inisialisasi
+DEBUG - 2018-08-01 10:36:28 --> Global POST, GET dan COOKIE data telah disanitasi
+INFO - 2018-08-01 10:36:28 --> Input Class telah di inisialisasi
+INFO - 2018-08-01 10:36:28 --> Language Class telah di inisialisasi
+INFO - 2018-08-01 10:36:28 --> Loader Class telah di inisialisasi
+INFO - 2018-08-01 10:36:28 --> Helper telah dimuat: url_helper
+INFO - 2018-08-01 10:36:28 --> Controller Class telah di inisialisasi
+INFO - 2018-08-01 10:36:28 --> File telah dimuat: D:\XAMPP\htdocs\jb\application\views\html/head.php
+INFO - 2018-08-01 10:36:28 --> Database Driver Class telah di inisialisasi
+INFO - 2018-08-01 10:36:28 --> File telah dimuat: D:\XAMPP\htdocs\jb\application\views\home.php
+INFO - 2018-08-01 10:36:28 --> Output akhir dikirim ke browser
+DEBUG - 2018-08-01 10:36:28 --> Total waktu eksekusi: 0.3396
+INFO - 2018-08-01 10:37:06 --> Config Class telah di inisialisasi
+INFO - 2018-08-01 10:37:06 --> Hooks Class telah di inisialisasi
+DEBUG - 2018-08-01 10:37:06 --> UTF-8 Support Aktif
+INFO - 2018-08-01 10:37:06 --> Utf8 Class telah di inisialisasi
+INFO - 2018-08-01 10:37:06 --> URI Class telah di inisialisasi
+INFO - 2018-08-01 10:37:06 --> Router Class telah di inisialisasi
+INFO - 2018-08-01 10:37:06 --> Output Class telah di inisialisasi
+INFO - 2018-08-01 10:37:06 --> Security Class telah di inisialisasi
+DEBUG - 2018-08-01 10:37:06 --> Global POST, GET dan COOKIE data telah disanitasi
+INFO - 2018-08-01 10:37:06 --> Input Class telah di inisialisasi
+INFO - 2018-08-01 10:37:06 --> Language Class telah di inisialisasi
+INFO - 2018-08-01 10:37:06 --> Loader Class telah di inisialisasi
+INFO - 2018-08-01 10:37:06 --> Helper telah dimuat: url_helper
+INFO - 2018-08-01 10:37:06 --> Controller Class telah di inisialisasi
+DEBUG - 2018-08-01 10:37:06 --> Session: "sess_save_path" kosong; pakai "session.save_path" data dari php.ini.
+INFO - 2018-08-01 10:37:06 --> Session: Class initialized using 'files' driver.
+INFO - 2018-08-01 10:37:06 --> Helper telah dimuat: file_helper
+INFO - 2018-08-01 10:37:06 --> File telah dimuat: D:\XAMPP\htdocs\jb\application\views\jebews/html/head.php
+INFO - 2018-08-01 10:37:06 --> File telah dimuat: D:\XAMPP\htdocs\jb\application\views\jebews/product/add.php
+INFO - 2018-08-01 10:37:06 --> Output akhir dikirim ke browser
+DEBUG - 2018-08-01 10:37:06 --> Total waktu eksekusi: 0.3026
+INFO - 2018-08-01 10:49:02 --> Config Class telah di inisialisasi
+INFO - 2018-08-01 10:49:02 --> Hooks Class telah di inisialisasi
+DEBUG - 2018-08-01 10:49:02 --> UTF-8 Support Aktif
+INFO - 2018-08-01 10:49:02 --> Utf8 Class telah di inisialisasi
+INFO - 2018-08-01 10:49:02 --> URI Class telah di inisialisasi
+INFO - 2018-08-01 10:49:02 --> Router Class telah di inisialisasi
+INFO - 2018-08-01 10:49:02 --> Output Class telah di inisialisasi
+INFO - 2018-08-01 10:49:02 --> Security Class telah di inisialisasi
+DEBUG - 2018-08-01 10:49:02 --> Global POST, GET dan COOKIE data telah disanitasi
+INFO - 2018-08-01 10:49:02 --> Input Class telah di inisialisasi
+INFO - 2018-08-01 10:49:02 --> Language Class telah di inisialisasi
+INFO - 2018-08-01 10:49:02 --> Loader Class telah di inisialisasi
+INFO - 2018-08-01 10:49:02 --> Helper telah dimuat: url_helper
+INFO - 2018-08-01 10:49:02 --> Controller Class telah di inisialisasi
+DEBUG - 2018-08-01 10:49:02 --> Session: "sess_save_path" kosong; pakai "session.save_path" data dari php.ini.
+INFO - 2018-08-01 10:49:02 --> Session: Class initialized using 'files' driver.
+INFO - 2018-08-01 10:49:02 --> Helper telah dimuat: cookie_helper
+INFO - 2018-08-01 10:49:02 --> File telah dimuat: D:\XAMPP\htdocs\jb\application\views\jebews/html/head.php
+INFO - 2018-08-01 10:49:02 --> File telah dimuat: D:\XAMPP\htdocs\jb\application\views\jebews/product/manage.php
+INFO - 2018-08-01 10:49:02 --> Output akhir dikirim ke browser
+DEBUG - 2018-08-01 10:49:02 --> Total waktu eksekusi: 0.2840
+INFO - 2018-08-01 10:49:02 --> Config Class telah di inisialisasi
+INFO - 2018-08-01 10:49:02 --> Hooks Class telah di inisialisasi
+DEBUG - 2018-08-01 10:49:02 --> UTF-8 Support Aktif
+INFO - 2018-08-01 10:49:02 --> Utf8 Class telah di inisialisasi
+INFO - 2018-08-01 10:49:02 --> URI Class telah di inisialisasi
+INFO - 2018-08-01 10:49:02 --> Router Class telah di inisialisasi
+INFO - 2018-08-01 10:49:02 --> Output Class telah di inisialisasi
+INFO - 2018-08-01 10:49:02 --> Security Class telah di inisialisasi
+DEBUG - 2018-08-01 10:49:02 --> Global POST, GET dan COOKIE data telah disanitasi
+INFO - 2018-08-01 10:49:02 --> Input Class telah di inisialisasi
+INFO - 2018-08-01 10:49:02 --> Language Class telah di inisialisasi
+INFO - 2018-08-01 10:49:02 --> Loader Class telah di inisialisasi
+INFO - 2018-08-01 10:49:02 --> Helper telah dimuat: url_helper
+INFO - 2018-08-01 10:49:02 --> Controller Class telah di inisialisasi
+DEBUG - 2018-08-01 10:49:02 --> Session: "sess_save_path" kosong; pakai "session.save_path" data dari php.ini.
+INFO - 2018-08-01 10:49:02 --> Session: Class initialized using 'files' driver.
+INFO - 2018-08-01 10:49:02 --> Helper telah dimuat: cookie_helper
+INFO - 2018-08-01 10:49:02 --> Database Driver Class telah di inisialisasi
+INFO - 2018-08-01 10:49:02 --> Model "datatable" telah di inisialisasi
+INFO - 2018-08-01 10:49:02 --> Output akhir dikirim ke browser
+DEBUG - 2018-08-01 10:49:02 --> Total waktu eksekusi: 0.3600
+INFO - 2018-08-01 10:49:07 --> Config Class telah di inisialisasi
+INFO - 2018-08-01 10:49:07 --> Hooks Class telah di inisialisasi
+DEBUG - 2018-08-01 10:49:07 --> UTF-8 Support Aktif
+INFO - 2018-08-01 10:49:07 --> Utf8 Class telah di inisialisasi
+INFO - 2018-08-01 10:49:07 --> URI Class telah di inisialisasi
+INFO - 2018-08-01 10:49:07 --> Router Class telah di inisialisasi
+INFO - 2018-08-01 10:49:07 --> Output Class telah di inisialisasi
+INFO - 2018-08-01 10:49:07 --> Security Class telah di inisialisasi
+DEBUG - 2018-08-01 10:49:07 --> Global POST, GET dan COOKIE data telah disanitasi
+INFO - 2018-08-01 10:49:07 --> Input Class telah di inisialisasi
+INFO - 2018-08-01 10:49:07 --> Language Class telah di inisialisasi
+INFO - 2018-08-01 10:49:07 --> Loader Class telah di inisialisasi
+INFO - 2018-08-01 10:49:07 --> Helper telah dimuat: url_helper
+INFO - 2018-08-01 10:49:07 --> Controller Class telah di inisialisasi
+DEBUG - 2018-08-01 10:49:07 --> Session: "sess_save_path" kosong; pakai "session.save_path" data dari php.ini.
+INFO - 2018-08-01 10:49:07 --> Session: Class initialized using 'files' driver.
+INFO - 2018-08-01 10:49:07 --> Model "product" telah di inisialisasi
+INFO - 2018-08-01 10:49:07 --> Model "visitor" telah di inisialisasi
+INFO - 2018-08-01 10:49:07 --> Helper telah dimuat: tools_helper
+INFO - 2018-08-01 10:49:07 --> File telah dimuat: D:\XAMPP\htdocs\jb\application\views\jebews/html/head.php
+INFO - 2018-08-01 10:49:07 --> Database Driver Class telah di inisialisasi
+INFO - 2018-08-01 10:49:07 --> File telah dimuat: D:\XAMPP\htdocs\jb\application\views\jebews/dashboard.php
+INFO - 2018-08-01 10:49:07 --> Output akhir dikirim ke browser
+DEBUG - 2018-08-01 10:49:07 --> Total waktu eksekusi: 0.3796
+INFO - 2018-08-01 10:49:46 --> Config Class telah di inisialisasi
+INFO - 2018-08-01 10:49:46 --> Hooks Class telah di inisialisasi
+DEBUG - 2018-08-01 10:49:46 --> UTF-8 Support Aktif
+INFO - 2018-08-01 10:49:46 --> Utf8 Class telah di inisialisasi
+INFO - 2018-08-01 10:49:46 --> URI Class telah di inisialisasi
+INFO - 2018-08-01 10:49:46 --> Router Class telah di inisialisasi
+INFO - 2018-08-01 10:49:46 --> Output Class telah di inisialisasi
+INFO - 2018-08-01 10:49:46 --> Security Class telah di inisialisasi
+DEBUG - 2018-08-01 10:49:46 --> Global POST, GET dan COOKIE data telah disanitasi
+INFO - 2018-08-01 10:49:46 --> Input Class telah di inisialisasi
+INFO - 2018-08-01 10:49:46 --> Language Class telah di inisialisasi
+INFO - 2018-08-01 10:49:46 --> Loader Class telah di inisialisasi
+INFO - 2018-08-01 10:49:46 --> Helper telah dimuat: url_helper
+INFO - 2018-08-01 10:49:46 --> Controller Class telah di inisialisasi
+DEBUG - 2018-08-01 10:49:46 --> Session: "sess_save_path" kosong; pakai "session.save_path" data dari php.ini.
+INFO - 2018-08-01 10:49:47 --> Session: Class initialized using 'files' driver.
+INFO - 2018-08-01 10:49:47 --> Model "product" telah di inisialisasi
+INFO - 2018-08-01 10:49:47 --> Model "visitor" telah di inisialisasi
+INFO - 2018-08-01 10:49:47 --> Helper telah dimuat: tools_helper
+INFO - 2018-08-01 10:49:47 --> File telah dimuat: D:\XAMPP\htdocs\jb\application\views\jebews/html/head.php
+INFO - 2018-08-01 10:49:47 --> Database Driver Class telah di inisialisasi
+ERROR - 2018-08-01 10:49:47 --> Query error: [Microsoft][ODBC Driver 13 for SQL Server][SQL Server]Incorrect syntax near 'DRAFT'. - Query tidak valid: SELECT *
+FROM "PRODUCT"
+WHERE "STATUS" != "=" 'DRAFT'
+AND "QUANTITY" != 0
+INFO - 2018-08-01 10:49:47 --> File bahasa dimuat: language/indonesia/db_lang.php
+INFO - 2018-08-01 10:50:03 --> Config Class telah di inisialisasi
+INFO - 2018-08-01 10:50:03 --> Hooks Class telah di inisialisasi
+DEBUG - 2018-08-01 10:50:03 --> UTF-8 Support Aktif
+INFO - 2018-08-01 10:50:03 --> Utf8 Class telah di inisialisasi
+INFO - 2018-08-01 10:50:03 --> URI Class telah di inisialisasi
+INFO - 2018-08-01 10:50:03 --> Router Class telah di inisialisasi
+INFO - 2018-08-01 10:50:03 --> Output Class telah di inisialisasi
+INFO - 2018-08-01 10:50:03 --> Security Class telah di inisialisasi
+DEBUG - 2018-08-01 10:50:03 --> Global POST, GET dan COOKIE data telah disanitasi
+INFO - 2018-08-01 10:50:03 --> Input Class telah di inisialisasi
+INFO - 2018-08-01 10:50:03 --> Language Class telah di inisialisasi
+INFO - 2018-08-01 10:50:03 --> Loader Class telah di inisialisasi
+INFO - 2018-08-01 10:50:03 --> Helper telah dimuat: url_helper
+INFO - 2018-08-01 10:50:03 --> Controller Class telah di inisialisasi
+DEBUG - 2018-08-01 10:50:03 --> Session: "sess_save_path" kosong; pakai "session.save_path" data dari php.ini.
+INFO - 2018-08-01 10:50:03 --> Session: Class initialized using 'files' driver.
+INFO - 2018-08-01 10:50:03 --> Model "product" telah di inisialisasi
+INFO - 2018-08-01 10:50:03 --> Model "visitor" telah di inisialisasi
+INFO - 2018-08-01 10:50:03 --> Helper telah dimuat: tools_helper
+INFO - 2018-08-01 10:50:03 --> File telah dimuat: D:\XAMPP\htdocs\jb\application\views\jebews/html/head.php
+INFO - 2018-08-01 10:50:03 --> Database Driver Class telah di inisialisasi
+INFO - 2018-08-01 10:50:03 --> File telah dimuat: D:\XAMPP\htdocs\jb\application\views\jebews/dashboard.php
+INFO - 2018-08-01 10:50:03 --> Output akhir dikirim ke browser
+DEBUG - 2018-08-01 10:50:04 --> Total waktu eksekusi: 0.3760
+INFO - 2018-08-01 10:51:37 --> Config Class telah di inisialisasi
+INFO - 2018-08-01 10:51:37 --> Hooks Class telah di inisialisasi
+DEBUG - 2018-08-01 10:51:37 --> UTF-8 Support Aktif
+INFO - 2018-08-01 10:51:37 --> Utf8 Class telah di inisialisasi
+INFO - 2018-08-01 10:51:37 --> URI Class telah di inisialisasi
+INFO - 2018-08-01 10:51:37 --> Router Class telah di inisialisasi
+INFO - 2018-08-01 10:51:37 --> Output Class telah di inisialisasi
+INFO - 2018-08-01 10:51:37 --> Security Class telah di inisialisasi
+DEBUG - 2018-08-01 10:51:37 --> Global POST, GET dan COOKIE data telah disanitasi
+INFO - 2018-08-01 10:51:37 --> Input Class telah di inisialisasi
+INFO - 2018-08-01 10:51:37 --> Language Class telah di inisialisasi
+INFO - 2018-08-01 10:51:37 --> Loader Class telah di inisialisasi
+INFO - 2018-08-01 10:51:37 --> Helper telah dimuat: url_helper
+INFO - 2018-08-01 10:51:37 --> Controller Class telah di inisialisasi
+DEBUG - 2018-08-01 10:51:37 --> Session: "sess_save_path" kosong; pakai "session.save_path" data dari php.ini.
+INFO - 2018-08-01 10:51:37 --> Session: Class initialized using 'files' driver.
+INFO - 2018-08-01 10:51:37 --> Helper telah dimuat: cookie_helper
+INFO - 2018-08-01 10:51:37 --> File telah dimuat: D:\XAMPP\htdocs\jb\application\views\jebews/html/head.php
+INFO - 2018-08-01 10:51:37 --> File telah dimuat: D:\XAMPP\htdocs\jb\application\views\jebews/product/manage.php
+INFO - 2018-08-01 10:51:37 --> Output akhir dikirim ke browser
+DEBUG - 2018-08-01 10:51:37 --> Total waktu eksekusi: 0.2880
+INFO - 2018-08-01 10:51:37 --> Config Class telah di inisialisasi
+INFO - 2018-08-01 10:51:37 --> Hooks Class telah di inisialisasi
+DEBUG - 2018-08-01 10:51:37 --> UTF-8 Support Aktif
+INFO - 2018-08-01 10:51:37 --> Utf8 Class telah di inisialisasi
+INFO - 2018-08-01 10:51:37 --> URI Class telah di inisialisasi
+INFO - 2018-08-01 10:51:37 --> Router Class telah di inisialisasi
+INFO - 2018-08-01 10:51:37 --> Output Class telah di inisialisasi
+INFO - 2018-08-01 10:51:37 --> Security Class telah di inisialisasi
+DEBUG - 2018-08-01 10:51:37 --> Global POST, GET dan COOKIE data telah disanitasi
+INFO - 2018-08-01 10:51:37 --> Input Class telah di inisialisasi
+INFO - 2018-08-01 10:51:37 --> Language Class telah di inisialisasi
+INFO - 2018-08-01 10:51:37 --> Loader Class telah di inisialisasi
+INFO - 2018-08-01 10:51:37 --> Helper telah dimuat: url_helper
+INFO - 2018-08-01 10:51:38 --> Controller Class telah di inisialisasi
+DEBUG - 2018-08-01 10:51:38 --> Session: "sess_save_path" kosong; pakai "session.save_path" data dari php.ini.
+INFO - 2018-08-01 10:51:38 --> Session: Class initialized using 'files' driver.
+INFO - 2018-08-01 10:51:38 --> Helper telah dimuat: cookie_helper
+INFO - 2018-08-01 10:51:38 --> Database Driver Class telah di inisialisasi
+INFO - 2018-08-01 10:51:38 --> Model "datatable" telah di inisialisasi
+INFO - 2018-08-01 10:51:38 --> Output akhir dikirim ke browser
+DEBUG - 2018-08-01 10:51:38 --> Total waktu eksekusi: 0.3540
+INFO - 2018-08-01 10:51:51 --> Config Class telah di inisialisasi
+INFO - 2018-08-01 10:51:51 --> Hooks Class telah di inisialisasi
+DEBUG - 2018-08-01 10:51:51 --> UTF-8 Support Aktif
+INFO - 2018-08-01 10:51:51 --> Utf8 Class telah di inisialisasi
+INFO - 2018-08-01 10:51:51 --> URI Class telah di inisialisasi
+INFO - 2018-08-01 10:51:51 --> Router Class telah di inisialisasi
+INFO - 2018-08-01 10:51:51 --> Output Class telah di inisialisasi
+INFO - 2018-08-01 10:51:51 --> Security Class telah di inisialisasi
+DEBUG - 2018-08-01 10:51:51 --> Global POST, GET dan COOKIE data telah disanitasi
+INFO - 2018-08-01 10:51:51 --> Input Class telah di inisialisasi
+INFO - 2018-08-01 10:51:51 --> Language Class telah di inisialisasi
+INFO - 2018-08-01 10:51:51 --> Loader Class telah di inisialisasi
+INFO - 2018-08-01 10:51:51 --> Helper telah dimuat: url_helper
+INFO - 2018-08-01 10:51:51 --> Controller Class telah di inisialisasi
+DEBUG - 2018-08-01 10:51:51 --> Session: "sess_save_path" kosong; pakai "session.save_path" data dari php.ini.
+INFO - 2018-08-01 10:51:51 --> Session: Class initialized using 'files' driver.
+INFO - 2018-08-01 10:51:51 --> Helper telah dimuat: cookie_helper
+INFO - 2018-08-01 10:51:52 --> Database Driver Class telah di inisialisasi
+INFO - 2018-08-01 10:51:52 --> Model "datatable" telah di inisialisasi
+INFO - 2018-08-01 10:51:52 --> Output akhir dikirim ke browser
+DEBUG - 2018-08-01 10:51:52 --> Total waktu eksekusi: 0.3012
+INFO - 2018-08-01 10:51:53 --> Config Class telah di inisialisasi
+INFO - 2018-08-01 10:51:53 --> Hooks Class telah di inisialisasi
+DEBUG - 2018-08-01 10:51:53 --> UTF-8 Support Aktif
+INFO - 2018-08-01 10:51:53 --> Utf8 Class telah di inisialisasi
+INFO - 2018-08-01 10:51:53 --> URI Class telah di inisialisasi
+INFO - 2018-08-01 10:51:53 --> Router Class telah di inisialisasi
+INFO - 2018-08-01 10:51:53 --> Output Class telah di inisialisasi
+INFO - 2018-08-01 10:51:53 --> Security Class telah di inisialisasi
+DEBUG - 2018-08-01 10:51:53 --> Global POST, GET dan COOKIE data telah disanitasi
+INFO - 2018-08-01 10:51:53 --> Input Class telah di inisialisasi
+INFO - 2018-08-01 10:51:53 --> Language Class telah di inisialisasi
+INFO - 2018-08-01 10:51:53 --> Loader Class telah di inisialisasi
+INFO - 2018-08-01 10:51:53 --> Helper telah dimuat: url_helper
+INFO - 2018-08-01 10:51:53 --> Controller Class telah di inisialisasi
+DEBUG - 2018-08-01 10:51:53 --> Session: "sess_save_path" kosong; pakai "session.save_path" data dari php.ini.
+INFO - 2018-08-01 10:51:53 --> Session: Class initialized using 'files' driver.
+INFO - 2018-08-01 10:51:53 --> Helper telah dimuat: cookie_helper
+INFO - 2018-08-01 10:51:53 --> Database Driver Class telah di inisialisasi
+INFO - 2018-08-01 10:51:53 --> Model "datatable" telah di inisialisasi
+INFO - 2018-08-01 10:51:53 --> Output akhir dikirim ke browser
+DEBUG - 2018-08-01 10:51:53 --> Total waktu eksekusi: 0.2932
+INFO - 2018-08-01 10:51:58 --> Config Class telah di inisialisasi
+INFO - 2018-08-01 10:51:58 --> Hooks Class telah di inisialisasi
+DEBUG - 2018-08-01 10:51:58 --> UTF-8 Support Aktif
+INFO - 2018-08-01 10:51:58 --> Utf8 Class telah di inisialisasi
+INFO - 2018-08-01 10:51:58 --> URI Class telah di inisialisasi
+INFO - 2018-08-01 10:51:58 --> Router Class telah di inisialisasi
+INFO - 2018-08-01 10:51:58 --> Output Class telah di inisialisasi
+INFO - 2018-08-01 10:51:58 --> Security Class telah di inisialisasi
+DEBUG - 2018-08-01 10:51:58 --> Global POST, GET dan COOKIE data telah disanitasi
+INFO - 2018-08-01 10:51:58 --> Input Class telah di inisialisasi
+INFO - 2018-08-01 10:51:58 --> Language Class telah di inisialisasi
+INFO - 2018-08-01 10:51:58 --> Loader Class telah di inisialisasi
+INFO - 2018-08-01 10:51:58 --> Helper telah dimuat: url_helper
+INFO - 2018-08-01 10:51:58 --> Controller Class telah di inisialisasi
+DEBUG - 2018-08-01 10:51:58 --> Session: "sess_save_path" kosong; pakai "session.save_path" data dari php.ini.
+INFO - 2018-08-01 10:51:58 --> Session: Class initialized using 'files' driver.
+INFO - 2018-08-01 10:51:58 --> Helper telah dimuat: cookie_helper
+INFO - 2018-08-01 10:51:58 --> Database Driver Class telah di inisialisasi
+INFO - 2018-08-01 10:51:58 --> Model "datatable" telah di inisialisasi
+INFO - 2018-08-01 10:51:58 --> Output akhir dikirim ke browser
+DEBUG - 2018-08-01 10:51:58 --> Total waktu eksekusi: 0.2880
+INFO - 2018-08-01 10:52:00 --> Config Class telah di inisialisasi
+INFO - 2018-08-01 10:52:00 --> Hooks Class telah di inisialisasi
+DEBUG - 2018-08-01 10:52:00 --> UTF-8 Support Aktif
+INFO - 2018-08-01 10:52:00 --> Utf8 Class telah di inisialisasi
+INFO - 2018-08-01 10:52:00 --> URI Class telah di inisialisasi
+INFO - 2018-08-01 10:52:00 --> Router Class telah di inisialisasi
+INFO - 2018-08-01 10:52:00 --> Output Class telah di inisialisasi
+INFO - 2018-08-01 10:52:00 --> Security Class telah di inisialisasi
+DEBUG - 2018-08-01 10:52:00 --> Global POST, GET dan COOKIE data telah disanitasi
+INFO - 2018-08-01 10:52:00 --> Input Class telah di inisialisasi
+INFO - 2018-08-01 10:52:00 --> Language Class telah di inisialisasi
+INFO - 2018-08-01 10:52:00 --> Loader Class telah di inisialisasi
+INFO - 2018-08-01 10:52:00 --> Helper telah dimuat: url_helper
+INFO - 2018-08-01 10:52:00 --> Controller Class telah di inisialisasi
+DEBUG - 2018-08-01 10:52:00 --> Session: "sess_save_path" kosong; pakai "session.save_path" data dari php.ini.
+INFO - 2018-08-01 10:52:00 --> Session: Class initialized using 'files' driver.
+INFO - 2018-08-01 10:52:00 --> Helper telah dimuat: cookie_helper
+INFO - 2018-08-01 10:52:00 --> Database Driver Class telah di inisialisasi
+INFO - 2018-08-01 10:52:00 --> Model "datatable" telah di inisialisasi
+INFO - 2018-08-01 10:52:00 --> Output akhir dikirim ke browser
+DEBUG - 2018-08-01 10:52:00 --> Total waktu eksekusi: 0.3088
+INFO - 2018-08-01 11:00:18 --> Config Class telah di inisialisasi
+INFO - 2018-08-01 11:00:18 --> Hooks Class telah di inisialisasi
+DEBUG - 2018-08-01 11:00:18 --> UTF-8 Support Aktif
+INFO - 2018-08-01 11:00:18 --> Utf8 Class telah di inisialisasi
+INFO - 2018-08-01 11:00:18 --> URI Class telah di inisialisasi
+INFO - 2018-08-01 11:00:18 --> Router Class telah di inisialisasi
+INFO - 2018-08-01 11:00:18 --> Output Class telah di inisialisasi
+INFO - 2018-08-01 11:00:18 --> Security Class telah di inisialisasi
+DEBUG - 2018-08-01 11:00:18 --> Global POST, GET dan COOKIE data telah disanitasi
+INFO - 2018-08-01 11:00:18 --> Input Class telah di inisialisasi
+INFO - 2018-08-01 11:00:18 --> Language Class telah di inisialisasi
+INFO - 2018-08-01 11:00:18 --> Loader Class telah di inisialisasi
+INFO - 2018-08-01 11:00:18 --> Helper telah dimuat: url_helper
+INFO - 2018-08-01 11:00:18 --> Controller Class telah di inisialisasi
+DEBUG - 2018-08-01 11:00:18 --> Session: "sess_save_path" kosong; pakai "session.save_path" data dari php.ini.
+INFO - 2018-08-01 11:00:18 --> Session: Class initialized using 'files' driver.
+INFO - 2018-08-01 11:00:18 --> Helper telah dimuat: cookie_helper
+INFO - 2018-08-01 11:00:18 --> File telah dimuat: D:\XAMPP\htdocs\jb\application\views\jebews/html/head.php
+INFO - 2018-08-01 11:00:18 --> File telah dimuat: D:\XAMPP\htdocs\jb\application\views\jebews/product/manage.php
+INFO - 2018-08-01 11:00:18 --> Output akhir dikirim ke browser
+DEBUG - 2018-08-01 11:00:18 --> Total waktu eksekusi: 0.2860
+INFO - 2018-08-01 11:00:18 --> Config Class telah di inisialisasi
+INFO - 2018-08-01 11:00:18 --> Hooks Class telah di inisialisasi
+DEBUG - 2018-08-01 11:00:18 --> UTF-8 Support Aktif
+INFO - 2018-08-01 11:00:18 --> Utf8 Class telah di inisialisasi
+INFO - 2018-08-01 11:00:18 --> URI Class telah di inisialisasi
+INFO - 2018-08-01 11:00:18 --> Router Class telah di inisialisasi
+INFO - 2018-08-01 11:00:18 --> Output Class telah di inisialisasi
+INFO - 2018-08-01 11:00:18 --> Security Class telah di inisialisasi
+DEBUG - 2018-08-01 11:00:18 --> Global POST, GET dan COOKIE data telah disanitasi
+INFO - 2018-08-01 11:00:18 --> Input Class telah di inisialisasi
+INFO - 2018-08-01 11:00:18 --> Language Class telah di inisialisasi
+INFO - 2018-08-01 11:00:18 --> Loader Class telah di inisialisasi
+INFO - 2018-08-01 11:00:18 --> Helper telah dimuat: url_helper
+INFO - 2018-08-01 11:00:18 --> Controller Class telah di inisialisasi
+DEBUG - 2018-08-01 11:00:18 --> Session: "sess_save_path" kosong; pakai "session.save_path" data dari php.ini.
+INFO - 2018-08-01 11:00:18 --> Session: Class initialized using 'files' driver.
+INFO - 2018-08-01 11:00:18 --> Helper telah dimuat: cookie_helper
+INFO - 2018-08-01 11:00:19 --> Database Driver Class telah di inisialisasi
+INFO - 2018-08-01 11:00:19 --> Model "datatable" telah di inisialisasi
+INFO - 2018-08-01 11:00:19 --> Output akhir dikirim ke browser
+DEBUG - 2018-08-01 11:00:19 --> Total waktu eksekusi: 0.3700
+INFO - 2018-08-01 11:02:00 --> Config Class telah di inisialisasi
+INFO - 2018-08-01 11:02:00 --> Hooks Class telah di inisialisasi
+DEBUG - 2018-08-01 11:02:00 --> UTF-8 Support Aktif
+INFO - 2018-08-01 11:02:00 --> Utf8 Class telah di inisialisasi
+INFO - 2018-08-01 11:02:00 --> URI Class telah di inisialisasi
+INFO - 2018-08-01 11:02:00 --> Router Class telah di inisialisasi
+INFO - 2018-08-01 11:02:00 --> Output Class telah di inisialisasi
+INFO - 2018-08-01 11:02:00 --> Security Class telah di inisialisasi
+DEBUG - 2018-08-01 11:02:00 --> Global POST, GET dan COOKIE data telah disanitasi
+INFO - 2018-08-01 11:02:00 --> Input Class telah di inisialisasi
+INFO - 2018-08-01 11:02:00 --> Language Class telah di inisialisasi
+INFO - 2018-08-01 11:02:00 --> Loader Class telah di inisialisasi
+INFO - 2018-08-01 11:02:00 --> Helper telah dimuat: url_helper
+INFO - 2018-08-01 11:02:00 --> Controller Class telah di inisialisasi
+DEBUG - 2018-08-01 11:02:00 --> Session: "sess_save_path" kosong; pakai "session.save_path" data dari php.ini.
+INFO - 2018-08-01 11:02:00 --> Session: Class initialized using 'files' driver.
+INFO - 2018-08-01 11:02:00 --> Helper telah dimuat: cookie_helper
+INFO - 2018-08-01 11:02:00 --> File telah dimuat: D:\XAMPP\htdocs\jb\application\views\jebews/html/head.php
+INFO - 2018-08-01 11:02:00 --> File telah dimuat: D:\XAMPP\htdocs\jb\application\views\jebews/product/manage.php
+INFO - 2018-08-01 11:02:00 --> Output akhir dikirim ke browser
+DEBUG - 2018-08-01 11:02:00 --> Total waktu eksekusi: 0.3026
+INFO - 2018-08-01 11:02:01 --> Config Class telah di inisialisasi
+INFO - 2018-08-01 11:02:01 --> Hooks Class telah di inisialisasi
+DEBUG - 2018-08-01 11:02:01 --> UTF-8 Support Aktif
+INFO - 2018-08-01 11:02:01 --> Utf8 Class telah di inisialisasi
+INFO - 2018-08-01 11:02:01 --> URI Class telah di inisialisasi
+INFO - 2018-08-01 11:02:01 --> Router Class telah di inisialisasi
+INFO - 2018-08-01 11:02:01 --> Output Class telah di inisialisasi
+INFO - 2018-08-01 11:02:01 --> Security Class telah di inisialisasi
+DEBUG - 2018-08-01 11:02:01 --> Global POST, GET dan COOKIE data telah disanitasi
+INFO - 2018-08-01 11:02:01 --> Input Class telah di inisialisasi
+INFO - 2018-08-01 11:02:01 --> Language Class telah di inisialisasi
+INFO - 2018-08-01 11:02:01 --> Loader Class telah di inisialisasi
+INFO - 2018-08-01 11:02:01 --> Helper telah dimuat: url_helper
+INFO - 2018-08-01 11:02:01 --> Controller Class telah di inisialisasi
+DEBUG - 2018-08-01 11:02:01 --> Session: "sess_save_path" kosong; pakai "session.save_path" data dari php.ini.
+INFO - 2018-08-01 11:02:01 --> Session: Class initialized using 'files' driver.
+INFO - 2018-08-01 11:02:01 --> Helper telah dimuat: cookie_helper
+INFO - 2018-08-01 11:02:01 --> Database Driver Class telah di inisialisasi
+INFO - 2018-08-01 11:02:01 --> Model "datatable" telah di inisialisasi
+INFO - 2018-08-01 11:02:01 --> Output akhir dikirim ke browser
+DEBUG - 2018-08-01 11:02:01 --> Total waktu eksekusi: 0.3510
+INFO - 2018-08-01 11:04:39 --> Config Class telah di inisialisasi
+INFO - 2018-08-01 11:04:39 --> Hooks Class telah di inisialisasi
+DEBUG - 2018-08-01 11:04:39 --> UTF-8 Support Aktif
+INFO - 2018-08-01 11:04:39 --> Utf8 Class telah di inisialisasi
+INFO - 2018-08-01 11:04:39 --> URI Class telah di inisialisasi
+INFO - 2018-08-01 11:04:39 --> Router Class telah di inisialisasi
+INFO - 2018-08-01 11:04:39 --> Output Class telah di inisialisasi
+INFO - 2018-08-01 11:04:39 --> Security Class telah di inisialisasi
+DEBUG - 2018-08-01 11:04:39 --> Global POST, GET dan COOKIE data telah disanitasi
+INFO - 2018-08-01 11:04:39 --> Input Class telah di inisialisasi
+INFO - 2018-08-01 11:04:39 --> Language Class telah di inisialisasi
+INFO - 2018-08-01 11:04:39 --> Loader Class telah di inisialisasi
+INFO - 2018-08-01 11:04:39 --> Helper telah dimuat: url_helper
+INFO - 2018-08-01 11:04:39 --> Controller Class telah di inisialisasi
+DEBUG - 2018-08-01 11:04:39 --> Session: "sess_save_path" kosong; pakai "session.save_path" data dari php.ini.
+INFO - 2018-08-01 11:04:39 --> Session: Class initialized using 'files' driver.
+INFO - 2018-08-01 11:04:39 --> Helper telah dimuat: cookie_helper
+INFO - 2018-08-01 11:04:39 --> File telah dimuat: D:\XAMPP\htdocs\jb\application\views\jebews/html/head.php
+INFO - 2018-08-01 11:04:39 --> File telah dimuat: D:\XAMPP\htdocs\jb\application\views\jebews/product/manage.php
+INFO - 2018-08-01 11:04:39 --> Output akhir dikirim ke browser
+DEBUG - 2018-08-01 11:04:39 --> Total waktu eksekusi: 0.3420
+INFO - 2018-08-01 11:04:39 --> Config Class telah di inisialisasi
+INFO - 2018-08-01 11:04:39 --> Hooks Class telah di inisialisasi
+DEBUG - 2018-08-01 11:04:39 --> UTF-8 Support Aktif
+INFO - 2018-08-01 11:04:39 --> Utf8 Class telah di inisialisasi
+INFO - 2018-08-01 11:04:39 --> URI Class telah di inisialisasi
+INFO - 2018-08-01 11:04:39 --> Router Class telah di inisialisasi
+INFO - 2018-08-01 11:04:39 --> Output Class telah di inisialisasi
+INFO - 2018-08-01 11:04:39 --> Security Class telah di inisialisasi
+DEBUG - 2018-08-01 11:04:40 --> Global POST, GET dan COOKIE data telah disanitasi
+INFO - 2018-08-01 11:04:40 --> Input Class telah di inisialisasi
+INFO - 2018-08-01 11:04:40 --> Language Class telah di inisialisasi
+INFO - 2018-08-01 11:04:40 --> Loader Class telah di inisialisasi
+INFO - 2018-08-01 11:04:40 --> Helper telah dimuat: url_helper
+INFO - 2018-08-01 11:04:40 --> Controller Class telah di inisialisasi
+DEBUG - 2018-08-01 11:04:40 --> Session: "sess_save_path" kosong; pakai "session.save_path" data dari php.ini.
+INFO - 2018-08-01 11:04:40 --> Session: Class initialized using 'files' driver.
+INFO - 2018-08-01 11:04:40 --> Helper telah dimuat: cookie_helper
+INFO - 2018-08-01 11:04:40 --> Database Driver Class telah di inisialisasi
+INFO - 2018-08-01 11:04:40 --> Model "datatable" telah di inisialisasi
+INFO - 2018-08-01 11:04:40 --> Output akhir dikirim ke browser
+DEBUG - 2018-08-01 11:04:40 --> Total waktu eksekusi: 0.5560
+INFO - 2018-08-01 11:05:51 --> Config Class telah di inisialisasi
+INFO - 2018-08-01 11:05:51 --> Hooks Class telah di inisialisasi
+DEBUG - 2018-08-01 11:05:51 --> UTF-8 Support Aktif
+INFO - 2018-08-01 11:05:51 --> Utf8 Class telah di inisialisasi
+INFO - 2018-08-01 11:05:51 --> URI Class telah di inisialisasi
+INFO - 2018-08-01 11:05:51 --> Router Class telah di inisialisasi
+INFO - 2018-08-01 11:05:51 --> Output Class telah di inisialisasi
+INFO - 2018-08-01 11:05:51 --> Security Class telah di inisialisasi
+DEBUG - 2018-08-01 11:05:51 --> Global POST, GET dan COOKIE data telah disanitasi
+INFO - 2018-08-01 11:05:51 --> Input Class telah di inisialisasi
+INFO - 2018-08-01 11:05:51 --> Language Class telah di inisialisasi
+INFO - 2018-08-01 11:05:51 --> Loader Class telah di inisialisasi
+INFO - 2018-08-01 11:05:51 --> Helper telah dimuat: url_helper
+INFO - 2018-08-01 11:05:51 --> Controller Class telah di inisialisasi
+DEBUG - 2018-08-01 11:05:51 --> Session: "sess_save_path" kosong; pakai "session.save_path" data dari php.ini.
+INFO - 2018-08-01 11:05:51 --> Session: Class initialized using 'files' driver.
+INFO - 2018-08-01 11:05:51 --> Helper telah dimuat: cookie_helper
+INFO - 2018-08-01 11:05:51 --> File telah dimuat: D:\XAMPP\htdocs\jb\application\views\jebews/html/head.php
+INFO - 2018-08-01 11:05:51 --> File telah dimuat: D:\XAMPP\htdocs\jb\application\views\jebews/product/manage.php
+INFO - 2018-08-01 11:05:51 --> Output akhir dikirim ke browser
+DEBUG - 2018-08-01 11:05:52 --> Total waktu eksekusi: 0.3102
+INFO - 2018-08-01 11:05:52 --> Config Class telah di inisialisasi
+INFO - 2018-08-01 11:05:52 --> Hooks Class telah di inisialisasi
+DEBUG - 2018-08-01 11:05:52 --> UTF-8 Support Aktif
+INFO - 2018-08-01 11:05:52 --> Utf8 Class telah di inisialisasi
+INFO - 2018-08-01 11:05:52 --> URI Class telah di inisialisasi
+INFO - 2018-08-01 11:05:52 --> Router Class telah di inisialisasi
+INFO - 2018-08-01 11:05:52 --> Output Class telah di inisialisasi
+INFO - 2018-08-01 11:05:52 --> Security Class telah di inisialisasi
+DEBUG - 2018-08-01 11:05:52 --> Global POST, GET dan COOKIE data telah disanitasi
+INFO - 2018-08-01 11:05:52 --> Input Class telah di inisialisasi
+INFO - 2018-08-01 11:05:52 --> Language Class telah di inisialisasi
+INFO - 2018-08-01 11:05:52 --> Loader Class telah di inisialisasi
+INFO - 2018-08-01 11:05:52 --> Helper telah dimuat: url_helper
+INFO - 2018-08-01 11:05:52 --> Controller Class telah di inisialisasi
+DEBUG - 2018-08-01 11:05:52 --> Session: "sess_save_path" kosong; pakai "session.save_path" data dari php.ini.
+INFO - 2018-08-01 11:05:52 --> Session: Class initialized using 'files' driver.
+INFO - 2018-08-01 11:05:52 --> Helper telah dimuat: cookie_helper
+INFO - 2018-08-01 11:05:52 --> Database Driver Class telah di inisialisasi
+INFO - 2018-08-01 11:05:52 --> Model "datatable" telah di inisialisasi
+INFO - 2018-08-01 11:05:52 --> Output akhir dikirim ke browser
+DEBUG - 2018-08-01 11:05:52 --> Total waktu eksekusi: 0.3500
+INFO - 2018-08-01 11:07:06 --> Config Class telah di inisialisasi
+INFO - 2018-08-01 11:07:06 --> Hooks Class telah di inisialisasi
+DEBUG - 2018-08-01 11:07:06 --> UTF-8 Support Aktif
+INFO - 2018-08-01 11:07:06 --> Utf8 Class telah di inisialisasi
+INFO - 2018-08-01 11:07:06 --> URI Class telah di inisialisasi
+INFO - 2018-08-01 11:07:06 --> Router Class telah di inisialisasi
+INFO - 2018-08-01 11:07:07 --> Output Class telah di inisialisasi
+INFO - 2018-08-01 11:07:07 --> Security Class telah di inisialisasi
+DEBUG - 2018-08-01 11:07:07 --> Global POST, GET dan COOKIE data telah disanitasi
+INFO - 2018-08-01 11:07:07 --> Input Class telah di inisialisasi
+INFO - 2018-08-01 11:07:07 --> Language Class telah di inisialisasi
+INFO - 2018-08-01 11:07:07 --> Loader Class telah di inisialisasi
+INFO - 2018-08-01 11:07:07 --> Helper telah dimuat: url_helper
+INFO - 2018-08-01 11:07:07 --> Controller Class telah di inisialisasi
+DEBUG - 2018-08-01 11:07:07 --> Session: "sess_save_path" kosong; pakai "session.save_path" data dari php.ini.
+INFO - 2018-08-01 11:07:07 --> Session: Class initialized using 'files' driver.
+INFO - 2018-08-01 11:07:07 --> Helper telah dimuat: cookie_helper
+INFO - 2018-08-01 11:07:07 --> Database Driver Class telah di inisialisasi
+INFO - 2018-08-01 11:07:07 --> Model "datatable" telah di inisialisasi
+INFO - 2018-08-01 11:07:07 --> Output akhir dikirim ke browser
+DEBUG - 2018-08-01 11:07:07 --> Total waktu eksekusi: 0.3264
+INFO - 2018-08-01 11:07:10 --> Config Class telah di inisialisasi
+INFO - 2018-08-01 11:07:10 --> Hooks Class telah di inisialisasi
+DEBUG - 2018-08-01 11:07:10 --> UTF-8 Support Aktif
+INFO - 2018-08-01 11:07:10 --> Utf8 Class telah di inisialisasi
+INFO - 2018-08-01 11:07:10 --> URI Class telah di inisialisasi
+INFO - 2018-08-01 11:07:10 --> Router Class telah di inisialisasi
+INFO - 2018-08-01 11:07:10 --> Output Class telah di inisialisasi
+INFO - 2018-08-01 11:07:11 --> Security Class telah di inisialisasi
+DEBUG - 2018-08-01 11:07:11 --> Global POST, GET dan COOKIE data telah disanitasi
+INFO - 2018-08-01 11:07:11 --> Input Class telah di inisialisasi
+INFO - 2018-08-01 11:07:11 --> Language Class telah di inisialisasi
+INFO - 2018-08-01 11:07:11 --> Loader Class telah di inisialisasi
+INFO - 2018-08-01 11:07:11 --> Helper telah dimuat: url_helper
+INFO - 2018-08-01 11:07:11 --> Controller Class telah di inisialisasi
+DEBUG - 2018-08-01 11:07:11 --> Session: "sess_save_path" kosong; pakai "session.save_path" data dari php.ini.
+INFO - 2018-08-01 11:07:11 --> Session: Class initialized using 'files' driver.
+INFO - 2018-08-01 11:07:11 --> Helper telah dimuat: cookie_helper
+INFO - 2018-08-01 11:07:11 --> Database Driver Class telah di inisialisasi
+INFO - 2018-08-01 11:07:11 --> Model "datatable" telah di inisialisasi
+INFO - 2018-08-01 11:07:11 --> Output akhir dikirim ke browser
+DEBUG - 2018-08-01 11:07:11 --> Total waktu eksekusi: 0.3310
+INFO - 2018-08-01 11:07:11 --> Config Class telah di inisialisasi
+INFO - 2018-08-01 11:07:11 --> Hooks Class telah di inisialisasi
+DEBUG - 2018-08-01 11:07:11 --> UTF-8 Support Aktif
+INFO - 2018-08-01 11:07:11 --> Utf8 Class telah di inisialisasi
+INFO - 2018-08-01 11:07:11 --> URI Class telah di inisialisasi
+INFO - 2018-08-01 11:07:11 --> Router Class telah di inisialisasi
+INFO - 2018-08-01 11:07:11 --> Output Class telah di inisialisasi
+INFO - 2018-08-01 11:07:11 --> Security Class telah di inisialisasi
+DEBUG - 2018-08-01 11:07:11 --> Global POST, GET dan COOKIE data telah disanitasi
+INFO - 2018-08-01 11:07:11 --> Input Class telah di inisialisasi
+INFO - 2018-08-01 11:07:11 --> Language Class telah di inisialisasi
+INFO - 2018-08-01 11:07:11 --> Loader Class telah di inisialisasi
+INFO - 2018-08-01 11:07:11 --> Helper telah dimuat: url_helper
+INFO - 2018-08-01 11:07:11 --> Controller Class telah di inisialisasi
+DEBUG - 2018-08-01 11:07:11 --> Session: "sess_save_path" kosong; pakai "session.save_path" data dari php.ini.
+INFO - 2018-08-01 11:07:11 --> Session: Class initialized using 'files' driver.
+INFO - 2018-08-01 11:07:11 --> Helper telah dimuat: cookie_helper
+INFO - 2018-08-01 11:07:11 --> Database Driver Class telah di inisialisasi
+INFO - 2018-08-01 11:07:12 --> Model "datatable" telah di inisialisasi
+INFO - 2018-08-01 11:07:12 --> Output akhir dikirim ke browser
+DEBUG - 2018-08-01 11:07:12 --> Total waktu eksekusi: 0.7228
+INFO - 2018-08-01 11:07:43 --> Config Class telah di inisialisasi
+INFO - 2018-08-01 11:07:43 --> Hooks Class telah di inisialisasi
+DEBUG - 2018-08-01 11:07:43 --> UTF-8 Support Aktif
+INFO - 2018-08-01 11:07:43 --> Utf8 Class telah di inisialisasi
+INFO - 2018-08-01 11:07:43 --> URI Class telah di inisialisasi
+INFO - 2018-08-01 11:07:43 --> Router Class telah di inisialisasi
+INFO - 2018-08-01 11:07:43 --> Output Class telah di inisialisasi
+INFO - 2018-08-01 11:07:43 --> Security Class telah di inisialisasi
+DEBUG - 2018-08-01 11:07:43 --> Global POST, GET dan COOKIE data telah disanitasi
+INFO - 2018-08-01 11:07:43 --> Input Class telah di inisialisasi
+INFO - 2018-08-01 11:07:43 --> Language Class telah di inisialisasi
+INFO - 2018-08-01 11:07:43 --> Loader Class telah di inisialisasi
+INFO - 2018-08-01 11:07:43 --> Helper telah dimuat: url_helper
+INFO - 2018-08-01 11:07:43 --> Controller Class telah di inisialisasi
+DEBUG - 2018-08-01 11:07:43 --> Session: "sess_save_path" kosong; pakai "session.save_path" data dari php.ini.
+INFO - 2018-08-01 11:07:43 --> Session: Class initialized using 'files' driver.
+INFO - 2018-08-01 11:07:43 --> Helper telah dimuat: cookie_helper
+INFO - 2018-08-01 11:07:43 --> Database Driver Class telah di inisialisasi
+INFO - 2018-08-01 11:07:43 --> Model "datatable" telah di inisialisasi
+INFO - 2018-08-01 11:07:43 --> Output akhir dikirim ke browser
+DEBUG - 2018-08-01 11:07:43 --> Total waktu eksekusi: 0.3218
+INFO - 2018-08-01 11:08:30 --> Config Class telah di inisialisasi
+INFO - 2018-08-01 11:08:30 --> Hooks Class telah di inisialisasi
+DEBUG - 2018-08-01 11:08:30 --> UTF-8 Support Aktif
+INFO - 2018-08-01 11:08:30 --> Utf8 Class telah di inisialisasi
+INFO - 2018-08-01 11:08:30 --> URI Class telah di inisialisasi
+INFO - 2018-08-01 11:08:30 --> Router Class telah di inisialisasi
+INFO - 2018-08-01 11:08:30 --> Output Class telah di inisialisasi
+INFO - 2018-08-01 11:08:30 --> Security Class telah di inisialisasi
+DEBUG - 2018-08-01 11:08:30 --> Global POST, GET dan COOKIE data telah disanitasi
+INFO - 2018-08-01 11:08:31 --> Input Class telah di inisialisasi
+INFO - 2018-08-01 11:08:31 --> Language Class telah di inisialisasi
+INFO - 2018-08-01 11:08:31 --> Loader Class telah di inisialisasi
+INFO - 2018-08-01 11:08:31 --> Helper telah dimuat: url_helper
+INFO - 2018-08-01 11:08:31 --> Controller Class telah di inisialisasi
+DEBUG - 2018-08-01 11:08:31 --> Session: "sess_save_path" kosong; pakai "session.save_path" data dari php.ini.
+INFO - 2018-08-01 11:08:31 --> Session: Class initialized using 'files' driver.
+INFO - 2018-08-01 11:08:31 --> Helper telah dimuat: cookie_helper
+INFO - 2018-08-01 11:08:31 --> File telah dimuat: D:\XAMPP\htdocs\jb\application\views\jebews/html/head.php
+INFO - 2018-08-01 11:08:31 --> File telah dimuat: D:\XAMPP\htdocs\jb\application\views\jebews/product/manage.php
+INFO - 2018-08-01 11:08:31 --> Output akhir dikirim ke browser
+DEBUG - 2018-08-01 11:08:31 --> Total waktu eksekusi: 0.3270
+INFO - 2018-08-01 11:08:31 --> Config Class telah di inisialisasi
+INFO - 2018-08-01 11:08:31 --> Hooks Class telah di inisialisasi
+DEBUG - 2018-08-01 11:08:31 --> UTF-8 Support Aktif
+INFO - 2018-08-01 11:08:31 --> Utf8 Class telah di inisialisasi
+INFO - 2018-08-01 11:08:31 --> URI Class telah di inisialisasi
+INFO - 2018-08-01 11:08:31 --> Router Class telah di inisialisasi
+INFO - 2018-08-01 11:08:31 --> Output Class telah di inisialisasi
+INFO - 2018-08-01 11:08:31 --> Security Class telah di inisialisasi
+DEBUG - 2018-08-01 11:08:31 --> Global POST, GET dan COOKIE data telah disanitasi
+INFO - 2018-08-01 11:08:31 --> Input Class telah di inisialisasi
+INFO - 2018-08-01 11:08:31 --> Language Class telah di inisialisasi
+INFO - 2018-08-01 11:08:31 --> Loader Class telah di inisialisasi
+INFO - 2018-08-01 11:08:31 --> Helper telah dimuat: url_helper
+INFO - 2018-08-01 11:08:31 --> Controller Class telah di inisialisasi
+DEBUG - 2018-08-01 11:08:31 --> Session: "sess_save_path" kosong; pakai "session.save_path" data dari php.ini.
+INFO - 2018-08-01 11:08:31 --> Session: Class initialized using 'files' driver.
+INFO - 2018-08-01 11:08:31 --> Helper telah dimuat: cookie_helper
+INFO - 2018-08-01 11:08:31 --> Database Driver Class telah di inisialisasi
+INFO - 2018-08-01 11:08:32 --> Model "datatable" telah di inisialisasi
+INFO - 2018-08-01 11:08:32 --> Output akhir dikirim ke browser
+DEBUG - 2018-08-01 11:08:32 --> Total waktu eksekusi: 0.5060
+INFO - 2018-08-01 11:15:03 --> Config Class telah di inisialisasi
+INFO - 2018-08-01 11:15:03 --> Hooks Class telah di inisialisasi
+DEBUG - 2018-08-01 11:15:03 --> UTF-8 Support Aktif
+INFO - 2018-08-01 11:15:03 --> Utf8 Class telah di inisialisasi
+INFO - 2018-08-01 11:15:03 --> URI Class telah di inisialisasi
+INFO - 2018-08-01 11:15:03 --> Router Class telah di inisialisasi
+INFO - 2018-08-01 11:15:03 --> Output Class telah di inisialisasi
+INFO - 2018-08-01 11:15:03 --> Security Class telah di inisialisasi
+DEBUG - 2018-08-01 11:15:03 --> Global POST, GET dan COOKIE data telah disanitasi
+INFO - 2018-08-01 11:15:03 --> Input Class telah di inisialisasi
+INFO - 2018-08-01 11:15:03 --> Language Class telah di inisialisasi
+INFO - 2018-08-01 11:15:03 --> Loader Class telah di inisialisasi
+INFO - 2018-08-01 11:15:03 --> Helper telah dimuat: url_helper
+INFO - 2018-08-01 11:15:03 --> Controller Class telah di inisialisasi
+DEBUG - 2018-08-01 11:15:03 --> Session: "sess_save_path" kosong; pakai "session.save_path" data dari php.ini.
+INFO - 2018-08-01 11:15:03 --> Session: Class initialized using 'files' driver.
+INFO - 2018-08-01 11:15:03 --> Helper telah dimuat: cookie_helper
+INFO - 2018-08-01 11:15:03 --> File telah dimuat: D:\XAMPP\htdocs\jb\application\views\jebews/html/head.php
+INFO - 2018-08-01 11:15:03 --> File telah dimuat: D:\XAMPP\htdocs\jb\application\views\jebews/product/manage.php
+INFO - 2018-08-01 11:15:03 --> Output akhir dikirim ke browser
+DEBUG - 2018-08-01 11:15:03 --> Total waktu eksekusi: 0.3000
+INFO - 2018-08-01 11:15:03 --> Config Class telah di inisialisasi
+INFO - 2018-08-01 11:15:03 --> Hooks Class telah di inisialisasi
+DEBUG - 2018-08-01 11:15:03 --> UTF-8 Support Aktif
+INFO - 2018-08-01 11:15:03 --> Utf8 Class telah di inisialisasi
+INFO - 2018-08-01 11:15:03 --> URI Class telah di inisialisasi
+INFO - 2018-08-01 11:15:03 --> Router Class telah di inisialisasi
+INFO - 2018-08-01 11:15:03 --> Output Class telah di inisialisasi
+INFO - 2018-08-01 11:15:03 --> Security Class telah di inisialisasi
+DEBUG - 2018-08-01 11:15:03 --> Global POST, GET dan COOKIE data telah disanitasi
+INFO - 2018-08-01 11:15:03 --> Input Class telah di inisialisasi
+INFO - 2018-08-01 11:15:03 --> Language Class telah di inisialisasi
+INFO - 2018-08-01 11:15:03 --> Loader Class telah di inisialisasi
+INFO - 2018-08-01 11:15:03 --> Helper telah dimuat: url_helper
+INFO - 2018-08-01 11:15:03 --> Controller Class telah di inisialisasi
+DEBUG - 2018-08-01 11:15:03 --> Session: "sess_save_path" kosong; pakai "session.save_path" data dari php.ini.
+INFO - 2018-08-01 11:15:03 --> Session: Class initialized using 'files' driver.
+INFO - 2018-08-01 11:15:03 --> Helper telah dimuat: cookie_helper
+INFO - 2018-08-01 11:15:03 --> Database Driver Class telah di inisialisasi
+INFO - 2018-08-01 11:15:03 --> Model "datatable" telah di inisialisasi
+INFO - 2018-08-01 11:15:03 --> Output akhir dikirim ke browser
+DEBUG - 2018-08-01 11:15:03 --> Total waktu eksekusi: 0.3570
+INFO - 2018-08-01 11:15:25 --> Config Class telah di inisialisasi
+INFO - 2018-08-01 11:15:25 --> Hooks Class telah di inisialisasi
+DEBUG - 2018-08-01 11:15:25 --> UTF-8 Support Aktif
+INFO - 2018-08-01 11:15:25 --> Utf8 Class telah di inisialisasi
+INFO - 2018-08-01 11:15:25 --> URI Class telah di inisialisasi
+INFO - 2018-08-01 11:15:25 --> Router Class telah di inisialisasi
+INFO - 2018-08-01 11:15:25 --> Output Class telah di inisialisasi
+INFO - 2018-08-01 11:15:25 --> Security Class telah di inisialisasi
+DEBUG - 2018-08-01 11:15:25 --> Global POST, GET dan COOKIE data telah disanitasi
+INFO - 2018-08-01 11:15:25 --> Input Class telah di inisialisasi
+INFO - 2018-08-01 11:15:25 --> Language Class telah di inisialisasi
+INFO - 2018-08-01 11:15:25 --> Loader Class telah di inisialisasi
+INFO - 2018-08-01 11:15:25 --> Helper telah dimuat: url_helper
+INFO - 2018-08-01 11:15:25 --> Controller Class telah di inisialisasi
+DEBUG - 2018-08-01 11:15:25 --> Session: "sess_save_path" kosong; pakai "session.save_path" data dari php.ini.
+INFO - 2018-08-01 11:15:25 --> Session: Class initialized using 'files' driver.
+INFO - 2018-08-01 11:15:25 --> Helper telah dimuat: cookie_helper
+INFO - 2018-08-01 11:15:25 --> File telah dimuat: D:\XAMPP\htdocs\jb\application\views\jebews/html/head.php
+INFO - 2018-08-01 11:15:25 --> File telah dimuat: D:\XAMPP\htdocs\jb\application\views\jebews/product/manage.php
+INFO - 2018-08-01 11:15:25 --> Output akhir dikirim ke browser
+DEBUG - 2018-08-01 11:15:25 --> Total waktu eksekusi: 0.3036
+INFO - 2018-08-01 11:15:26 --> Config Class telah di inisialisasi
+INFO - 2018-08-01 11:15:26 --> Hooks Class telah di inisialisasi
+DEBUG - 2018-08-01 11:15:26 --> UTF-8 Support Aktif
+INFO - 2018-08-01 11:15:26 --> Utf8 Class telah di inisialisasi
+INFO - 2018-08-01 11:15:26 --> URI Class telah di inisialisasi
+INFO - 2018-08-01 11:15:26 --> Router Class telah di inisialisasi
+INFO - 2018-08-01 11:15:26 --> Output Class telah di inisialisasi
+INFO - 2018-08-01 11:15:26 --> Security Class telah di inisialisasi
+DEBUG - 2018-08-01 11:15:26 --> Global POST, GET dan COOKIE data telah disanitasi
+INFO - 2018-08-01 11:15:26 --> Input Class telah di inisialisasi
+INFO - 2018-08-01 11:15:26 --> Language Class telah di inisialisasi
+INFO - 2018-08-01 11:15:26 --> Loader Class telah di inisialisasi
+INFO - 2018-08-01 11:15:26 --> Helper telah dimuat: url_helper
+INFO - 2018-08-01 11:15:26 --> Controller Class telah di inisialisasi
+DEBUG - 2018-08-01 11:15:26 --> Session: "sess_save_path" kosong; pakai "session.save_path" data dari php.ini.
+INFO - 2018-08-01 11:15:26 --> Session: Class initialized using 'files' driver.
+INFO - 2018-08-01 11:15:26 --> Helper telah dimuat: cookie_helper
+INFO - 2018-08-01 11:15:26 --> Database Driver Class telah di inisialisasi
+INFO - 2018-08-01 11:15:26 --> Model "datatable" telah di inisialisasi
+INFO - 2018-08-01 11:15:26 --> Output akhir dikirim ke browser
+DEBUG - 2018-08-01 11:15:26 --> Total waktu eksekusi: 0.3500
+INFO - 2018-08-01 11:15:36 --> Config Class telah di inisialisasi
+INFO - 2018-08-01 11:15:36 --> Hooks Class telah di inisialisasi
+DEBUG - 2018-08-01 11:15:36 --> UTF-8 Support Aktif
+INFO - 2018-08-01 11:15:36 --> Utf8 Class telah di inisialisasi
+INFO - 2018-08-01 11:15:36 --> URI Class telah di inisialisasi
+INFO - 2018-08-01 11:15:36 --> Router Class telah di inisialisasi
+INFO - 2018-08-01 11:15:36 --> Output Class telah di inisialisasi
+INFO - 2018-08-01 11:15:36 --> Security Class telah di inisialisasi
+DEBUG - 2018-08-01 11:15:36 --> Global POST, GET dan COOKIE data telah disanitasi
+INFO - 2018-08-01 11:15:36 --> Input Class telah di inisialisasi
+INFO - 2018-08-01 11:15:36 --> Language Class telah di inisialisasi
+INFO - 2018-08-01 11:15:36 --> Loader Class telah di inisialisasi
+INFO - 2018-08-01 11:15:36 --> Helper telah dimuat: url_helper
+INFO - 2018-08-01 11:15:36 --> Controller Class telah di inisialisasi
+DEBUG - 2018-08-01 11:15:36 --> Session: "sess_save_path" kosong; pakai "session.save_path" data dari php.ini.
+INFO - 2018-08-01 11:15:36 --> Session: Class initialized using 'files' driver.
+INFO - 2018-08-01 11:15:36 --> Helper telah dimuat: cookie_helper
+INFO - 2018-08-01 11:15:36 --> File telah dimuat: D:\XAMPP\htdocs\jb\application\views\jebews/html/head.php
+INFO - 2018-08-01 11:15:36 --> File telah dimuat: D:\XAMPP\htdocs\jb\application\views\jebews/product/manage.php
+INFO - 2018-08-01 11:15:36 --> Output akhir dikirim ke browser
+DEBUG - 2018-08-01 11:15:36 --> Total waktu eksekusi: 0.2966
+INFO - 2018-08-01 11:15:36 --> Config Class telah di inisialisasi
+INFO - 2018-08-01 11:15:36 --> Hooks Class telah di inisialisasi
+DEBUG - 2018-08-01 11:15:36 --> UTF-8 Support Aktif
+INFO - 2018-08-01 11:15:36 --> Utf8 Class telah di inisialisasi
+INFO - 2018-08-01 11:15:36 --> URI Class telah di inisialisasi
+INFO - 2018-08-01 11:15:36 --> Router Class telah di inisialisasi
+INFO - 2018-08-01 11:15:36 --> Output Class telah di inisialisasi
+INFO - 2018-08-01 11:15:36 --> Security Class telah di inisialisasi
+DEBUG - 2018-08-01 11:15:36 --> Global POST, GET dan COOKIE data telah disanitasi
+INFO - 2018-08-01 11:15:36 --> Input Class telah di inisialisasi
+INFO - 2018-08-01 11:15:36 --> Language Class telah di inisialisasi
+INFO - 2018-08-01 11:15:36 --> Loader Class telah di inisialisasi
+INFO - 2018-08-01 11:15:36 --> Helper telah dimuat: url_helper
+INFO - 2018-08-01 11:15:36 --> Controller Class telah di inisialisasi
+DEBUG - 2018-08-01 11:15:36 --> Session: "sess_save_path" kosong; pakai "session.save_path" data dari php.ini.
+INFO - 2018-08-01 11:15:36 --> Session: Class initialized using 'files' driver.
+INFO - 2018-08-01 11:15:36 --> Helper telah dimuat: cookie_helper
+INFO - 2018-08-01 11:15:36 --> Database Driver Class telah di inisialisasi
+INFO - 2018-08-01 11:15:36 --> Model "datatable" telah di inisialisasi
+INFO - 2018-08-01 11:15:36 --> Output akhir dikirim ke browser
+DEBUG - 2018-08-01 11:15:36 --> Total waktu eksekusi: 0.3560
+INFO - 2018-08-01 11:15:45 --> Config Class telah di inisialisasi
+INFO - 2018-08-01 11:15:45 --> Hooks Class telah di inisialisasi
+DEBUG - 2018-08-01 11:15:45 --> UTF-8 Support Aktif
+INFO - 2018-08-01 11:15:46 --> Utf8 Class telah di inisialisasi
+INFO - 2018-08-01 11:15:46 --> URI Class telah di inisialisasi
+INFO - 2018-08-01 11:15:46 --> Router Class telah di inisialisasi
+INFO - 2018-08-01 11:15:46 --> Output Class telah di inisialisasi
+INFO - 2018-08-01 11:15:46 --> Security Class telah di inisialisasi
+DEBUG - 2018-08-01 11:15:46 --> Global POST, GET dan COOKIE data telah disanitasi
+INFO - 2018-08-01 11:15:46 --> Input Class telah di inisialisasi
+INFO - 2018-08-01 11:15:46 --> Language Class telah di inisialisasi
+INFO - 2018-08-01 11:15:46 --> Loader Class telah di inisialisasi
+INFO - 2018-08-01 11:15:46 --> Helper telah dimuat: url_helper
+INFO - 2018-08-01 11:15:46 --> Controller Class telah di inisialisasi
+DEBUG - 2018-08-01 11:15:46 --> Session: "sess_save_path" kosong; pakai "session.save_path" data dari php.ini.
+INFO - 2018-08-01 11:15:46 --> Session: Class initialized using 'files' driver.
+INFO - 2018-08-01 11:15:46 --> Helper telah dimuat: cookie_helper
+INFO - 2018-08-01 11:15:46 --> File telah dimuat: D:\XAMPP\htdocs\jb\application\views\jebews/html/head.php
+INFO - 2018-08-01 11:15:46 --> File telah dimuat: D:\XAMPP\htdocs\jb\application\views\jebews/product/manage.php
+INFO - 2018-08-01 11:15:46 --> Output akhir dikirim ke browser
+DEBUG - 2018-08-01 11:15:46 --> Total waktu eksekusi: 0.3096
+INFO - 2018-08-01 11:15:46 --> Config Class telah di inisialisasi
+INFO - 2018-08-01 11:15:46 --> Hooks Class telah di inisialisasi
+DEBUG - 2018-08-01 11:15:46 --> UTF-8 Support Aktif
+INFO - 2018-08-01 11:15:46 --> Utf8 Class telah di inisialisasi
+INFO - 2018-08-01 11:15:46 --> URI Class telah di inisialisasi
+INFO - 2018-08-01 11:15:46 --> Router Class telah di inisialisasi
+INFO - 2018-08-01 11:15:46 --> Output Class telah di inisialisasi
+INFO - 2018-08-01 11:15:46 --> Security Class telah di inisialisasi
+DEBUG - 2018-08-01 11:15:46 --> Global POST, GET dan COOKIE data telah disanitasi
+INFO - 2018-08-01 11:15:46 --> Input Class telah di inisialisasi
+INFO - 2018-08-01 11:15:46 --> Language Class telah di inisialisasi
+INFO - 2018-08-01 11:15:46 --> Loader Class telah di inisialisasi
+INFO - 2018-08-01 11:15:46 --> Helper telah dimuat: url_helper
+INFO - 2018-08-01 11:15:46 --> Controller Class telah di inisialisasi
+DEBUG - 2018-08-01 11:15:46 --> Session: "sess_save_path" kosong; pakai "session.save_path" data dari php.ini.
+INFO - 2018-08-01 11:15:46 --> Session: Class initialized using 'files' driver.
+INFO - 2018-08-01 11:15:46 --> Helper telah dimuat: cookie_helper
+INFO - 2018-08-01 11:15:46 --> Database Driver Class telah di inisialisasi
+INFO - 2018-08-01 11:15:46 --> Model "datatable" telah di inisialisasi
+INFO - 2018-08-01 11:15:46 --> Output akhir dikirim ke browser
+DEBUG - 2018-08-01 11:15:46 --> Total waktu eksekusi: 0.3600
+INFO - 2018-08-01 11:16:08 --> Config Class telah di inisialisasi
+INFO - 2018-08-01 11:16:08 --> Hooks Class telah di inisialisasi
+DEBUG - 2018-08-01 11:16:08 --> UTF-8 Support Aktif
+INFO - 2018-08-01 11:16:08 --> Utf8 Class telah di inisialisasi
+INFO - 2018-08-01 11:16:08 --> URI Class telah di inisialisasi
+INFO - 2018-08-01 11:16:08 --> Router Class telah di inisialisasi
+INFO - 2018-08-01 11:16:08 --> Output Class telah di inisialisasi
+INFO - 2018-08-01 11:16:08 --> Security Class telah di inisialisasi
+DEBUG - 2018-08-01 11:16:08 --> Global POST, GET dan COOKIE data telah disanitasi
+INFO - 2018-08-01 11:16:08 --> Input Class telah di inisialisasi
+INFO - 2018-08-01 11:16:08 --> Language Class telah di inisialisasi
+INFO - 2018-08-01 11:16:08 --> Loader Class telah di inisialisasi
+INFO - 2018-08-01 11:16:08 --> Helper telah dimuat: url_helper
+INFO - 2018-08-01 11:16:08 --> Controller Class telah di inisialisasi
+DEBUG - 2018-08-01 11:16:08 --> Session: "sess_save_path" kosong; pakai "session.save_path" data dari php.ini.
+INFO - 2018-08-01 11:16:08 --> Session: Class initialized using 'files' driver.
+INFO - 2018-08-01 11:16:08 --> Helper telah dimuat: cookie_helper
+INFO - 2018-08-01 11:16:08 --> File telah dimuat: D:\XAMPP\htdocs\jb\application\views\jebews/html/head.php
+INFO - 2018-08-01 11:16:08 --> File telah dimuat: D:\XAMPP\htdocs\jb\application\views\jebews/product/manage.php
+INFO - 2018-08-01 11:16:08 --> Output akhir dikirim ke browser
+DEBUG - 2018-08-01 11:16:08 --> Total waktu eksekusi: 0.3016
+INFO - 2018-08-01 11:16:08 --> Config Class telah di inisialisasi
+INFO - 2018-08-01 11:16:08 --> Hooks Class telah di inisialisasi
+DEBUG - 2018-08-01 11:16:08 --> UTF-8 Support Aktif
+INFO - 2018-08-01 11:16:08 --> Utf8 Class telah di inisialisasi
+INFO - 2018-08-01 11:16:08 --> URI Class telah di inisialisasi
+INFO - 2018-08-01 11:16:08 --> Router Class telah di inisialisasi
+INFO - 2018-08-01 11:16:08 --> Output Class telah di inisialisasi
+INFO - 2018-08-01 11:16:08 --> Security Class telah di inisialisasi
+DEBUG - 2018-08-01 11:16:08 --> Global POST, GET dan COOKIE data telah disanitasi
+INFO - 2018-08-01 11:16:08 --> Input Class telah di inisialisasi
+INFO - 2018-08-01 11:16:08 --> Language Class telah di inisialisasi
+INFO - 2018-08-01 11:16:08 --> Loader Class telah di inisialisasi
+INFO - 2018-08-01 11:16:08 --> Helper telah dimuat: url_helper
+INFO - 2018-08-01 11:16:08 --> Controller Class telah di inisialisasi
+DEBUG - 2018-08-01 11:16:08 --> Session: "sess_save_path" kosong; pakai "session.save_path" data dari php.ini.
+INFO - 2018-08-01 11:16:08 --> Session: Class initialized using 'files' driver.
+INFO - 2018-08-01 11:16:08 --> Helper telah dimuat: cookie_helper
+INFO - 2018-08-01 11:16:08 --> Database Driver Class telah di inisialisasi
+INFO - 2018-08-01 11:16:09 --> Model "datatable" telah di inisialisasi
+INFO - 2018-08-01 11:16:09 --> Output akhir dikirim ke browser
+DEBUG - 2018-08-01 11:16:09 --> Total waktu eksekusi: 0.3640
+INFO - 2018-08-01 11:16:28 --> Config Class telah di inisialisasi
+INFO - 2018-08-01 11:16:28 --> Hooks Class telah di inisialisasi
+DEBUG - 2018-08-01 11:16:28 --> UTF-8 Support Aktif
+INFO - 2018-08-01 11:16:28 --> Utf8 Class telah di inisialisasi
+INFO - 2018-08-01 11:16:28 --> URI Class telah di inisialisasi
+INFO - 2018-08-01 11:16:28 --> Router Class telah di inisialisasi
+INFO - 2018-08-01 11:16:28 --> Output Class telah di inisialisasi
+INFO - 2018-08-01 11:16:28 --> Security Class telah di inisialisasi
+DEBUG - 2018-08-01 11:16:28 --> Global POST, GET dan COOKIE data telah disanitasi
+INFO - 2018-08-01 11:16:28 --> Input Class telah di inisialisasi
+INFO - 2018-08-01 11:16:28 --> Language Class telah di inisialisasi
+INFO - 2018-08-01 11:16:28 --> Loader Class telah di inisialisasi
+INFO - 2018-08-01 11:16:28 --> Helper telah dimuat: url_helper
+INFO - 2018-08-01 11:16:28 --> Controller Class telah di inisialisasi
+DEBUG - 2018-08-01 11:16:28 --> Session: "sess_save_path" kosong; pakai "session.save_path" data dari php.ini.
+INFO - 2018-08-01 11:16:28 --> Session: Class initialized using 'files' driver.
+INFO - 2018-08-01 11:16:28 --> Helper telah dimuat: cookie_helper
+INFO - 2018-08-01 11:16:28 --> File telah dimuat: D:\XAMPP\htdocs\jb\application\views\jebews/html/head.php
+INFO - 2018-08-01 11:16:28 --> File telah dimuat: D:\XAMPP\htdocs\jb\application\views\jebews/product/manage.php
+INFO - 2018-08-01 11:16:28 --> Output akhir dikirim ke browser
+DEBUG - 2018-08-01 11:16:28 --> Total waktu eksekusi: 0.3166
+INFO - 2018-08-01 11:16:29 --> Config Class telah di inisialisasi
+INFO - 2018-08-01 11:16:29 --> Hooks Class telah di inisialisasi
+DEBUG - 2018-08-01 11:16:29 --> UTF-8 Support Aktif
+INFO - 2018-08-01 11:16:29 --> Utf8 Class telah di inisialisasi
+INFO - 2018-08-01 11:16:29 --> URI Class telah di inisialisasi
+INFO - 2018-08-01 11:16:29 --> Router Class telah di inisialisasi
+INFO - 2018-08-01 11:16:29 --> Output Class telah di inisialisasi
+INFO - 2018-08-01 11:16:29 --> Security Class telah di inisialisasi
+DEBUG - 2018-08-01 11:16:29 --> Global POST, GET dan COOKIE data telah disanitasi
+INFO - 2018-08-01 11:16:29 --> Input Class telah di inisialisasi
+INFO - 2018-08-01 11:16:29 --> Language Class telah di inisialisasi
+INFO - 2018-08-01 11:16:29 --> Loader Class telah di inisialisasi
+INFO - 2018-08-01 11:16:29 --> Helper telah dimuat: url_helper
+INFO - 2018-08-01 11:16:29 --> Controller Class telah di inisialisasi
+DEBUG - 2018-08-01 11:16:29 --> Session: "sess_save_path" kosong; pakai "session.save_path" data dari php.ini.
+INFO - 2018-08-01 11:16:29 --> Session: Class initialized using 'files' driver.
+INFO - 2018-08-01 11:16:29 --> Helper telah dimuat: cookie_helper
+INFO - 2018-08-01 11:16:29 --> Database Driver Class telah di inisialisasi
+INFO - 2018-08-01 11:16:29 --> Model "datatable" telah di inisialisasi
+INFO - 2018-08-01 11:16:29 --> Output akhir dikirim ke browser
+DEBUG - 2018-08-01 11:16:29 --> Total waktu eksekusi: 0.3490
+INFO - 2018-08-01 11:16:41 --> Config Class telah di inisialisasi
+INFO - 2018-08-01 11:16:41 --> Hooks Class telah di inisialisasi
+DEBUG - 2018-08-01 11:16:41 --> UTF-8 Support Aktif
+INFO - 2018-08-01 11:16:41 --> Utf8 Class telah di inisialisasi
+INFO - 2018-08-01 11:16:41 --> URI Class telah di inisialisasi
+INFO - 2018-08-01 11:16:41 --> Router Class telah di inisialisasi
+INFO - 2018-08-01 11:16:41 --> Output Class telah di inisialisasi
+INFO - 2018-08-01 11:16:41 --> Security Class telah di inisialisasi
+DEBUG - 2018-08-01 11:16:41 --> Global POST, GET dan COOKIE data telah disanitasi
+INFO - 2018-08-01 11:16:41 --> Input Class telah di inisialisasi
+INFO - 2018-08-01 11:16:41 --> Language Class telah di inisialisasi
+INFO - 2018-08-01 11:16:41 --> Loader Class telah di inisialisasi
+INFO - 2018-08-01 11:16:41 --> Helper telah dimuat: url_helper
+INFO - 2018-08-01 11:16:41 --> Controller Class telah di inisialisasi
+DEBUG - 2018-08-01 11:16:41 --> Session: "sess_save_path" kosong; pakai "session.save_path" data dari php.ini.
+INFO - 2018-08-01 11:16:41 --> Session: Class initialized using 'files' driver.
+INFO - 2018-08-01 11:16:41 --> Helper telah dimuat: cookie_helper
+INFO - 2018-08-01 11:16:41 --> File telah dimuat: D:\XAMPP\htdocs\jb\application\views\jebews/html/head.php
+INFO - 2018-08-01 11:16:41 --> File telah dimuat: D:\XAMPP\htdocs\jb\application\views\jebews/product/manage.php
+INFO - 2018-08-01 11:16:41 --> Output akhir dikirim ke browser
+DEBUG - 2018-08-01 11:16:42 --> Total waktu eksekusi: 0.3116
+INFO - 2018-08-01 11:16:42 --> Config Class telah di inisialisasi
+INFO - 2018-08-01 11:16:42 --> Hooks Class telah di inisialisasi
+DEBUG - 2018-08-01 11:16:42 --> UTF-8 Support Aktif
+INFO - 2018-08-01 11:16:42 --> Utf8 Class telah di inisialisasi
+INFO - 2018-08-01 11:16:42 --> URI Class telah di inisialisasi
+INFO - 2018-08-01 11:16:42 --> Router Class telah di inisialisasi
+INFO - 2018-08-01 11:16:42 --> Output Class telah di inisialisasi
+INFO - 2018-08-01 11:16:42 --> Security Class telah di inisialisasi
+DEBUG - 2018-08-01 11:16:42 --> Global POST, GET dan COOKIE data telah disanitasi
+INFO - 2018-08-01 11:16:42 --> Input Class telah di inisialisasi
+INFO - 2018-08-01 11:16:42 --> Language Class telah di inisialisasi
+INFO - 2018-08-01 11:16:42 --> Loader Class telah di inisialisasi
+INFO - 2018-08-01 11:16:42 --> Helper telah dimuat: url_helper
+INFO - 2018-08-01 11:16:42 --> Controller Class telah di inisialisasi
+DEBUG - 2018-08-01 11:16:42 --> Session: "sess_save_path" kosong; pakai "session.save_path" data dari php.ini.
+INFO - 2018-08-01 11:16:42 --> Session: Class initialized using 'files' driver.
+INFO - 2018-08-01 11:16:42 --> Helper telah dimuat: cookie_helper
+INFO - 2018-08-01 11:16:42 --> Database Driver Class telah di inisialisasi
+INFO - 2018-08-01 11:16:42 --> Model "datatable" telah di inisialisasi
+INFO - 2018-08-01 11:16:42 --> Output akhir dikirim ke browser
+DEBUG - 2018-08-01 11:16:42 --> Total waktu eksekusi: 0.3550
+INFO - 2018-08-01 11:16:51 --> Config Class telah di inisialisasi
+INFO - 2018-08-01 11:16:52 --> Hooks Class telah di inisialisasi
+DEBUG - 2018-08-01 11:16:52 --> UTF-8 Support Aktif
+INFO - 2018-08-01 11:16:52 --> Utf8 Class telah di inisialisasi
+INFO - 2018-08-01 11:16:52 --> URI Class telah di inisialisasi
+INFO - 2018-08-01 11:16:52 --> Router Class telah di inisialisasi
+INFO - 2018-08-01 11:16:52 --> Output Class telah di inisialisasi
+INFO - 2018-08-01 11:16:52 --> Security Class telah di inisialisasi
+DEBUG - 2018-08-01 11:16:52 --> Global POST, GET dan COOKIE data telah disanitasi
+INFO - 2018-08-01 11:16:52 --> Input Class telah di inisialisasi
+INFO - 2018-08-01 11:16:52 --> Language Class telah di inisialisasi
+INFO - 2018-08-01 11:16:52 --> Loader Class telah di inisialisasi
+INFO - 2018-08-01 11:16:52 --> Helper telah dimuat: url_helper
+INFO - 2018-08-01 11:16:52 --> Controller Class telah di inisialisasi
+DEBUG - 2018-08-01 11:16:52 --> Session: "sess_save_path" kosong; pakai "session.save_path" data dari php.ini.
+INFO - 2018-08-01 11:16:52 --> Session: Class initialized using 'files' driver.
+INFO - 2018-08-01 11:16:52 --> Helper telah dimuat: cookie_helper
+INFO - 2018-08-01 11:16:52 --> File telah dimuat: D:\XAMPP\htdocs\jb\application\views\jebews/html/head.php
+INFO - 2018-08-01 11:16:52 --> File telah dimuat: D:\XAMPP\htdocs\jb\application\views\jebews/product/manage.php
+INFO - 2018-08-01 11:16:52 --> Output akhir dikirim ke browser
+DEBUG - 2018-08-01 11:16:52 --> Total waktu eksekusi: 0.3162
+INFO - 2018-08-01 11:16:52 --> Config Class telah di inisialisasi
+INFO - 2018-08-01 11:16:52 --> Hooks Class telah di inisialisasi
+DEBUG - 2018-08-01 11:16:52 --> UTF-8 Support Aktif
+INFO - 2018-08-01 11:16:52 --> Utf8 Class telah di inisialisasi
+INFO - 2018-08-01 11:16:52 --> URI Class telah di inisialisasi
+INFO - 2018-08-01 11:16:52 --> Router Class telah di inisialisasi
+INFO - 2018-08-01 11:16:52 --> Output Class telah di inisialisasi
+INFO - 2018-08-01 11:16:52 --> Security Class telah di inisialisasi
+DEBUG - 2018-08-01 11:16:52 --> Global POST, GET dan COOKIE data telah disanitasi
+INFO - 2018-08-01 11:16:52 --> Input Class telah di inisialisasi
+INFO - 2018-08-01 11:16:52 --> Language Class telah di inisialisasi
+INFO - 2018-08-01 11:16:52 --> Loader Class telah di inisialisasi
+INFO - 2018-08-01 11:16:52 --> Helper telah dimuat: url_helper
+INFO - 2018-08-01 11:16:52 --> Controller Class telah di inisialisasi
+DEBUG - 2018-08-01 11:16:52 --> Session: "sess_save_path" kosong; pakai "session.save_path" data dari php.ini.
+INFO - 2018-08-01 11:16:52 --> Session: Class initialized using 'files' driver.
+INFO - 2018-08-01 11:16:52 --> Helper telah dimuat: cookie_helper
+INFO - 2018-08-01 11:16:52 --> Database Driver Class telah di inisialisasi
+INFO - 2018-08-01 11:16:52 --> Model "datatable" telah di inisialisasi
+INFO - 2018-08-01 11:16:52 --> Output akhir dikirim ke browser
+DEBUG - 2018-08-01 11:16:52 --> Total waktu eksekusi: 0.3580
+INFO - 2018-08-01 11:16:59 --> Config Class telah di inisialisasi
+INFO - 2018-08-01 11:16:59 --> Hooks Class telah di inisialisasi
+DEBUG - 2018-08-01 11:17:00 --> UTF-8 Support Aktif
+INFO - 2018-08-01 11:17:00 --> Utf8 Class telah di inisialisasi
+INFO - 2018-08-01 11:17:00 --> URI Class telah di inisialisasi
+INFO - 2018-08-01 11:17:00 --> Router Class telah di inisialisasi
+INFO - 2018-08-01 11:17:00 --> Output Class telah di inisialisasi
+INFO - 2018-08-01 11:17:00 --> Security Class telah di inisialisasi
+DEBUG - 2018-08-01 11:17:00 --> Global POST, GET dan COOKIE data telah disanitasi
+INFO - 2018-08-01 11:17:00 --> Input Class telah di inisialisasi
+INFO - 2018-08-01 11:17:00 --> Language Class telah di inisialisasi
+INFO - 2018-08-01 11:17:00 --> Loader Class telah di inisialisasi
+INFO - 2018-08-01 11:17:00 --> Helper telah dimuat: url_helper
+INFO - 2018-08-01 11:17:00 --> Controller Class telah di inisialisasi
+DEBUG - 2018-08-01 11:17:00 --> Session: "sess_save_path" kosong; pakai "session.save_path" data dari php.ini.
+INFO - 2018-08-01 11:17:00 --> Session: Class initialized using 'files' driver.
+INFO - 2018-08-01 11:17:00 --> Helper telah dimuat: cookie_helper
+INFO - 2018-08-01 11:17:00 --> File telah dimuat: D:\XAMPP\htdocs\jb\application\views\jebews/html/head.php
+INFO - 2018-08-01 11:17:00 --> File telah dimuat: D:\XAMPP\htdocs\jb\application\views\jebews/product/manage.php
+INFO - 2018-08-01 11:17:00 --> Output akhir dikirim ke browser
+DEBUG - 2018-08-01 11:17:00 --> Total waktu eksekusi: 0.3086
+INFO - 2018-08-01 11:17:00 --> Config Class telah di inisialisasi
+INFO - 2018-08-01 11:17:00 --> Hooks Class telah di inisialisasi
+DEBUG - 2018-08-01 11:17:00 --> UTF-8 Support Aktif
+INFO - 2018-08-01 11:17:00 --> Utf8 Class telah di inisialisasi
+INFO - 2018-08-01 11:17:00 --> URI Class telah di inisialisasi
+INFO - 2018-08-01 11:17:00 --> Router Class telah di inisialisasi
+INFO - 2018-08-01 11:17:00 --> Output Class telah di inisialisasi
+INFO - 2018-08-01 11:17:00 --> Security Class telah di inisialisasi
+DEBUG - 2018-08-01 11:17:00 --> Global POST, GET dan COOKIE data telah disanitasi
+INFO - 2018-08-01 11:17:00 --> Input Class telah di inisialisasi
+INFO - 2018-08-01 11:17:00 --> Language Class telah di inisialisasi
+INFO - 2018-08-01 11:17:00 --> Loader Class telah di inisialisasi
+INFO - 2018-08-01 11:17:00 --> Helper telah dimuat: url_helper
+INFO - 2018-08-01 11:17:00 --> Controller Class telah di inisialisasi
+DEBUG - 2018-08-01 11:17:00 --> Session: "sess_save_path" kosong; pakai "session.save_path" data dari php.ini.
+INFO - 2018-08-01 11:17:00 --> Session: Class initialized using 'files' driver.
+INFO - 2018-08-01 11:17:00 --> Helper telah dimuat: cookie_helper
+INFO - 2018-08-01 11:17:00 --> Database Driver Class telah di inisialisasi
+INFO - 2018-08-01 11:17:00 --> Model "datatable" telah di inisialisasi
+INFO - 2018-08-01 11:17:00 --> Output akhir dikirim ke browser
+DEBUG - 2018-08-01 11:17:00 --> Total waktu eksekusi: 0.3560
+INFO - 2018-08-01 11:17:08 --> Config Class telah di inisialisasi
+INFO - 2018-08-01 11:17:08 --> Hooks Class telah di inisialisasi
+DEBUG - 2018-08-01 11:17:08 --> UTF-8 Support Aktif
+INFO - 2018-08-01 11:17:08 --> Utf8 Class telah di inisialisasi
+INFO - 2018-08-01 11:17:08 --> URI Class telah di inisialisasi
+INFO - 2018-08-01 11:17:08 --> Router Class telah di inisialisasi
+INFO - 2018-08-01 11:17:08 --> Output Class telah di inisialisasi
+INFO - 2018-08-01 11:17:08 --> Security Class telah di inisialisasi
+DEBUG - 2018-08-01 11:17:08 --> Global POST, GET dan COOKIE data telah disanitasi
+INFO - 2018-08-01 11:17:08 --> Input Class telah di inisialisasi
+INFO - 2018-08-01 11:17:08 --> Language Class telah di inisialisasi
+INFO - 2018-08-01 11:17:08 --> Loader Class telah di inisialisasi
+INFO - 2018-08-01 11:17:08 --> Helper telah dimuat: url_helper
+INFO - 2018-08-01 11:17:08 --> Controller Class telah di inisialisasi
+DEBUG - 2018-08-01 11:17:08 --> Session: "sess_save_path" kosong; pakai "session.save_path" data dari php.ini.
+INFO - 2018-08-01 11:17:08 --> Session: Class initialized using 'files' driver.
+INFO - 2018-08-01 11:17:08 --> Helper telah dimuat: cookie_helper
+INFO - 2018-08-01 11:17:08 --> File telah dimuat: D:\XAMPP\htdocs\jb\application\views\jebews/html/head.php
+INFO - 2018-08-01 11:17:08 --> File telah dimuat: D:\XAMPP\htdocs\jb\application\views\jebews/product/manage.php
+INFO - 2018-08-01 11:17:08 --> Output akhir dikirim ke browser
+DEBUG - 2018-08-01 11:17:08 --> Total waktu eksekusi: 0.3162
+INFO - 2018-08-01 11:17:08 --> Config Class telah di inisialisasi
+INFO - 2018-08-01 11:17:08 --> Hooks Class telah di inisialisasi
+DEBUG - 2018-08-01 11:17:08 --> UTF-8 Support Aktif
+INFO - 2018-08-01 11:17:08 --> Utf8 Class telah di inisialisasi
+INFO - 2018-08-01 11:17:08 --> URI Class telah di inisialisasi
+INFO - 2018-08-01 11:17:08 --> Router Class telah di inisialisasi
+INFO - 2018-08-01 11:17:08 --> Output Class telah di inisialisasi
+INFO - 2018-08-01 11:17:08 --> Security Class telah di inisialisasi
+DEBUG - 2018-08-01 11:17:08 --> Global POST, GET dan COOKIE data telah disanitasi
+INFO - 2018-08-01 11:17:08 --> Input Class telah di inisialisasi
+INFO - 2018-08-01 11:17:08 --> Language Class telah di inisialisasi
+INFO - 2018-08-01 11:17:08 --> Loader Class telah di inisialisasi
+INFO - 2018-08-01 11:17:08 --> Helper telah dimuat: url_helper
+INFO - 2018-08-01 11:17:08 --> Controller Class telah di inisialisasi
+DEBUG - 2018-08-01 11:17:08 --> Session: "sess_save_path" kosong; pakai "session.save_path" data dari php.ini.
+INFO - 2018-08-01 11:17:08 --> Session: Class initialized using 'files' driver.
+INFO - 2018-08-01 11:17:08 --> Helper telah dimuat: cookie_helper
+INFO - 2018-08-01 11:17:08 --> Database Driver Class telah di inisialisasi
+INFO - 2018-08-01 11:17:09 --> Model "datatable" telah di inisialisasi
+INFO - 2018-08-01 11:17:09 --> Output akhir dikirim ke browser
+DEBUG - 2018-08-01 11:17:09 --> Total waktu eksekusi: 0.3430
+INFO - 2018-08-01 11:17:17 --> Config Class telah di inisialisasi
+INFO - 2018-08-01 11:17:17 --> Hooks Class telah di inisialisasi
+DEBUG - 2018-08-01 11:17:17 --> UTF-8 Support Aktif
+INFO - 2018-08-01 11:17:17 --> Utf8 Class telah di inisialisasi
+INFO - 2018-08-01 11:17:17 --> URI Class telah di inisialisasi
+INFO - 2018-08-01 11:17:17 --> Router Class telah di inisialisasi
+INFO - 2018-08-01 11:17:17 --> Output Class telah di inisialisasi
+INFO - 2018-08-01 11:17:17 --> Security Class telah di inisialisasi
+DEBUG - 2018-08-01 11:17:17 --> Global POST, GET dan COOKIE data telah disanitasi
+INFO - 2018-08-01 11:17:17 --> Input Class telah di inisialisasi
+INFO - 2018-08-01 11:17:17 --> Language Class telah di inisialisasi
+INFO - 2018-08-01 11:17:17 --> Loader Class telah di inisialisasi
+INFO - 2018-08-01 11:17:17 --> Helper telah dimuat: url_helper
+INFO - 2018-08-01 11:17:17 --> Controller Class telah di inisialisasi
+DEBUG - 2018-08-01 11:17:17 --> Session: "sess_save_path" kosong; pakai "session.save_path" data dari php.ini.
+INFO - 2018-08-01 11:17:17 --> Session: Class initialized using 'files' driver.
+INFO - 2018-08-01 11:17:17 --> Helper telah dimuat: cookie_helper
+INFO - 2018-08-01 11:17:17 --> File telah dimuat: D:\XAMPP\htdocs\jb\application\views\jebews/html/head.php
+INFO - 2018-08-01 11:17:17 --> File telah dimuat: D:\XAMPP\htdocs\jb\application\views\jebews/product/manage.php
+INFO - 2018-08-01 11:17:17 --> Output akhir dikirim ke browser
+DEBUG - 2018-08-01 11:17:17 --> Total waktu eksekusi: 0.3126
+INFO - 2018-08-01 11:17:17 --> Config Class telah di inisialisasi
+INFO - 2018-08-01 11:17:18 --> Hooks Class telah di inisialisasi
+DEBUG - 2018-08-01 11:17:18 --> UTF-8 Support Aktif
+INFO - 2018-08-01 11:17:18 --> Utf8 Class telah di inisialisasi
+INFO - 2018-08-01 11:17:18 --> URI Class telah di inisialisasi
+INFO - 2018-08-01 11:17:18 --> Router Class telah di inisialisasi
+INFO - 2018-08-01 11:17:18 --> Output Class telah di inisialisasi
+INFO - 2018-08-01 11:17:18 --> Security Class telah di inisialisasi
+DEBUG - 2018-08-01 11:17:18 --> Global POST, GET dan COOKIE data telah disanitasi
+INFO - 2018-08-01 11:17:18 --> Input Class telah di inisialisasi
+INFO - 2018-08-01 11:17:18 --> Language Class telah di inisialisasi
+INFO - 2018-08-01 11:17:18 --> Loader Class telah di inisialisasi
+INFO - 2018-08-01 11:17:18 --> Helper telah dimuat: url_helper
+INFO - 2018-08-01 11:17:18 --> Controller Class telah di inisialisasi
+DEBUG - 2018-08-01 11:17:18 --> Session: "sess_save_path" kosong; pakai "session.save_path" data dari php.ini.
+INFO - 2018-08-01 11:17:18 --> Session: Class initialized using 'files' driver.
+INFO - 2018-08-01 11:17:18 --> Helper telah dimuat: cookie_helper
+INFO - 2018-08-01 11:17:18 --> Database Driver Class telah di inisialisasi
+INFO - 2018-08-01 11:17:18 --> Model "datatable" telah di inisialisasi
+INFO - 2018-08-01 11:17:18 --> Output akhir dikirim ke browser
+DEBUG - 2018-08-01 11:17:18 --> Total waktu eksekusi: 0.3710
+INFO - 2018-08-01 11:17:26 --> Config Class telah di inisialisasi
+INFO - 2018-08-01 11:17:26 --> Hooks Class telah di inisialisasi
+DEBUG - 2018-08-01 11:17:26 --> UTF-8 Support Aktif
+INFO - 2018-08-01 11:17:26 --> Utf8 Class telah di inisialisasi
+INFO - 2018-08-01 11:17:26 --> URI Class telah di inisialisasi
+INFO - 2018-08-01 11:17:26 --> Router Class telah di inisialisasi
+INFO - 2018-08-01 11:17:26 --> Output Class telah di inisialisasi
+INFO - 2018-08-01 11:17:26 --> Security Class telah di inisialisasi
+DEBUG - 2018-08-01 11:17:26 --> Global POST, GET dan COOKIE data telah disanitasi
+INFO - 2018-08-01 11:17:26 --> Input Class telah di inisialisasi
+INFO - 2018-08-01 11:17:26 --> Language Class telah di inisialisasi
+INFO - 2018-08-01 11:17:27 --> Loader Class telah di inisialisasi
+INFO - 2018-08-01 11:17:27 --> Helper telah dimuat: url_helper
+INFO - 2018-08-01 11:17:27 --> Controller Class telah di inisialisasi
+DEBUG - 2018-08-01 11:17:27 --> Session: "sess_save_path" kosong; pakai "session.save_path" data dari php.ini.
+INFO - 2018-08-01 11:17:27 --> Session: Class initialized using 'files' driver.
+INFO - 2018-08-01 11:17:27 --> Helper telah dimuat: cookie_helper
+INFO - 2018-08-01 11:17:27 --> File telah dimuat: D:\XAMPP\htdocs\jb\application\views\jebews/html/head.php
+INFO - 2018-08-01 11:17:27 --> File telah dimuat: D:\XAMPP\htdocs\jb\application\views\jebews/product/manage.php
+INFO - 2018-08-01 11:17:27 --> Output akhir dikirim ke browser
+DEBUG - 2018-08-01 11:17:27 --> Total waktu eksekusi: 0.3126
+INFO - 2018-08-01 11:17:27 --> Config Class telah di inisialisasi
+INFO - 2018-08-01 11:17:27 --> Hooks Class telah di inisialisasi
+DEBUG - 2018-08-01 11:17:27 --> UTF-8 Support Aktif
+INFO - 2018-08-01 11:17:27 --> Utf8 Class telah di inisialisasi
+INFO - 2018-08-01 11:17:27 --> URI Class telah di inisialisasi
+INFO - 2018-08-01 11:17:27 --> Router Class telah di inisialisasi
+INFO - 2018-08-01 11:17:27 --> Output Class telah di inisialisasi
+INFO - 2018-08-01 11:17:27 --> Security Class telah di inisialisasi
+DEBUG - 2018-08-01 11:17:27 --> Global POST, GET dan COOKIE data telah disanitasi
+INFO - 2018-08-01 11:17:27 --> Input Class telah di inisialisasi
+INFO - 2018-08-01 11:17:27 --> Language Class telah di inisialisasi
+INFO - 2018-08-01 11:17:27 --> Loader Class telah di inisialisasi
+INFO - 2018-08-01 11:17:27 --> Helper telah dimuat: url_helper
+INFO - 2018-08-01 11:17:27 --> Controller Class telah di inisialisasi
+DEBUG - 2018-08-01 11:17:27 --> Session: "sess_save_path" kosong; pakai "session.save_path" data dari php.ini.
+INFO - 2018-08-01 11:17:27 --> Session: Class initialized using 'files' driver.
+INFO - 2018-08-01 11:17:27 --> Helper telah dimuat: cookie_helper
+INFO - 2018-08-01 11:17:27 --> Database Driver Class telah di inisialisasi
+INFO - 2018-08-01 11:17:27 --> Model "datatable" telah di inisialisasi
+INFO - 2018-08-01 11:17:27 --> Output akhir dikirim ke browser
+DEBUG - 2018-08-01 11:17:27 --> Total waktu eksekusi: 0.3840
+INFO - 2018-08-01 11:18:14 --> Config Class telah di inisialisasi
+INFO - 2018-08-01 11:18:15 --> Hooks Class telah di inisialisasi
+DEBUG - 2018-08-01 11:18:15 --> UTF-8 Support Aktif
+INFO - 2018-08-01 11:18:15 --> Utf8 Class telah di inisialisasi
+INFO - 2018-08-01 11:18:15 --> URI Class telah di inisialisasi
+INFO - 2018-08-01 11:18:15 --> Router Class telah di inisialisasi
+INFO - 2018-08-01 11:18:15 --> Output Class telah di inisialisasi
+INFO - 2018-08-01 11:18:15 --> Security Class telah di inisialisasi
+DEBUG - 2018-08-01 11:18:15 --> Global POST, GET dan COOKIE data telah disanitasi
+INFO - 2018-08-01 11:18:15 --> Input Class telah di inisialisasi
+INFO - 2018-08-01 11:18:15 --> Language Class telah di inisialisasi
+INFO - 2018-08-01 11:18:15 --> Loader Class telah di inisialisasi
+INFO - 2018-08-01 11:18:15 --> Helper telah dimuat: url_helper
+INFO - 2018-08-01 11:18:15 --> Controller Class telah di inisialisasi
+DEBUG - 2018-08-01 11:18:15 --> Session: "sess_save_path" kosong; pakai "session.save_path" data dari php.ini.
+INFO - 2018-08-01 11:18:15 --> Session: Class initialized using 'files' driver.
+INFO - 2018-08-01 11:18:15 --> Helper telah dimuat: cookie_helper
+INFO - 2018-08-01 11:18:15 --> File telah dimuat: D:\XAMPP\htdocs\jb\application\views\jebews/html/head.php
+INFO - 2018-08-01 11:18:15 --> File telah dimuat: D:\XAMPP\htdocs\jb\application\views\jebews/product/manage.php
+INFO - 2018-08-01 11:18:15 --> Output akhir dikirim ke browser
+DEBUG - 2018-08-01 11:18:15 --> Total waktu eksekusi: 0.3126
+INFO - 2018-08-01 11:18:15 --> Config Class telah di inisialisasi
+INFO - 2018-08-01 11:18:15 --> Hooks Class telah di inisialisasi
+DEBUG - 2018-08-01 11:18:15 --> UTF-8 Support Aktif
+INFO - 2018-08-01 11:18:15 --> Utf8 Class telah di inisialisasi
+INFO - 2018-08-01 11:18:15 --> URI Class telah di inisialisasi
+INFO - 2018-08-01 11:18:15 --> Router Class telah di inisialisasi
+INFO - 2018-08-01 11:18:15 --> Output Class telah di inisialisasi
+INFO - 2018-08-01 11:18:15 --> Security Class telah di inisialisasi
+DEBUG - 2018-08-01 11:18:15 --> Global POST, GET dan COOKIE data telah disanitasi
+INFO - 2018-08-01 11:18:15 --> Input Class telah di inisialisasi
+INFO - 2018-08-01 11:18:15 --> Language Class telah di inisialisasi
+INFO - 2018-08-01 11:18:15 --> Loader Class telah di inisialisasi
+INFO - 2018-08-01 11:18:15 --> Helper telah dimuat: url_helper
+INFO - 2018-08-01 11:18:15 --> Controller Class telah di inisialisasi
+DEBUG - 2018-08-01 11:18:15 --> Session: "sess_save_path" kosong; pakai "session.save_path" data dari php.ini.
+INFO - 2018-08-01 11:18:15 --> Session: Class initialized using 'files' driver.
+INFO - 2018-08-01 11:18:15 --> Helper telah dimuat: cookie_helper
+INFO - 2018-08-01 11:18:15 --> Database Driver Class telah di inisialisasi
+INFO - 2018-08-01 11:18:15 --> Model "datatable" telah di inisialisasi
+INFO - 2018-08-01 11:18:15 --> Output akhir dikirim ke browser
+DEBUG - 2018-08-01 11:18:15 --> Total waktu eksekusi: 0.3790
+INFO - 2018-08-01 11:18:31 --> Config Class telah di inisialisasi
+INFO - 2018-08-01 11:18:31 --> Hooks Class telah di inisialisasi
+DEBUG - 2018-08-01 11:18:31 --> UTF-8 Support Aktif
+INFO - 2018-08-01 11:18:31 --> Utf8 Class telah di inisialisasi
+INFO - 2018-08-01 11:18:31 --> URI Class telah di inisialisasi
+INFO - 2018-08-01 11:18:31 --> Router Class telah di inisialisasi
+INFO - 2018-08-01 11:18:31 --> Output Class telah di inisialisasi
+INFO - 2018-08-01 11:18:31 --> Security Class telah di inisialisasi
+DEBUG - 2018-08-01 11:18:31 --> Global POST, GET dan COOKIE data telah disanitasi
+INFO - 2018-08-01 11:18:31 --> Input Class telah di inisialisasi
+INFO - 2018-08-01 11:18:31 --> Language Class telah di inisialisasi
+INFO - 2018-08-01 11:18:31 --> Loader Class telah di inisialisasi
+INFO - 2018-08-01 11:18:31 --> Helper telah dimuat: url_helper
+INFO - 2018-08-01 11:18:31 --> Controller Class telah di inisialisasi
+DEBUG - 2018-08-01 11:18:31 --> Session: "sess_save_path" kosong; pakai "session.save_path" data dari php.ini.
+INFO - 2018-08-01 11:18:31 --> Session: Class initialized using 'files' driver.
+INFO - 2018-08-01 11:18:31 --> Helper telah dimuat: cookie_helper
+INFO - 2018-08-01 11:18:31 --> File telah dimuat: D:\XAMPP\htdocs\jb\application\views\jebews/html/head.php
+INFO - 2018-08-01 11:18:31 --> File telah dimuat: D:\XAMPP\htdocs\jb\application\views\jebews/product/manage.php
+INFO - 2018-08-01 11:18:31 --> Output akhir dikirim ke browser
+DEBUG - 2018-08-01 11:18:31 --> Total waktu eksekusi: 0.3116
+INFO - 2018-08-01 11:18:31 --> Config Class telah di inisialisasi
+INFO - 2018-08-01 11:18:31 --> Hooks Class telah di inisialisasi
+DEBUG - 2018-08-01 11:18:31 --> UTF-8 Support Aktif
+INFO - 2018-08-01 11:18:31 --> Utf8 Class telah di inisialisasi
+INFO - 2018-08-01 11:18:31 --> URI Class telah di inisialisasi
+INFO - 2018-08-01 11:18:31 --> Router Class telah di inisialisasi
+INFO - 2018-08-01 11:18:31 --> Output Class telah di inisialisasi
+INFO - 2018-08-01 11:18:31 --> Security Class telah di inisialisasi
+DEBUG - 2018-08-01 11:18:31 --> Global POST, GET dan COOKIE data telah disanitasi
+INFO - 2018-08-01 11:18:31 --> Input Class telah di inisialisasi
+INFO - 2018-08-01 11:18:31 --> Language Class telah di inisialisasi
+INFO - 2018-08-01 11:18:31 --> Loader Class telah di inisialisasi
+INFO - 2018-08-01 11:18:31 --> Helper telah dimuat: url_helper
+INFO - 2018-08-01 11:18:31 --> Controller Class telah di inisialisasi
+DEBUG - 2018-08-01 11:18:31 --> Session: "sess_save_path" kosong; pakai "session.save_path" data dari php.ini.
+INFO - 2018-08-01 11:18:31 --> Session: Class initialized using 'files' driver.
+INFO - 2018-08-01 11:18:31 --> Helper telah dimuat: cookie_helper
+INFO - 2018-08-01 11:18:31 --> Database Driver Class telah di inisialisasi
+INFO - 2018-08-01 11:18:31 --> Model "datatable" telah di inisialisasi
+INFO - 2018-08-01 11:18:31 --> Output akhir dikirim ke browser
+DEBUG - 2018-08-01 11:18:31 --> Total waktu eksekusi: 0.3650
+INFO - 2018-08-01 11:18:46 --> Config Class telah di inisialisasi
+INFO - 2018-08-01 11:18:46 --> Hooks Class telah di inisialisasi
+DEBUG - 2018-08-01 11:18:46 --> UTF-8 Support Aktif
+INFO - 2018-08-01 11:18:46 --> Utf8 Class telah di inisialisasi
+INFO - 2018-08-01 11:18:46 --> URI Class telah di inisialisasi
+INFO - 2018-08-01 11:18:46 --> Router Class telah di inisialisasi
+INFO - 2018-08-01 11:18:46 --> Output Class telah di inisialisasi
+INFO - 2018-08-01 11:18:46 --> Security Class telah di inisialisasi
+DEBUG - 2018-08-01 11:18:46 --> Global POST, GET dan COOKIE data telah disanitasi
+INFO - 2018-08-01 11:18:46 --> Input Class telah di inisialisasi
+INFO - 2018-08-01 11:18:46 --> Language Class telah di inisialisasi
+INFO - 2018-08-01 11:18:46 --> Loader Class telah di inisialisasi
+INFO - 2018-08-01 11:18:46 --> Helper telah dimuat: url_helper
+INFO - 2018-08-01 11:18:46 --> Controller Class telah di inisialisasi
+DEBUG - 2018-08-01 11:18:46 --> Session: "sess_save_path" kosong; pakai "session.save_path" data dari php.ini.
+INFO - 2018-08-01 11:18:46 --> Session: Class initialized using 'files' driver.
+INFO - 2018-08-01 11:18:46 --> Helper telah dimuat: cookie_helper
+INFO - 2018-08-01 11:18:46 --> File telah dimuat: D:\XAMPP\htdocs\jb\application\views\jebews/html/head.php
+INFO - 2018-08-01 11:18:46 --> File telah dimuat: D:\XAMPP\htdocs\jb\application\views\jebews/product/manage.php
+INFO - 2018-08-01 11:18:46 --> Output akhir dikirim ke browser
+DEBUG - 2018-08-01 11:18:46 --> Total waktu eksekusi: 0.3246
+INFO - 2018-08-01 11:18:47 --> Config Class telah di inisialisasi
+INFO - 2018-08-01 11:18:47 --> Hooks Class telah di inisialisasi
+DEBUG - 2018-08-01 11:18:47 --> UTF-8 Support Aktif
+INFO - 2018-08-01 11:18:47 --> Utf8 Class telah di inisialisasi
+INFO - 2018-08-01 11:18:47 --> URI Class telah di inisialisasi
+INFO - 2018-08-01 11:18:47 --> Router Class telah di inisialisasi
+INFO - 2018-08-01 11:18:47 --> Output Class telah di inisialisasi
+INFO - 2018-08-01 11:18:47 --> Security Class telah di inisialisasi
+DEBUG - 2018-08-01 11:18:47 --> Global POST, GET dan COOKIE data telah disanitasi
+INFO - 2018-08-01 11:18:47 --> Input Class telah di inisialisasi
+INFO - 2018-08-01 11:18:47 --> Language Class telah di inisialisasi
+INFO - 2018-08-01 11:18:47 --> Loader Class telah di inisialisasi
+INFO - 2018-08-01 11:18:47 --> Helper telah dimuat: url_helper
+INFO - 2018-08-01 11:18:47 --> Controller Class telah di inisialisasi
+DEBUG - 2018-08-01 11:18:47 --> Session: "sess_save_path" kosong; pakai "session.save_path" data dari php.ini.
+INFO - 2018-08-01 11:18:47 --> Session: Class initialized using 'files' driver.
+INFO - 2018-08-01 11:18:47 --> Helper telah dimuat: cookie_helper
+INFO - 2018-08-01 11:18:47 --> Database Driver Class telah di inisialisasi
+INFO - 2018-08-01 11:18:47 --> Model "datatable" telah di inisialisasi
+INFO - 2018-08-01 11:18:47 --> Output akhir dikirim ke browser
+DEBUG - 2018-08-01 11:18:47 --> Total waktu eksekusi: 0.3530
+INFO - 2018-08-01 11:18:55 --> Config Class telah di inisialisasi
+INFO - 2018-08-01 11:18:55 --> Hooks Class telah di inisialisasi
+DEBUG - 2018-08-01 11:18:55 --> UTF-8 Support Aktif
+INFO - 2018-08-01 11:18:55 --> Utf8 Class telah di inisialisasi
+INFO - 2018-08-01 11:18:55 --> URI Class telah di inisialisasi
+INFO - 2018-08-01 11:18:55 --> Router Class telah di inisialisasi
+INFO - 2018-08-01 11:18:55 --> Output Class telah di inisialisasi
+INFO - 2018-08-01 11:18:55 --> Security Class telah di inisialisasi
+DEBUG - 2018-08-01 11:18:55 --> Global POST, GET dan COOKIE data telah disanitasi
+INFO - 2018-08-01 11:18:55 --> Input Class telah di inisialisasi
+INFO - 2018-08-01 11:18:55 --> Language Class telah di inisialisasi
+INFO - 2018-08-01 11:18:55 --> Loader Class telah di inisialisasi
+INFO - 2018-08-01 11:18:55 --> Helper telah dimuat: url_helper
+INFO - 2018-08-01 11:18:55 --> Controller Class telah di inisialisasi
+DEBUG - 2018-08-01 11:18:55 --> Session: "sess_save_path" kosong; pakai "session.save_path" data dari php.ini.
+INFO - 2018-08-01 11:18:55 --> Session: Class initialized using 'files' driver.
+INFO - 2018-08-01 11:18:55 --> Helper telah dimuat: cookie_helper
+INFO - 2018-08-01 11:18:55 --> File telah dimuat: D:\XAMPP\htdocs\jb\application\views\jebews/html/head.php
+INFO - 2018-08-01 11:18:55 --> File telah dimuat: D:\XAMPP\htdocs\jb\application\views\jebews/product/manage.php
+INFO - 2018-08-01 11:18:55 --> Output akhir dikirim ke browser
+DEBUG - 2018-08-01 11:18:55 --> Total waktu eksekusi: 0.3176
+INFO - 2018-08-01 11:18:55 --> Config Class telah di inisialisasi
+INFO - 2018-08-01 11:18:55 --> Hooks Class telah di inisialisasi
+DEBUG - 2018-08-01 11:18:55 --> UTF-8 Support Aktif
+INFO - 2018-08-01 11:18:55 --> Utf8 Class telah di inisialisasi
+INFO - 2018-08-01 11:18:55 --> URI Class telah di inisialisasi
+INFO - 2018-08-01 11:18:56 --> Router Class telah di inisialisasi
+INFO - 2018-08-01 11:18:56 --> Output Class telah di inisialisasi
+INFO - 2018-08-01 11:18:56 --> Security Class telah di inisialisasi
+DEBUG - 2018-08-01 11:18:56 --> Global POST, GET dan COOKIE data telah disanitasi
+INFO - 2018-08-01 11:18:56 --> Input Class telah di inisialisasi
+INFO - 2018-08-01 11:18:56 --> Language Class telah di inisialisasi
+INFO - 2018-08-01 11:18:56 --> Loader Class telah di inisialisasi
+INFO - 2018-08-01 11:18:56 --> Helper telah dimuat: url_helper
+INFO - 2018-08-01 11:18:56 --> Controller Class telah di inisialisasi
+DEBUG - 2018-08-01 11:18:56 --> Session: "sess_save_path" kosong; pakai "session.save_path" data dari php.ini.
+INFO - 2018-08-01 11:18:56 --> Session: Class initialized using 'files' driver.
+INFO - 2018-08-01 11:18:56 --> Helper telah dimuat: cookie_helper
+INFO - 2018-08-01 11:18:56 --> Database Driver Class telah di inisialisasi
+INFO - 2018-08-01 11:18:56 --> Model "datatable" telah di inisialisasi
+INFO - 2018-08-01 11:18:56 --> Output akhir dikirim ke browser
+DEBUG - 2018-08-01 11:18:56 --> Total waktu eksekusi: 0.3840
+INFO - 2018-08-01 11:19:08 --> Config Class telah di inisialisasi
+INFO - 2018-08-01 11:19:08 --> Hooks Class telah di inisialisasi
+DEBUG - 2018-08-01 11:19:08 --> UTF-8 Support Aktif
+INFO - 2018-08-01 11:19:08 --> Utf8 Class telah di inisialisasi
+INFO - 2018-08-01 11:19:08 --> URI Class telah di inisialisasi
+INFO - 2018-08-01 11:19:08 --> Router Class telah di inisialisasi
+INFO - 2018-08-01 11:19:08 --> Output Class telah di inisialisasi
+INFO - 2018-08-01 11:19:08 --> Security Class telah di inisialisasi
+DEBUG - 2018-08-01 11:19:08 --> Global POST, GET dan COOKIE data telah disanitasi
+INFO - 2018-08-01 11:19:08 --> Input Class telah di inisialisasi
+INFO - 2018-08-01 11:19:08 --> Language Class telah di inisialisasi
+INFO - 2018-08-01 11:19:08 --> Loader Class telah di inisialisasi
+INFO - 2018-08-01 11:19:09 --> Helper telah dimuat: url_helper
+INFO - 2018-08-01 11:19:09 --> Controller Class telah di inisialisasi
+DEBUG - 2018-08-01 11:19:09 --> Session: "sess_save_path" kosong; pakai "session.save_path" data dari php.ini.
+INFO - 2018-08-01 11:19:09 --> Session: Class initialized using 'files' driver.
+INFO - 2018-08-01 11:19:09 --> Helper telah dimuat: cookie_helper
+INFO - 2018-08-01 11:19:09 --> File telah dimuat: D:\XAMPP\htdocs\jb\application\views\jebews/html/head.php
+INFO - 2018-08-01 11:19:09 --> File telah dimuat: D:\XAMPP\htdocs\jb\application\views\jebews/product/manage.php
+INFO - 2018-08-01 11:19:09 --> Output akhir dikirim ke browser
+DEBUG - 2018-08-01 11:19:09 --> Total waktu eksekusi: 0.3342
+INFO - 2018-08-01 11:19:09 --> Config Class telah di inisialisasi
+INFO - 2018-08-01 11:19:09 --> Hooks Class telah di inisialisasi
+DEBUG - 2018-08-01 11:19:09 --> UTF-8 Support Aktif
+INFO - 2018-08-01 11:19:09 --> Utf8 Class telah di inisialisasi
+INFO - 2018-08-01 11:19:09 --> URI Class telah di inisialisasi
+INFO - 2018-08-01 11:19:09 --> Router Class telah di inisialisasi
+INFO - 2018-08-01 11:19:09 --> Output Class telah di inisialisasi
+INFO - 2018-08-01 11:19:09 --> Security Class telah di inisialisasi
+DEBUG - 2018-08-01 11:19:09 --> Global POST, GET dan COOKIE data telah disanitasi
+INFO - 2018-08-01 11:19:09 --> Input Class telah di inisialisasi
+INFO - 2018-08-01 11:19:09 --> Language Class telah di inisialisasi
+INFO - 2018-08-01 11:19:09 --> Loader Class telah di inisialisasi
+INFO - 2018-08-01 11:19:09 --> Helper telah dimuat: url_helper
+INFO - 2018-08-01 11:19:09 --> Controller Class telah di inisialisasi
+DEBUG - 2018-08-01 11:19:09 --> Session: "sess_save_path" kosong; pakai "session.save_path" data dari php.ini.
+INFO - 2018-08-01 11:19:09 --> Session: Class initialized using 'files' driver.
+INFO - 2018-08-01 11:19:09 --> Helper telah dimuat: cookie_helper
+INFO - 2018-08-01 11:19:09 --> Database Driver Class telah di inisialisasi
+INFO - 2018-08-01 11:19:09 --> Model "datatable" telah di inisialisasi
+INFO - 2018-08-01 11:19:09 --> Output akhir dikirim ke browser
+DEBUG - 2018-08-01 11:19:09 --> Total waktu eksekusi: 0.4240
+INFO - 2018-08-01 11:19:40 --> Config Class telah di inisialisasi
+INFO - 2018-08-01 11:19:40 --> Hooks Class telah di inisialisasi
+DEBUG - 2018-08-01 11:19:40 --> UTF-8 Support Aktif
+INFO - 2018-08-01 11:19:40 --> Utf8 Class telah di inisialisasi
+INFO - 2018-08-01 11:19:40 --> URI Class telah di inisialisasi
+INFO - 2018-08-01 11:19:40 --> Router Class telah di inisialisasi
+INFO - 2018-08-01 11:19:40 --> Output Class telah di inisialisasi
+INFO - 2018-08-01 11:19:40 --> Security Class telah di inisialisasi
+DEBUG - 2018-08-01 11:19:40 --> Global POST, GET dan COOKIE data telah disanitasi
+INFO - 2018-08-01 11:19:40 --> Input Class telah di inisialisasi
+INFO - 2018-08-01 11:19:40 --> Language Class telah di inisialisasi
+INFO - 2018-08-01 11:19:40 --> Loader Class telah di inisialisasi
+INFO - 2018-08-01 11:19:40 --> Helper telah dimuat: url_helper
+INFO - 2018-08-01 11:19:40 --> Controller Class telah di inisialisasi
+DEBUG - 2018-08-01 11:19:40 --> Session: "sess_save_path" kosong; pakai "session.save_path" data dari php.ini.
+INFO - 2018-08-01 11:19:40 --> Session: Class initialized using 'files' driver.
+INFO - 2018-08-01 11:19:40 --> Helper telah dimuat: cookie_helper
+INFO - 2018-08-01 11:19:40 --> File telah dimuat: D:\XAMPP\htdocs\jb\application\views\jebews/html/head.php
+INFO - 2018-08-01 11:19:40 --> File telah dimuat: D:\XAMPP\htdocs\jb\application\views\jebews/product/manage.php
+INFO - 2018-08-01 11:19:40 --> Output akhir dikirim ke browser
+DEBUG - 2018-08-01 11:19:40 --> Total waktu eksekusi: 0.3740
+INFO - 2018-08-01 11:19:40 --> Config Class telah di inisialisasi
+INFO - 2018-08-01 11:19:40 --> Hooks Class telah di inisialisasi
+DEBUG - 2018-08-01 11:19:40 --> UTF-8 Support Aktif
+INFO - 2018-08-01 11:19:40 --> Utf8 Class telah di inisialisasi
+INFO - 2018-08-01 11:19:40 --> URI Class telah di inisialisasi
+INFO - 2018-08-01 11:19:40 --> Router Class telah di inisialisasi
+INFO - 2018-08-01 11:19:40 --> Output Class telah di inisialisasi
+INFO - 2018-08-01 11:19:40 --> Security Class telah di inisialisasi
+DEBUG - 2018-08-01 11:19:41 --> Global POST, GET dan COOKIE data telah disanitasi
+INFO - 2018-08-01 11:19:41 --> Input Class telah di inisialisasi
+INFO - 2018-08-01 11:19:41 --> Language Class telah di inisialisasi
+INFO - 2018-08-01 11:19:41 --> Loader Class telah di inisialisasi
+INFO - 2018-08-01 11:19:41 --> Helper telah dimuat: url_helper
+INFO - 2018-08-01 11:19:41 --> Controller Class telah di inisialisasi
+DEBUG - 2018-08-01 11:19:41 --> Session: "sess_save_path" kosong; pakai "session.save_path" data dari php.ini.
+INFO - 2018-08-01 11:19:41 --> Session: Class initialized using 'files' driver.
+INFO - 2018-08-01 11:19:41 --> Helper telah dimuat: cookie_helper
+INFO - 2018-08-01 11:19:41 --> Database Driver Class telah di inisialisasi
+INFO - 2018-08-01 11:19:41 --> Model "datatable" telah di inisialisasi
+INFO - 2018-08-01 11:19:41 --> Output akhir dikirim ke browser
+DEBUG - 2018-08-01 11:19:41 --> Total waktu eksekusi: 0.4360
+INFO - 2018-08-01 11:19:55 --> Config Class telah di inisialisasi
+INFO - 2018-08-01 11:19:55 --> Hooks Class telah di inisialisasi
+DEBUG - 2018-08-01 11:19:55 --> UTF-8 Support Aktif
+INFO - 2018-08-01 11:19:55 --> Utf8 Class telah di inisialisasi
+INFO - 2018-08-01 11:19:55 --> URI Class telah di inisialisasi
+INFO - 2018-08-01 11:19:55 --> Router Class telah di inisialisasi
+INFO - 2018-08-01 11:19:55 --> Output Class telah di inisialisasi
+INFO - 2018-08-01 11:19:55 --> Security Class telah di inisialisasi
+DEBUG - 2018-08-01 11:19:55 --> Global POST, GET dan COOKIE data telah disanitasi
+INFO - 2018-08-01 11:19:55 --> Input Class telah di inisialisasi
+INFO - 2018-08-01 11:19:55 --> Language Class telah di inisialisasi
+INFO - 2018-08-01 11:19:55 --> Loader Class telah di inisialisasi
+INFO - 2018-08-01 11:19:55 --> Helper telah dimuat: url_helper
+INFO - 2018-08-01 11:19:55 --> Controller Class telah di inisialisasi
+DEBUG - 2018-08-01 11:19:55 --> Session: "sess_save_path" kosong; pakai "session.save_path" data dari php.ini.
+INFO - 2018-08-01 11:19:55 --> Session: Class initialized using 'files' driver.
+INFO - 2018-08-01 11:19:55 --> Helper telah dimuat: cookie_helper
+INFO - 2018-08-01 11:19:56 --> File telah dimuat: D:\XAMPP\htdocs\jb\application\views\jebews/html/head.php
+INFO - 2018-08-01 11:19:56 --> File telah dimuat: D:\XAMPP\htdocs\jb\application\views\jebews/product/manage.php
+INFO - 2018-08-01 11:19:56 --> Output akhir dikirim ke browser
+DEBUG - 2018-08-01 11:19:56 --> Total waktu eksekusi: 0.3216
+INFO - 2018-08-01 11:19:56 --> Config Class telah di inisialisasi
+INFO - 2018-08-01 11:19:56 --> Hooks Class telah di inisialisasi
+DEBUG - 2018-08-01 11:19:56 --> UTF-8 Support Aktif
+INFO - 2018-08-01 11:19:56 --> Utf8 Class telah di inisialisasi
+INFO - 2018-08-01 11:19:56 --> URI Class telah di inisialisasi
+INFO - 2018-08-01 11:19:56 --> Router Class telah di inisialisasi
+INFO - 2018-08-01 11:19:56 --> Output Class telah di inisialisasi
+INFO - 2018-08-01 11:19:56 --> Security Class telah di inisialisasi
+DEBUG - 2018-08-01 11:19:56 --> Global POST, GET dan COOKIE data telah disanitasi
+INFO - 2018-08-01 11:19:56 --> Input Class telah di inisialisasi
+INFO - 2018-08-01 11:19:56 --> Language Class telah di inisialisasi
+INFO - 2018-08-01 11:19:56 --> Loader Class telah di inisialisasi
+INFO - 2018-08-01 11:19:56 --> Helper telah dimuat: url_helper
+INFO - 2018-08-01 11:19:56 --> Controller Class telah di inisialisasi
+DEBUG - 2018-08-01 11:19:56 --> Session: "sess_save_path" kosong; pakai "session.save_path" data dari php.ini.
+INFO - 2018-08-01 11:19:56 --> Session: Class initialized using 'files' driver.
+INFO - 2018-08-01 11:19:56 --> Helper telah dimuat: cookie_helper
+INFO - 2018-08-01 11:19:56 --> Database Driver Class telah di inisialisasi
+INFO - 2018-08-01 11:19:56 --> Model "datatable" telah di inisialisasi
+INFO - 2018-08-01 11:19:56 --> Output akhir dikirim ke browser
+DEBUG - 2018-08-01 11:19:56 --> Total waktu eksekusi: 0.3660
+INFO - 2018-08-01 11:20:03 --> Config Class telah di inisialisasi
+INFO - 2018-08-01 11:20:03 --> Hooks Class telah di inisialisasi
+DEBUG - 2018-08-01 11:20:03 --> UTF-8 Support Aktif
+INFO - 2018-08-01 11:20:03 --> Utf8 Class telah di inisialisasi
+INFO - 2018-08-01 11:20:03 --> URI Class telah di inisialisasi
+INFO - 2018-08-01 11:20:03 --> Router Class telah di inisialisasi
+INFO - 2018-08-01 11:20:03 --> Output Class telah di inisialisasi
+INFO - 2018-08-01 11:20:03 --> Security Class telah di inisialisasi
+DEBUG - 2018-08-01 11:20:03 --> Global POST, GET dan COOKIE data telah disanitasi
+INFO - 2018-08-01 11:20:03 --> Input Class telah di inisialisasi
+INFO - 2018-08-01 11:20:03 --> Language Class telah di inisialisasi
+INFO - 2018-08-01 11:20:03 --> Loader Class telah di inisialisasi
+INFO - 2018-08-01 11:20:03 --> Helper telah dimuat: url_helper
+INFO - 2018-08-01 11:20:03 --> Controller Class telah di inisialisasi
+DEBUG - 2018-08-01 11:20:03 --> Session: "sess_save_path" kosong; pakai "session.save_path" data dari php.ini.
+INFO - 2018-08-01 11:20:03 --> Session: Class initialized using 'files' driver.
+INFO - 2018-08-01 11:20:03 --> Helper telah dimuat: cookie_helper
+INFO - 2018-08-01 11:20:03 --> File telah dimuat: D:\XAMPP\htdocs\jb\application\views\jebews/html/head.php
+INFO - 2018-08-01 11:20:03 --> File telah dimuat: D:\XAMPP\htdocs\jb\application\views\jebews/product/manage.php
+INFO - 2018-08-01 11:20:03 --> Output akhir dikirim ke browser
+DEBUG - 2018-08-01 11:20:03 --> Total waktu eksekusi: 0.3380
+INFO - 2018-08-01 11:20:03 --> Config Class telah di inisialisasi
+INFO - 2018-08-01 11:20:03 --> Hooks Class telah di inisialisasi
+DEBUG - 2018-08-01 11:20:03 --> UTF-8 Support Aktif
+INFO - 2018-08-01 11:20:03 --> Utf8 Class telah di inisialisasi
+INFO - 2018-08-01 11:20:03 --> URI Class telah di inisialisasi
+INFO - 2018-08-01 11:20:03 --> Router Class telah di inisialisasi
+INFO - 2018-08-01 11:20:03 --> Output Class telah di inisialisasi
+INFO - 2018-08-01 11:20:03 --> Security Class telah di inisialisasi
+DEBUG - 2018-08-01 11:20:03 --> Global POST, GET dan COOKIE data telah disanitasi
+INFO - 2018-08-01 11:20:03 --> Input Class telah di inisialisasi
+INFO - 2018-08-01 11:20:03 --> Language Class telah di inisialisasi
+INFO - 2018-08-01 11:20:03 --> Loader Class telah di inisialisasi
+INFO - 2018-08-01 11:20:03 --> Helper telah dimuat: url_helper
+INFO - 2018-08-01 11:20:03 --> Controller Class telah di inisialisasi
+DEBUG - 2018-08-01 11:20:04 --> Session: "sess_save_path" kosong; pakai "session.save_path" data dari php.ini.
+INFO - 2018-08-01 11:20:04 --> Session: Class initialized using 'files' driver.
+INFO - 2018-08-01 11:20:04 --> Helper telah dimuat: cookie_helper
+INFO - 2018-08-01 11:20:04 --> Database Driver Class telah di inisialisasi
+INFO - 2018-08-01 11:20:04 --> Model "datatable" telah di inisialisasi
+INFO - 2018-08-01 11:20:04 --> Output akhir dikirim ke browser
+DEBUG - 2018-08-01 11:20:04 --> Total waktu eksekusi: 0.3840
+INFO - 2018-08-01 11:21:23 --> Config Class telah di inisialisasi
+INFO - 2018-08-01 11:21:23 --> Hooks Class telah di inisialisasi
+DEBUG - 2018-08-01 11:21:23 --> UTF-8 Support Aktif
+INFO - 2018-08-01 11:21:23 --> Utf8 Class telah di inisialisasi
+INFO - 2018-08-01 11:21:23 --> URI Class telah di inisialisasi
+INFO - 2018-08-01 11:21:23 --> Router Class telah di inisialisasi
+INFO - 2018-08-01 11:21:23 --> Output Class telah di inisialisasi
+INFO - 2018-08-01 11:21:23 --> Security Class telah di inisialisasi
+DEBUG - 2018-08-01 11:21:23 --> Global POST, GET dan COOKIE data telah disanitasi
+INFO - 2018-08-01 11:21:24 --> Input Class telah di inisialisasi
+INFO - 2018-08-01 11:21:24 --> Language Class telah di inisialisasi
+INFO - 2018-08-01 11:21:24 --> Loader Class telah di inisialisasi
+INFO - 2018-08-01 11:21:24 --> Helper telah dimuat: url_helper
+INFO - 2018-08-01 11:21:24 --> Controller Class telah di inisialisasi
+DEBUG - 2018-08-01 11:21:24 --> Session: "sess_save_path" kosong; pakai "session.save_path" data dari php.ini.
+INFO - 2018-08-01 11:21:24 --> Session: Class initialized using 'files' driver.
+INFO - 2018-08-01 11:21:24 --> Helper telah dimuat: cookie_helper
+INFO - 2018-08-01 11:21:24 --> Database Driver Class telah di inisialisasi
+INFO - 2018-08-01 11:21:24 --> Model "datatable" telah di inisialisasi
+INFO - 2018-08-01 11:21:24 --> Output akhir dikirim ke browser
+DEBUG - 2018-08-01 11:21:24 --> Total waktu eksekusi: 0.3394
+INFO - 2018-08-01 11:21:27 --> Config Class telah di inisialisasi
+INFO - 2018-08-01 11:21:27 --> Hooks Class telah di inisialisasi
+DEBUG - 2018-08-01 11:21:27 --> UTF-8 Support Aktif
+INFO - 2018-08-01 11:21:27 --> Utf8 Class telah di inisialisasi
+INFO - 2018-08-01 11:21:27 --> URI Class telah di inisialisasi
+INFO - 2018-08-01 11:21:27 --> Router Class telah di inisialisasi
+INFO - 2018-08-01 11:21:27 --> Output Class telah di inisialisasi
+INFO - 2018-08-01 11:21:27 --> Security Class telah di inisialisasi
+DEBUG - 2018-08-01 11:21:27 --> Global POST, GET dan COOKIE data telah disanitasi
+INFO - 2018-08-01 11:21:27 --> Input Class telah di inisialisasi
+INFO - 2018-08-01 11:21:27 --> Language Class telah di inisialisasi
+INFO - 2018-08-01 11:21:27 --> Loader Class telah di inisialisasi
+INFO - 2018-08-01 11:21:27 --> Helper telah dimuat: url_helper
+INFO - 2018-08-01 11:21:27 --> Controller Class telah di inisialisasi
+DEBUG - 2018-08-01 11:21:27 --> Session: "sess_save_path" kosong; pakai "session.save_path" data dari php.ini.
+INFO - 2018-08-01 11:21:27 --> Session: Class initialized using 'files' driver.
+INFO - 2018-08-01 11:21:27 --> Helper telah dimuat: cookie_helper
+INFO - 2018-08-01 11:21:27 --> Database Driver Class telah di inisialisasi
+INFO - 2018-08-01 11:21:27 --> Model "datatable" telah di inisialisasi
+INFO - 2018-08-01 11:21:27 --> Output akhir dikirim ke browser
+DEBUG - 2018-08-01 11:21:27 --> Total waktu eksekusi: 0.3568
+INFO - 2018-08-01 11:22:26 --> Config Class telah di inisialisasi
+INFO - 2018-08-01 11:22:26 --> Hooks Class telah di inisialisasi
+DEBUG - 2018-08-01 11:22:26 --> UTF-8 Support Aktif
+INFO - 2018-08-01 11:22:26 --> Utf8 Class telah di inisialisasi
+INFO - 2018-08-01 11:22:26 --> URI Class telah di inisialisasi
+INFO - 2018-08-01 11:22:26 --> Router Class telah di inisialisasi
+INFO - 2018-08-01 11:22:26 --> Output Class telah di inisialisasi
+INFO - 2018-08-01 11:22:26 --> Security Class telah di inisialisasi
+DEBUG - 2018-08-01 11:22:26 --> Global POST, GET dan COOKIE data telah disanitasi
+INFO - 2018-08-01 11:22:27 --> Input Class telah di inisialisasi
+INFO - 2018-08-01 11:22:27 --> Language Class telah di inisialisasi
+INFO - 2018-08-01 11:22:27 --> Loader Class telah di inisialisasi
+INFO - 2018-08-01 11:22:27 --> Helper telah dimuat: url_helper
+INFO - 2018-08-01 11:22:27 --> Controller Class telah di inisialisasi
+DEBUG - 2018-08-01 11:22:27 --> Session: "sess_save_path" kosong; pakai "session.save_path" data dari php.ini.
+INFO - 2018-08-01 11:22:27 --> Session: Class initialized using 'files' driver.
+INFO - 2018-08-01 11:22:27 --> Helper telah dimuat: cookie_helper
+INFO - 2018-08-01 11:22:27 --> File telah dimuat: D:\XAMPP\htdocs\jb\application\views\jebews/html/head.php
+INFO - 2018-08-01 11:22:27 --> File telah dimuat: D:\XAMPP\htdocs\jb\application\views\jebews/product/manage.php
+INFO - 2018-08-01 11:22:27 --> Output akhir dikirim ke browser
+DEBUG - 2018-08-01 11:22:27 --> Total waktu eksekusi: 0.3276
+INFO - 2018-08-01 11:22:27 --> Config Class telah di inisialisasi
+INFO - 2018-08-01 11:22:27 --> Hooks Class telah di inisialisasi
+DEBUG - 2018-08-01 11:22:27 --> UTF-8 Support Aktif
+INFO - 2018-08-01 11:22:27 --> Utf8 Class telah di inisialisasi
+INFO - 2018-08-01 11:22:27 --> URI Class telah di inisialisasi
+INFO - 2018-08-01 11:22:27 --> Router Class telah di inisialisasi
+INFO - 2018-08-01 11:22:27 --> Output Class telah di inisialisasi
+INFO - 2018-08-01 11:22:27 --> Security Class telah di inisialisasi
+DEBUG - 2018-08-01 11:22:27 --> Global POST, GET dan COOKIE data telah disanitasi
+INFO - 2018-08-01 11:22:27 --> Input Class telah di inisialisasi
+INFO - 2018-08-01 11:22:27 --> Language Class telah di inisialisasi
+INFO - 2018-08-01 11:22:27 --> Loader Class telah di inisialisasi
+INFO - 2018-08-01 11:22:27 --> Helper telah dimuat: url_helper
+INFO - 2018-08-01 11:22:27 --> Controller Class telah di inisialisasi
+DEBUG - 2018-08-01 11:22:27 --> Session: "sess_save_path" kosong; pakai "session.save_path" data dari php.ini.
+INFO - 2018-08-01 11:22:27 --> Session: Class initialized using 'files' driver.
+INFO - 2018-08-01 11:22:27 --> Helper telah dimuat: cookie_helper
+INFO - 2018-08-01 11:22:27 --> Database Driver Class telah di inisialisasi
+INFO - 2018-08-01 11:22:27 --> Model "datatable" telah di inisialisasi
+INFO - 2018-08-01 11:22:27 --> Output akhir dikirim ke browser
+DEBUG - 2018-08-01 11:22:27 --> Total waktu eksekusi: 0.3620
+INFO - 2018-08-01 11:22:42 --> Config Class telah di inisialisasi
+INFO - 2018-08-01 11:22:42 --> Hooks Class telah di inisialisasi
+DEBUG - 2018-08-01 11:22:42 --> UTF-8 Support Aktif
+INFO - 2018-08-01 11:22:42 --> Utf8 Class telah di inisialisasi
+INFO - 2018-08-01 11:22:42 --> URI Class telah di inisialisasi
+INFO - 2018-08-01 11:22:42 --> Router Class telah di inisialisasi
+INFO - 2018-08-01 11:22:42 --> Output Class telah di inisialisasi
+INFO - 2018-08-01 11:22:42 --> Security Class telah di inisialisasi
+DEBUG - 2018-08-01 11:22:43 --> Global POST, GET dan COOKIE data telah disanitasi
+INFO - 2018-08-01 11:22:43 --> Input Class telah di inisialisasi
+INFO - 2018-08-01 11:22:43 --> Language Class telah di inisialisasi
+INFO - 2018-08-01 11:22:43 --> Loader Class telah di inisialisasi
+INFO - 2018-08-01 11:22:43 --> Helper telah dimuat: url_helper
+INFO - 2018-08-01 11:22:43 --> Controller Class telah di inisialisasi
+DEBUG - 2018-08-01 11:22:43 --> Session: "sess_save_path" kosong; pakai "session.save_path" data dari php.ini.
+INFO - 2018-08-01 11:22:43 --> Session: Class initialized using 'files' driver.
+INFO - 2018-08-01 11:22:43 --> Helper telah dimuat: cookie_helper
+INFO - 2018-08-01 11:22:43 --> File telah dimuat: D:\XAMPP\htdocs\jb\application\views\jebews/html/head.php
+INFO - 2018-08-01 11:22:43 --> File telah dimuat: D:\XAMPP\htdocs\jb\application\views\jebews/product/manage.php
+INFO - 2018-08-01 11:22:43 --> Output akhir dikirim ke browser
+DEBUG - 2018-08-01 11:22:43 --> Total waktu eksekusi: 0.3266
+INFO - 2018-08-01 11:22:43 --> Config Class telah di inisialisasi
+INFO - 2018-08-01 11:22:43 --> Hooks Class telah di inisialisasi
+DEBUG - 2018-08-01 11:22:43 --> UTF-8 Support Aktif
+INFO - 2018-08-01 11:22:43 --> Utf8 Class telah di inisialisasi
+INFO - 2018-08-01 11:22:43 --> URI Class telah di inisialisasi
+INFO - 2018-08-01 11:22:43 --> Router Class telah di inisialisasi
+INFO - 2018-08-01 11:22:43 --> Output Class telah di inisialisasi
+INFO - 2018-08-01 11:22:43 --> Security Class telah di inisialisasi
+DEBUG - 2018-08-01 11:22:43 --> Global POST, GET dan COOKIE data telah disanitasi
+INFO - 2018-08-01 11:22:43 --> Input Class telah di inisialisasi
+INFO - 2018-08-01 11:22:43 --> Language Class telah di inisialisasi
+INFO - 2018-08-01 11:22:43 --> Loader Class telah di inisialisasi
+INFO - 2018-08-01 11:22:43 --> Helper telah dimuat: url_helper
+INFO - 2018-08-01 11:22:43 --> Controller Class telah di inisialisasi
+DEBUG - 2018-08-01 11:22:43 --> Session: "sess_save_path" kosong; pakai "session.save_path" data dari php.ini.
+INFO - 2018-08-01 11:22:43 --> Session: Class initialized using 'files' driver.
+INFO - 2018-08-01 11:22:43 --> Helper telah dimuat: cookie_helper
+INFO - 2018-08-01 11:22:43 --> Database Driver Class telah di inisialisasi
+INFO - 2018-08-01 11:22:43 --> Model "datatable" telah di inisialisasi
+INFO - 2018-08-01 11:22:43 --> Output akhir dikirim ke browser
+DEBUG - 2018-08-01 11:22:43 --> Total waktu eksekusi: 0.3700
+INFO - 2018-08-01 11:23:07 --> Config Class telah di inisialisasi
+INFO - 2018-08-01 11:23:07 --> Hooks Class telah di inisialisasi
+DEBUG - 2018-08-01 11:23:07 --> UTF-8 Support Aktif
+INFO - 2018-08-01 11:23:07 --> Utf8 Class telah di inisialisasi
+INFO - 2018-08-01 11:23:07 --> URI Class telah di inisialisasi
+INFO - 2018-08-01 11:23:07 --> Router Class telah di inisialisasi
+INFO - 2018-08-01 11:23:07 --> Output Class telah di inisialisasi
+INFO - 2018-08-01 11:23:07 --> Security Class telah di inisialisasi
+DEBUG - 2018-08-01 11:23:07 --> Global POST, GET dan COOKIE data telah disanitasi
+INFO - 2018-08-01 11:23:07 --> Input Class telah di inisialisasi
+INFO - 2018-08-01 11:23:07 --> Language Class telah di inisialisasi
+INFO - 2018-08-01 11:23:07 --> Loader Class telah di inisialisasi
+INFO - 2018-08-01 11:23:07 --> Helper telah dimuat: url_helper
+INFO - 2018-08-01 11:23:07 --> Controller Class telah di inisialisasi
+DEBUG - 2018-08-01 11:23:07 --> Session: "sess_save_path" kosong; pakai "session.save_path" data dari php.ini.
+INFO - 2018-08-01 11:23:07 --> Session: Class initialized using 'files' driver.
+INFO - 2018-08-01 11:23:07 --> Helper telah dimuat: cookie_helper
+INFO - 2018-08-01 11:23:07 --> File telah dimuat: D:\XAMPP\htdocs\jb\application\views\jebews/html/head.php
+INFO - 2018-08-01 11:23:07 --> File telah dimuat: D:\XAMPP\htdocs\jb\application\views\jebews/product/manage.php
+INFO - 2018-08-01 11:23:07 --> Output akhir dikirim ke browser
+DEBUG - 2018-08-01 11:23:07 --> Total waktu eksekusi: 0.3156
+INFO - 2018-08-01 11:23:07 --> Config Class telah di inisialisasi
+INFO - 2018-08-01 11:23:07 --> Hooks Class telah di inisialisasi
+DEBUG - 2018-08-01 11:23:07 --> UTF-8 Support Aktif
+INFO - 2018-08-01 11:23:07 --> Utf8 Class telah di inisialisasi
+INFO - 2018-08-01 11:23:07 --> URI Class telah di inisialisasi
+INFO - 2018-08-01 11:23:07 --> Router Class telah di inisialisasi
+INFO - 2018-08-01 11:23:07 --> Output Class telah di inisialisasi
+INFO - 2018-08-01 11:23:07 --> Security Class telah di inisialisasi
+DEBUG - 2018-08-01 11:23:07 --> Global POST, GET dan COOKIE data telah disanitasi
+INFO - 2018-08-01 11:23:07 --> Input Class telah di inisialisasi
+INFO - 2018-08-01 11:23:07 --> Language Class telah di inisialisasi
+INFO - 2018-08-01 11:23:07 --> Loader Class telah di inisialisasi
+INFO - 2018-08-01 11:23:07 --> Helper telah dimuat: url_helper
+INFO - 2018-08-01 11:23:07 --> Controller Class telah di inisialisasi
+DEBUG - 2018-08-01 11:23:07 --> Session: "sess_save_path" kosong; pakai "session.save_path" data dari php.ini.
+INFO - 2018-08-01 11:23:07 --> Session: Class initialized using 'files' driver.
+INFO - 2018-08-01 11:23:07 --> Helper telah dimuat: cookie_helper
+INFO - 2018-08-01 11:23:07 --> Database Driver Class telah di inisialisasi
+INFO - 2018-08-01 11:23:07 --> Model "datatable" telah di inisialisasi
+INFO - 2018-08-01 11:23:07 --> Output akhir dikirim ke browser
+DEBUG - 2018-08-01 11:23:07 --> Total waktu eksekusi: 0.3840
+INFO - 2018-08-01 11:25:00 --> Config Class telah di inisialisasi
+INFO - 2018-08-01 11:25:00 --> Hooks Class telah di inisialisasi
+DEBUG - 2018-08-01 11:25:00 --> UTF-8 Support Aktif
+INFO - 2018-08-01 11:25:00 --> Utf8 Class telah di inisialisasi
+INFO - 2018-08-01 11:25:00 --> URI Class telah di inisialisasi
+INFO - 2018-08-01 11:25:00 --> Router Class telah di inisialisasi
+INFO - 2018-08-01 11:25:00 --> Output Class telah di inisialisasi
+INFO - 2018-08-01 11:25:00 --> Security Class telah di inisialisasi
+DEBUG - 2018-08-01 11:25:00 --> Global POST, GET dan COOKIE data telah disanitasi
+INFO - 2018-08-01 11:25:00 --> Input Class telah di inisialisasi
+INFO - 2018-08-01 11:25:00 --> Language Class telah di inisialisasi
+INFO - 2018-08-01 11:25:00 --> Loader Class telah di inisialisasi
+INFO - 2018-08-01 11:25:00 --> Helper telah dimuat: url_helper
+INFO - 2018-08-01 11:25:00 --> Controller Class telah di inisialisasi
+DEBUG - 2018-08-01 11:25:01 --> Session: "sess_save_path" kosong; pakai "session.save_path" data dari php.ini.
+INFO - 2018-08-01 11:25:01 --> Session: Class initialized using 'files' driver.
+INFO - 2018-08-01 11:25:01 --> Helper telah dimuat: cookie_helper
+INFO - 2018-08-01 11:25:01 --> File telah dimuat: D:\XAMPP\htdocs\jb\application\views\jebews/html/head.php
+INFO - 2018-08-01 11:25:01 --> File telah dimuat: D:\XAMPP\htdocs\jb\application\views\jebews/product/manage.php
+INFO - 2018-08-01 11:25:01 --> Output akhir dikirim ke browser
+DEBUG - 2018-08-01 11:25:01 --> Total waktu eksekusi: 0.3382
+INFO - 2018-08-01 11:25:01 --> Config Class telah di inisialisasi
+INFO - 2018-08-01 11:25:01 --> Hooks Class telah di inisialisasi
+DEBUG - 2018-08-01 11:25:01 --> UTF-8 Support Aktif
+INFO - 2018-08-01 11:25:01 --> Utf8 Class telah di inisialisasi
+INFO - 2018-08-01 11:25:01 --> URI Class telah di inisialisasi
+INFO - 2018-08-01 11:25:01 --> Router Class telah di inisialisasi
+INFO - 2018-08-01 11:25:01 --> Output Class telah di inisialisasi
+INFO - 2018-08-01 11:25:01 --> Security Class telah di inisialisasi
+DEBUG - 2018-08-01 11:25:01 --> Global POST, GET dan COOKIE data telah disanitasi
+INFO - 2018-08-01 11:25:01 --> Input Class telah di inisialisasi
+INFO - 2018-08-01 11:25:01 --> Language Class telah di inisialisasi
+INFO - 2018-08-01 11:25:01 --> Loader Class telah di inisialisasi
+INFO - 2018-08-01 11:25:01 --> Helper telah dimuat: url_helper
+INFO - 2018-08-01 11:25:01 --> Controller Class telah di inisialisasi
+DEBUG - 2018-08-01 11:25:01 --> Session: "sess_save_path" kosong; pakai "session.save_path" data dari php.ini.
+INFO - 2018-08-01 11:25:01 --> Session: Class initialized using 'files' driver.
+INFO - 2018-08-01 11:25:01 --> Helper telah dimuat: cookie_helper
+INFO - 2018-08-01 11:25:01 --> Database Driver Class telah di inisialisasi
+INFO - 2018-08-01 11:25:01 --> Model "datatable" telah di inisialisasi
+INFO - 2018-08-01 11:25:01 --> Output akhir dikirim ke browser
+DEBUG - 2018-08-01 11:25:01 --> Total waktu eksekusi: 0.3810
+INFO - 2018-08-01 11:25:03 --> Config Class telah di inisialisasi
+INFO - 2018-08-01 11:25:03 --> Hooks Class telah di inisialisasi
+DEBUG - 2018-08-01 11:25:03 --> UTF-8 Support Aktif
+INFO - 2018-08-01 11:25:03 --> Utf8 Class telah di inisialisasi
+INFO - 2018-08-01 11:25:03 --> URI Class telah di inisialisasi
+INFO - 2018-08-01 11:25:03 --> Router Class telah di inisialisasi
+INFO - 2018-08-01 11:25:03 --> Output Class telah di inisialisasi
+INFO - 2018-08-01 11:25:03 --> Security Class telah di inisialisasi
+DEBUG - 2018-08-01 11:25:03 --> Global POST, GET dan COOKIE data telah disanitasi
+INFO - 2018-08-01 11:25:03 --> Input Class telah di inisialisasi
+INFO - 2018-08-01 11:25:03 --> Language Class telah di inisialisasi
+INFO - 2018-08-01 11:25:03 --> Loader Class telah di inisialisasi
+INFO - 2018-08-01 11:25:03 --> Helper telah dimuat: url_helper
+INFO - 2018-08-01 11:25:03 --> Controller Class telah di inisialisasi
+DEBUG - 2018-08-01 11:25:03 --> Session: "sess_save_path" kosong; pakai "session.save_path" data dari php.ini.
+INFO - 2018-08-01 11:25:03 --> Session: Class initialized using 'files' driver.
+INFO - 2018-08-01 11:25:03 --> Helper telah dimuat: cookie_helper
+INFO - 2018-08-01 11:25:03 --> File telah dimuat: D:\XAMPP\htdocs\jb\application\views\jebews/html/head.php
+INFO - 2018-08-01 11:25:03 --> File telah dimuat: D:\XAMPP\htdocs\jb\application\views\jebews/product/manage.php
+INFO - 2018-08-01 11:25:03 --> Output akhir dikirim ke browser
+DEBUG - 2018-08-01 11:25:03 --> Total waktu eksekusi: 0.3186
+INFO - 2018-08-01 11:25:03 --> Config Class telah di inisialisasi
+INFO - 2018-08-01 11:25:03 --> Hooks Class telah di inisialisasi
+DEBUG - 2018-08-01 11:25:03 --> UTF-8 Support Aktif
+INFO - 2018-08-01 11:25:03 --> Utf8 Class telah di inisialisasi
+INFO - 2018-08-01 11:25:03 --> URI Class telah di inisialisasi
+INFO - 2018-08-01 11:25:03 --> Router Class telah di inisialisasi
+INFO - 2018-08-01 11:25:03 --> Output Class telah di inisialisasi
+INFO - 2018-08-01 11:25:03 --> Security Class telah di inisialisasi
+DEBUG - 2018-08-01 11:25:03 --> Global POST, GET dan COOKIE data telah disanitasi
+INFO - 2018-08-01 11:25:03 --> Input Class telah di inisialisasi
+INFO - 2018-08-01 11:25:03 --> Language Class telah di inisialisasi
+INFO - 2018-08-01 11:25:03 --> Loader Class telah di inisialisasi
+INFO - 2018-08-01 11:25:03 --> Helper telah dimuat: url_helper
+INFO - 2018-08-01 11:25:03 --> Controller Class telah di inisialisasi
+DEBUG - 2018-08-01 11:25:03 --> Session: "sess_save_path" kosong; pakai "session.save_path" data dari php.ini.
+INFO - 2018-08-01 11:25:03 --> Session: Class initialized using 'files' driver.
+INFO - 2018-08-01 11:25:03 --> Helper telah dimuat: cookie_helper
+INFO - 2018-08-01 11:25:03 --> Database Driver Class telah di inisialisasi
+INFO - 2018-08-01 11:25:03 --> Model "datatable" telah di inisialisasi
+INFO - 2018-08-01 11:25:03 --> Output akhir dikirim ke browser
+DEBUG - 2018-08-01 11:25:03 --> Total waktu eksekusi: 0.3650
+INFO - 2018-08-01 11:25:07 --> Config Class telah di inisialisasi
+INFO - 2018-08-01 11:25:07 --> Hooks Class telah di inisialisasi
+DEBUG - 2018-08-01 11:25:07 --> UTF-8 Support Aktif
+INFO - 2018-08-01 11:25:07 --> Utf8 Class telah di inisialisasi
+INFO - 2018-08-01 11:25:07 --> URI Class telah di inisialisasi
+INFO - 2018-08-01 11:25:07 --> Router Class telah di inisialisasi
+INFO - 2018-08-01 11:25:07 --> Output Class telah di inisialisasi
+INFO - 2018-08-01 11:25:07 --> Security Class telah di inisialisasi
+DEBUG - 2018-08-01 11:25:07 --> Global POST, GET dan COOKIE data telah disanitasi
+INFO - 2018-08-01 11:25:07 --> Input Class telah di inisialisasi
+INFO - 2018-08-01 11:25:07 --> Language Class telah di inisialisasi
+INFO - 2018-08-01 11:25:07 --> Loader Class telah di inisialisasi
+INFO - 2018-08-01 11:25:07 --> Helper telah dimuat: url_helper
+INFO - 2018-08-01 11:25:07 --> Controller Class telah di inisialisasi
+DEBUG - 2018-08-01 11:25:07 --> Session: "sess_save_path" kosong; pakai "session.save_path" data dari php.ini.
+INFO - 2018-08-01 11:25:07 --> Session: Class initialized using 'files' driver.
+INFO - 2018-08-01 11:25:07 --> Helper telah dimuat: cookie_helper
+INFO - 2018-08-01 11:25:07 --> File telah dimuat: D:\XAMPP\htdocs\jb\application\views\jebews/html/head.php
+INFO - 2018-08-01 11:25:07 --> File telah dimuat: D:\XAMPP\htdocs\jb\application\views\jebews/product/manage.php
+INFO - 2018-08-01 11:25:07 --> Output akhir dikirim ke browser
+DEBUG - 2018-08-01 11:25:07 --> Total waktu eksekusi: 0.3246
+INFO - 2018-08-01 11:25:07 --> Config Class telah di inisialisasi
+INFO - 2018-08-01 11:25:07 --> Hooks Class telah di inisialisasi
+DEBUG - 2018-08-01 11:25:07 --> UTF-8 Support Aktif
+INFO - 2018-08-01 11:25:07 --> Utf8 Class telah di inisialisasi
+INFO - 2018-08-01 11:25:07 --> URI Class telah di inisialisasi
+INFO - 2018-08-01 11:25:07 --> Router Class telah di inisialisasi
+INFO - 2018-08-01 11:25:07 --> Output Class telah di inisialisasi
+INFO - 2018-08-01 11:25:07 --> Security Class telah di inisialisasi
+DEBUG - 2018-08-01 11:25:07 --> Global POST, GET dan COOKIE data telah disanitasi
+INFO - 2018-08-01 11:25:07 --> Input Class telah di inisialisasi
+INFO - 2018-08-01 11:25:07 --> Language Class telah di inisialisasi
+INFO - 2018-08-01 11:25:07 --> Loader Class telah di inisialisasi
+INFO - 2018-08-01 11:25:07 --> Helper telah dimuat: url_helper
+INFO - 2018-08-01 11:25:08 --> Controller Class telah di inisialisasi
+DEBUG - 2018-08-01 11:25:08 --> Session: "sess_save_path" kosong; pakai "session.save_path" data dari php.ini.
+INFO - 2018-08-01 11:25:08 --> Session: Class initialized using 'files' driver.
+INFO - 2018-08-01 11:25:08 --> Helper telah dimuat: cookie_helper
+INFO - 2018-08-01 11:25:08 --> Database Driver Class telah di inisialisasi
+INFO - 2018-08-01 11:25:08 --> Model "datatable" telah di inisialisasi
+INFO - 2018-08-01 11:25:08 --> Output akhir dikirim ke browser
+DEBUG - 2018-08-01 11:25:08 --> Total waktu eksekusi: 0.3730
+INFO - 2018-08-01 11:25:09 --> Config Class telah di inisialisasi
+INFO - 2018-08-01 11:25:09 --> Hooks Class telah di inisialisasi
+DEBUG - 2018-08-01 11:25:09 --> UTF-8 Support Aktif
+INFO - 2018-08-01 11:25:09 --> Utf8 Class telah di inisialisasi
+INFO - 2018-08-01 11:25:09 --> URI Class telah di inisialisasi
+INFO - 2018-08-01 11:25:09 --> Router Class telah di inisialisasi
+INFO - 2018-08-01 11:25:09 --> Output Class telah di inisialisasi
+INFO - 2018-08-01 11:25:09 --> Security Class telah di inisialisasi
+DEBUG - 2018-08-01 11:25:09 --> Global POST, GET dan COOKIE data telah disanitasi
+INFO - 2018-08-01 11:25:09 --> Input Class telah di inisialisasi
+INFO - 2018-08-01 11:25:09 --> Language Class telah di inisialisasi
+INFO - 2018-08-01 11:25:09 --> Loader Class telah di inisialisasi
+INFO - 2018-08-01 11:25:09 --> Helper telah dimuat: url_helper
+INFO - 2018-08-01 11:25:09 --> Controller Class telah di inisialisasi
+DEBUG - 2018-08-01 11:25:09 --> Session: "sess_save_path" kosong; pakai "session.save_path" data dari php.ini.
+INFO - 2018-08-01 11:25:09 --> Session: Class initialized using 'files' driver.
+INFO - 2018-08-01 11:25:09 --> Helper telah dimuat: cookie_helper
+INFO - 2018-08-01 11:25:09 --> File telah dimuat: D:\XAMPP\htdocs\jb\application\views\jebews/html/head.php
+INFO - 2018-08-01 11:25:09 --> File telah dimuat: D:\XAMPP\htdocs\jb\application\views\jebews/product/manage.php
+INFO - 2018-08-01 11:25:10 --> Output akhir dikirim ke browser
+DEBUG - 2018-08-01 11:25:10 --> Total waktu eksekusi: 0.3442
+INFO - 2018-08-01 11:25:10 --> Config Class telah di inisialisasi
+INFO - 2018-08-01 11:25:10 --> Hooks Class telah di inisialisasi
+DEBUG - 2018-08-01 11:25:10 --> UTF-8 Support Aktif
+INFO - 2018-08-01 11:25:10 --> Utf8 Class telah di inisialisasi
+INFO - 2018-08-01 11:25:10 --> URI Class telah di inisialisasi
+INFO - 2018-08-01 11:25:10 --> Router Class telah di inisialisasi
+INFO - 2018-08-01 11:25:10 --> Output Class telah di inisialisasi
+INFO - 2018-08-01 11:25:10 --> Security Class telah di inisialisasi
+DEBUG - 2018-08-01 11:25:10 --> Global POST, GET dan COOKIE data telah disanitasi
+INFO - 2018-08-01 11:25:10 --> Input Class telah di inisialisasi
+INFO - 2018-08-01 11:25:10 --> Language Class telah di inisialisasi
+INFO - 2018-08-01 11:25:10 --> Loader Class telah di inisialisasi
+INFO - 2018-08-01 11:25:10 --> Helper telah dimuat: url_helper
+INFO - 2018-08-01 11:25:10 --> Controller Class telah di inisialisasi
+DEBUG - 2018-08-01 11:25:10 --> Session: "sess_save_path" kosong; pakai "session.save_path" data dari php.ini.
+INFO - 2018-08-01 11:25:10 --> Session: Class initialized using 'files' driver.
+INFO - 2018-08-01 11:25:10 --> Helper telah dimuat: cookie_helper
+INFO - 2018-08-01 11:25:10 --> Database Driver Class telah di inisialisasi
+INFO - 2018-08-01 11:25:10 --> Model "datatable" telah di inisialisasi
+INFO - 2018-08-01 11:25:10 --> Output akhir dikirim ke browser
+DEBUG - 2018-08-01 11:25:10 --> Total waktu eksekusi: 0.3720
+INFO - 2018-08-01 11:25:11 --> Config Class telah di inisialisasi
+INFO - 2018-08-01 11:25:11 --> Hooks Class telah di inisialisasi
+DEBUG - 2018-08-01 11:25:11 --> UTF-8 Support Aktif
+INFO - 2018-08-01 11:25:11 --> Utf8 Class telah di inisialisasi
+INFO - 2018-08-01 11:25:11 --> URI Class telah di inisialisasi
+INFO - 2018-08-01 11:25:11 --> Router Class telah di inisialisasi
+INFO - 2018-08-01 11:25:11 --> Output Class telah di inisialisasi
+INFO - 2018-08-01 11:25:11 --> Security Class telah di inisialisasi
+DEBUG - 2018-08-01 11:25:11 --> Global POST, GET dan COOKIE data telah disanitasi
+INFO - 2018-08-01 11:25:11 --> Input Class telah di inisialisasi
+INFO - 2018-08-01 11:25:11 --> Language Class telah di inisialisasi
+INFO - 2018-08-01 11:25:11 --> Loader Class telah di inisialisasi
+INFO - 2018-08-01 11:25:11 --> Helper telah dimuat: url_helper
+INFO - 2018-08-01 11:25:11 --> Controller Class telah di inisialisasi
+DEBUG - 2018-08-01 11:25:11 --> Session: "sess_save_path" kosong; pakai "session.save_path" data dari php.ini.
+INFO - 2018-08-01 11:25:11 --> Session: Class initialized using 'files' driver.
+INFO - 2018-08-01 11:25:11 --> Helper telah dimuat: cookie_helper
+INFO - 2018-08-01 11:25:11 --> Database Driver Class telah di inisialisasi
+INFO - 2018-08-01 11:25:11 --> Model "datatable" telah di inisialisasi
+INFO - 2018-08-01 11:25:12 --> Output akhir dikirim ke browser
+DEBUG - 2018-08-01 11:25:12 --> Total waktu eksekusi: 0.3792
+INFO - 2018-08-01 11:25:15 --> Config Class telah di inisialisasi
+INFO - 2018-08-01 11:25:15 --> Hooks Class telah di inisialisasi
+DEBUG - 2018-08-01 11:25:15 --> UTF-8 Support Aktif
+INFO - 2018-08-01 11:25:15 --> Utf8 Class telah di inisialisasi
+INFO - 2018-08-01 11:25:15 --> URI Class telah di inisialisasi
+INFO - 2018-08-01 11:25:15 --> Router Class telah di inisialisasi
+INFO - 2018-08-01 11:25:15 --> Output Class telah di inisialisasi
+INFO - 2018-08-01 11:25:15 --> Security Class telah di inisialisasi
+DEBUG - 2018-08-01 11:25:15 --> Global POST, GET dan COOKIE data telah disanitasi
+INFO - 2018-08-01 11:25:15 --> Input Class telah di inisialisasi
+INFO - 2018-08-01 11:25:15 --> Language Class telah di inisialisasi
+INFO - 2018-08-01 11:25:15 --> Loader Class telah di inisialisasi
+INFO - 2018-08-01 11:25:15 --> Helper telah dimuat: url_helper
+INFO - 2018-08-01 11:25:15 --> Controller Class telah di inisialisasi
+DEBUG - 2018-08-01 11:25:15 --> Session: "sess_save_path" kosong; pakai "session.save_path" data dari php.ini.
+INFO - 2018-08-01 11:25:15 --> Session: Class initialized using 'files' driver.
+INFO - 2018-08-01 11:25:15 --> Helper telah dimuat: cookie_helper
+INFO - 2018-08-01 11:25:15 --> Database Driver Class telah di inisialisasi
+INFO - 2018-08-01 11:25:15 --> Model "datatable" telah di inisialisasi
+INFO - 2018-08-01 11:25:15 --> Output akhir dikirim ke browser
+DEBUG - 2018-08-01 11:25:15 --> Total waktu eksekusi: 0.3496
+INFO - 2018-08-01 11:26:28 --> Config Class telah di inisialisasi
+INFO - 2018-08-01 11:26:28 --> Hooks Class telah di inisialisasi
+DEBUG - 2018-08-01 11:26:28 --> UTF-8 Support Aktif
+INFO - 2018-08-01 11:26:28 --> Utf8 Class telah di inisialisasi
+INFO - 2018-08-01 11:26:28 --> URI Class telah di inisialisasi
+INFO - 2018-08-01 11:26:28 --> Router Class telah di inisialisasi
+INFO - 2018-08-01 11:26:28 --> Output Class telah di inisialisasi
+INFO - 2018-08-01 11:26:28 --> Security Class telah di inisialisasi
+DEBUG - 2018-08-01 11:26:28 --> Global POST, GET dan COOKIE data telah disanitasi
+INFO - 2018-08-01 11:26:28 --> Input Class telah di inisialisasi
+INFO - 2018-08-01 11:26:28 --> Language Class telah di inisialisasi
+INFO - 2018-08-01 11:26:28 --> Loader Class telah di inisialisasi
+INFO - 2018-08-01 11:26:28 --> Helper telah dimuat: url_helper
+INFO - 2018-08-01 11:26:28 --> Controller Class telah di inisialisasi
+DEBUG - 2018-08-01 11:26:28 --> Session: "sess_save_path" kosong; pakai "session.save_path" data dari php.ini.
+INFO - 2018-08-01 11:26:28 --> Session: Class initialized using 'files' driver.
+INFO - 2018-08-01 11:26:28 --> Helper telah dimuat: cookie_helper
+INFO - 2018-08-01 11:26:28 --> File telah dimuat: D:\XAMPP\htdocs\jb\application\views\jebews/html/head.php
+INFO - 2018-08-01 11:26:28 --> File telah dimuat: D:\XAMPP\htdocs\jb\application\views\jebews/product/manage.php
+INFO - 2018-08-01 11:26:28 --> Output akhir dikirim ke browser
+DEBUG - 2018-08-01 11:26:28 --> Total waktu eksekusi: 0.4102
+INFO - 2018-08-01 11:26:28 --> Config Class telah di inisialisasi
+INFO - 2018-08-01 11:26:28 --> Hooks Class telah di inisialisasi
+DEBUG - 2018-08-01 11:26:28 --> UTF-8 Support Aktif
+INFO - 2018-08-01 11:26:28 --> Utf8 Class telah di inisialisasi
+INFO - 2018-08-01 11:26:28 --> URI Class telah di inisialisasi
+INFO - 2018-08-01 11:26:28 --> Router Class telah di inisialisasi
+INFO - 2018-08-01 11:26:28 --> Output Class telah di inisialisasi
+INFO - 2018-08-01 11:26:29 --> Security Class telah di inisialisasi
+DEBUG - 2018-08-01 11:26:29 --> Global POST, GET dan COOKIE data telah disanitasi
+INFO - 2018-08-01 11:26:29 --> Input Class telah di inisialisasi
+INFO - 2018-08-01 11:26:29 --> Language Class telah di inisialisasi
+INFO - 2018-08-01 11:26:29 --> Loader Class telah di inisialisasi
+INFO - 2018-08-01 11:26:29 --> Helper telah dimuat: url_helper
+INFO - 2018-08-01 11:26:29 --> Controller Class telah di inisialisasi
+DEBUG - 2018-08-01 11:26:29 --> Session: "sess_save_path" kosong; pakai "session.save_path" data dari php.ini.
+INFO - 2018-08-01 11:26:29 --> Session: Class initialized using 'files' driver.
+INFO - 2018-08-01 11:26:29 --> Helper telah dimuat: cookie_helper
+INFO - 2018-08-01 11:26:29 --> Database Driver Class telah di inisialisasi
+INFO - 2018-08-01 11:26:29 --> Model "datatable" telah di inisialisasi
+INFO - 2018-08-01 11:26:29 --> Output akhir dikirim ke browser
+DEBUG - 2018-08-01 11:26:29 --> Total waktu eksekusi: 0.3810
+INFO - 2018-08-01 11:27:09 --> Config Class telah di inisialisasi
+INFO - 2018-08-01 11:27:09 --> Hooks Class telah di inisialisasi
+DEBUG - 2018-08-01 11:27:09 --> UTF-8 Support Aktif
+INFO - 2018-08-01 11:27:09 --> Utf8 Class telah di inisialisasi
+INFO - 2018-08-01 11:27:09 --> URI Class telah di inisialisasi
+INFO - 2018-08-01 11:27:09 --> Router Class telah di inisialisasi
+INFO - 2018-08-01 11:27:09 --> Output Class telah di inisialisasi
+INFO - 2018-08-01 11:27:09 --> Security Class telah di inisialisasi
+DEBUG - 2018-08-01 11:27:09 --> Global POST, GET dan COOKIE data telah disanitasi
+INFO - 2018-08-01 11:27:09 --> Input Class telah di inisialisasi
+INFO - 2018-08-01 11:27:09 --> Language Class telah di inisialisasi
+INFO - 2018-08-01 11:27:09 --> Loader Class telah di inisialisasi
+INFO - 2018-08-01 11:27:09 --> Helper telah dimuat: url_helper
+INFO - 2018-08-01 11:27:09 --> Controller Class telah di inisialisasi
+DEBUG - 2018-08-01 11:27:09 --> Session: "sess_save_path" kosong; pakai "session.save_path" data dari php.ini.
+INFO - 2018-08-01 11:27:09 --> Session: Class initialized using 'files' driver.
+INFO - 2018-08-01 11:27:09 --> Helper telah dimuat: cookie_helper
+INFO - 2018-08-01 11:27:09 --> File telah dimuat: D:\XAMPP\htdocs\jb\application\views\jebews/html/head.php
+INFO - 2018-08-01 11:27:09 --> File telah dimuat: D:\XAMPP\htdocs\jb\application\views\jebews/product/manage.php
+INFO - 2018-08-01 11:27:09 --> Output akhir dikirim ke browser
+DEBUG - 2018-08-01 11:27:09 --> Total waktu eksekusi: 0.3286
+INFO - 2018-08-01 11:27:09 --> Config Class telah di inisialisasi
+INFO - 2018-08-01 11:27:09 --> Hooks Class telah di inisialisasi
+DEBUG - 2018-08-01 11:27:09 --> UTF-8 Support Aktif
+INFO - 2018-08-01 11:27:09 --> Utf8 Class telah di inisialisasi
+INFO - 2018-08-01 11:27:09 --> URI Class telah di inisialisasi
+INFO - 2018-08-01 11:27:09 --> Router Class telah di inisialisasi
+INFO - 2018-08-01 11:27:09 --> Output Class telah di inisialisasi
+INFO - 2018-08-01 11:27:09 --> Security Class telah di inisialisasi
+DEBUG - 2018-08-01 11:27:09 --> Global POST, GET dan COOKIE data telah disanitasi
+INFO - 2018-08-01 11:27:09 --> Input Class telah di inisialisasi
+INFO - 2018-08-01 11:27:09 --> Language Class telah di inisialisasi
+INFO - 2018-08-01 11:27:09 --> Loader Class telah di inisialisasi
+INFO - 2018-08-01 11:27:09 --> Helper telah dimuat: url_helper
+INFO - 2018-08-01 11:27:09 --> Controller Class telah di inisialisasi
+DEBUG - 2018-08-01 11:27:09 --> Session: "sess_save_path" kosong; pakai "session.save_path" data dari php.ini.
+INFO - 2018-08-01 11:27:10 --> Session: Class initialized using 'files' driver.
+INFO - 2018-08-01 11:27:10 --> Helper telah dimuat: cookie_helper
+INFO - 2018-08-01 11:27:10 --> Database Driver Class telah di inisialisasi
+INFO - 2018-08-01 11:27:10 --> Model "datatable" telah di inisialisasi
+INFO - 2018-08-01 11:27:10 --> Output akhir dikirim ke browser
+DEBUG - 2018-08-01 11:27:10 --> Total waktu eksekusi: 0.3990
+INFO - 2018-08-01 11:27:20 --> Config Class telah di inisialisasi
+INFO - 2018-08-01 11:27:20 --> Hooks Class telah di inisialisasi
+DEBUG - 2018-08-01 11:27:20 --> UTF-8 Support Aktif
+INFO - 2018-08-01 11:27:20 --> Utf8 Class telah di inisialisasi
+INFO - 2018-08-01 11:27:20 --> URI Class telah di inisialisasi
+INFO - 2018-08-01 11:27:20 --> Router Class telah di inisialisasi
+INFO - 2018-08-01 11:27:20 --> Output Class telah di inisialisasi
+INFO - 2018-08-01 11:27:20 --> Security Class telah di inisialisasi
+DEBUG - 2018-08-01 11:27:20 --> Global POST, GET dan COOKIE data telah disanitasi
+INFO - 2018-08-01 11:27:20 --> Input Class telah di inisialisasi
+INFO - 2018-08-01 11:27:20 --> Language Class telah di inisialisasi
+INFO - 2018-08-01 11:27:20 --> Loader Class telah di inisialisasi
+INFO - 2018-08-01 11:27:20 --> Helper telah dimuat: url_helper
+INFO - 2018-08-01 11:27:20 --> Controller Class telah di inisialisasi
+DEBUG - 2018-08-01 11:27:20 --> Session: "sess_save_path" kosong; pakai "session.save_path" data dari php.ini.
+INFO - 2018-08-01 11:27:20 --> Session: Class initialized using 'files' driver.
+INFO - 2018-08-01 11:27:20 --> Helper telah dimuat: cookie_helper
+INFO - 2018-08-01 11:27:20 --> File telah dimuat: D:\XAMPP\htdocs\jb\application\views\jebews/html/head.php
+INFO - 2018-08-01 11:27:20 --> File telah dimuat: D:\XAMPP\htdocs\jb\application\views\jebews/product/manage.php
+INFO - 2018-08-01 11:27:20 --> Output akhir dikirim ke browser
+DEBUG - 2018-08-01 11:27:20 --> Total waktu eksekusi: 0.3362
+INFO - 2018-08-01 11:27:20 --> Config Class telah di inisialisasi
+INFO - 2018-08-01 11:27:20 --> Hooks Class telah di inisialisasi
+DEBUG - 2018-08-01 11:27:20 --> UTF-8 Support Aktif
+INFO - 2018-08-01 11:27:20 --> Utf8 Class telah di inisialisasi
+INFO - 2018-08-01 11:27:20 --> URI Class telah di inisialisasi
+INFO - 2018-08-01 11:27:20 --> Router Class telah di inisialisasi
+INFO - 2018-08-01 11:27:20 --> Output Class telah di inisialisasi
+INFO - 2018-08-01 11:27:20 --> Security Class telah di inisialisasi
+DEBUG - 2018-08-01 11:27:20 --> Global POST, GET dan COOKIE data telah disanitasi
+INFO - 2018-08-01 11:27:20 --> Input Class telah di inisialisasi
+INFO - 2018-08-01 11:27:20 --> Language Class telah di inisialisasi
+INFO - 2018-08-01 11:27:20 --> Loader Class telah di inisialisasi
+INFO - 2018-08-01 11:27:20 --> Helper telah dimuat: url_helper
+INFO - 2018-08-01 11:27:20 --> Controller Class telah di inisialisasi
+DEBUG - 2018-08-01 11:27:21 --> Session: "sess_save_path" kosong; pakai "session.save_path" data dari php.ini.
+INFO - 2018-08-01 11:27:21 --> Session: Class initialized using 'files' driver.
+INFO - 2018-08-01 11:27:21 --> Helper telah dimuat: cookie_helper
+INFO - 2018-08-01 11:27:21 --> Database Driver Class telah di inisialisasi
+INFO - 2018-08-01 11:27:21 --> Model "datatable" telah di inisialisasi
+INFO - 2018-08-01 11:27:21 --> Output akhir dikirim ke browser
+DEBUG - 2018-08-01 11:27:21 --> Total waktu eksekusi: 0.3800
+INFO - 2018-08-01 11:27:43 --> Config Class telah di inisialisasi
+INFO - 2018-08-01 11:27:43 --> Hooks Class telah di inisialisasi
+DEBUG - 2018-08-01 11:27:43 --> UTF-8 Support Aktif
+INFO - 2018-08-01 11:27:43 --> Utf8 Class telah di inisialisasi
+INFO - 2018-08-01 11:27:43 --> URI Class telah di inisialisasi
+INFO - 2018-08-01 11:27:43 --> Router Class telah di inisialisasi
+INFO - 2018-08-01 11:27:43 --> Output Class telah di inisialisasi
+INFO - 2018-08-01 11:27:43 --> Security Class telah di inisialisasi
+DEBUG - 2018-08-01 11:27:43 --> Global POST, GET dan COOKIE data telah disanitasi
+INFO - 2018-08-01 11:27:43 --> Input Class telah di inisialisasi
+INFO - 2018-08-01 11:27:43 --> Language Class telah di inisialisasi
+INFO - 2018-08-01 11:27:43 --> Loader Class telah di inisialisasi
+INFO - 2018-08-01 11:27:43 --> Helper telah dimuat: url_helper
+INFO - 2018-08-01 11:27:43 --> Controller Class telah di inisialisasi
+DEBUG - 2018-08-01 11:27:43 --> Session: "sess_save_path" kosong; pakai "session.save_path" data dari php.ini.
+INFO - 2018-08-01 11:27:43 --> Session: Class initialized using 'files' driver.
+INFO - 2018-08-01 11:27:43 --> Helper telah dimuat: cookie_helper
+INFO - 2018-08-01 11:27:43 --> File telah dimuat: D:\XAMPP\htdocs\jb\application\views\jebews/html/head.php
+INFO - 2018-08-01 11:27:43 --> File telah dimuat: D:\XAMPP\htdocs\jb\application\views\jebews/product/manage.php
+INFO - 2018-08-01 11:27:43 --> Output akhir dikirim ke browser
+DEBUG - 2018-08-01 11:27:43 --> Total waktu eksekusi: 0.3416
+INFO - 2018-08-01 11:27:43 --> Config Class telah di inisialisasi
+INFO - 2018-08-01 11:27:44 --> Hooks Class telah di inisialisasi
+DEBUG - 2018-08-01 11:27:44 --> UTF-8 Support Aktif
+INFO - 2018-08-01 11:27:44 --> Utf8 Class telah di inisialisasi
+INFO - 2018-08-01 11:27:44 --> URI Class telah di inisialisasi
+INFO - 2018-08-01 11:27:44 --> Router Class telah di inisialisasi
+INFO - 2018-08-01 11:27:44 --> Output Class telah di inisialisasi
+INFO - 2018-08-01 11:27:44 --> Security Class telah di inisialisasi
+DEBUG - 2018-08-01 11:27:44 --> Global POST, GET dan COOKIE data telah disanitasi
+INFO - 2018-08-01 11:27:44 --> Input Class telah di inisialisasi
+INFO - 2018-08-01 11:27:44 --> Language Class telah di inisialisasi
+INFO - 2018-08-01 11:27:44 --> Loader Class telah di inisialisasi
+INFO - 2018-08-01 11:27:44 --> Helper telah dimuat: url_helper
+INFO - 2018-08-01 11:27:44 --> Controller Class telah di inisialisasi
+DEBUG - 2018-08-01 11:27:44 --> Session: "sess_save_path" kosong; pakai "session.save_path" data dari php.ini.
+INFO - 2018-08-01 11:27:44 --> Session: Class initialized using 'files' driver.
+INFO - 2018-08-01 11:27:44 --> Helper telah dimuat: cookie_helper
+INFO - 2018-08-01 11:27:44 --> Database Driver Class telah di inisialisasi
+INFO - 2018-08-01 11:27:44 --> Model "datatable" telah di inisialisasi
+INFO - 2018-08-01 11:27:44 --> Output akhir dikirim ke browser
+DEBUG - 2018-08-01 11:27:44 --> Total waktu eksekusi: 0.3810
+INFO - 2018-08-01 11:28:23 --> Config Class telah di inisialisasi
+INFO - 2018-08-01 11:28:23 --> Hooks Class telah di inisialisasi
+DEBUG - 2018-08-01 11:28:23 --> UTF-8 Support Aktif
+INFO - 2018-08-01 11:28:23 --> Utf8 Class telah di inisialisasi
+INFO - 2018-08-01 11:28:23 --> URI Class telah di inisialisasi
+INFO - 2018-08-01 11:28:23 --> Router Class telah di inisialisasi
+INFO - 2018-08-01 11:28:23 --> Output Class telah di inisialisasi
+INFO - 2018-08-01 11:28:23 --> Security Class telah di inisialisasi
+DEBUG - 2018-08-01 11:28:23 --> Global POST, GET dan COOKIE data telah disanitasi
+INFO - 2018-08-01 11:28:23 --> Input Class telah di inisialisasi
+INFO - 2018-08-01 11:28:23 --> Language Class telah di inisialisasi
+INFO - 2018-08-01 11:28:23 --> Loader Class telah di inisialisasi
+INFO - 2018-08-01 11:28:23 --> Helper telah dimuat: url_helper
+INFO - 2018-08-01 11:28:23 --> Controller Class telah di inisialisasi
+DEBUG - 2018-08-01 11:28:23 --> Session: "sess_save_path" kosong; pakai "session.save_path" data dari php.ini.
+INFO - 2018-08-01 11:28:23 --> Session: Class initialized using 'files' driver.
+INFO - 2018-08-01 11:28:23 --> Helper telah dimuat: cookie_helper
+INFO - 2018-08-01 11:28:23 --> File telah dimuat: D:\XAMPP\htdocs\jb\application\views\jebews/html/head.php
+INFO - 2018-08-01 11:28:23 --> File telah dimuat: D:\XAMPP\htdocs\jb\application\views\jebews/product/manage.php
+INFO - 2018-08-01 11:28:23 --> Output akhir dikirim ke browser
+DEBUG - 2018-08-01 11:28:23 --> Total waktu eksekusi: 0.3356
+INFO - 2018-08-01 11:28:24 --> Config Class telah di inisialisasi
+INFO - 2018-08-01 11:28:24 --> Hooks Class telah di inisialisasi
+DEBUG - 2018-08-01 11:28:24 --> UTF-8 Support Aktif
+INFO - 2018-08-01 11:28:24 --> Utf8 Class telah di inisialisasi
+INFO - 2018-08-01 11:28:24 --> URI Class telah di inisialisasi
+INFO - 2018-08-01 11:28:24 --> Router Class telah di inisialisasi
+INFO - 2018-08-01 11:28:24 --> Output Class telah di inisialisasi
+INFO - 2018-08-01 11:28:24 --> Security Class telah di inisialisasi
+DEBUG - 2018-08-01 11:28:24 --> Global POST, GET dan COOKIE data telah disanitasi
+INFO - 2018-08-01 11:28:24 --> Input Class telah di inisialisasi
+INFO - 2018-08-01 11:28:24 --> Language Class telah di inisialisasi
+INFO - 2018-08-01 11:28:24 --> Loader Class telah di inisialisasi
+INFO - 2018-08-01 11:28:24 --> Helper telah dimuat: url_helper
+INFO - 2018-08-01 11:28:24 --> Controller Class telah di inisialisasi
+DEBUG - 2018-08-01 11:28:24 --> Session: "sess_save_path" kosong; pakai "session.save_path" data dari php.ini.
+INFO - 2018-08-01 11:28:24 --> Session: Class initialized using 'files' driver.
+INFO - 2018-08-01 11:28:24 --> Helper telah dimuat: cookie_helper
+INFO - 2018-08-01 11:28:24 --> Database Driver Class telah di inisialisasi
+INFO - 2018-08-01 11:28:24 --> Model "datatable" telah di inisialisasi
+INFO - 2018-08-01 11:28:24 --> Output akhir dikirim ke browser
+DEBUG - 2018-08-01 11:28:24 --> Total waktu eksekusi: 0.3640
+INFO - 2018-08-01 11:28:31 --> Config Class telah di inisialisasi
+INFO - 2018-08-01 11:28:31 --> Hooks Class telah di inisialisasi
+DEBUG - 2018-08-01 11:28:31 --> UTF-8 Support Aktif
+INFO - 2018-08-01 11:28:31 --> Utf8 Class telah di inisialisasi
+INFO - 2018-08-01 11:28:31 --> URI Class telah di inisialisasi
+INFO - 2018-08-01 11:28:31 --> Router Class telah di inisialisasi
+INFO - 2018-08-01 11:28:31 --> Output Class telah di inisialisasi
+INFO - 2018-08-01 11:28:31 --> Security Class telah di inisialisasi
+DEBUG - 2018-08-01 11:28:31 --> Global POST, GET dan COOKIE data telah disanitasi
+INFO - 2018-08-01 11:28:31 --> Input Class telah di inisialisasi
+INFO - 2018-08-01 11:28:31 --> Language Class telah di inisialisasi
+INFO - 2018-08-01 11:28:32 --> Loader Class telah di inisialisasi
+INFO - 2018-08-01 11:28:32 --> Helper telah dimuat: url_helper
+INFO - 2018-08-01 11:28:32 --> Controller Class telah di inisialisasi
+DEBUG - 2018-08-01 11:28:32 --> Session: "sess_save_path" kosong; pakai "session.save_path" data dari php.ini.
+INFO - 2018-08-01 11:28:32 --> Session: Class initialized using 'files' driver.
+INFO - 2018-08-01 11:28:32 --> Helper telah dimuat: cookie_helper
+INFO - 2018-08-01 11:28:32 --> File telah dimuat: D:\XAMPP\htdocs\jb\application\views\jebews/html/head.php
+INFO - 2018-08-01 11:28:32 --> File telah dimuat: D:\XAMPP\htdocs\jb\application\views\jebews/product/manage.php
+INFO - 2018-08-01 11:28:32 --> Output akhir dikirim ke browser
+DEBUG - 2018-08-01 11:28:32 --> Total waktu eksekusi: 0.3432
+INFO - 2018-08-01 11:28:32 --> Config Class telah di inisialisasi
+INFO - 2018-08-01 11:28:32 --> Hooks Class telah di inisialisasi
+DEBUG - 2018-08-01 11:28:32 --> UTF-8 Support Aktif
+INFO - 2018-08-01 11:28:32 --> Utf8 Class telah di inisialisasi
+INFO - 2018-08-01 11:28:32 --> URI Class telah di inisialisasi
+INFO - 2018-08-01 11:28:32 --> Router Class telah di inisialisasi
+INFO - 2018-08-01 11:28:32 --> Output Class telah di inisialisasi
+INFO - 2018-08-01 11:28:32 --> Security Class telah di inisialisasi
+DEBUG - 2018-08-01 11:28:32 --> Global POST, GET dan COOKIE data telah disanitasi
+INFO - 2018-08-01 11:28:32 --> Input Class telah di inisialisasi
+INFO - 2018-08-01 11:28:32 --> Language Class telah di inisialisasi
+INFO - 2018-08-01 11:28:32 --> Loader Class telah di inisialisasi
+INFO - 2018-08-01 11:28:32 --> Helper telah dimuat: url_helper
+INFO - 2018-08-01 11:28:32 --> Controller Class telah di inisialisasi
+DEBUG - 2018-08-01 11:28:32 --> Session: "sess_save_path" kosong; pakai "session.save_path" data dari php.ini.
+INFO - 2018-08-01 11:28:32 --> Session: Class initialized using 'files' driver.
+INFO - 2018-08-01 11:28:32 --> Helper telah dimuat: cookie_helper
+INFO - 2018-08-01 11:28:32 --> Database Driver Class telah di inisialisasi
+INFO - 2018-08-01 11:28:32 --> Model "datatable" telah di inisialisasi
+INFO - 2018-08-01 11:28:32 --> Output akhir dikirim ke browser
+DEBUG - 2018-08-01 11:28:32 --> Total waktu eksekusi: 0.3800
+INFO - 2018-08-01 11:28:41 --> Config Class telah di inisialisasi
+INFO - 2018-08-01 11:28:41 --> Hooks Class telah di inisialisasi
+DEBUG - 2018-08-01 11:28:41 --> UTF-8 Support Aktif
+INFO - 2018-08-01 11:28:41 --> Utf8 Class telah di inisialisasi
+INFO - 2018-08-01 11:28:41 --> URI Class telah di inisialisasi
+INFO - 2018-08-01 11:28:41 --> Router Class telah di inisialisasi
+INFO - 2018-08-01 11:28:41 --> Output Class telah di inisialisasi
+INFO - 2018-08-01 11:28:41 --> Security Class telah di inisialisasi
+DEBUG - 2018-08-01 11:28:41 --> Global POST, GET dan COOKIE data telah disanitasi
+INFO - 2018-08-01 11:28:41 --> Input Class telah di inisialisasi
+INFO - 2018-08-01 11:28:41 --> Language Class telah di inisialisasi
+INFO - 2018-08-01 11:28:41 --> Loader Class telah di inisialisasi
+INFO - 2018-08-01 11:28:41 --> Helper telah dimuat: url_helper
+INFO - 2018-08-01 11:28:41 --> Controller Class telah di inisialisasi
+DEBUG - 2018-08-01 11:28:41 --> Session: "sess_save_path" kosong; pakai "session.save_path" data dari php.ini.
+INFO - 2018-08-01 11:28:41 --> Session: Class initialized using 'files' driver.
+INFO - 2018-08-01 11:28:41 --> Helper telah dimuat: cookie_helper
+INFO - 2018-08-01 11:28:41 --> File telah dimuat: D:\XAMPP\htdocs\jb\application\views\jebews/html/head.php
+INFO - 2018-08-01 11:28:41 --> File telah dimuat: D:\XAMPP\htdocs\jb\application\views\jebews/product/manage.php
+INFO - 2018-08-01 11:28:41 --> Output akhir dikirim ke browser
+DEBUG - 2018-08-01 11:28:41 --> Total waktu eksekusi: 0.3396
+INFO - 2018-08-01 11:28:41 --> Config Class telah di inisialisasi
+INFO - 2018-08-01 11:28:41 --> Hooks Class telah di inisialisasi
+DEBUG - 2018-08-01 11:28:41 --> UTF-8 Support Aktif
+INFO - 2018-08-01 11:28:41 --> Utf8 Class telah di inisialisasi
+INFO - 2018-08-01 11:28:41 --> URI Class telah di inisialisasi
+INFO - 2018-08-01 11:28:41 --> Router Class telah di inisialisasi
+INFO - 2018-08-01 11:28:41 --> Output Class telah di inisialisasi
+INFO - 2018-08-01 11:28:41 --> Security Class telah di inisialisasi
+DEBUG - 2018-08-01 11:28:41 --> Global POST, GET dan COOKIE data telah disanitasi
+INFO - 2018-08-01 11:28:41 --> Input Class telah di inisialisasi
+INFO - 2018-08-01 11:28:41 --> Language Class telah di inisialisasi
+INFO - 2018-08-01 11:28:41 --> Loader Class telah di inisialisasi
+INFO - 2018-08-01 11:28:41 --> Helper telah dimuat: url_helper
+INFO - 2018-08-01 11:28:42 --> Controller Class telah di inisialisasi
+DEBUG - 2018-08-01 11:28:42 --> Session: "sess_save_path" kosong; pakai "session.save_path" data dari php.ini.
+INFO - 2018-08-01 11:28:42 --> Session: Class initialized using 'files' driver.
+INFO - 2018-08-01 11:28:42 --> Helper telah dimuat: cookie_helper
+INFO - 2018-08-01 11:28:42 --> Database Driver Class telah di inisialisasi
+INFO - 2018-08-01 11:28:42 --> Model "datatable" telah di inisialisasi
+INFO - 2018-08-01 11:28:42 --> Output akhir dikirim ke browser
+DEBUG - 2018-08-01 11:28:42 --> Total waktu eksekusi: 0.3830
+INFO - 2018-08-01 11:29:24 --> Config Class telah di inisialisasi
+INFO - 2018-08-01 11:29:24 --> Hooks Class telah di inisialisasi
+DEBUG - 2018-08-01 11:29:24 --> UTF-8 Support Aktif
+INFO - 2018-08-01 11:29:24 --> Utf8 Class telah di inisialisasi
+INFO - 2018-08-01 11:29:24 --> URI Class telah di inisialisasi
+INFO - 2018-08-01 11:29:24 --> Router Class telah di inisialisasi
+INFO - 2018-08-01 11:29:24 --> Output Class telah di inisialisasi
+INFO - 2018-08-01 11:29:24 --> Security Class telah di inisialisasi
+DEBUG - 2018-08-01 11:29:24 --> Global POST, GET dan COOKIE data telah disanitasi
+INFO - 2018-08-01 11:29:24 --> Input Class telah di inisialisasi
+INFO - 2018-08-01 11:29:24 --> Language Class telah di inisialisasi
+INFO - 2018-08-01 11:29:24 --> Loader Class telah di inisialisasi
+INFO - 2018-08-01 11:29:24 --> Helper telah dimuat: url_helper
+INFO - 2018-08-01 11:29:24 --> Controller Class telah di inisialisasi
+DEBUG - 2018-08-01 11:29:24 --> Session: "sess_save_path" kosong; pakai "session.save_path" data dari php.ini.
+INFO - 2018-08-01 11:29:24 --> Session: Class initialized using 'files' driver.
+INFO - 2018-08-01 11:29:24 --> Helper telah dimuat: cookie_helper
+INFO - 2018-08-01 11:29:24 --> File telah dimuat: D:\XAMPP\htdocs\jb\application\views\jebews/html/head.php
+INFO - 2018-08-01 11:29:24 --> File telah dimuat: D:\XAMPP\htdocs\jb\application\views\jebews/product/manage.php
+INFO - 2018-08-01 11:29:24 --> Output akhir dikirim ke browser
+DEBUG - 2018-08-01 11:29:24 --> Total waktu eksekusi: 0.3396
+INFO - 2018-08-01 11:29:24 --> Config Class telah di inisialisasi
+INFO - 2018-08-01 11:29:24 --> Hooks Class telah di inisialisasi
+DEBUG - 2018-08-01 11:29:24 --> UTF-8 Support Aktif
+INFO - 2018-08-01 11:29:24 --> Utf8 Class telah di inisialisasi
+INFO - 2018-08-01 11:29:24 --> URI Class telah di inisialisasi
+INFO - 2018-08-01 11:29:25 --> Router Class telah di inisialisasi
+INFO - 2018-08-01 11:29:25 --> Output Class telah di inisialisasi
+INFO - 2018-08-01 11:29:25 --> Security Class telah di inisialisasi
+DEBUG - 2018-08-01 11:29:25 --> Global POST, GET dan COOKIE data telah disanitasi
+INFO - 2018-08-01 11:29:25 --> Input Class telah di inisialisasi
+INFO - 2018-08-01 11:29:25 --> Language Class telah di inisialisasi
+INFO - 2018-08-01 11:29:25 --> Loader Class telah di inisialisasi
+INFO - 2018-08-01 11:29:25 --> Helper telah dimuat: url_helper
+INFO - 2018-08-01 11:29:25 --> Controller Class telah di inisialisasi
+DEBUG - 2018-08-01 11:29:25 --> Session: "sess_save_path" kosong; pakai "session.save_path" data dari php.ini.
+INFO - 2018-08-01 11:29:25 --> Session: Class initialized using 'files' driver.
+INFO - 2018-08-01 11:29:25 --> Helper telah dimuat: cookie_helper
+INFO - 2018-08-01 11:29:25 --> Database Driver Class telah di inisialisasi
+INFO - 2018-08-01 11:29:25 --> Model "datatable" telah di inisialisasi
+INFO - 2018-08-01 11:29:25 --> Output akhir dikirim ke browser
+DEBUG - 2018-08-01 11:29:25 --> Total waktu eksekusi: 0.3820
+INFO - 2018-08-01 11:29:41 --> Config Class telah di inisialisasi
+INFO - 2018-08-01 11:29:41 --> Hooks Class telah di inisialisasi
+DEBUG - 2018-08-01 11:29:41 --> UTF-8 Support Aktif
+INFO - 2018-08-01 11:29:41 --> Utf8 Class telah di inisialisasi
+INFO - 2018-08-01 11:29:41 --> URI Class telah di inisialisasi
+INFO - 2018-08-01 11:29:41 --> Router Class telah di inisialisasi
+INFO - 2018-08-01 11:29:41 --> Output Class telah di inisialisasi
+INFO - 2018-08-01 11:29:41 --> Security Class telah di inisialisasi
+DEBUG - 2018-08-01 11:29:41 --> Global POST, GET dan COOKIE data telah disanitasi
+INFO - 2018-08-01 11:29:41 --> Input Class telah di inisialisasi
+INFO - 2018-08-01 11:29:41 --> Language Class telah di inisialisasi
+INFO - 2018-08-01 11:29:41 --> Loader Class telah di inisialisasi
+INFO - 2018-08-01 11:29:41 --> Helper telah dimuat: url_helper
+INFO - 2018-08-01 11:29:41 --> Controller Class telah di inisialisasi
+DEBUG - 2018-08-01 11:29:41 --> Session: "sess_save_path" kosong; pakai "session.save_path" data dari php.ini.
+INFO - 2018-08-01 11:29:41 --> Session: Class initialized using 'files' driver.
+INFO - 2018-08-01 11:29:41 --> Helper telah dimuat: cookie_helper
+INFO - 2018-08-01 11:29:41 --> File telah dimuat: D:\XAMPP\htdocs\jb\application\views\jebews/html/head.php
+INFO - 2018-08-01 11:29:41 --> File telah dimuat: D:\XAMPP\htdocs\jb\application\views\jebews/product/manage.php
+INFO - 2018-08-01 11:29:41 --> Output akhir dikirim ke browser
+DEBUG - 2018-08-01 11:29:41 --> Total waktu eksekusi: 0.3356
+INFO - 2018-08-01 11:29:41 --> Config Class telah di inisialisasi
+INFO - 2018-08-01 11:29:41 --> Hooks Class telah di inisialisasi
+DEBUG - 2018-08-01 11:29:41 --> UTF-8 Support Aktif
+INFO - 2018-08-01 11:29:41 --> Utf8 Class telah di inisialisasi
+INFO - 2018-08-01 11:29:42 --> URI Class telah di inisialisasi
+INFO - 2018-08-01 11:29:42 --> Router Class telah di inisialisasi
+INFO - 2018-08-01 11:29:42 --> Output Class telah di inisialisasi
+INFO - 2018-08-01 11:29:42 --> Security Class telah di inisialisasi
+DEBUG - 2018-08-01 11:29:42 --> Global POST, GET dan COOKIE data telah disanitasi
+INFO - 2018-08-01 11:29:42 --> Input Class telah di inisialisasi
+INFO - 2018-08-01 11:29:42 --> Language Class telah di inisialisasi
+INFO - 2018-08-01 11:29:42 --> Loader Class telah di inisialisasi
+INFO - 2018-08-01 11:29:42 --> Helper telah dimuat: url_helper
+INFO - 2018-08-01 11:29:42 --> Controller Class telah di inisialisasi
+DEBUG - 2018-08-01 11:29:42 --> Session: "sess_save_path" kosong; pakai "session.save_path" data dari php.ini.
+INFO - 2018-08-01 11:29:42 --> Session: Class initialized using 'files' driver.
+INFO - 2018-08-01 11:29:42 --> Helper telah dimuat: cookie_helper
+INFO - 2018-08-01 11:29:42 --> Database Driver Class telah di inisialisasi
+INFO - 2018-08-01 11:29:42 --> Model "datatable" telah di inisialisasi
+INFO - 2018-08-01 11:29:42 --> Output akhir dikirim ke browser
+DEBUG - 2018-08-01 11:29:42 --> Total waktu eksekusi: 0.3840
+INFO - 2018-08-01 11:30:06 --> Config Class telah di inisialisasi
+INFO - 2018-08-01 11:30:06 --> Hooks Class telah di inisialisasi
+DEBUG - 2018-08-01 11:30:06 --> UTF-8 Support Aktif
+INFO - 2018-08-01 11:30:06 --> Utf8 Class telah di inisialisasi
+INFO - 2018-08-01 11:30:06 --> URI Class telah di inisialisasi
+INFO - 2018-08-01 11:30:06 --> Router Class telah di inisialisasi
+INFO - 2018-08-01 11:30:06 --> Output Class telah di inisialisasi
+INFO - 2018-08-01 11:30:06 --> Security Class telah di inisialisasi
+DEBUG - 2018-08-01 11:30:06 --> Global POST, GET dan COOKIE data telah disanitasi
+INFO - 2018-08-01 11:30:06 --> Input Class telah di inisialisasi
+INFO - 2018-08-01 11:30:06 --> Language Class telah di inisialisasi
+INFO - 2018-08-01 11:30:07 --> Loader Class telah di inisialisasi
+INFO - 2018-08-01 11:30:07 --> Helper telah dimuat: url_helper
+INFO - 2018-08-01 11:30:07 --> Controller Class telah di inisialisasi
+DEBUG - 2018-08-01 11:30:07 --> Session: "sess_save_path" kosong; pakai "session.save_path" data dari php.ini.
+INFO - 2018-08-01 11:30:07 --> Session: Class initialized using 'files' driver.
+INFO - 2018-08-01 11:30:07 --> Helper telah dimuat: cookie_helper
+INFO - 2018-08-01 11:30:07 --> File telah dimuat: D:\XAMPP\htdocs\jb\application\views\jebews/html/head.php
+INFO - 2018-08-01 11:30:07 --> File telah dimuat: D:\XAMPP\htdocs\jb\application\views\jebews/product/manage.php
+INFO - 2018-08-01 11:30:07 --> Output akhir dikirim ke browser
+DEBUG - 2018-08-01 11:30:07 --> Total waktu eksekusi: 0.3296
+INFO - 2018-08-01 11:30:07 --> Config Class telah di inisialisasi
+INFO - 2018-08-01 11:30:07 --> Hooks Class telah di inisialisasi
+DEBUG - 2018-08-01 11:30:07 --> UTF-8 Support Aktif
+INFO - 2018-08-01 11:30:07 --> Utf8 Class telah di inisialisasi
+INFO - 2018-08-01 11:30:07 --> URI Class telah di inisialisasi
+INFO - 2018-08-01 11:30:07 --> Router Class telah di inisialisasi
+INFO - 2018-08-01 11:30:07 --> Output Class telah di inisialisasi
+INFO - 2018-08-01 11:30:07 --> Security Class telah di inisialisasi
+DEBUG - 2018-08-01 11:30:07 --> Global POST, GET dan COOKIE data telah disanitasi
+INFO - 2018-08-01 11:30:07 --> Input Class telah di inisialisasi
+INFO - 2018-08-01 11:30:07 --> Language Class telah di inisialisasi
+INFO - 2018-08-01 11:30:07 --> Loader Class telah di inisialisasi
+INFO - 2018-08-01 11:30:07 --> Helper telah dimuat: url_helper
+INFO - 2018-08-01 11:30:07 --> Controller Class telah di inisialisasi
+DEBUG - 2018-08-01 11:30:07 --> Session: "sess_save_path" kosong; pakai "session.save_path" data dari php.ini.
+INFO - 2018-08-01 11:30:07 --> Session: Class initialized using 'files' driver.
+INFO - 2018-08-01 11:30:07 --> Helper telah dimuat: cookie_helper
+INFO - 2018-08-01 11:30:07 --> Database Driver Class telah di inisialisasi
+INFO - 2018-08-01 11:30:07 --> Model "datatable" telah di inisialisasi
+INFO - 2018-08-01 11:30:07 --> Output akhir dikirim ke browser
+DEBUG - 2018-08-01 11:30:07 --> Total waktu eksekusi: 0.3770
+INFO - 2018-08-01 11:30:18 --> Config Class telah di inisialisasi
+INFO - 2018-08-01 11:30:18 --> Hooks Class telah di inisialisasi
+DEBUG - 2018-08-01 11:30:18 --> UTF-8 Support Aktif
+INFO - 2018-08-01 11:30:18 --> Utf8 Class telah di inisialisasi
+INFO - 2018-08-01 11:30:18 --> URI Class telah di inisialisasi
+INFO - 2018-08-01 11:30:18 --> Router Class telah di inisialisasi
+INFO - 2018-08-01 11:30:18 --> Output Class telah di inisialisasi
+INFO - 2018-08-01 11:30:18 --> Security Class telah di inisialisasi
+DEBUG - 2018-08-01 11:30:18 --> Global POST, GET dan COOKIE data telah disanitasi
+INFO - 2018-08-01 11:30:18 --> Input Class telah di inisialisasi
+INFO - 2018-08-01 11:30:18 --> Language Class telah di inisialisasi
+INFO - 2018-08-01 11:30:18 --> Loader Class telah di inisialisasi
+INFO - 2018-08-01 11:30:18 --> Helper telah dimuat: url_helper
+INFO - 2018-08-01 11:30:18 --> Controller Class telah di inisialisasi
+DEBUG - 2018-08-01 11:30:18 --> Session: "sess_save_path" kosong; pakai "session.save_path" data dari php.ini.
+INFO - 2018-08-01 11:30:18 --> Session: Class initialized using 'files' driver.
+INFO - 2018-08-01 11:30:18 --> Helper telah dimuat: cookie_helper
+INFO - 2018-08-01 11:30:18 --> File telah dimuat: D:\XAMPP\htdocs\jb\application\views\jebews/html/head.php
+INFO - 2018-08-01 11:30:18 --> File telah dimuat: D:\XAMPP\htdocs\jb\application\views\jebews/product/manage.php
+INFO - 2018-08-01 11:30:18 --> Output akhir dikirim ke browser
+DEBUG - 2018-08-01 11:30:18 --> Total waktu eksekusi: 0.3502
+INFO - 2018-08-01 11:30:18 --> Config Class telah di inisialisasi
+INFO - 2018-08-01 11:30:18 --> Hooks Class telah di inisialisasi
+DEBUG - 2018-08-01 11:30:18 --> UTF-8 Support Aktif
+INFO - 2018-08-01 11:30:18 --> Utf8 Class telah di inisialisasi
+INFO - 2018-08-01 11:30:18 --> URI Class telah di inisialisasi
+INFO - 2018-08-01 11:30:18 --> Router Class telah di inisialisasi
+INFO - 2018-08-01 11:30:18 --> Output Class telah di inisialisasi
+INFO - 2018-08-01 11:30:18 --> Security Class telah di inisialisasi
+DEBUG - 2018-08-01 11:30:18 --> Global POST, GET dan COOKIE data telah disanitasi
+INFO - 2018-08-01 11:30:18 --> Input Class telah di inisialisasi
+INFO - 2018-08-01 11:30:18 --> Language Class telah di inisialisasi
+INFO - 2018-08-01 11:30:18 --> Loader Class telah di inisialisasi
+INFO - 2018-08-01 11:30:18 --> Helper telah dimuat: url_helper
+INFO - 2018-08-01 11:30:18 --> Controller Class telah di inisialisasi
+DEBUG - 2018-08-01 11:30:18 --> Session: "sess_save_path" kosong; pakai "session.save_path" data dari php.ini.
+INFO - 2018-08-01 11:30:18 --> Session: Class initialized using 'files' driver.
+INFO - 2018-08-01 11:30:19 --> Helper telah dimuat: cookie_helper
+INFO - 2018-08-01 11:30:19 --> Database Driver Class telah di inisialisasi
+INFO - 2018-08-01 11:30:19 --> Model "datatable" telah di inisialisasi
+INFO - 2018-08-01 11:30:19 --> Output akhir dikirim ke browser
+DEBUG - 2018-08-01 11:30:19 --> Total waktu eksekusi: 0.3920
+INFO - 2018-08-01 11:30:24 --> Config Class telah di inisialisasi
+INFO - 2018-08-01 11:30:24 --> Hooks Class telah di inisialisasi
+DEBUG - 2018-08-01 11:30:24 --> UTF-8 Support Aktif
+INFO - 2018-08-01 11:30:24 --> Utf8 Class telah di inisialisasi
+INFO - 2018-08-01 11:30:24 --> URI Class telah di inisialisasi
+INFO - 2018-08-01 11:30:24 --> Router Class telah di inisialisasi
+INFO - 2018-08-01 11:30:24 --> Output Class telah di inisialisasi
+INFO - 2018-08-01 11:30:24 --> Security Class telah di inisialisasi
+DEBUG - 2018-08-01 11:30:24 --> Global POST, GET dan COOKIE data telah disanitasi
+INFO - 2018-08-01 11:30:24 --> Input Class telah di inisialisasi
+INFO - 2018-08-01 11:30:24 --> Language Class telah di inisialisasi
+INFO - 2018-08-01 11:30:24 --> Loader Class telah di inisialisasi
+INFO - 2018-08-01 11:30:24 --> Helper telah dimuat: url_helper
+INFO - 2018-08-01 11:30:24 --> Controller Class telah di inisialisasi
+DEBUG - 2018-08-01 11:30:24 --> Session: "sess_save_path" kosong; pakai "session.save_path" data dari php.ini.
+INFO - 2018-08-01 11:30:24 --> Session: Class initialized using 'files' driver.
+INFO - 2018-08-01 11:30:24 --> Helper telah dimuat: cookie_helper
+INFO - 2018-08-01 11:30:24 --> File telah dimuat: D:\XAMPP\htdocs\jb\application\views\jebews/html/head.php
+INFO - 2018-08-01 11:30:24 --> File telah dimuat: D:\XAMPP\htdocs\jb\application\views\jebews/product/manage.php
+INFO - 2018-08-01 11:30:24 --> Output akhir dikirim ke browser
+DEBUG - 2018-08-01 11:30:24 --> Total waktu eksekusi: 0.3572
+INFO - 2018-08-01 11:30:24 --> Config Class telah di inisialisasi
+INFO - 2018-08-01 11:30:24 --> Hooks Class telah di inisialisasi
+DEBUG - 2018-08-01 11:30:25 --> UTF-8 Support Aktif
+INFO - 2018-08-01 11:30:25 --> Utf8 Class telah di inisialisasi
+INFO - 2018-08-01 11:30:25 --> URI Class telah di inisialisasi
+INFO - 2018-08-01 11:30:25 --> Router Class telah di inisialisasi
+INFO - 2018-08-01 11:30:25 --> Output Class telah di inisialisasi
+INFO - 2018-08-01 11:30:25 --> Security Class telah di inisialisasi
+DEBUG - 2018-08-01 11:30:25 --> Global POST, GET dan COOKIE data telah disanitasi
+INFO - 2018-08-01 11:30:25 --> Input Class telah di inisialisasi
+INFO - 2018-08-01 11:30:25 --> Language Class telah di inisialisasi
+INFO - 2018-08-01 11:30:25 --> Loader Class telah di inisialisasi
+INFO - 2018-08-01 11:30:25 --> Helper telah dimuat: url_helper
+INFO - 2018-08-01 11:30:25 --> Controller Class telah di inisialisasi
+DEBUG - 2018-08-01 11:30:25 --> Session: "sess_save_path" kosong; pakai "session.save_path" data dari php.ini.
+INFO - 2018-08-01 11:30:25 --> Session: Class initialized using 'files' driver.
+INFO - 2018-08-01 11:30:25 --> Helper telah dimuat: cookie_helper
+INFO - 2018-08-01 11:30:25 --> Database Driver Class telah di inisialisasi
+INFO - 2018-08-01 11:30:25 --> Model "datatable" telah di inisialisasi
+INFO - 2018-08-01 11:30:25 --> Output akhir dikirim ke browser
+DEBUG - 2018-08-01 11:30:25 --> Total waktu eksekusi: 0.3900
+INFO - 2018-08-01 11:30:30 --> Config Class telah di inisialisasi
+INFO - 2018-08-01 11:30:30 --> Hooks Class telah di inisialisasi
+DEBUG - 2018-08-01 11:30:30 --> UTF-8 Support Aktif
+INFO - 2018-08-01 11:30:30 --> Utf8 Class telah di inisialisasi
+INFO - 2018-08-01 11:30:30 --> URI Class telah di inisialisasi
+INFO - 2018-08-01 11:30:30 --> Router Class telah di inisialisasi
+INFO - 2018-08-01 11:30:30 --> Output Class telah di inisialisasi
+INFO - 2018-08-01 11:30:30 --> Security Class telah di inisialisasi
+DEBUG - 2018-08-01 11:30:30 --> Global POST, GET dan COOKIE data telah disanitasi
+INFO - 2018-08-01 11:30:30 --> Input Class telah di inisialisasi
+INFO - 2018-08-01 11:30:30 --> Language Class telah di inisialisasi
+INFO - 2018-08-01 11:30:30 --> Loader Class telah di inisialisasi
+INFO - 2018-08-01 11:30:30 --> Helper telah dimuat: url_helper
+INFO - 2018-08-01 11:30:30 --> Controller Class telah di inisialisasi
+DEBUG - 2018-08-01 11:30:30 --> Session: "sess_save_path" kosong; pakai "session.save_path" data dari php.ini.
+INFO - 2018-08-01 11:30:30 --> Session: Class initialized using 'files' driver.
+INFO - 2018-08-01 11:30:30 --> Helper telah dimuat: cookie_helper
+INFO - 2018-08-01 11:30:30 --> File telah dimuat: D:\XAMPP\htdocs\jb\application\views\jebews/html/head.php
+INFO - 2018-08-01 11:30:30 --> File telah dimuat: D:\XAMPP\htdocs\jb\application\views\jebews/product/manage.php
+INFO - 2018-08-01 11:30:30 --> Output akhir dikirim ke browser
+DEBUG - 2018-08-01 11:30:30 --> Total waktu eksekusi: 0.3460
+INFO - 2018-08-01 11:30:30 --> Config Class telah di inisialisasi
+INFO - 2018-08-01 11:30:31 --> Hooks Class telah di inisialisasi
+DEBUG - 2018-08-01 11:30:31 --> UTF-8 Support Aktif
+INFO - 2018-08-01 11:30:31 --> Utf8 Class telah di inisialisasi
+INFO - 2018-08-01 11:30:31 --> URI Class telah di inisialisasi
+INFO - 2018-08-01 11:30:31 --> Router Class telah di inisialisasi
+INFO - 2018-08-01 11:30:31 --> Output Class telah di inisialisasi
+INFO - 2018-08-01 11:30:31 --> Security Class telah di inisialisasi
+DEBUG - 2018-08-01 11:30:31 --> Global POST, GET dan COOKIE data telah disanitasi
+INFO - 2018-08-01 11:30:31 --> Input Class telah di inisialisasi
+INFO - 2018-08-01 11:30:31 --> Language Class telah di inisialisasi
+INFO - 2018-08-01 11:30:31 --> Loader Class telah di inisialisasi
+INFO - 2018-08-01 11:30:31 --> Helper telah dimuat: url_helper
+INFO - 2018-08-01 11:30:31 --> Controller Class telah di inisialisasi
+DEBUG - 2018-08-01 11:30:31 --> Session: "sess_save_path" kosong; pakai "session.save_path" data dari php.ini.
+INFO - 2018-08-01 11:30:31 --> Session: Class initialized using 'files' driver.
+INFO - 2018-08-01 11:30:31 --> Helper telah dimuat: cookie_helper
+INFO - 2018-08-01 11:30:31 --> Database Driver Class telah di inisialisasi
+INFO - 2018-08-01 11:30:31 --> Model "datatable" telah di inisialisasi
+INFO - 2018-08-01 11:30:31 --> Output akhir dikirim ke browser
+DEBUG - 2018-08-01 11:30:31 --> Total waktu eksekusi: 0.3900
+INFO - 2018-08-01 11:30:36 --> Config Class telah di inisialisasi
+INFO - 2018-08-01 11:30:36 --> Hooks Class telah di inisialisasi
+DEBUG - 2018-08-01 11:30:36 --> UTF-8 Support Aktif
+INFO - 2018-08-01 11:30:36 --> Utf8 Class telah di inisialisasi
+INFO - 2018-08-01 11:30:36 --> URI Class telah di inisialisasi
+INFO - 2018-08-01 11:30:36 --> Router Class telah di inisialisasi
+INFO - 2018-08-01 11:30:36 --> Output Class telah di inisialisasi
+INFO - 2018-08-01 11:30:36 --> Security Class telah di inisialisasi
+DEBUG - 2018-08-01 11:30:36 --> Global POST, GET dan COOKIE data telah disanitasi
+INFO - 2018-08-01 11:30:36 --> Input Class telah di inisialisasi
+INFO - 2018-08-01 11:30:36 --> Language Class telah di inisialisasi
+INFO - 2018-08-01 11:30:36 --> Loader Class telah di inisialisasi
+INFO - 2018-08-01 11:30:36 --> Helper telah dimuat: url_helper
+INFO - 2018-08-01 11:30:36 --> Controller Class telah di inisialisasi
+DEBUG - 2018-08-01 11:30:36 --> Session: "sess_save_path" kosong; pakai "session.save_path" data dari php.ini.
+INFO - 2018-08-01 11:30:36 --> Session: Class initialized using 'files' driver.
+INFO - 2018-08-01 11:30:36 --> Helper telah dimuat: cookie_helper
+INFO - 2018-08-01 11:30:36 --> Database Driver Class telah di inisialisasi
+INFO - 2018-08-01 11:30:36 --> Model "datatable" telah di inisialisasi
+INFO - 2018-08-01 11:30:36 --> Output akhir dikirim ke browser
+DEBUG - 2018-08-01 11:30:36 --> Total waktu eksekusi: 0.3490
+INFO - 2018-08-01 11:30:38 --> Config Class telah di inisialisasi
+INFO - 2018-08-01 11:30:38 --> Hooks Class telah di inisialisasi
+DEBUG - 2018-08-01 11:30:38 --> UTF-8 Support Aktif
+INFO - 2018-08-01 11:30:38 --> Utf8 Class telah di inisialisasi
+INFO - 2018-08-01 11:30:38 --> URI Class telah di inisialisasi
+INFO - 2018-08-01 11:30:38 --> Router Class telah di inisialisasi
+INFO - 2018-08-01 11:30:38 --> Output Class telah di inisialisasi
+INFO - 2018-08-01 11:30:38 --> Security Class telah di inisialisasi
+DEBUG - 2018-08-01 11:30:38 --> Global POST, GET dan COOKIE data telah disanitasi
+INFO - 2018-08-01 11:30:38 --> Input Class telah di inisialisasi
+INFO - 2018-08-01 11:30:38 --> Language Class telah di inisialisasi
+INFO - 2018-08-01 11:30:38 --> Loader Class telah di inisialisasi
+INFO - 2018-08-01 11:30:38 --> Helper telah dimuat: url_helper
+INFO - 2018-08-01 11:30:38 --> Controller Class telah di inisialisasi
+DEBUG - 2018-08-01 11:30:38 --> Session: "sess_save_path" kosong; pakai "session.save_path" data dari php.ini.
+INFO - 2018-08-01 11:30:38 --> Session: Class initialized using 'files' driver.
+INFO - 2018-08-01 11:30:38 --> Helper telah dimuat: cookie_helper
+INFO - 2018-08-01 11:30:38 --> Database Driver Class telah di inisialisasi
+INFO - 2018-08-01 11:30:38 --> Model "datatable" telah di inisialisasi
+INFO - 2018-08-01 11:30:38 --> Output akhir dikirim ke browser
+DEBUG - 2018-08-01 11:30:38 --> Total waktu eksekusi: 0.3686
+INFO - 2018-08-01 11:30:44 --> Config Class telah di inisialisasi
+INFO - 2018-08-01 11:30:44 --> Hooks Class telah di inisialisasi
+DEBUG - 2018-08-01 11:30:44 --> UTF-8 Support Aktif
+INFO - 2018-08-01 11:30:44 --> Utf8 Class telah di inisialisasi
+INFO - 2018-08-01 11:30:44 --> URI Class telah di inisialisasi
+INFO - 2018-08-01 11:30:44 --> Router Class telah di inisialisasi
+INFO - 2018-08-01 11:30:44 --> Output Class telah di inisialisasi
+INFO - 2018-08-01 11:30:44 --> Security Class telah di inisialisasi
+DEBUG - 2018-08-01 11:30:44 --> Global POST, GET dan COOKIE data telah disanitasi
+INFO - 2018-08-01 11:30:44 --> Input Class telah di inisialisasi
+INFO - 2018-08-01 11:30:44 --> Language Class telah di inisialisasi
+INFO - 2018-08-01 11:30:44 --> Loader Class telah di inisialisasi
+INFO - 2018-08-01 11:30:44 --> Helper telah dimuat: url_helper
+INFO - 2018-08-01 11:30:44 --> Controller Class telah di inisialisasi
+DEBUG - 2018-08-01 11:30:44 --> Session: "sess_save_path" kosong; pakai "session.save_path" data dari php.ini.
+INFO - 2018-08-01 11:30:44 --> Session: Class initialized using 'files' driver.
+INFO - 2018-08-01 11:30:44 --> Helper telah dimuat: cookie_helper
+INFO - 2018-08-01 11:30:44 --> Database Driver Class telah di inisialisasi
+INFO - 2018-08-01 11:30:44 --> Model "datatable" telah di inisialisasi
+INFO - 2018-08-01 11:30:44 --> Output akhir dikirim ke browser
+DEBUG - 2018-08-01 11:30:44 --> Total waktu eksekusi: 0.3642
+INFO - 2018-08-01 11:30:45 --> Config Class telah di inisialisasi
+INFO - 2018-08-01 11:30:45 --> Hooks Class telah di inisialisasi
+DEBUG - 2018-08-01 11:30:45 --> UTF-8 Support Aktif
+INFO - 2018-08-01 11:30:45 --> Utf8 Class telah di inisialisasi
+INFO - 2018-08-01 11:30:45 --> URI Class telah di inisialisasi
+INFO - 2018-08-01 11:30:46 --> Router Class telah di inisialisasi
+INFO - 2018-08-01 11:30:46 --> Output Class telah di inisialisasi
+INFO - 2018-08-01 11:30:46 --> Security Class telah di inisialisasi
+DEBUG - 2018-08-01 11:30:46 --> Global POST, GET dan COOKIE data telah disanitasi
+INFO - 2018-08-01 11:30:46 --> Input Class telah di inisialisasi
+INFO - 2018-08-01 11:30:46 --> Language Class telah di inisialisasi
+INFO - 2018-08-01 11:30:46 --> Loader Class telah di inisialisasi
+INFO - 2018-08-01 11:30:46 --> Helper telah dimuat: url_helper
+INFO - 2018-08-01 11:30:46 --> Controller Class telah di inisialisasi
+DEBUG - 2018-08-01 11:30:46 --> Session: "sess_save_path" kosong; pakai "session.save_path" data dari php.ini.
+INFO - 2018-08-01 11:30:46 --> Session: Class initialized using 'files' driver.
+INFO - 2018-08-01 11:30:46 --> Helper telah dimuat: cookie_helper
+INFO - 2018-08-01 11:30:46 --> Database Driver Class telah di inisialisasi
+INFO - 2018-08-01 11:30:46 --> Model "datatable" telah di inisialisasi
+INFO - 2018-08-01 11:30:46 --> Output akhir dikirim ke browser
+DEBUG - 2018-08-01 11:30:46 --> Total waktu eksekusi: 0.3344
+INFO - 2018-08-01 11:31:50 --> Config Class telah di inisialisasi
+INFO - 2018-08-01 11:31:50 --> Hooks Class telah di inisialisasi
+DEBUG - 2018-08-01 11:31:50 --> UTF-8 Support Aktif
+INFO - 2018-08-01 11:31:50 --> Utf8 Class telah di inisialisasi
+INFO - 2018-08-01 11:31:50 --> URI Class telah di inisialisasi
+INFO - 2018-08-01 11:31:50 --> Router Class telah di inisialisasi
+INFO - 2018-08-01 11:31:50 --> Output Class telah di inisialisasi
+INFO - 2018-08-01 11:31:50 --> Security Class telah di inisialisasi
+DEBUG - 2018-08-01 11:31:50 --> Global POST, GET dan COOKIE data telah disanitasi
+INFO - 2018-08-01 11:31:50 --> Input Class telah di inisialisasi
+INFO - 2018-08-01 11:31:50 --> Language Class telah di inisialisasi
+INFO - 2018-08-01 11:31:50 --> Loader Class telah di inisialisasi
+INFO - 2018-08-01 11:31:50 --> Helper telah dimuat: url_helper
+INFO - 2018-08-01 11:31:50 --> Controller Class telah di inisialisasi
+DEBUG - 2018-08-01 11:31:50 --> Session: "sess_save_path" kosong; pakai "session.save_path" data dari php.ini.
+INFO - 2018-08-01 11:31:50 --> Session: Class initialized using 'files' driver.
+INFO - 2018-08-01 11:31:50 --> Helper telah dimuat: cookie_helper
+INFO - 2018-08-01 11:31:50 --> File telah dimuat: D:\XAMPP\htdocs\jb\application\views\jebews/html/head.php
+INFO - 2018-08-01 11:31:50 --> File telah dimuat: D:\XAMPP\htdocs\jb\application\views\jebews/product/manage.php
+INFO - 2018-08-01 11:31:50 --> Output akhir dikirim ke browser
+DEBUG - 2018-08-01 11:31:50 --> Total waktu eksekusi: 0.3522
+INFO - 2018-08-01 11:31:50 --> Config Class telah di inisialisasi
+INFO - 2018-08-01 11:31:50 --> Hooks Class telah di inisialisasi
+DEBUG - 2018-08-01 11:31:50 --> UTF-8 Support Aktif
+INFO - 2018-08-01 11:31:50 --> Utf8 Class telah di inisialisasi
+INFO - 2018-08-01 11:31:50 --> URI Class telah di inisialisasi
+INFO - 2018-08-01 11:31:50 --> Router Class telah di inisialisasi
+INFO - 2018-08-01 11:31:50 --> Output Class telah di inisialisasi
+INFO - 2018-08-01 11:31:50 --> Security Class telah di inisialisasi
+DEBUG - 2018-08-01 11:31:50 --> Global POST, GET dan COOKIE data telah disanitasi
+INFO - 2018-08-01 11:31:50 --> Input Class telah di inisialisasi
+INFO - 2018-08-01 11:31:50 --> Language Class telah di inisialisasi
+INFO - 2018-08-01 11:31:50 --> Loader Class telah di inisialisasi
+INFO - 2018-08-01 11:31:51 --> Helper telah dimuat: url_helper
+INFO - 2018-08-01 11:31:51 --> Controller Class telah di inisialisasi
+DEBUG - 2018-08-01 11:31:51 --> Session: "sess_save_path" kosong; pakai "session.save_path" data dari php.ini.
+INFO - 2018-08-01 11:31:51 --> Session: Class initialized using 'files' driver.
+INFO - 2018-08-01 11:31:51 --> Helper telah dimuat: cookie_helper
+INFO - 2018-08-01 11:31:51 --> Database Driver Class telah di inisialisasi
+INFO - 2018-08-01 11:31:51 --> Model "datatable" telah di inisialisasi
+INFO - 2018-08-01 11:31:51 --> Output akhir dikirim ke browser
+DEBUG - 2018-08-01 11:31:51 --> Total waktu eksekusi: 0.3890
+INFO - 2018-08-01 11:32:06 --> Config Class telah di inisialisasi
+INFO - 2018-08-01 11:32:06 --> Hooks Class telah di inisialisasi
+DEBUG - 2018-08-01 11:32:06 --> UTF-8 Support Aktif
+INFO - 2018-08-01 11:32:06 --> Utf8 Class telah di inisialisasi
+INFO - 2018-08-01 11:32:06 --> URI Class telah di inisialisasi
+INFO - 2018-08-01 11:32:06 --> Router Class telah di inisialisasi
+INFO - 2018-08-01 11:32:06 --> Output Class telah di inisialisasi
+INFO - 2018-08-01 11:32:06 --> Security Class telah di inisialisasi
+DEBUG - 2018-08-01 11:32:06 --> Global POST, GET dan COOKIE data telah disanitasi
+INFO - 2018-08-01 11:32:06 --> Input Class telah di inisialisasi
+INFO - 2018-08-01 11:32:06 --> Language Class telah di inisialisasi
+INFO - 2018-08-01 11:32:06 --> Loader Class telah di inisialisasi
+INFO - 2018-08-01 11:32:06 --> Helper telah dimuat: url_helper
+INFO - 2018-08-01 11:32:06 --> Controller Class telah di inisialisasi
+DEBUG - 2018-08-01 11:32:06 --> Session: "sess_save_path" kosong; pakai "session.save_path" data dari php.ini.
+INFO - 2018-08-01 11:32:06 --> Session: Class initialized using 'files' driver.
+INFO - 2018-08-01 11:32:06 --> Helper telah dimuat: cookie_helper
+INFO - 2018-08-01 11:32:06 --> File telah dimuat: D:\XAMPP\htdocs\jb\application\views\jebews/html/head.php
+INFO - 2018-08-01 11:32:06 --> File telah dimuat: D:\XAMPP\htdocs\jb\application\views\jebews/product/manage.php
+INFO - 2018-08-01 11:32:06 --> Output akhir dikirim ke browser
+DEBUG - 2018-08-01 11:32:06 --> Total waktu eksekusi: 0.3446
+INFO - 2018-08-01 11:32:07 --> Config Class telah di inisialisasi
+INFO - 2018-08-01 11:32:07 --> Hooks Class telah di inisialisasi
+DEBUG - 2018-08-01 11:32:07 --> UTF-8 Support Aktif
+INFO - 2018-08-01 11:32:07 --> Utf8 Class telah di inisialisasi
+INFO - 2018-08-01 11:32:07 --> URI Class telah di inisialisasi
+INFO - 2018-08-01 11:32:07 --> Router Class telah di inisialisasi
+INFO - 2018-08-01 11:32:07 --> Output Class telah di inisialisasi
+INFO - 2018-08-01 11:32:07 --> Security Class telah di inisialisasi
+DEBUG - 2018-08-01 11:32:07 --> Global POST, GET dan COOKIE data telah disanitasi
+INFO - 2018-08-01 11:32:07 --> Input Class telah di inisialisasi
+INFO - 2018-08-01 11:32:07 --> Language Class telah di inisialisasi
+INFO - 2018-08-01 11:32:07 --> Loader Class telah di inisialisasi
+INFO - 2018-08-01 11:32:07 --> Helper telah dimuat: url_helper
+INFO - 2018-08-01 11:32:07 --> Controller Class telah di inisialisasi
+DEBUG - 2018-08-01 11:32:07 --> Session: "sess_save_path" kosong; pakai "session.save_path" data dari php.ini.
+INFO - 2018-08-01 11:32:07 --> Session: Class initialized using 'files' driver.
+INFO - 2018-08-01 11:32:07 --> Helper telah dimuat: cookie_helper
+INFO - 2018-08-01 11:32:07 --> Database Driver Class telah di inisialisasi
+INFO - 2018-08-01 11:32:07 --> Model "datatable" telah di inisialisasi
+INFO - 2018-08-01 11:32:07 --> Output akhir dikirim ke browser
+DEBUG - 2018-08-01 11:32:07 --> Total waktu eksekusi: 0.3790
+INFO - 2018-08-01 11:32:22 --> Config Class telah di inisialisasi
+INFO - 2018-08-01 11:32:22 --> Hooks Class telah di inisialisasi
+DEBUG - 2018-08-01 11:32:22 --> UTF-8 Support Aktif
+INFO - 2018-08-01 11:32:22 --> Utf8 Class telah di inisialisasi
+INFO - 2018-08-01 11:32:22 --> URI Class telah di inisialisasi
+INFO - 2018-08-01 11:32:22 --> Router Class telah di inisialisasi
+INFO - 2018-08-01 11:32:22 --> Output Class telah di inisialisasi
+INFO - 2018-08-01 11:32:22 --> Security Class telah di inisialisasi
+DEBUG - 2018-08-01 11:32:22 --> Global POST, GET dan COOKIE data telah disanitasi
+INFO - 2018-08-01 11:32:22 --> Input Class telah di inisialisasi
+INFO - 2018-08-01 11:32:22 --> Language Class telah di inisialisasi
+INFO - 2018-08-01 11:32:22 --> Loader Class telah di inisialisasi
+INFO - 2018-08-01 11:32:22 --> Helper telah dimuat: url_helper
+INFO - 2018-08-01 11:32:22 --> Controller Class telah di inisialisasi
+DEBUG - 2018-08-01 11:32:22 --> Session: "sess_save_path" kosong; pakai "session.save_path" data dari php.ini.
+INFO - 2018-08-01 11:32:22 --> Session: Class initialized using 'files' driver.
+INFO - 2018-08-01 11:32:22 --> Helper telah dimuat: cookie_helper
+INFO - 2018-08-01 11:32:22 --> File telah dimuat: D:\XAMPP\htdocs\jb\application\views\jebews/html/head.php
+INFO - 2018-08-01 11:32:23 --> File telah dimuat: D:\XAMPP\htdocs\jb\application\views\jebews/product/manage.php
+INFO - 2018-08-01 11:32:23 --> Output akhir dikirim ke browser
+DEBUG - 2018-08-01 11:32:23 --> Total waktu eksekusi: 0.3496
+INFO - 2018-08-01 11:32:23 --> Config Class telah di inisialisasi
+INFO - 2018-08-01 11:32:23 --> Hooks Class telah di inisialisasi
+DEBUG - 2018-08-01 11:32:23 --> UTF-8 Support Aktif
+INFO - 2018-08-01 11:32:23 --> Utf8 Class telah di inisialisasi
+INFO - 2018-08-01 11:32:23 --> URI Class telah di inisialisasi
+INFO - 2018-08-01 11:32:23 --> Router Class telah di inisialisasi
+INFO - 2018-08-01 11:32:23 --> Output Class telah di inisialisasi
+INFO - 2018-08-01 11:32:23 --> Security Class telah di inisialisasi
+DEBUG - 2018-08-01 11:32:23 --> Global POST, GET dan COOKIE data telah disanitasi
+INFO - 2018-08-01 11:32:23 --> Input Class telah di inisialisasi
+INFO - 2018-08-01 11:32:23 --> Language Class telah di inisialisasi
+INFO - 2018-08-01 11:32:23 --> Loader Class telah di inisialisasi
+INFO - 2018-08-01 11:32:23 --> Helper telah dimuat: url_helper
+INFO - 2018-08-01 11:32:23 --> Controller Class telah di inisialisasi
+DEBUG - 2018-08-01 11:32:23 --> Session: "sess_save_path" kosong; pakai "session.save_path" data dari php.ini.
+INFO - 2018-08-01 11:32:23 --> Session: Class initialized using 'files' driver.
+INFO - 2018-08-01 11:32:23 --> Helper telah dimuat: cookie_helper
+INFO - 2018-08-01 11:32:23 --> Database Driver Class telah di inisialisasi
+INFO - 2018-08-01 11:32:23 --> Model "datatable" telah di inisialisasi
+INFO - 2018-08-01 11:32:23 --> Output akhir dikirim ke browser
+DEBUG - 2018-08-01 11:32:23 --> Total waktu eksekusi: 0.3770
+INFO - 2018-08-01 11:32:59 --> Config Class telah di inisialisasi
+INFO - 2018-08-01 11:32:59 --> Hooks Class telah di inisialisasi
+DEBUG - 2018-08-01 11:32:59 --> UTF-8 Support Aktif
+INFO - 2018-08-01 11:32:59 --> Utf8 Class telah di inisialisasi
+INFO - 2018-08-01 11:32:59 --> URI Class telah di inisialisasi
+INFO - 2018-08-01 11:32:59 --> Router Class telah di inisialisasi
+INFO - 2018-08-01 11:32:59 --> Output Class telah di inisialisasi
+INFO - 2018-08-01 11:32:59 --> Security Class telah di inisialisasi
+DEBUG - 2018-08-01 11:32:59 --> Global POST, GET dan COOKIE data telah disanitasi
+INFO - 2018-08-01 11:32:59 --> Input Class telah di inisialisasi
+INFO - 2018-08-01 11:32:59 --> Language Class telah di inisialisasi
+INFO - 2018-08-01 11:32:59 --> Loader Class telah di inisialisasi
+INFO - 2018-08-01 11:32:59 --> Helper telah dimuat: url_helper
+INFO - 2018-08-01 11:32:59 --> Controller Class telah di inisialisasi
+DEBUG - 2018-08-01 11:32:59 --> Session: "sess_save_path" kosong; pakai "session.save_path" data dari php.ini.
+INFO - 2018-08-01 11:32:59 --> Session: Class initialized using 'files' driver.
+INFO - 2018-08-01 11:32:59 --> Helper telah dimuat: cookie_helper
+INFO - 2018-08-01 11:32:59 --> File telah dimuat: D:\XAMPP\htdocs\jb\application\views\jebews/html/head.php
+INFO - 2018-08-01 11:32:59 --> File telah dimuat: D:\XAMPP\htdocs\jb\application\views\jebews/product/manage.php
+INFO - 2018-08-01 11:32:59 --> Output akhir dikirim ke browser
+DEBUG - 2018-08-01 11:32:59 --> Total waktu eksekusi: 0.3516
+INFO - 2018-08-01 11:32:59 --> Config Class telah di inisialisasi
+INFO - 2018-08-01 11:32:59 --> Hooks Class telah di inisialisasi
+DEBUG - 2018-08-01 11:32:59 --> UTF-8 Support Aktif
+INFO - 2018-08-01 11:32:59 --> Utf8 Class telah di inisialisasi
+INFO - 2018-08-01 11:32:59 --> URI Class telah di inisialisasi
+INFO - 2018-08-01 11:32:59 --> Router Class telah di inisialisasi
+INFO - 2018-08-01 11:32:59 --> Output Class telah di inisialisasi
+INFO - 2018-08-01 11:32:59 --> Security Class telah di inisialisasi
+DEBUG - 2018-08-01 11:32:59 --> Global POST, GET dan COOKIE data telah disanitasi
+INFO - 2018-08-01 11:32:59 --> Input Class telah di inisialisasi
+INFO - 2018-08-01 11:32:59 --> Language Class telah di inisialisasi
+INFO - 2018-08-01 11:32:59 --> Loader Class telah di inisialisasi
+INFO - 2018-08-01 11:32:59 --> Helper telah dimuat: url_helper
+INFO - 2018-08-01 11:32:59 --> Controller Class telah di inisialisasi
+DEBUG - 2018-08-01 11:32:59 --> Session: "sess_save_path" kosong; pakai "session.save_path" data dari php.ini.
+INFO - 2018-08-01 11:32:59 --> Session: Class initialized using 'files' driver.
+INFO - 2018-08-01 11:32:59 --> Helper telah dimuat: cookie_helper
+INFO - 2018-08-01 11:32:59 --> Database Driver Class telah di inisialisasi
+INFO - 2018-08-01 11:32:59 --> Model "datatable" telah di inisialisasi
+INFO - 2018-08-01 11:32:59 --> Output akhir dikirim ke browser
+DEBUG - 2018-08-01 11:32:59 --> Total waktu eksekusi: 0.4070
+INFO - 2018-08-01 11:33:15 --> Config Class telah di inisialisasi
+INFO - 2018-08-01 11:33:15 --> Hooks Class telah di inisialisasi
+DEBUG - 2018-08-01 11:33:15 --> UTF-8 Support Aktif
+INFO - 2018-08-01 11:33:15 --> Utf8 Class telah di inisialisasi
+INFO - 2018-08-01 11:33:15 --> URI Class telah di inisialisasi
+INFO - 2018-08-01 11:33:15 --> Router Class telah di inisialisasi
+INFO - 2018-08-01 11:33:15 --> Output Class telah di inisialisasi
+INFO - 2018-08-01 11:33:15 --> Security Class telah di inisialisasi
+DEBUG - 2018-08-01 11:33:15 --> Global POST, GET dan COOKIE data telah disanitasi
+INFO - 2018-08-01 11:33:15 --> Input Class telah di inisialisasi
+INFO - 2018-08-01 11:33:15 --> Language Class telah di inisialisasi
+INFO - 2018-08-01 11:33:15 --> Loader Class telah di inisialisasi
+INFO - 2018-08-01 11:33:15 --> Helper telah dimuat: url_helper
+INFO - 2018-08-01 11:33:15 --> Controller Class telah di inisialisasi
+DEBUG - 2018-08-01 11:33:15 --> Session: "sess_save_path" kosong; pakai "session.save_path" data dari php.ini.
+INFO - 2018-08-01 11:33:15 --> Session: Class initialized using 'files' driver.
+INFO - 2018-08-01 11:33:15 --> Helper telah dimuat: cookie_helper
+INFO - 2018-08-01 11:33:15 --> File telah dimuat: D:\XAMPP\htdocs\jb\application\views\jebews/html/head.php
+INFO - 2018-08-01 11:33:15 --> File telah dimuat: D:\XAMPP\htdocs\jb\application\views\jebews/product/manage.php
+INFO - 2018-08-01 11:33:15 --> Output akhir dikirim ke browser
+DEBUG - 2018-08-01 11:33:15 --> Total waktu eksekusi: 0.3522
+INFO - 2018-08-01 11:33:16 --> Config Class telah di inisialisasi
+INFO - 2018-08-01 11:33:16 --> Hooks Class telah di inisialisasi
+DEBUG - 2018-08-01 11:33:16 --> UTF-8 Support Aktif
+INFO - 2018-08-01 11:33:16 --> Utf8 Class telah di inisialisasi
+INFO - 2018-08-01 11:33:16 --> URI Class telah di inisialisasi
+INFO - 2018-08-01 11:33:16 --> Router Class telah di inisialisasi
+INFO - 2018-08-01 11:33:16 --> Output Class telah di inisialisasi
+INFO - 2018-08-01 11:33:16 --> Security Class telah di inisialisasi
+DEBUG - 2018-08-01 11:33:16 --> Global POST, GET dan COOKIE data telah disanitasi
+INFO - 2018-08-01 11:33:16 --> Input Class telah di inisialisasi
+INFO - 2018-08-01 11:33:16 --> Language Class telah di inisialisasi
+INFO - 2018-08-01 11:33:16 --> Loader Class telah di inisialisasi
+INFO - 2018-08-01 11:33:16 --> Helper telah dimuat: url_helper
+INFO - 2018-08-01 11:33:16 --> Controller Class telah di inisialisasi
+DEBUG - 2018-08-01 11:33:16 --> Session: "sess_save_path" kosong; pakai "session.save_path" data dari php.ini.
+INFO - 2018-08-01 11:33:16 --> Session: Class initialized using 'files' driver.
+INFO - 2018-08-01 11:33:16 --> Helper telah dimuat: cookie_helper
+INFO - 2018-08-01 11:33:16 --> Database Driver Class telah di inisialisasi
+INFO - 2018-08-01 11:33:16 --> Model "datatable" telah di inisialisasi
+INFO - 2018-08-01 11:33:16 --> Output akhir dikirim ke browser
+DEBUG - 2018-08-01 11:33:16 --> Total waktu eksekusi: 0.3920
+INFO - 2018-08-01 11:33:36 --> Config Class telah di inisialisasi
+INFO - 2018-08-01 11:33:36 --> Hooks Class telah di inisialisasi
+DEBUG - 2018-08-01 11:33:36 --> UTF-8 Support Aktif
+INFO - 2018-08-01 11:33:36 --> Utf8 Class telah di inisialisasi
+INFO - 2018-08-01 11:33:36 --> URI Class telah di inisialisasi
+INFO - 2018-08-01 11:33:36 --> Router Class telah di inisialisasi
+INFO - 2018-08-01 11:33:37 --> Output Class telah di inisialisasi
+INFO - 2018-08-01 11:33:37 --> Security Class telah di inisialisasi
+DEBUG - 2018-08-01 11:33:37 --> Global POST, GET dan COOKIE data telah disanitasi
+INFO - 2018-08-01 11:33:37 --> Input Class telah di inisialisasi
+INFO - 2018-08-01 11:33:37 --> Language Class telah di inisialisasi
+INFO - 2018-08-01 11:33:37 --> Loader Class telah di inisialisasi
+INFO - 2018-08-01 11:33:37 --> Helper telah dimuat: url_helper
+INFO - 2018-08-01 11:33:37 --> Controller Class telah di inisialisasi
+DEBUG - 2018-08-01 11:33:37 --> Session: "sess_save_path" kosong; pakai "session.save_path" data dari php.ini.
+INFO - 2018-08-01 11:33:37 --> Session: Class initialized using 'files' driver.
+INFO - 2018-08-01 11:33:37 --> Helper telah dimuat: cookie_helper
+INFO - 2018-08-01 11:33:37 --> File telah dimuat: D:\XAMPP\htdocs\jb\application\views\jebews/html/head.php
+INFO - 2018-08-01 11:33:37 --> File telah dimuat: D:\XAMPP\htdocs\jb\application\views\jebews/product/manage.php
+INFO - 2018-08-01 11:33:37 --> Output akhir dikirim ke browser
+DEBUG - 2018-08-01 11:33:37 --> Total waktu eksekusi: 0.3636
+INFO - 2018-08-01 11:33:37 --> Config Class telah di inisialisasi
+INFO - 2018-08-01 11:33:37 --> Hooks Class telah di inisialisasi
+DEBUG - 2018-08-01 11:33:37 --> UTF-8 Support Aktif
+INFO - 2018-08-01 11:33:37 --> Utf8 Class telah di inisialisasi
+INFO - 2018-08-01 11:33:37 --> URI Class telah di inisialisasi
+INFO - 2018-08-01 11:33:37 --> Router Class telah di inisialisasi
+INFO - 2018-08-01 11:33:37 --> Output Class telah di inisialisasi
+INFO - 2018-08-01 11:33:37 --> Security Class telah di inisialisasi
+DEBUG - 2018-08-01 11:33:37 --> Global POST, GET dan COOKIE data telah disanitasi
+INFO - 2018-08-01 11:33:37 --> Input Class telah di inisialisasi
+INFO - 2018-08-01 11:33:37 --> Language Class telah di inisialisasi
+INFO - 2018-08-01 11:33:37 --> Loader Class telah di inisialisasi
+INFO - 2018-08-01 11:33:37 --> Helper telah dimuat: url_helper
+INFO - 2018-08-01 11:33:37 --> Controller Class telah di inisialisasi
+DEBUG - 2018-08-01 11:33:37 --> Session: "sess_save_path" kosong; pakai "session.save_path" data dari php.ini.
+INFO - 2018-08-01 11:33:37 --> Session: Class initialized using 'files' driver.
+INFO - 2018-08-01 11:33:37 --> Helper telah dimuat: cookie_helper
+INFO - 2018-08-01 11:33:37 --> Database Driver Class telah di inisialisasi
+INFO - 2018-08-01 11:33:37 --> Model "datatable" telah di inisialisasi
+INFO - 2018-08-01 11:33:37 --> Output akhir dikirim ke browser
+DEBUG - 2018-08-01 11:33:37 --> Total waktu eksekusi: 0.4060
+INFO - 2018-08-01 11:34:09 --> Config Class telah di inisialisasi
+INFO - 2018-08-01 11:34:09 --> Hooks Class telah di inisialisasi
+DEBUG - 2018-08-01 11:34:09 --> UTF-8 Support Aktif
+INFO - 2018-08-01 11:34:09 --> Utf8 Class telah di inisialisasi
+INFO - 2018-08-01 11:34:09 --> URI Class telah di inisialisasi
+INFO - 2018-08-01 11:34:09 --> Router Class telah di inisialisasi
+INFO - 2018-08-01 11:34:09 --> Output Class telah di inisialisasi
+INFO - 2018-08-01 11:34:09 --> Security Class telah di inisialisasi
+DEBUG - 2018-08-01 11:34:09 --> Global POST, GET dan COOKIE data telah disanitasi
+INFO - 2018-08-01 11:34:09 --> Input Class telah di inisialisasi
+INFO - 2018-08-01 11:34:09 --> Language Class telah di inisialisasi
+INFO - 2018-08-01 11:34:09 --> Loader Class telah di inisialisasi
+INFO - 2018-08-01 11:34:09 --> Helper telah dimuat: url_helper
+INFO - 2018-08-01 11:34:09 --> Controller Class telah di inisialisasi
+DEBUG - 2018-08-01 11:34:09 --> Session: "sess_save_path" kosong; pakai "session.save_path" data dari php.ini.
+INFO - 2018-08-01 11:34:09 --> Session: Class initialized using 'files' driver.
+INFO - 2018-08-01 11:34:09 --> Helper telah dimuat: cookie_helper
+INFO - 2018-08-01 11:34:09 --> File telah dimuat: D:\XAMPP\htdocs\jb\application\views\jebews/html/head.php
+INFO - 2018-08-01 11:34:09 --> File telah dimuat: D:\XAMPP\htdocs\jb\application\views\jebews/product/manage.php
+INFO - 2018-08-01 11:34:09 --> Output akhir dikirim ke browser
+DEBUG - 2018-08-01 11:34:09 --> Total waktu eksekusi: 0.3556
+INFO - 2018-08-01 11:34:09 --> Config Class telah di inisialisasi
+INFO - 2018-08-01 11:34:09 --> Hooks Class telah di inisialisasi
+DEBUG - 2018-08-01 11:34:09 --> UTF-8 Support Aktif
+INFO - 2018-08-01 11:34:09 --> Utf8 Class telah di inisialisasi
+INFO - 2018-08-01 11:34:09 --> URI Class telah di inisialisasi
+INFO - 2018-08-01 11:34:09 --> Router Class telah di inisialisasi
+INFO - 2018-08-01 11:34:09 --> Output Class telah di inisialisasi
+INFO - 2018-08-01 11:34:09 --> Security Class telah di inisialisasi
+DEBUG - 2018-08-01 11:34:09 --> Global POST, GET dan COOKIE data telah disanitasi
+INFO - 2018-08-01 11:34:09 --> Input Class telah di inisialisasi
+INFO - 2018-08-01 11:34:09 --> Language Class telah di inisialisasi
+INFO - 2018-08-01 11:34:10 --> Loader Class telah di inisialisasi
+INFO - 2018-08-01 11:34:10 --> Helper telah dimuat: url_helper
+INFO - 2018-08-01 11:34:10 --> Controller Class telah di inisialisasi
+DEBUG - 2018-08-01 11:34:10 --> Session: "sess_save_path" kosong; pakai "session.save_path" data dari php.ini.
+INFO - 2018-08-01 11:34:10 --> Session: Class initialized using 'files' driver.
+INFO - 2018-08-01 11:34:10 --> Helper telah dimuat: cookie_helper
+INFO - 2018-08-01 11:34:10 --> Database Driver Class telah di inisialisasi
+INFO - 2018-08-01 11:34:10 --> Model "datatable" telah di inisialisasi
+INFO - 2018-08-01 11:34:10 --> Output akhir dikirim ke browser
+DEBUG - 2018-08-01 11:34:10 --> Total waktu eksekusi: 0.4370
+INFO - 2018-08-01 11:34:17 --> Config Class telah di inisialisasi
+INFO - 2018-08-01 11:34:17 --> Hooks Class telah di inisialisasi
+DEBUG - 2018-08-01 11:34:17 --> UTF-8 Support Aktif
+INFO - 2018-08-01 11:34:17 --> Utf8 Class telah di inisialisasi
+INFO - 2018-08-01 11:34:17 --> URI Class telah di inisialisasi
+INFO - 2018-08-01 11:34:17 --> Router Class telah di inisialisasi
+INFO - 2018-08-01 11:34:17 --> Output Class telah di inisialisasi
+INFO - 2018-08-01 11:34:17 --> Security Class telah di inisialisasi
+DEBUG - 2018-08-01 11:34:17 --> Global POST, GET dan COOKIE data telah disanitasi
+INFO - 2018-08-01 11:34:17 --> Input Class telah di inisialisasi
+INFO - 2018-08-01 11:34:17 --> Language Class telah di inisialisasi
+INFO - 2018-08-01 11:34:17 --> Loader Class telah di inisialisasi
+INFO - 2018-08-01 11:34:17 --> Helper telah dimuat: url_helper
+INFO - 2018-08-01 11:34:17 --> Controller Class telah di inisialisasi
+DEBUG - 2018-08-01 11:34:17 --> Session: "sess_save_path" kosong; pakai "session.save_path" data dari php.ini.
+INFO - 2018-08-01 11:34:17 --> Session: Class initialized using 'files' driver.
+INFO - 2018-08-01 11:34:17 --> Helper telah dimuat: cookie_helper
+INFO - 2018-08-01 11:34:17 --> File telah dimuat: D:\XAMPP\htdocs\jb\application\views\jebews/html/head.php
+INFO - 2018-08-01 11:34:18 --> File telah dimuat: D:\XAMPP\htdocs\jb\application\views\jebews/product/manage.php
+INFO - 2018-08-01 11:34:18 --> Output akhir dikirim ke browser
+DEBUG - 2018-08-01 11:34:18 --> Total waktu eksekusi: 0.3586
+INFO - 2018-08-01 11:34:18 --> Config Class telah di inisialisasi
+INFO - 2018-08-01 11:34:18 --> Hooks Class telah di inisialisasi
+DEBUG - 2018-08-01 11:34:18 --> UTF-8 Support Aktif
+INFO - 2018-08-01 11:34:18 --> Utf8 Class telah di inisialisasi
+INFO - 2018-08-01 11:34:18 --> URI Class telah di inisialisasi
+INFO - 2018-08-01 11:34:18 --> Router Class telah di inisialisasi
+INFO - 2018-08-01 11:34:18 --> Output Class telah di inisialisasi
+INFO - 2018-08-01 11:34:18 --> Security Class telah di inisialisasi
+DEBUG - 2018-08-01 11:34:18 --> Global POST, GET dan COOKIE data telah disanitasi
+INFO - 2018-08-01 11:34:18 --> Input Class telah di inisialisasi
+INFO - 2018-08-01 11:34:18 --> Language Class telah di inisialisasi
+INFO - 2018-08-01 11:34:18 --> Loader Class telah di inisialisasi
+INFO - 2018-08-01 11:34:18 --> Helper telah dimuat: url_helper
+INFO - 2018-08-01 11:34:18 --> Controller Class telah di inisialisasi
+DEBUG - 2018-08-01 11:34:18 --> Session: "sess_save_path" kosong; pakai "session.save_path" data dari php.ini.
+INFO - 2018-08-01 11:34:18 --> Session: Class initialized using 'files' driver.
+INFO - 2018-08-01 11:34:18 --> Helper telah dimuat: cookie_helper
+INFO - 2018-08-01 11:34:18 --> Database Driver Class telah di inisialisasi
+INFO - 2018-08-01 11:34:18 --> Model "datatable" telah di inisialisasi
+INFO - 2018-08-01 11:34:18 --> Output akhir dikirim ke browser
+DEBUG - 2018-08-01 11:34:18 --> Total waktu eksekusi: 0.3920
+INFO - 2018-08-01 11:35:41 --> Config Class telah di inisialisasi
+INFO - 2018-08-01 11:35:41 --> Hooks Class telah di inisialisasi
+DEBUG - 2018-08-01 11:35:41 --> UTF-8 Support Aktif
+INFO - 2018-08-01 11:35:41 --> Utf8 Class telah di inisialisasi
+INFO - 2018-08-01 11:35:41 --> URI Class telah di inisialisasi
+INFO - 2018-08-01 11:35:41 --> Router Class telah di inisialisasi
+INFO - 2018-08-01 11:35:41 --> Output Class telah di inisialisasi
+INFO - 2018-08-01 11:35:41 --> Security Class telah di inisialisasi
+DEBUG - 2018-08-01 11:35:41 --> Global POST, GET dan COOKIE data telah disanitasi
+INFO - 2018-08-01 11:35:41 --> Input Class telah di inisialisasi
+INFO - 2018-08-01 11:35:41 --> Language Class telah di inisialisasi
+INFO - 2018-08-01 11:35:41 --> Loader Class telah di inisialisasi
+INFO - 2018-08-01 11:35:41 --> Helper telah dimuat: url_helper
+INFO - 2018-08-01 11:35:41 --> Controller Class telah di inisialisasi
+DEBUG - 2018-08-01 11:35:41 --> Session: "sess_save_path" kosong; pakai "session.save_path" data dari php.ini.
+INFO - 2018-08-01 11:35:41 --> Session: Class initialized using 'files' driver.
+INFO - 2018-08-01 11:35:41 --> Helper telah dimuat: cookie_helper
+INFO - 2018-08-01 11:35:41 --> File telah dimuat: D:\XAMPP\htdocs\jb\application\views\jebews/html/head.php
+INFO - 2018-08-01 11:35:41 --> File telah dimuat: D:\XAMPP\htdocs\jb\application\views\jebews/product/manage.php
+INFO - 2018-08-01 11:35:41 --> Output akhir dikirim ke browser
+DEBUG - 2018-08-01 11:35:41 --> Total waktu eksekusi: 0.3536
+INFO - 2018-08-01 11:35:41 --> Config Class telah di inisialisasi
+INFO - 2018-08-01 11:35:41 --> Hooks Class telah di inisialisasi
+DEBUG - 2018-08-01 11:35:41 --> UTF-8 Support Aktif
+INFO - 2018-08-01 11:35:41 --> Utf8 Class telah di inisialisasi
+INFO - 2018-08-01 11:35:41 --> URI Class telah di inisialisasi
+INFO - 2018-08-01 11:35:41 --> Router Class telah di inisialisasi
+INFO - 2018-08-01 11:35:41 --> Output Class telah di inisialisasi
+INFO - 2018-08-01 11:35:41 --> Security Class telah di inisialisasi
+DEBUG - 2018-08-01 11:35:41 --> Global POST, GET dan COOKIE data telah disanitasi
+INFO - 2018-08-01 11:35:41 --> Input Class telah di inisialisasi
+INFO - 2018-08-01 11:35:41 --> Language Class telah di inisialisasi
+INFO - 2018-08-01 11:35:41 --> Loader Class telah di inisialisasi
+INFO - 2018-08-01 11:35:41 --> Helper telah dimuat: url_helper
+INFO - 2018-08-01 11:35:41 --> Controller Class telah di inisialisasi
+DEBUG - 2018-08-01 11:35:42 --> Session: "sess_save_path" kosong; pakai "session.save_path" data dari php.ini.
+INFO - 2018-08-01 11:35:42 --> Session: Class initialized using 'files' driver.
+INFO - 2018-08-01 11:35:42 --> Helper telah dimuat: cookie_helper
+INFO - 2018-08-01 11:35:42 --> Database Driver Class telah di inisialisasi
+INFO - 2018-08-01 11:35:42 --> Model "datatable" telah di inisialisasi
+INFO - 2018-08-01 11:35:42 --> Output akhir dikirim ke browser
+DEBUG - 2018-08-01 11:35:42 --> Total waktu eksekusi: 0.3930
+INFO - 2018-08-01 11:36:35 --> Config Class telah di inisialisasi
+INFO - 2018-08-01 11:36:35 --> Hooks Class telah di inisialisasi
+DEBUG - 2018-08-01 11:36:35 --> UTF-8 Support Aktif
+INFO - 2018-08-01 11:36:35 --> Utf8 Class telah di inisialisasi
+INFO - 2018-08-01 11:36:35 --> URI Class telah di inisialisasi
+INFO - 2018-08-01 11:36:35 --> Router Class telah di inisialisasi
+INFO - 2018-08-01 11:36:35 --> Output Class telah di inisialisasi
+INFO - 2018-08-01 11:36:35 --> Security Class telah di inisialisasi
+DEBUG - 2018-08-01 11:36:35 --> Global POST, GET dan COOKIE data telah disanitasi
+INFO - 2018-08-01 11:36:35 --> Input Class telah di inisialisasi
+INFO - 2018-08-01 11:36:35 --> Language Class telah di inisialisasi
+INFO - 2018-08-01 11:36:35 --> Loader Class telah di inisialisasi
+INFO - 2018-08-01 11:36:35 --> Helper telah dimuat: url_helper
+INFO - 2018-08-01 11:36:35 --> Controller Class telah di inisialisasi
+INFO - 2018-08-01 11:36:35 --> Database Driver Class telah di inisialisasi
+INFO - 2018-08-01 11:36:35 --> File telah dimuat: D:\XAMPP\htdocs\jb\application\views\html/head.php
+INFO - 2018-08-01 11:36:36 --> File telah dimuat: D:\XAMPP\htdocs\jb\application\views\details.php
+INFO - 2018-08-01 11:36:36 --> Output akhir dikirim ke browser
+DEBUG - 2018-08-01 11:36:36 --> Total waktu eksekusi: 0.3540
+INFO - 2018-08-01 11:37:54 --> Config Class telah di inisialisasi
+INFO - 2018-08-01 11:37:54 --> Hooks Class telah di inisialisasi
+DEBUG - 2018-08-01 11:37:54 --> UTF-8 Support Aktif
+INFO - 2018-08-01 11:37:54 --> Utf8 Class telah di inisialisasi
+INFO - 2018-08-01 11:37:54 --> URI Class telah di inisialisasi
+INFO - 2018-08-01 11:37:54 --> Router Class telah di inisialisasi
+INFO - 2018-08-01 11:37:54 --> Output Class telah di inisialisasi
+INFO - 2018-08-01 11:37:54 --> Security Class telah di inisialisasi
+DEBUG - 2018-08-01 11:37:54 --> Global POST, GET dan COOKIE data telah disanitasi
+INFO - 2018-08-01 11:37:54 --> Input Class telah di inisialisasi
+INFO - 2018-08-01 11:37:54 --> Language Class telah di inisialisasi
+INFO - 2018-08-01 11:37:54 --> Loader Class telah di inisialisasi
+INFO - 2018-08-01 11:37:54 --> Helper telah dimuat: url_helper
+INFO - 2018-08-01 11:37:54 --> Controller Class telah di inisialisasi
+DEBUG - 2018-08-01 11:37:54 --> Session: "sess_save_path" kosong; pakai "session.save_path" data dari php.ini.
+INFO - 2018-08-01 11:37:54 --> Session: Class initialized using 'files' driver.
+INFO - 2018-08-01 11:37:54 --> Helper telah dimuat: cookie_helper
+INFO - 2018-08-01 11:37:54 --> File telah dimuat: D:\XAMPP\htdocs\jb\application\views\jebews/html/head.php
+INFO - 2018-08-01 11:37:55 --> File telah dimuat: D:\XAMPP\htdocs\jb\application\views\jebews/product/manage.php
+INFO - 2018-08-01 11:37:55 --> Output akhir dikirim ke browser
+DEBUG - 2018-08-01 11:37:55 --> Total waktu eksekusi: 0.3506
+INFO - 2018-08-01 11:37:55 --> Config Class telah di inisialisasi
+INFO - 2018-08-01 11:37:55 --> Hooks Class telah di inisialisasi
+DEBUG - 2018-08-01 11:37:55 --> UTF-8 Support Aktif
+INFO - 2018-08-01 11:37:55 --> Utf8 Class telah di inisialisasi
+INFO - 2018-08-01 11:37:55 --> URI Class telah di inisialisasi
+INFO - 2018-08-01 11:37:55 --> Router Class telah di inisialisasi
+INFO - 2018-08-01 11:37:55 --> Output Class telah di inisialisasi
+INFO - 2018-08-01 11:37:55 --> Security Class telah di inisialisasi
+DEBUG - 2018-08-01 11:37:55 --> Global POST, GET dan COOKIE data telah disanitasi
+INFO - 2018-08-01 11:37:55 --> Input Class telah di inisialisasi
+INFO - 2018-08-01 11:37:55 --> Language Class telah di inisialisasi
+INFO - 2018-08-01 11:37:55 --> Loader Class telah di inisialisasi
+INFO - 2018-08-01 11:37:55 --> Helper telah dimuat: url_helper
+INFO - 2018-08-01 11:37:55 --> Controller Class telah di inisialisasi
+DEBUG - 2018-08-01 11:37:55 --> Session: "sess_save_path" kosong; pakai "session.save_path" data dari php.ini.
+INFO - 2018-08-01 11:37:55 --> Session: Class initialized using 'files' driver.
+INFO - 2018-08-01 11:37:55 --> Helper telah dimuat: cookie_helper
+INFO - 2018-08-01 11:37:55 --> Database Driver Class telah di inisialisasi
+INFO - 2018-08-01 11:37:55 --> Model "datatable" telah di inisialisasi
+INFO - 2018-08-01 11:37:55 --> Output akhir dikirim ke browser
+DEBUG - 2018-08-01 11:37:55 --> Total waktu eksekusi: 0.3950
+INFO - 2018-08-01 11:39:00 --> Config Class telah di inisialisasi
+INFO - 2018-08-01 11:39:00 --> Hooks Class telah di inisialisasi
+DEBUG - 2018-08-01 11:39:00 --> UTF-8 Support Aktif
+INFO - 2018-08-01 11:39:00 --> Utf8 Class telah di inisialisasi
+INFO - 2018-08-01 11:39:00 --> URI Class telah di inisialisasi
+INFO - 2018-08-01 11:39:00 --> Router Class telah di inisialisasi
+INFO - 2018-08-01 11:39:00 --> Output Class telah di inisialisasi
+INFO - 2018-08-01 11:39:00 --> Security Class telah di inisialisasi
+DEBUG - 2018-08-01 11:39:00 --> Global POST, GET dan COOKIE data telah disanitasi
+INFO - 2018-08-01 11:39:00 --> Input Class telah di inisialisasi
+INFO - 2018-08-01 11:39:00 --> Language Class telah di inisialisasi
+INFO - 2018-08-01 11:39:00 --> Loader Class telah di inisialisasi
+INFO - 2018-08-01 11:39:00 --> Helper telah dimuat: url_helper
+INFO - 2018-08-01 11:39:00 --> Controller Class telah di inisialisasi
+DEBUG - 2018-08-01 11:39:00 --> Session: "sess_save_path" kosong; pakai "session.save_path" data dari php.ini.
+INFO - 2018-08-01 11:39:00 --> Session: Class initialized using 'files' driver.
+INFO - 2018-08-01 11:39:00 --> Helper telah dimuat: cookie_helper
+INFO - 2018-08-01 11:39:00 --> File telah dimuat: D:\XAMPP\htdocs\jb\application\views\jebews/html/head.php
+INFO - 2018-08-01 11:39:00 --> File telah dimuat: D:\XAMPP\htdocs\jb\application\views\jebews/product/manage.php
+INFO - 2018-08-01 11:39:00 --> Output akhir dikirim ke browser
+DEBUG - 2018-08-01 11:39:00 --> Total waktu eksekusi: 0.3556
+INFO - 2018-08-01 11:39:01 --> Config Class telah di inisialisasi
+INFO - 2018-08-01 11:39:01 --> Hooks Class telah di inisialisasi
+DEBUG - 2018-08-01 11:39:01 --> UTF-8 Support Aktif
+INFO - 2018-08-01 11:39:01 --> Utf8 Class telah di inisialisasi
+INFO - 2018-08-01 11:39:01 --> URI Class telah di inisialisasi
+INFO - 2018-08-01 11:39:01 --> Router Class telah di inisialisasi
+INFO - 2018-08-01 11:39:01 --> Output Class telah di inisialisasi
+INFO - 2018-08-01 11:39:01 --> Security Class telah di inisialisasi
+DEBUG - 2018-08-01 11:39:01 --> Global POST, GET dan COOKIE data telah disanitasi
+INFO - 2018-08-01 11:39:01 --> Input Class telah di inisialisasi
+INFO - 2018-08-01 11:39:01 --> Language Class telah di inisialisasi
+INFO - 2018-08-01 11:39:01 --> Loader Class telah di inisialisasi
+INFO - 2018-08-01 11:39:01 --> Helper telah dimuat: url_helper
+INFO - 2018-08-01 11:39:01 --> Controller Class telah di inisialisasi
+DEBUG - 2018-08-01 11:39:01 --> Session: "sess_save_path" kosong; pakai "session.save_path" data dari php.ini.
+INFO - 2018-08-01 11:39:01 --> Session: Class initialized using 'files' driver.
+INFO - 2018-08-01 11:39:01 --> Helper telah dimuat: cookie_helper
+INFO - 2018-08-01 11:39:01 --> Database Driver Class telah di inisialisasi
+INFO - 2018-08-01 11:39:01 --> Model "datatable" telah di inisialisasi
+INFO - 2018-08-01 11:39:01 --> Output akhir dikirim ke browser
+DEBUG - 2018-08-01 11:39:01 --> Total waktu eksekusi: 0.3950
+INFO - 2018-08-01 11:40:51 --> Config Class telah di inisialisasi
+INFO - 2018-08-01 11:40:51 --> Hooks Class telah di inisialisasi
+DEBUG - 2018-08-01 11:40:51 --> UTF-8 Support Aktif
+INFO - 2018-08-01 11:40:51 --> Utf8 Class telah di inisialisasi
+INFO - 2018-08-01 11:40:51 --> URI Class telah di inisialisasi
+INFO - 2018-08-01 11:40:51 --> Router Class telah di inisialisasi
+INFO - 2018-08-01 11:40:51 --> Output Class telah di inisialisasi
+INFO - 2018-08-01 11:40:51 --> Security Class telah di inisialisasi
+DEBUG - 2018-08-01 11:40:51 --> Global POST, GET dan COOKIE data telah disanitasi
+INFO - 2018-08-01 11:40:51 --> Input Class telah di inisialisasi
+INFO - 2018-08-01 11:40:51 --> Language Class telah di inisialisasi
+INFO - 2018-08-01 11:40:51 --> Loader Class telah di inisialisasi
+INFO - 2018-08-01 11:40:51 --> Helper telah dimuat: url_helper
+INFO - 2018-08-01 11:40:51 --> Controller Class telah di inisialisasi
+DEBUG - 2018-08-01 11:40:51 --> Session: "sess_save_path" kosong; pakai "session.save_path" data dari php.ini.
+INFO - 2018-08-01 11:40:51 --> Session: Class initialized using 'files' driver.
+INFO - 2018-08-01 11:40:51 --> Helper telah dimuat: cookie_helper
+INFO - 2018-08-01 11:40:51 --> File telah dimuat: D:\XAMPP\htdocs\jb\application\views\jebews/html/head.php
+INFO - 2018-08-01 11:40:51 --> File telah dimuat: D:\XAMPP\htdocs\jb\application\views\jebews/product/manage.php
+INFO - 2018-08-01 11:40:51 --> Output akhir dikirim ke browser
+DEBUG - 2018-08-01 11:40:51 --> Total waktu eksekusi: 0.4320
+INFO - 2018-08-01 11:41:33 --> Config Class telah di inisialisasi
+INFO - 2018-08-01 11:41:33 --> Hooks Class telah di inisialisasi
+DEBUG - 2018-08-01 11:41:33 --> UTF-8 Support Aktif
+INFO - 2018-08-01 11:41:33 --> Utf8 Class telah di inisialisasi
+INFO - 2018-08-01 11:41:33 --> URI Class telah di inisialisasi
+INFO - 2018-08-01 11:41:33 --> Router Class telah di inisialisasi
+INFO - 2018-08-01 11:41:33 --> Output Class telah di inisialisasi
+INFO - 2018-08-01 11:41:33 --> Security Class telah di inisialisasi
+DEBUG - 2018-08-01 11:41:33 --> Global POST, GET dan COOKIE data telah disanitasi
+INFO - 2018-08-01 11:41:33 --> Input Class telah di inisialisasi
+INFO - 2018-08-01 11:41:33 --> Language Class telah di inisialisasi
+INFO - 2018-08-01 11:41:33 --> Loader Class telah di inisialisasi
+INFO - 2018-08-01 11:41:33 --> Helper telah dimuat: url_helper
+INFO - 2018-08-01 11:41:33 --> Controller Class telah di inisialisasi
+DEBUG - 2018-08-01 11:41:33 --> Session: "sess_save_path" kosong; pakai "session.save_path" data dari php.ini.
+INFO - 2018-08-01 11:41:33 --> Session: Class initialized using 'files' driver.
+INFO - 2018-08-01 11:41:33 --> Helper telah dimuat: cookie_helper
+INFO - 2018-08-01 11:41:33 --> File telah dimuat: D:\XAMPP\htdocs\jb\application\views\jebews/html/head.php
+INFO - 2018-08-01 11:41:33 --> File telah dimuat: D:\XAMPP\htdocs\jb\application\views\jebews/product/manage.php
+INFO - 2018-08-01 11:41:33 --> Output akhir dikirim ke browser
+DEBUG - 2018-08-01 11:41:33 --> Total waktu eksekusi: 0.3610
+INFO - 2018-08-01 11:41:34 --> Config Class telah di inisialisasi
+INFO - 2018-08-01 11:41:34 --> Hooks Class telah di inisialisasi
+DEBUG - 2018-08-01 11:41:34 --> UTF-8 Support Aktif
+INFO - 2018-08-01 11:41:34 --> Utf8 Class telah di inisialisasi
+INFO - 2018-08-01 11:41:34 --> URI Class telah di inisialisasi
+INFO - 2018-08-01 11:41:34 --> Router Class telah di inisialisasi
+INFO - 2018-08-01 11:41:34 --> Output Class telah di inisialisasi
+INFO - 2018-08-01 11:41:34 --> Security Class telah di inisialisasi
+DEBUG - 2018-08-01 11:41:34 --> Global POST, GET dan COOKIE data telah disanitasi
+INFO - 2018-08-01 11:41:34 --> Input Class telah di inisialisasi
+INFO - 2018-08-01 11:41:34 --> Language Class telah di inisialisasi
+INFO - 2018-08-01 11:41:34 --> Loader Class telah di inisialisasi
+INFO - 2018-08-01 11:41:34 --> Helper telah dimuat: url_helper
+INFO - 2018-08-01 11:41:34 --> Controller Class telah di inisialisasi
+DEBUG - 2018-08-01 11:41:34 --> Session: "sess_save_path" kosong; pakai "session.save_path" data dari php.ini.
+INFO - 2018-08-01 11:41:34 --> Session: Class initialized using 'files' driver.
+INFO - 2018-08-01 11:41:34 --> Helper telah dimuat: cookie_helper
+INFO - 2018-08-01 11:41:34 --> Database Driver Class telah di inisialisasi
+INFO - 2018-08-01 11:41:34 --> Model "datatable" telah di inisialisasi
+INFO - 2018-08-01 11:41:34 --> Output akhir dikirim ke browser
+DEBUG - 2018-08-01 11:41:34 --> Total waktu eksekusi: 0.4020
+INFO - 2018-08-01 11:41:35 --> Config Class telah di inisialisasi
+INFO - 2018-08-01 11:41:35 --> Hooks Class telah di inisialisasi
+DEBUG - 2018-08-01 11:41:35 --> UTF-8 Support Aktif
+INFO - 2018-08-01 11:41:35 --> Utf8 Class telah di inisialisasi
+INFO - 2018-08-01 11:41:35 --> URI Class telah di inisialisasi
+INFO - 2018-08-01 11:41:35 --> Router Class telah di inisialisasi
+INFO - 2018-08-01 11:41:35 --> Output Class telah di inisialisasi
+INFO - 2018-08-01 11:41:35 --> Security Class telah di inisialisasi
+DEBUG - 2018-08-01 11:41:36 --> Global POST, GET dan COOKIE data telah disanitasi
+INFO - 2018-08-01 11:41:36 --> Input Class telah di inisialisasi
+INFO - 2018-08-01 11:41:36 --> Language Class telah di inisialisasi
+INFO - 2018-08-01 11:41:36 --> Loader Class telah di inisialisasi
+INFO - 2018-08-01 11:41:36 --> Helper telah dimuat: url_helper
+INFO - 2018-08-01 11:41:36 --> Controller Class telah di inisialisasi
+DEBUG - 2018-08-01 11:41:36 --> Session: "sess_save_path" kosong; pakai "session.save_path" data dari php.ini.
+INFO - 2018-08-01 11:41:36 --> Session: Class initialized using 'files' driver.
+INFO - 2018-08-01 11:41:36 --> Helper telah dimuat: cookie_helper
+INFO - 2018-08-01 11:41:36 --> File telah dimuat: D:\XAMPP\htdocs\jb\application\views\jebews/html/head.php
+INFO - 2018-08-01 11:41:36 --> File telah dimuat: D:\XAMPP\htdocs\jb\application\views\jebews/product/manage.php
+INFO - 2018-08-01 11:41:36 --> Output akhir dikirim ke browser
+DEBUG - 2018-08-01 11:41:36 --> Total waktu eksekusi: 0.3646
+INFO - 2018-08-01 11:41:36 --> Config Class telah di inisialisasi
+INFO - 2018-08-01 11:41:36 --> Hooks Class telah di inisialisasi
+DEBUG - 2018-08-01 11:41:36 --> UTF-8 Support Aktif
+INFO - 2018-08-01 11:41:36 --> Utf8 Class telah di inisialisasi
+INFO - 2018-08-01 11:41:36 --> URI Class telah di inisialisasi
+INFO - 2018-08-01 11:41:36 --> Router Class telah di inisialisasi
+INFO - 2018-08-01 11:41:36 --> Output Class telah di inisialisasi
+INFO - 2018-08-01 11:41:36 --> Security Class telah di inisialisasi
+DEBUG - 2018-08-01 11:41:36 --> Global POST, GET dan COOKIE data telah disanitasi
+INFO - 2018-08-01 11:41:36 --> Input Class telah di inisialisasi
+INFO - 2018-08-01 11:41:36 --> Language Class telah di inisialisasi
+INFO - 2018-08-01 11:41:36 --> Loader Class telah di inisialisasi
+INFO - 2018-08-01 11:41:36 --> Helper telah dimuat: url_helper
+INFO - 2018-08-01 11:41:36 --> Controller Class telah di inisialisasi
+DEBUG - 2018-08-01 11:41:36 --> Session: "sess_save_path" kosong; pakai "session.save_path" data dari php.ini.
+INFO - 2018-08-01 11:41:36 --> Session: Class initialized using 'files' driver.
+INFO - 2018-08-01 11:41:36 --> Helper telah dimuat: cookie_helper
+INFO - 2018-08-01 11:41:36 --> Database Driver Class telah di inisialisasi
+INFO - 2018-08-01 11:41:36 --> Model "datatable" telah di inisialisasi
+INFO - 2018-08-01 11:41:36 --> Output akhir dikirim ke browser
+DEBUG - 2018-08-01 11:41:36 --> Total waktu eksekusi: 0.4030
+INFO - 2018-08-01 11:41:55 --> Config Class telah di inisialisasi
+INFO - 2018-08-01 11:41:55 --> Hooks Class telah di inisialisasi
+DEBUG - 2018-08-01 11:41:55 --> UTF-8 Support Aktif
+INFO - 2018-08-01 11:41:55 --> Utf8 Class telah di inisialisasi
+INFO - 2018-08-01 11:41:55 --> URI Class telah di inisialisasi
+INFO - 2018-08-01 11:41:55 --> Router Class telah di inisialisasi
+INFO - 2018-08-01 11:41:56 --> Output Class telah di inisialisasi
+INFO - 2018-08-01 11:41:56 --> Security Class telah di inisialisasi
+DEBUG - 2018-08-01 11:41:56 --> Global POST, GET dan COOKIE data telah disanitasi
+INFO - 2018-08-01 11:41:56 --> Input Class telah di inisialisasi
+INFO - 2018-08-01 11:41:56 --> Language Class telah di inisialisasi
+INFO - 2018-08-01 11:41:56 --> Loader Class telah di inisialisasi
+INFO - 2018-08-01 11:41:56 --> Helper telah dimuat: url_helper
+INFO - 2018-08-01 11:41:56 --> Controller Class telah di inisialisasi
+DEBUG - 2018-08-01 11:41:56 --> Session: "sess_save_path" kosong; pakai "session.save_path" data dari php.ini.
+INFO - 2018-08-01 11:41:56 --> Session: Class initialized using 'files' driver.
+INFO - 2018-08-01 11:41:56 --> Helper telah dimuat: cookie_helper
+INFO - 2018-08-01 11:41:56 --> File telah dimuat: D:\XAMPP\htdocs\jb\application\views\jebews/html/head.php
+INFO - 2018-08-01 11:41:56 --> File telah dimuat: D:\XAMPP\htdocs\jb\application\views\jebews/product/manage.php
+INFO - 2018-08-01 11:41:56 --> Output akhir dikirim ke browser
+DEBUG - 2018-08-01 11:41:56 --> Total waktu eksekusi: 0.3642
+INFO - 2018-08-01 11:41:56 --> Config Class telah di inisialisasi
+INFO - 2018-08-01 11:41:56 --> Hooks Class telah di inisialisasi
+DEBUG - 2018-08-01 11:41:56 --> UTF-8 Support Aktif
+INFO - 2018-08-01 11:41:56 --> Utf8 Class telah di inisialisasi
+INFO - 2018-08-01 11:41:56 --> URI Class telah di inisialisasi
+INFO - 2018-08-01 11:41:56 --> Router Class telah di inisialisasi
+INFO - 2018-08-01 11:41:56 --> Output Class telah di inisialisasi
+INFO - 2018-08-01 11:41:56 --> Security Class telah di inisialisasi
+DEBUG - 2018-08-01 11:41:56 --> Global POST, GET dan COOKIE data telah disanitasi
+INFO - 2018-08-01 11:41:56 --> Input Class telah di inisialisasi
+INFO - 2018-08-01 11:41:56 --> Language Class telah di inisialisasi
+INFO - 2018-08-01 11:41:56 --> Loader Class telah di inisialisasi
+INFO - 2018-08-01 11:41:56 --> Helper telah dimuat: url_helper
+INFO - 2018-08-01 11:41:56 --> Controller Class telah di inisialisasi
+DEBUG - 2018-08-01 11:41:56 --> Session: "sess_save_path" kosong; pakai "session.save_path" data dari php.ini.
+INFO - 2018-08-01 11:41:56 --> Session: Class initialized using 'files' driver.
+INFO - 2018-08-01 11:41:56 --> Helper telah dimuat: cookie_helper
+INFO - 2018-08-01 11:41:56 --> Database Driver Class telah di inisialisasi
+INFO - 2018-08-01 11:41:56 --> Model "datatable" telah di inisialisasi
+INFO - 2018-08-01 11:41:56 --> Output akhir dikirim ke browser
+DEBUG - 2018-08-01 11:41:56 --> Total waktu eksekusi: 0.3850
+INFO - 2018-08-01 11:42:36 --> Config Class telah di inisialisasi
+INFO - 2018-08-01 11:42:36 --> Hooks Class telah di inisialisasi
+DEBUG - 2018-08-01 11:42:36 --> UTF-8 Support Aktif
+INFO - 2018-08-01 11:42:36 --> Utf8 Class telah di inisialisasi
+INFO - 2018-08-01 11:42:36 --> URI Class telah di inisialisasi
+INFO - 2018-08-01 11:42:36 --> Router Class telah di inisialisasi
+INFO - 2018-08-01 11:42:36 --> Output Class telah di inisialisasi
+INFO - 2018-08-01 11:42:36 --> Security Class telah di inisialisasi
+DEBUG - 2018-08-01 11:42:36 --> Global POST, GET dan COOKIE data telah disanitasi
+INFO - 2018-08-01 11:42:36 --> Input Class telah di inisialisasi
+INFO - 2018-08-01 11:42:36 --> Language Class telah di inisialisasi
+INFO - 2018-08-01 11:42:36 --> Loader Class telah di inisialisasi
+INFO - 2018-08-01 11:42:36 --> Helper telah dimuat: url_helper
+INFO - 2018-08-01 11:42:36 --> Controller Class telah di inisialisasi
+DEBUG - 2018-08-01 11:42:36 --> Session: "sess_save_path" kosong; pakai "session.save_path" data dari php.ini.
+INFO - 2018-08-01 11:42:36 --> Session: Class initialized using 'files' driver.
+INFO - 2018-08-01 11:42:36 --> Helper telah dimuat: cookie_helper
+INFO - 2018-08-01 11:42:36 --> File telah dimuat: D:\XAMPP\htdocs\jb\application\views\jebews/html/head.php
+INFO - 2018-08-01 11:42:36 --> File telah dimuat: D:\XAMPP\htdocs\jb\application\views\jebews/product/manage.php
+INFO - 2018-08-01 11:42:36 --> Output akhir dikirim ke browser
+DEBUG - 2018-08-01 11:42:36 --> Total waktu eksekusi: 0.3616
+INFO - 2018-08-01 11:42:37 --> Config Class telah di inisialisasi
+INFO - 2018-08-01 11:42:37 --> Hooks Class telah di inisialisasi
+DEBUG - 2018-08-01 11:42:37 --> UTF-8 Support Aktif
+INFO - 2018-08-01 11:42:37 --> Utf8 Class telah di inisialisasi
+INFO - 2018-08-01 11:42:37 --> URI Class telah di inisialisasi
+INFO - 2018-08-01 11:42:37 --> Router Class telah di inisialisasi
+INFO - 2018-08-01 11:42:37 --> Output Class telah di inisialisasi
+INFO - 2018-08-01 11:42:37 --> Security Class telah di inisialisasi
+DEBUG - 2018-08-01 11:42:37 --> Global POST, GET dan COOKIE data telah disanitasi
+INFO - 2018-08-01 11:42:37 --> Input Class telah di inisialisasi
+INFO - 2018-08-01 11:42:37 --> Language Class telah di inisialisasi
+INFO - 2018-08-01 11:42:37 --> Loader Class telah di inisialisasi
+INFO - 2018-08-01 11:42:37 --> Helper telah dimuat: url_helper
+INFO - 2018-08-01 11:42:37 --> Controller Class telah di inisialisasi
+DEBUG - 2018-08-01 11:42:37 --> Session: "sess_save_path" kosong; pakai "session.save_path" data dari php.ini.
+INFO - 2018-08-01 11:42:37 --> Session: Class initialized using 'files' driver.
+INFO - 2018-08-01 11:42:37 --> Helper telah dimuat: cookie_helper
+INFO - 2018-08-01 11:42:37 --> Database Driver Class telah di inisialisasi
+INFO - 2018-08-01 11:42:37 --> Model "datatable" telah di inisialisasi
+INFO - 2018-08-01 11:42:37 --> Output akhir dikirim ke browser
+DEBUG - 2018-08-01 11:42:37 --> Total waktu eksekusi: 0.4090
+INFO - 2018-08-01 11:43:06 --> Config Class telah di inisialisasi
+INFO - 2018-08-01 11:43:06 --> Hooks Class telah di inisialisasi
+DEBUG - 2018-08-01 11:43:06 --> UTF-8 Support Aktif
+INFO - 2018-08-01 11:43:06 --> Utf8 Class telah di inisialisasi
+INFO - 2018-08-01 11:43:06 --> URI Class telah di inisialisasi
+INFO - 2018-08-01 11:43:06 --> Router Class telah di inisialisasi
+INFO - 2018-08-01 11:43:06 --> Output Class telah di inisialisasi
+INFO - 2018-08-01 11:43:06 --> Security Class telah di inisialisasi
+DEBUG - 2018-08-01 11:43:06 --> Global POST, GET dan COOKIE data telah disanitasi
+INFO - 2018-08-01 11:43:06 --> Input Class telah di inisialisasi
+INFO - 2018-08-01 11:43:06 --> Language Class telah di inisialisasi
+INFO - 2018-08-01 11:43:06 --> Loader Class telah di inisialisasi
+INFO - 2018-08-01 11:43:06 --> Helper telah dimuat: url_helper
+INFO - 2018-08-01 11:43:06 --> Controller Class telah di inisialisasi
+DEBUG - 2018-08-01 11:43:06 --> Session: "sess_save_path" kosong; pakai "session.save_path" data dari php.ini.
+INFO - 2018-08-01 11:43:06 --> Session: Class initialized using 'files' driver.
+INFO - 2018-08-01 11:43:07 --> Helper telah dimuat: cookie_helper
+INFO - 2018-08-01 11:43:07 --> File telah dimuat: D:\XAMPP\htdocs\jb\application\views\jebews/html/head.php
+INFO - 2018-08-01 11:43:07 --> File telah dimuat: D:\XAMPP\htdocs\jb\application\views\jebews/product/manage.php
+INFO - 2018-08-01 11:43:07 --> Output akhir dikirim ke browser
+DEBUG - 2018-08-01 11:43:07 --> Total waktu eksekusi: 0.3630
+INFO - 2018-08-01 11:43:07 --> Config Class telah di inisialisasi
+INFO - 2018-08-01 11:43:07 --> Hooks Class telah di inisialisasi
+DEBUG - 2018-08-01 11:43:07 --> UTF-8 Support Aktif
+INFO - 2018-08-01 11:43:07 --> Utf8 Class telah di inisialisasi
+INFO - 2018-08-01 11:43:07 --> URI Class telah di inisialisasi
+INFO - 2018-08-01 11:43:07 --> Router Class telah di inisialisasi
+INFO - 2018-08-01 11:43:07 --> Output Class telah di inisialisasi
+INFO - 2018-08-01 11:43:07 --> Security Class telah di inisialisasi
+DEBUG - 2018-08-01 11:43:07 --> Global POST, GET dan COOKIE data telah disanitasi
+INFO - 2018-08-01 11:43:07 --> Input Class telah di inisialisasi
+INFO - 2018-08-01 11:43:07 --> Language Class telah di inisialisasi
+INFO - 2018-08-01 11:43:07 --> Loader Class telah di inisialisasi
+INFO - 2018-08-01 11:43:07 --> Helper telah dimuat: url_helper
+INFO - 2018-08-01 11:43:07 --> Controller Class telah di inisialisasi
+DEBUG - 2018-08-01 11:43:07 --> Session: "sess_save_path" kosong; pakai "session.save_path" data dari php.ini.
+INFO - 2018-08-01 11:43:07 --> Session: Class initialized using 'files' driver.
+INFO - 2018-08-01 11:43:07 --> Helper telah dimuat: cookie_helper
+INFO - 2018-08-01 11:43:07 --> Database Driver Class telah di inisialisasi
+INFO - 2018-08-01 11:43:07 --> Model "datatable" telah di inisialisasi
+INFO - 2018-08-01 11:43:07 --> Output akhir dikirim ke browser
+DEBUG - 2018-08-01 11:43:07 --> Total waktu eksekusi: 0.4030
+INFO - 2018-08-01 11:44:03 --> Config Class telah di inisialisasi
+INFO - 2018-08-01 11:44:03 --> Hooks Class telah di inisialisasi
+DEBUG - 2018-08-01 11:44:03 --> UTF-8 Support Aktif
+INFO - 2018-08-01 11:44:03 --> Utf8 Class telah di inisialisasi
+INFO - 2018-08-01 11:44:03 --> URI Class telah di inisialisasi
+INFO - 2018-08-01 11:44:03 --> Router Class telah di inisialisasi
+INFO - 2018-08-01 11:44:03 --> Output Class telah di inisialisasi
+INFO - 2018-08-01 11:44:03 --> Security Class telah di inisialisasi
+DEBUG - 2018-08-01 11:44:03 --> Global POST, GET dan COOKIE data telah disanitasi
+INFO - 2018-08-01 11:44:03 --> Input Class telah di inisialisasi
+INFO - 2018-08-01 11:44:03 --> Language Class telah di inisialisasi
+INFO - 2018-08-01 11:44:03 --> Loader Class telah di inisialisasi
+INFO - 2018-08-01 11:44:03 --> Helper telah dimuat: url_helper
+INFO - 2018-08-01 11:44:03 --> Controller Class telah di inisialisasi
+DEBUG - 2018-08-01 11:44:03 --> Session: "sess_save_path" kosong; pakai "session.save_path" data dari php.ini.
+INFO - 2018-08-01 11:44:03 --> Session: Class initialized using 'files' driver.
+INFO - 2018-08-01 11:44:03 --> Helper telah dimuat: cookie_helper
+INFO - 2018-08-01 11:44:03 --> File telah dimuat: D:\XAMPP\htdocs\jb\application\views\jebews/html/head.php
+INFO - 2018-08-01 11:44:03 --> File telah dimuat: D:\XAMPP\htdocs\jb\application\views\jebews/product/manage.php
+INFO - 2018-08-01 11:44:03 --> Output akhir dikirim ke browser
+DEBUG - 2018-08-01 11:44:03 --> Total waktu eksekusi: 0.3732
+INFO - 2018-08-01 11:44:04 --> Config Class telah di inisialisasi
+INFO - 2018-08-01 11:44:04 --> Hooks Class telah di inisialisasi
+DEBUG - 2018-08-01 11:44:04 --> UTF-8 Support Aktif
+INFO - 2018-08-01 11:44:04 --> Utf8 Class telah di inisialisasi
+INFO - 2018-08-01 11:44:04 --> URI Class telah di inisialisasi
+INFO - 2018-08-01 11:44:04 --> Router Class telah di inisialisasi
+INFO - 2018-08-01 11:44:04 --> Output Class telah di inisialisasi
+INFO - 2018-08-01 11:44:04 --> Security Class telah di inisialisasi
+DEBUG - 2018-08-01 11:44:04 --> Global POST, GET dan COOKIE data telah disanitasi
+INFO - 2018-08-01 11:44:04 --> Input Class telah di inisialisasi
+INFO - 2018-08-01 11:44:04 --> Language Class telah di inisialisasi
+INFO - 2018-08-01 11:44:04 --> Loader Class telah di inisialisasi
+INFO - 2018-08-01 11:44:04 --> Helper telah dimuat: url_helper
+INFO - 2018-08-01 11:44:04 --> Controller Class telah di inisialisasi
+DEBUG - 2018-08-01 11:44:04 --> Session: "sess_save_path" kosong; pakai "session.save_path" data dari php.ini.
+INFO - 2018-08-01 11:44:04 --> Session: Class initialized using 'files' driver.
+INFO - 2018-08-01 11:44:04 --> Helper telah dimuat: cookie_helper
+INFO - 2018-08-01 11:44:04 --> Database Driver Class telah di inisialisasi
+INFO - 2018-08-01 11:44:04 --> Model "datatable" telah di inisialisasi
+INFO - 2018-08-01 11:44:04 --> Output akhir dikirim ke browser
+DEBUG - 2018-08-01 11:44:04 --> Total waktu eksekusi: 0.3960
+INFO - 2018-08-01 11:44:05 --> Config Class telah di inisialisasi
+INFO - 2018-08-01 11:44:05 --> Hooks Class telah di inisialisasi
+DEBUG - 2018-08-01 11:44:06 --> UTF-8 Support Aktif
+INFO - 2018-08-01 11:44:06 --> Utf8 Class telah di inisialisasi
+INFO - 2018-08-01 11:44:06 --> URI Class telah di inisialisasi
+INFO - 2018-08-01 11:44:06 --> Router Class telah di inisialisasi
+INFO - 2018-08-01 11:44:06 --> Output Class telah di inisialisasi
+INFO - 2018-08-01 11:44:06 --> Security Class telah di inisialisasi
+DEBUG - 2018-08-01 11:44:06 --> Global POST, GET dan COOKIE data telah disanitasi
+INFO - 2018-08-01 11:44:06 --> Input Class telah di inisialisasi
+INFO - 2018-08-01 11:44:06 --> Language Class telah di inisialisasi
+INFO - 2018-08-01 11:44:06 --> Loader Class telah di inisialisasi
+INFO - 2018-08-01 11:44:06 --> Helper telah dimuat: url_helper
+INFO - 2018-08-01 11:44:06 --> Controller Class telah di inisialisasi
+DEBUG - 2018-08-01 11:44:06 --> Session: "sess_save_path" kosong; pakai "session.save_path" data dari php.ini.
+INFO - 2018-08-01 11:44:06 --> Session: Class initialized using 'files' driver.
+INFO - 2018-08-01 11:44:06 --> Helper telah dimuat: cookie_helper
+INFO - 2018-08-01 11:44:06 --> File telah dimuat: D:\XAMPP\htdocs\jb\application\views\jebews/html/head.php
+INFO - 2018-08-01 11:44:06 --> File telah dimuat: D:\XAMPP\htdocs\jb\application\views\jebews/product/manage.php
+INFO - 2018-08-01 11:44:06 --> Output akhir dikirim ke browser
+DEBUG - 2018-08-01 11:44:06 --> Total waktu eksekusi: 0.3592
+INFO - 2018-08-01 11:44:06 --> Config Class telah di inisialisasi
+INFO - 2018-08-01 11:44:06 --> Hooks Class telah di inisialisasi
+DEBUG - 2018-08-01 11:44:06 --> UTF-8 Support Aktif
+INFO - 2018-08-01 11:44:06 --> Utf8 Class telah di inisialisasi
+INFO - 2018-08-01 11:44:06 --> URI Class telah di inisialisasi
+INFO - 2018-08-01 11:44:06 --> Router Class telah di inisialisasi
+INFO - 2018-08-01 11:44:06 --> Output Class telah di inisialisasi
+INFO - 2018-08-01 11:44:06 --> Security Class telah di inisialisasi
+DEBUG - 2018-08-01 11:44:06 --> Global POST, GET dan COOKIE data telah disanitasi
+INFO - 2018-08-01 11:44:06 --> Input Class telah di inisialisasi
+INFO - 2018-08-01 11:44:06 --> Language Class telah di inisialisasi
+INFO - 2018-08-01 11:44:06 --> Loader Class telah di inisialisasi
+INFO - 2018-08-01 11:44:06 --> Helper telah dimuat: url_helper
+INFO - 2018-08-01 11:44:06 --> Controller Class telah di inisialisasi
+DEBUG - 2018-08-01 11:44:06 --> Session: "sess_save_path" kosong; pakai "session.save_path" data dari php.ini.
+INFO - 2018-08-01 11:44:06 --> Session: Class initialized using 'files' driver.
+INFO - 2018-08-01 11:44:06 --> Helper telah dimuat: cookie_helper
+INFO - 2018-08-01 11:44:06 --> Database Driver Class telah di inisialisasi
+INFO - 2018-08-01 11:44:06 --> Model "datatable" telah di inisialisasi
+INFO - 2018-08-01 11:44:06 --> Output akhir dikirim ke browser
+DEBUG - 2018-08-01 11:44:06 --> Total waktu eksekusi: 0.4010
+INFO - 2018-08-01 11:44:31 --> Config Class telah di inisialisasi
+INFO - 2018-08-01 11:44:31 --> Hooks Class telah di inisialisasi
+DEBUG - 2018-08-01 11:44:31 --> UTF-8 Support Aktif
+INFO - 2018-08-01 11:44:31 --> Utf8 Class telah di inisialisasi
+INFO - 2018-08-01 11:44:31 --> URI Class telah di inisialisasi
+INFO - 2018-08-01 11:44:31 --> Router Class telah di inisialisasi
+INFO - 2018-08-01 11:44:31 --> Output Class telah di inisialisasi
+INFO - 2018-08-01 11:44:31 --> Security Class telah di inisialisasi
+DEBUG - 2018-08-01 11:44:31 --> Global POST, GET dan COOKIE data telah disanitasi
+INFO - 2018-08-01 11:44:31 --> Input Class telah di inisialisasi
+INFO - 2018-08-01 11:44:31 --> Language Class telah di inisialisasi
+INFO - 2018-08-01 11:44:31 --> Loader Class telah di inisialisasi
+INFO - 2018-08-01 11:44:31 --> Helper telah dimuat: url_helper
+INFO - 2018-08-01 11:44:31 --> Controller Class telah di inisialisasi
+DEBUG - 2018-08-01 11:44:31 --> Session: "sess_save_path" kosong; pakai "session.save_path" data dari php.ini.
+INFO - 2018-08-01 11:44:31 --> Session: Class initialized using 'files' driver.
+INFO - 2018-08-01 11:44:31 --> Helper telah dimuat: cookie_helper
+INFO - 2018-08-01 11:44:31 --> File telah dimuat: D:\XAMPP\htdocs\jb\application\views\jebews/html/head.php
+INFO - 2018-08-01 11:44:31 --> File telah dimuat: D:\XAMPP\htdocs\jb\application\views\jebews/product/manage.php
+INFO - 2018-08-01 11:44:31 --> Output akhir dikirim ke browser
+DEBUG - 2018-08-01 11:44:31 --> Total waktu eksekusi: 0.3732
+INFO - 2018-08-01 11:44:32 --> Config Class telah di inisialisasi
+INFO - 2018-08-01 11:44:32 --> Hooks Class telah di inisialisasi
+DEBUG - 2018-08-01 11:44:32 --> UTF-8 Support Aktif
+INFO - 2018-08-01 11:44:32 --> Utf8 Class telah di inisialisasi
+INFO - 2018-08-01 11:44:32 --> URI Class telah di inisialisasi
+INFO - 2018-08-01 11:44:32 --> Router Class telah di inisialisasi
+INFO - 2018-08-01 11:44:32 --> Output Class telah di inisialisasi
+INFO - 2018-08-01 11:44:32 --> Security Class telah di inisialisasi
+DEBUG - 2018-08-01 11:44:32 --> Global POST, GET dan COOKIE data telah disanitasi
+INFO - 2018-08-01 11:44:32 --> Input Class telah di inisialisasi
+INFO - 2018-08-01 11:44:32 --> Language Class telah di inisialisasi
+INFO - 2018-08-01 11:44:32 --> Loader Class telah di inisialisasi
+INFO - 2018-08-01 11:44:32 --> Helper telah dimuat: url_helper
+INFO - 2018-08-01 11:44:32 --> Controller Class telah di inisialisasi
+DEBUG - 2018-08-01 11:44:32 --> Session: "sess_save_path" kosong; pakai "session.save_path" data dari php.ini.
+INFO - 2018-08-01 11:44:32 --> Session: Class initialized using 'files' driver.
+INFO - 2018-08-01 11:44:32 --> Helper telah dimuat: cookie_helper
+INFO - 2018-08-01 11:44:32 --> Database Driver Class telah di inisialisasi
+INFO - 2018-08-01 11:44:32 --> Model "datatable" telah di inisialisasi
+INFO - 2018-08-01 11:44:32 --> Output akhir dikirim ke browser
+DEBUG - 2018-08-01 11:44:32 --> Total waktu eksekusi: 0.3940
+INFO - 2018-08-01 11:45:25 --> Config Class telah di inisialisasi
+INFO - 2018-08-01 11:45:25 --> Hooks Class telah di inisialisasi
+DEBUG - 2018-08-01 11:45:25 --> UTF-8 Support Aktif
+INFO - 2018-08-01 11:45:25 --> Utf8 Class telah di inisialisasi
+INFO - 2018-08-01 11:45:25 --> URI Class telah di inisialisasi
+INFO - 2018-08-01 11:45:25 --> Router Class telah di inisialisasi
+INFO - 2018-08-01 11:45:25 --> Output Class telah di inisialisasi
+INFO - 2018-08-01 11:45:25 --> Security Class telah di inisialisasi
+DEBUG - 2018-08-01 11:45:25 --> Global POST, GET dan COOKIE data telah disanitasi
+INFO - 2018-08-01 11:45:25 --> Input Class telah di inisialisasi
+INFO - 2018-08-01 11:45:25 --> Language Class telah di inisialisasi
+INFO - 2018-08-01 11:45:25 --> Loader Class telah di inisialisasi
+INFO - 2018-08-01 11:45:25 --> Helper telah dimuat: url_helper
+INFO - 2018-08-01 11:45:25 --> Controller Class telah di inisialisasi
+DEBUG - 2018-08-01 11:45:25 --> Session: "sess_save_path" kosong; pakai "session.save_path" data dari php.ini.
+INFO - 2018-08-01 11:45:25 --> Session: Class initialized using 'files' driver.
+INFO - 2018-08-01 11:45:25 --> Helper telah dimuat: cookie_helper
+INFO - 2018-08-01 11:45:25 --> File telah dimuat: D:\XAMPP\htdocs\jb\application\views\jebews/html/head.php
+INFO - 2018-08-01 11:45:25 --> File telah dimuat: D:\XAMPP\htdocs\jb\application\views\jebews/product/manage.php
+INFO - 2018-08-01 11:45:25 --> Output akhir dikirim ke browser
+DEBUG - 2018-08-01 11:45:25 --> Total waktu eksekusi: 0.3566
+INFO - 2018-08-01 11:45:25 --> Config Class telah di inisialisasi
+INFO - 2018-08-01 11:45:25 --> Hooks Class telah di inisialisasi
+DEBUG - 2018-08-01 11:45:25 --> UTF-8 Support Aktif
+INFO - 2018-08-01 11:45:25 --> Utf8 Class telah di inisialisasi
+INFO - 2018-08-01 11:45:25 --> URI Class telah di inisialisasi
+INFO - 2018-08-01 11:45:25 --> Router Class telah di inisialisasi
+INFO - 2018-08-01 11:45:25 --> Output Class telah di inisialisasi
+INFO - 2018-08-01 11:45:25 --> Security Class telah di inisialisasi
+DEBUG - 2018-08-01 11:45:25 --> Global POST, GET dan COOKIE data telah disanitasi
+INFO - 2018-08-01 11:45:25 --> Input Class telah di inisialisasi
+INFO - 2018-08-01 11:45:25 --> Language Class telah di inisialisasi
+INFO - 2018-08-01 11:45:25 --> Loader Class telah di inisialisasi
+INFO - 2018-08-01 11:45:25 --> Helper telah dimuat: url_helper
+INFO - 2018-08-01 11:45:25 --> Controller Class telah di inisialisasi
+DEBUG - 2018-08-01 11:45:25 --> Session: "sess_save_path" kosong; pakai "session.save_path" data dari php.ini.
+INFO - 2018-08-01 11:45:25 --> Session: Class initialized using 'files' driver.
+INFO - 2018-08-01 11:45:25 --> Helper telah dimuat: cookie_helper
+INFO - 2018-08-01 11:45:25 --> Database Driver Class telah di inisialisasi
+INFO - 2018-08-01 11:45:25 --> Model "datatable" telah di inisialisasi
+INFO - 2018-08-01 11:45:25 --> Output akhir dikirim ke browser
+DEBUG - 2018-08-01 11:45:25 --> Total waktu eksekusi: 0.3940
+INFO - 2018-08-01 11:45:58 --> Config Class telah di inisialisasi
+INFO - 2018-08-01 11:45:58 --> Hooks Class telah di inisialisasi
+DEBUG - 2018-08-01 11:45:58 --> UTF-8 Support Aktif
+INFO - 2018-08-01 11:45:58 --> Utf8 Class telah di inisialisasi
+INFO - 2018-08-01 11:45:58 --> URI Class telah di inisialisasi
+INFO - 2018-08-01 11:45:58 --> Router Class telah di inisialisasi
+INFO - 2018-08-01 11:45:58 --> Output Class telah di inisialisasi
+INFO - 2018-08-01 11:45:58 --> Security Class telah di inisialisasi
+DEBUG - 2018-08-01 11:45:58 --> Global POST, GET dan COOKIE data telah disanitasi
+INFO - 2018-08-01 11:45:58 --> Input Class telah di inisialisasi
+INFO - 2018-08-01 11:45:58 --> Language Class telah di inisialisasi
+INFO - 2018-08-01 11:45:58 --> Loader Class telah di inisialisasi
+INFO - 2018-08-01 11:45:58 --> Helper telah dimuat: url_helper
+INFO - 2018-08-01 11:45:58 --> Controller Class telah di inisialisasi
+DEBUG - 2018-08-01 11:45:58 --> Session: "sess_save_path" kosong; pakai "session.save_path" data dari php.ini.
+INFO - 2018-08-01 11:45:58 --> Session: Class initialized using 'files' driver.
+INFO - 2018-08-01 11:45:58 --> Helper telah dimuat: cookie_helper
+INFO - 2018-08-01 11:45:58 --> File telah dimuat: D:\XAMPP\htdocs\jb\application\views\jebews/html/head.php
+INFO - 2018-08-01 11:45:58 --> File telah dimuat: D:\XAMPP\htdocs\jb\application\views\jebews/product/manage.php
+INFO - 2018-08-01 11:45:58 --> Output akhir dikirim ke browser
+DEBUG - 2018-08-01 11:45:58 --> Total waktu eksekusi: 0.3476
+INFO - 2018-08-01 11:45:59 --> Config Class telah di inisialisasi
+INFO - 2018-08-01 11:45:59 --> Hooks Class telah di inisialisasi
+DEBUG - 2018-08-01 11:45:59 --> UTF-8 Support Aktif
+INFO - 2018-08-01 11:45:59 --> Utf8 Class telah di inisialisasi
+INFO - 2018-08-01 11:45:59 --> URI Class telah di inisialisasi
+INFO - 2018-08-01 11:45:59 --> Router Class telah di inisialisasi
+INFO - 2018-08-01 11:45:59 --> Output Class telah di inisialisasi
+INFO - 2018-08-01 11:45:59 --> Security Class telah di inisialisasi
+DEBUG - 2018-08-01 11:45:59 --> Global POST, GET dan COOKIE data telah disanitasi
+INFO - 2018-08-01 11:45:59 --> Input Class telah di inisialisasi
+INFO - 2018-08-01 11:45:59 --> Language Class telah di inisialisasi
+INFO - 2018-08-01 11:45:59 --> Loader Class telah di inisialisasi
+INFO - 2018-08-01 11:45:59 --> Helper telah dimuat: url_helper
+INFO - 2018-08-01 11:45:59 --> Controller Class telah di inisialisasi
+DEBUG - 2018-08-01 11:45:59 --> Session: "sess_save_path" kosong; pakai "session.save_path" data dari php.ini.
+INFO - 2018-08-01 11:45:59 --> Session: Class initialized using 'files' driver.
+INFO - 2018-08-01 11:45:59 --> Helper telah dimuat: cookie_helper
+INFO - 2018-08-01 11:45:59 --> Database Driver Class telah di inisialisasi
+INFO - 2018-08-01 11:45:59 --> Model "datatable" telah di inisialisasi
+INFO - 2018-08-01 11:45:59 --> Output akhir dikirim ke browser
+DEBUG - 2018-08-01 11:45:59 --> Total waktu eksekusi: 0.4030
+INFO - 2018-08-01 11:46:10 --> Config Class telah di inisialisasi
+INFO - 2018-08-01 11:46:10 --> Hooks Class telah di inisialisasi
+DEBUG - 2018-08-01 11:46:10 --> UTF-8 Support Aktif
+INFO - 2018-08-01 11:46:10 --> Utf8 Class telah di inisialisasi
+INFO - 2018-08-01 11:46:11 --> URI Class telah di inisialisasi
+INFO - 2018-08-01 11:46:11 --> Router Class telah di inisialisasi
+INFO - 2018-08-01 11:46:11 --> Output Class telah di inisialisasi
+INFO - 2018-08-01 11:46:11 --> Security Class telah di inisialisasi
+DEBUG - 2018-08-01 11:46:11 --> Global POST, GET dan COOKIE data telah disanitasi
+INFO - 2018-08-01 11:46:11 --> Input Class telah di inisialisasi
+INFO - 2018-08-01 11:46:11 --> Language Class telah di inisialisasi
+INFO - 2018-08-01 11:46:11 --> Loader Class telah di inisialisasi
+INFO - 2018-08-01 11:46:11 --> Helper telah dimuat: url_helper
+INFO - 2018-08-01 11:46:11 --> Controller Class telah di inisialisasi
+DEBUG - 2018-08-01 11:46:11 --> Session: "sess_save_path" kosong; pakai "session.save_path" data dari php.ini.
+INFO - 2018-08-01 11:46:11 --> Session: Class initialized using 'files' driver.
+INFO - 2018-08-01 11:46:11 --> Helper telah dimuat: cookie_helper
+INFO - 2018-08-01 11:46:11 --> File telah dimuat: D:\XAMPP\htdocs\jb\application\views\jebews/html/head.php
+INFO - 2018-08-01 11:46:11 --> File telah dimuat: D:\XAMPP\htdocs\jb\application\views\jebews/product/manage.php
+INFO - 2018-08-01 11:46:11 --> Output akhir dikirim ke browser
+DEBUG - 2018-08-01 11:46:11 --> Total waktu eksekusi: 0.3666
+INFO - 2018-08-01 11:46:11 --> Config Class telah di inisialisasi
+INFO - 2018-08-01 11:46:11 --> Hooks Class telah di inisialisasi
+DEBUG - 2018-08-01 11:46:11 --> UTF-8 Support Aktif
+INFO - 2018-08-01 11:46:11 --> Utf8 Class telah di inisialisasi
+INFO - 2018-08-01 11:46:11 --> URI Class telah di inisialisasi
+INFO - 2018-08-01 11:46:11 --> Router Class telah di inisialisasi
+INFO - 2018-08-01 11:46:11 --> Output Class telah di inisialisasi
+INFO - 2018-08-01 11:46:11 --> Security Class telah di inisialisasi
+DEBUG - 2018-08-01 11:46:11 --> Global POST, GET dan COOKIE data telah disanitasi
+INFO - 2018-08-01 11:46:11 --> Input Class telah di inisialisasi
+INFO - 2018-08-01 11:46:11 --> Language Class telah di inisialisasi
+INFO - 2018-08-01 11:46:11 --> Loader Class telah di inisialisasi
+INFO - 2018-08-01 11:46:11 --> Helper telah dimuat: url_helper
+INFO - 2018-08-01 11:46:11 --> Controller Class telah di inisialisasi
+DEBUG - 2018-08-01 11:46:11 --> Session: "sess_save_path" kosong; pakai "session.save_path" data dari php.ini.
+INFO - 2018-08-01 11:46:11 --> Session: Class initialized using 'files' driver.
+INFO - 2018-08-01 11:46:11 --> Helper telah dimuat: cookie_helper
+INFO - 2018-08-01 11:46:11 --> Database Driver Class telah di inisialisasi
+INFO - 2018-08-01 11:46:11 --> Model "datatable" telah di inisialisasi
+INFO - 2018-08-01 11:46:11 --> Output akhir dikirim ke browser
+DEBUG - 2018-08-01 11:46:11 --> Total waktu eksekusi: 0.4130
+INFO - 2018-08-01 11:46:19 --> Config Class telah di inisialisasi
+INFO - 2018-08-01 11:46:19 --> Hooks Class telah di inisialisasi
+DEBUG - 2018-08-01 11:46:19 --> UTF-8 Support Aktif
+INFO - 2018-08-01 11:46:19 --> Utf8 Class telah di inisialisasi
+INFO - 2018-08-01 11:46:19 --> URI Class telah di inisialisasi
+INFO - 2018-08-01 11:46:19 --> Router Class telah di inisialisasi
+INFO - 2018-08-01 11:46:19 --> Output Class telah di inisialisasi
+INFO - 2018-08-01 11:46:19 --> Security Class telah di inisialisasi
+DEBUG - 2018-08-01 11:46:19 --> Global POST, GET dan COOKIE data telah disanitasi
+INFO - 2018-08-01 11:46:19 --> Input Class telah di inisialisasi
+INFO - 2018-08-01 11:46:19 --> Language Class telah di inisialisasi
+INFO - 2018-08-01 11:46:19 --> Loader Class telah di inisialisasi
+INFO - 2018-08-01 11:46:19 --> Helper telah dimuat: url_helper
+INFO - 2018-08-01 11:46:20 --> Controller Class telah di inisialisasi
+DEBUG - 2018-08-01 11:46:20 --> Session: "sess_save_path" kosong; pakai "session.save_path" data dari php.ini.
+INFO - 2018-08-01 11:46:20 --> Session: Class initialized using 'files' driver.
+INFO - 2018-08-01 11:46:20 --> Helper telah dimuat: cookie_helper
+INFO - 2018-08-01 11:46:20 --> File telah dimuat: D:\XAMPP\htdocs\jb\application\views\jebews/html/head.php
+INFO - 2018-08-01 11:46:20 --> File telah dimuat: D:\XAMPP\htdocs\jb\application\views\jebews/product/manage.php
+INFO - 2018-08-01 11:46:20 --> Output akhir dikirim ke browser
+DEBUG - 2018-08-01 11:46:20 --> Total waktu eksekusi: 0.3616
+INFO - 2018-08-01 11:46:20 --> Config Class telah di inisialisasi
+INFO - 2018-08-01 11:46:20 --> Hooks Class telah di inisialisasi
+DEBUG - 2018-08-01 11:46:20 --> UTF-8 Support Aktif
+INFO - 2018-08-01 11:46:20 --> Utf8 Class telah di inisialisasi
+INFO - 2018-08-01 11:46:20 --> URI Class telah di inisialisasi
+INFO - 2018-08-01 11:46:20 --> Router Class telah di inisialisasi
+INFO - 2018-08-01 11:46:20 --> Output Class telah di inisialisasi
+INFO - 2018-08-01 11:46:20 --> Security Class telah di inisialisasi
+DEBUG - 2018-08-01 11:46:20 --> Global POST, GET dan COOKIE data telah disanitasi
+INFO - 2018-08-01 11:46:20 --> Input Class telah di inisialisasi
+INFO - 2018-08-01 11:46:20 --> Language Class telah di inisialisasi
+INFO - 2018-08-01 11:46:20 --> Loader Class telah di inisialisasi
+INFO - 2018-08-01 11:46:20 --> Helper telah dimuat: url_helper
+INFO - 2018-08-01 11:46:20 --> Controller Class telah di inisialisasi
+DEBUG - 2018-08-01 11:46:20 --> Session: "sess_save_path" kosong; pakai "session.save_path" data dari php.ini.
+INFO - 2018-08-01 11:46:20 --> Session: Class initialized using 'files' driver.
+INFO - 2018-08-01 11:46:20 --> Helper telah dimuat: cookie_helper
+INFO - 2018-08-01 11:46:20 --> Database Driver Class telah di inisialisasi
+INFO - 2018-08-01 11:46:20 --> Model "datatable" telah di inisialisasi
+INFO - 2018-08-01 11:46:20 --> Output akhir dikirim ke browser
+DEBUG - 2018-08-01 11:46:20 --> Total waktu eksekusi: 0.3910
+INFO - 2018-08-01 11:46:37 --> Config Class telah di inisialisasi
+INFO - 2018-08-01 11:46:37 --> Hooks Class telah di inisialisasi
+DEBUG - 2018-08-01 11:46:37 --> UTF-8 Support Aktif
+INFO - 2018-08-01 11:46:37 --> Utf8 Class telah di inisialisasi
+INFO - 2018-08-01 11:46:37 --> URI Class telah di inisialisasi
+INFO - 2018-08-01 11:46:37 --> Router Class telah di inisialisasi
+INFO - 2018-08-01 11:46:37 --> Output Class telah di inisialisasi
+INFO - 2018-08-01 11:46:37 --> Security Class telah di inisialisasi
+DEBUG - 2018-08-01 11:46:37 --> Global POST, GET dan COOKIE data telah disanitasi
+INFO - 2018-08-01 11:46:37 --> Input Class telah di inisialisasi
+INFO - 2018-08-01 11:46:37 --> Language Class telah di inisialisasi
+INFO - 2018-08-01 11:46:37 --> Loader Class telah di inisialisasi
+INFO - 2018-08-01 11:46:37 --> Helper telah dimuat: url_helper
+INFO - 2018-08-01 11:46:37 --> Controller Class telah di inisialisasi
+DEBUG - 2018-08-01 11:46:37 --> Session: "sess_save_path" kosong; pakai "session.save_path" data dari php.ini.
+INFO - 2018-08-01 11:46:37 --> Session: Class initialized using 'files' driver.
+INFO - 2018-08-01 11:46:37 --> Helper telah dimuat: cookie_helper
+INFO - 2018-08-01 11:46:37 --> File telah dimuat: D:\XAMPP\htdocs\jb\application\views\jebews/html/head.php
+INFO - 2018-08-01 11:46:37 --> File telah dimuat: D:\XAMPP\htdocs\jb\application\views\jebews/product/manage.php
+INFO - 2018-08-01 11:46:37 --> Output akhir dikirim ke browser
+DEBUG - 2018-08-01 11:46:37 --> Total waktu eksekusi: 0.3606
+INFO - 2018-08-01 11:46:37 --> Config Class telah di inisialisasi
+INFO - 2018-08-01 11:46:37 --> Hooks Class telah di inisialisasi
+DEBUG - 2018-08-01 11:46:37 --> UTF-8 Support Aktif
+INFO - 2018-08-01 11:46:37 --> Utf8 Class telah di inisialisasi
+INFO - 2018-08-01 11:46:37 --> URI Class telah di inisialisasi
+INFO - 2018-08-01 11:46:37 --> Router Class telah di inisialisasi
+INFO - 2018-08-01 11:46:37 --> Output Class telah di inisialisasi
+INFO - 2018-08-01 11:46:37 --> Security Class telah di inisialisasi
+DEBUG - 2018-08-01 11:46:37 --> Global POST, GET dan COOKIE data telah disanitasi
+INFO - 2018-08-01 11:46:37 --> Input Class telah di inisialisasi
+INFO - 2018-08-01 11:46:37 --> Language Class telah di inisialisasi
+INFO - 2018-08-01 11:46:37 --> Loader Class telah di inisialisasi
+INFO - 2018-08-01 11:46:38 --> Helper telah dimuat: url_helper
+INFO - 2018-08-01 11:46:38 --> Controller Class telah di inisialisasi
+DEBUG - 2018-08-01 11:46:38 --> Session: "sess_save_path" kosong; pakai "session.save_path" data dari php.ini.
+INFO - 2018-08-01 11:46:38 --> Session: Class initialized using 'files' driver.
+INFO - 2018-08-01 11:46:38 --> Helper telah dimuat: cookie_helper
+INFO - 2018-08-01 11:46:38 --> Database Driver Class telah di inisialisasi
+INFO - 2018-08-01 11:46:38 --> Model "datatable" telah di inisialisasi
+INFO - 2018-08-01 11:46:38 --> Output akhir dikirim ke browser
+DEBUG - 2018-08-01 11:46:38 --> Total waktu eksekusi: 0.4160
+INFO - 2018-08-01 11:46:43 --> Config Class telah di inisialisasi
+INFO - 2018-08-01 11:46:43 --> Hooks Class telah di inisialisasi
+DEBUG - 2018-08-01 11:46:43 --> UTF-8 Support Aktif
+INFO - 2018-08-01 11:46:43 --> Utf8 Class telah di inisialisasi
+INFO - 2018-08-01 11:46:43 --> URI Class telah di inisialisasi
+INFO - 2018-08-01 11:46:43 --> Router Class telah di inisialisasi
+INFO - 2018-08-01 11:46:43 --> Output Class telah di inisialisasi
+INFO - 2018-08-01 11:46:43 --> Security Class telah di inisialisasi
+DEBUG - 2018-08-01 11:46:43 --> Global POST, GET dan COOKIE data telah disanitasi
+INFO - 2018-08-01 11:46:43 --> Input Class telah di inisialisasi
+INFO - 2018-08-01 11:46:43 --> Language Class telah di inisialisasi
+INFO - 2018-08-01 11:46:43 --> Loader Class telah di inisialisasi
+INFO - 2018-08-01 11:46:43 --> Helper telah dimuat: url_helper
+INFO - 2018-08-01 11:46:43 --> Controller Class telah di inisialisasi
+DEBUG - 2018-08-01 11:46:43 --> Session: "sess_save_path" kosong; pakai "session.save_path" data dari php.ini.
+INFO - 2018-08-01 11:46:43 --> Session: Class initialized using 'files' driver.
+INFO - 2018-08-01 11:46:43 --> Helper telah dimuat: cookie_helper
+INFO - 2018-08-01 11:46:43 --> File telah dimuat: D:\XAMPP\htdocs\jb\application\views\jebews/html/head.php
+INFO - 2018-08-01 11:46:43 --> File telah dimuat: D:\XAMPP\htdocs\jb\application\views\jebews/product/manage.php
+INFO - 2018-08-01 11:46:43 --> Output akhir dikirim ke browser
+DEBUG - 2018-08-01 11:46:43 --> Total waktu eksekusi: 0.3576
+INFO - 2018-08-01 11:46:43 --> Config Class telah di inisialisasi
+INFO - 2018-08-01 11:46:43 --> Hooks Class telah di inisialisasi
+DEBUG - 2018-08-01 11:46:43 --> UTF-8 Support Aktif
+INFO - 2018-08-01 11:46:43 --> Utf8 Class telah di inisialisasi
+INFO - 2018-08-01 11:46:43 --> URI Class telah di inisialisasi
+INFO - 2018-08-01 11:46:43 --> Router Class telah di inisialisasi
+INFO - 2018-08-01 11:46:43 --> Output Class telah di inisialisasi
+INFO - 2018-08-01 11:46:43 --> Security Class telah di inisialisasi
+DEBUG - 2018-08-01 11:46:43 --> Global POST, GET dan COOKIE data telah disanitasi
+INFO - 2018-08-01 11:46:43 --> Input Class telah di inisialisasi
+INFO - 2018-08-01 11:46:44 --> Language Class telah di inisialisasi
+INFO - 2018-08-01 11:46:44 --> Loader Class telah di inisialisasi
+INFO - 2018-08-01 11:46:44 --> Helper telah dimuat: url_helper
+INFO - 2018-08-01 11:46:44 --> Controller Class telah di inisialisasi
+DEBUG - 2018-08-01 11:46:44 --> Session: "sess_save_path" kosong; pakai "session.save_path" data dari php.ini.
+INFO - 2018-08-01 11:46:44 --> Session: Class initialized using 'files' driver.
+INFO - 2018-08-01 11:46:44 --> Helper telah dimuat: cookie_helper
+INFO - 2018-08-01 11:46:44 --> Database Driver Class telah di inisialisasi
+INFO - 2018-08-01 11:46:44 --> Model "datatable" telah di inisialisasi
+INFO - 2018-08-01 11:46:44 --> Output akhir dikirim ke browser
+DEBUG - 2018-08-01 11:46:44 --> Total waktu eksekusi: 0.4020
+INFO - 2018-08-01 11:46:51 --> Config Class telah di inisialisasi
+INFO - 2018-08-01 11:46:51 --> Hooks Class telah di inisialisasi
+DEBUG - 2018-08-01 11:46:51 --> UTF-8 Support Aktif
+INFO - 2018-08-01 11:46:51 --> Utf8 Class telah di inisialisasi
+INFO - 2018-08-01 11:46:51 --> URI Class telah di inisialisasi
+INFO - 2018-08-01 11:46:51 --> Router Class telah di inisialisasi
+INFO - 2018-08-01 11:46:51 --> Output Class telah di inisialisasi
+INFO - 2018-08-01 11:46:51 --> Security Class telah di inisialisasi
+DEBUG - 2018-08-01 11:46:51 --> Global POST, GET dan COOKIE data telah disanitasi
+INFO - 2018-08-01 11:46:51 --> Input Class telah di inisialisasi
+INFO - 2018-08-01 11:46:51 --> Language Class telah di inisialisasi
+INFO - 2018-08-01 11:46:51 --> Loader Class telah di inisialisasi
+INFO - 2018-08-01 11:46:51 --> Helper telah dimuat: url_helper
+INFO - 2018-08-01 11:46:51 --> Controller Class telah di inisialisasi
+DEBUG - 2018-08-01 11:46:51 --> Session: "sess_save_path" kosong; pakai "session.save_path" data dari php.ini.
+INFO - 2018-08-01 11:46:51 --> Session: Class initialized using 'files' driver.
+INFO - 2018-08-01 11:46:51 --> Helper telah dimuat: cookie_helper
+INFO - 2018-08-01 11:46:51 --> File telah dimuat: D:\XAMPP\htdocs\jb\application\views\jebews/html/head.php
+INFO - 2018-08-01 11:46:51 --> File telah dimuat: D:\XAMPP\htdocs\jb\application\views\jebews/product/manage.php
+INFO - 2018-08-01 11:46:51 --> Output akhir dikirim ke browser
+DEBUG - 2018-08-01 11:46:51 --> Total waktu eksekusi: 0.3766
+INFO - 2018-08-01 11:46:51 --> Config Class telah di inisialisasi
+INFO - 2018-08-01 11:46:51 --> Hooks Class telah di inisialisasi
+DEBUG - 2018-08-01 11:46:51 --> UTF-8 Support Aktif
+INFO - 2018-08-01 11:46:51 --> Utf8 Class telah di inisialisasi
+INFO - 2018-08-01 11:46:51 --> URI Class telah di inisialisasi
+INFO - 2018-08-01 11:46:51 --> Router Class telah di inisialisasi
+INFO - 2018-08-01 11:46:51 --> Output Class telah di inisialisasi
+INFO - 2018-08-01 11:46:51 --> Security Class telah di inisialisasi
+DEBUG - 2018-08-01 11:46:51 --> Global POST, GET dan COOKIE data telah disanitasi
+INFO - 2018-08-01 11:46:51 --> Input Class telah di inisialisasi
+INFO - 2018-08-01 11:46:51 --> Language Class telah di inisialisasi
+INFO - 2018-08-01 11:46:51 --> Loader Class telah di inisialisasi
+INFO - 2018-08-01 11:46:51 --> Helper telah dimuat: url_helper
+INFO - 2018-08-01 11:46:51 --> Controller Class telah di inisialisasi
+DEBUG - 2018-08-01 11:46:51 --> Session: "sess_save_path" kosong; pakai "session.save_path" data dari php.ini.
+INFO - 2018-08-01 11:46:51 --> Session: Class initialized using 'files' driver.
+INFO - 2018-08-01 11:46:51 --> Helper telah dimuat: cookie_helper
+INFO - 2018-08-01 11:46:51 --> Database Driver Class telah di inisialisasi
+INFO - 2018-08-01 11:46:52 --> Model "datatable" telah di inisialisasi
+INFO - 2018-08-01 11:46:52 --> Output akhir dikirim ke browser
+DEBUG - 2018-08-01 11:46:52 --> Total waktu eksekusi: 0.3950
+INFO - 2018-08-01 11:47:14 --> Config Class telah di inisialisasi
+INFO - 2018-08-01 11:47:14 --> Hooks Class telah di inisialisasi
+DEBUG - 2018-08-01 11:47:14 --> UTF-8 Support Aktif
+INFO - 2018-08-01 11:47:14 --> Utf8 Class telah di inisialisasi
+INFO - 2018-08-01 11:47:14 --> URI Class telah di inisialisasi
+INFO - 2018-08-01 11:47:14 --> Router Class telah di inisialisasi
+INFO - 2018-08-01 11:47:14 --> Output Class telah di inisialisasi
+INFO - 2018-08-01 11:47:14 --> Security Class telah di inisialisasi
+DEBUG - 2018-08-01 11:47:14 --> Global POST, GET dan COOKIE data telah disanitasi
+INFO - 2018-08-01 11:47:14 --> Input Class telah di inisialisasi
+INFO - 2018-08-01 11:47:14 --> Language Class telah di inisialisasi
+INFO - 2018-08-01 11:47:14 --> Loader Class telah di inisialisasi
+INFO - 2018-08-01 11:47:14 --> Helper telah dimuat: url_helper
+INFO - 2018-08-01 11:47:14 --> Controller Class telah di inisialisasi
+DEBUG - 2018-08-01 11:47:14 --> Session: "sess_save_path" kosong; pakai "session.save_path" data dari php.ini.
+INFO - 2018-08-01 11:47:14 --> Session: Class initialized using 'files' driver.
+INFO - 2018-08-01 11:47:14 --> Helper telah dimuat: cookie_helper
+INFO - 2018-08-01 11:47:14 --> File telah dimuat: D:\XAMPP\htdocs\jb\application\views\jebews/html/head.php
+INFO - 2018-08-01 11:47:14 --> File telah dimuat: D:\XAMPP\htdocs\jb\application\views\jebews/product/manage.php
+INFO - 2018-08-01 11:47:14 --> Output akhir dikirim ke browser
+DEBUG - 2018-08-01 11:47:14 --> Total waktu eksekusi: 0.3716
+INFO - 2018-08-01 11:47:14 --> Config Class telah di inisialisasi
+INFO - 2018-08-01 11:47:15 --> Hooks Class telah di inisialisasi
+DEBUG - 2018-08-01 11:47:15 --> UTF-8 Support Aktif
+INFO - 2018-08-01 11:47:15 --> Utf8 Class telah di inisialisasi
+INFO - 2018-08-01 11:47:15 --> URI Class telah di inisialisasi
+INFO - 2018-08-01 11:47:15 --> Router Class telah di inisialisasi
+INFO - 2018-08-01 11:47:15 --> Output Class telah di inisialisasi
+INFO - 2018-08-01 11:47:15 --> Security Class telah di inisialisasi
+DEBUG - 2018-08-01 11:47:15 --> Global POST, GET dan COOKIE data telah disanitasi
+INFO - 2018-08-01 11:47:15 --> Input Class telah di inisialisasi
+INFO - 2018-08-01 11:47:15 --> Language Class telah di inisialisasi
+INFO - 2018-08-01 11:47:15 --> Loader Class telah di inisialisasi
+INFO - 2018-08-01 11:47:15 --> Helper telah dimuat: url_helper
+INFO - 2018-08-01 11:47:15 --> Controller Class telah di inisialisasi
+DEBUG - 2018-08-01 11:47:15 --> Session: "sess_save_path" kosong; pakai "session.save_path" data dari php.ini.
+INFO - 2018-08-01 11:47:15 --> Session: Class initialized using 'files' driver.
+INFO - 2018-08-01 11:47:15 --> Helper telah dimuat: cookie_helper
+INFO - 2018-08-01 11:47:15 --> Database Driver Class telah di inisialisasi
+INFO - 2018-08-01 11:47:15 --> Model "datatable" telah di inisialisasi
+INFO - 2018-08-01 11:47:15 --> Output akhir dikirim ke browser
+DEBUG - 2018-08-01 11:47:15 --> Total waktu eksekusi: 0.4110
+INFO - 2018-08-01 11:47:28 --> Config Class telah di inisialisasi
+INFO - 2018-08-01 11:47:28 --> Hooks Class telah di inisialisasi
+DEBUG - 2018-08-01 11:47:28 --> UTF-8 Support Aktif
+INFO - 2018-08-01 11:47:28 --> Utf8 Class telah di inisialisasi
+INFO - 2018-08-01 11:47:28 --> URI Class telah di inisialisasi
+INFO - 2018-08-01 11:47:28 --> Router Class telah di inisialisasi
+INFO - 2018-08-01 11:47:28 --> Output Class telah di inisialisasi
+INFO - 2018-08-01 11:47:28 --> Security Class telah di inisialisasi
+DEBUG - 2018-08-01 11:47:28 --> Global POST, GET dan COOKIE data telah disanitasi
+INFO - 2018-08-01 11:47:28 --> Input Class telah di inisialisasi
+INFO - 2018-08-01 11:47:28 --> Language Class telah di inisialisasi
+INFO - 2018-08-01 11:47:28 --> Loader Class telah di inisialisasi
+INFO - 2018-08-01 11:47:28 --> Helper telah dimuat: url_helper
+INFO - 2018-08-01 11:47:28 --> Controller Class telah di inisialisasi
+DEBUG - 2018-08-01 11:47:28 --> Session: "sess_save_path" kosong; pakai "session.save_path" data dari php.ini.
+INFO - 2018-08-01 11:47:28 --> Session: Class initialized using 'files' driver.
+INFO - 2018-08-01 11:47:28 --> Helper telah dimuat: cookie_helper
+INFO - 2018-08-01 11:47:28 --> File telah dimuat: D:\XAMPP\htdocs\jb\application\views\jebews/html/head.php
+INFO - 2018-08-01 11:47:28 --> File telah dimuat: D:\XAMPP\htdocs\jb\application\views\jebews/product/manage.php
+INFO - 2018-08-01 11:47:28 --> Output akhir dikirim ke browser
+DEBUG - 2018-08-01 11:47:28 --> Total waktu eksekusi: 0.3636
+INFO - 2018-08-01 11:47:28 --> Config Class telah di inisialisasi
+INFO - 2018-08-01 11:47:28 --> Hooks Class telah di inisialisasi
+DEBUG - 2018-08-01 11:47:28 --> UTF-8 Support Aktif
+INFO - 2018-08-01 11:47:28 --> Utf8 Class telah di inisialisasi
+INFO - 2018-08-01 11:47:28 --> URI Class telah di inisialisasi
+INFO - 2018-08-01 11:47:28 --> Router Class telah di inisialisasi
+INFO - 2018-08-01 11:47:28 --> Output Class telah di inisialisasi
+INFO - 2018-08-01 11:47:28 --> Security Class telah di inisialisasi
+DEBUG - 2018-08-01 11:47:28 --> Global POST, GET dan COOKIE data telah disanitasi
+INFO - 2018-08-01 11:47:28 --> Input Class telah di inisialisasi
+INFO - 2018-08-01 11:47:28 --> Language Class telah di inisialisasi
+INFO - 2018-08-01 11:47:28 --> Loader Class telah di inisialisasi
+INFO - 2018-08-01 11:47:29 --> Helper telah dimuat: url_helper
+INFO - 2018-08-01 11:47:29 --> Controller Class telah di inisialisasi
+DEBUG - 2018-08-01 11:47:29 --> Session: "sess_save_path" kosong; pakai "session.save_path" data dari php.ini.
+INFO - 2018-08-01 11:47:29 --> Session: Class initialized using 'files' driver.
+INFO - 2018-08-01 11:47:29 --> Helper telah dimuat: cookie_helper
+INFO - 2018-08-01 11:47:29 --> Database Driver Class telah di inisialisasi
+INFO - 2018-08-01 11:47:29 --> Model "datatable" telah di inisialisasi
+INFO - 2018-08-01 11:47:29 --> Output akhir dikirim ke browser
+DEBUG - 2018-08-01 11:47:29 --> Total waktu eksekusi: 0.3940
+INFO - 2018-08-01 11:47:34 --> Config Class telah di inisialisasi
+INFO - 2018-08-01 11:47:34 --> Hooks Class telah di inisialisasi
+DEBUG - 2018-08-01 11:47:35 --> UTF-8 Support Aktif
+INFO - 2018-08-01 11:47:35 --> Utf8 Class telah di inisialisasi
+INFO - 2018-08-01 11:47:35 --> URI Class telah di inisialisasi
+INFO - 2018-08-01 11:47:35 --> Router Class telah di inisialisasi
+INFO - 2018-08-01 11:47:35 --> Output Class telah di inisialisasi
+INFO - 2018-08-01 11:47:35 --> Security Class telah di inisialisasi
+DEBUG - 2018-08-01 11:47:35 --> Global POST, GET dan COOKIE data telah disanitasi
+INFO - 2018-08-01 11:47:35 --> Input Class telah di inisialisasi
+INFO - 2018-08-01 11:47:35 --> Language Class telah di inisialisasi
+INFO - 2018-08-01 11:47:35 --> Loader Class telah di inisialisasi
+INFO - 2018-08-01 11:47:35 --> Helper telah dimuat: url_helper
+INFO - 2018-08-01 11:47:35 --> Controller Class telah di inisialisasi
+DEBUG - 2018-08-01 11:47:35 --> Session: "sess_save_path" kosong; pakai "session.save_path" data dari php.ini.
+INFO - 2018-08-01 11:47:35 --> Session: Class initialized using 'files' driver.
+INFO - 2018-08-01 11:47:35 --> Helper telah dimuat: cookie_helper
+INFO - 2018-08-01 11:47:35 --> File telah dimuat: D:\XAMPP\htdocs\jb\application\views\jebews/html/head.php
+INFO - 2018-08-01 11:47:35 --> File telah dimuat: D:\XAMPP\htdocs\jb\application\views\jebews/product/manage.php
+INFO - 2018-08-01 11:47:35 --> Output akhir dikirim ke browser
+DEBUG - 2018-08-01 11:47:35 --> Total waktu eksekusi: 0.3726
+INFO - 2018-08-01 11:47:35 --> Config Class telah di inisialisasi
+INFO - 2018-08-01 11:47:35 --> Hooks Class telah di inisialisasi
+DEBUG - 2018-08-01 11:47:35 --> UTF-8 Support Aktif
+INFO - 2018-08-01 11:47:35 --> Utf8 Class telah di inisialisasi
+INFO - 2018-08-01 11:47:35 --> URI Class telah di inisialisasi
+INFO - 2018-08-01 11:47:35 --> Router Class telah di inisialisasi
+INFO - 2018-08-01 11:47:35 --> Output Class telah di inisialisasi
+INFO - 2018-08-01 11:47:35 --> Security Class telah di inisialisasi
+DEBUG - 2018-08-01 11:47:35 --> Global POST, GET dan COOKIE data telah disanitasi
+INFO - 2018-08-01 11:47:35 --> Input Class telah di inisialisasi
+INFO - 2018-08-01 11:47:35 --> Language Class telah di inisialisasi
+INFO - 2018-08-01 11:47:35 --> Loader Class telah di inisialisasi
+INFO - 2018-08-01 11:47:35 --> Helper telah dimuat: url_helper
+INFO - 2018-08-01 11:47:35 --> Controller Class telah di inisialisasi
+DEBUG - 2018-08-01 11:47:35 --> Session: "sess_save_path" kosong; pakai "session.save_path" data dari php.ini.
+INFO - 2018-08-01 11:47:35 --> Session: Class initialized using 'files' driver.
+INFO - 2018-08-01 11:47:35 --> Helper telah dimuat: cookie_helper
+INFO - 2018-08-01 11:47:35 --> Database Driver Class telah di inisialisasi
+INFO - 2018-08-01 11:47:35 --> Model "datatable" telah di inisialisasi
+INFO - 2018-08-01 11:47:35 --> Output akhir dikirim ke browser
+DEBUG - 2018-08-01 11:47:35 --> Total waktu eksekusi: 0.4190
+INFO - 2018-08-01 11:47:42 --> Config Class telah di inisialisasi
+INFO - 2018-08-01 11:47:42 --> Hooks Class telah di inisialisasi
+DEBUG - 2018-08-01 11:47:42 --> UTF-8 Support Aktif
+INFO - 2018-08-01 11:47:42 --> Utf8 Class telah di inisialisasi
+INFO - 2018-08-01 11:47:42 --> URI Class telah di inisialisasi
+INFO - 2018-08-01 11:47:42 --> Router Class telah di inisialisasi
+INFO - 2018-08-01 11:47:42 --> Output Class telah di inisialisasi
+INFO - 2018-08-01 11:47:42 --> Security Class telah di inisialisasi
+DEBUG - 2018-08-01 11:47:42 --> Global POST, GET dan COOKIE data telah disanitasi
+INFO - 2018-08-01 11:47:42 --> Input Class telah di inisialisasi
+INFO - 2018-08-01 11:47:42 --> Language Class telah di inisialisasi
+INFO - 2018-08-01 11:47:42 --> Loader Class telah di inisialisasi
+INFO - 2018-08-01 11:47:42 --> Helper telah dimuat: url_helper
+INFO - 2018-08-01 11:47:42 --> Controller Class telah di inisialisasi
+DEBUG - 2018-08-01 11:47:42 --> Session: "sess_save_path" kosong; pakai "session.save_path" data dari php.ini.
+INFO - 2018-08-01 11:47:42 --> Session: Class initialized using 'files' driver.
+INFO - 2018-08-01 11:47:42 --> Helper telah dimuat: cookie_helper
+INFO - 2018-08-01 11:47:42 --> File telah dimuat: D:\XAMPP\htdocs\jb\application\views\jebews/html/head.php
+INFO - 2018-08-01 11:47:42 --> File telah dimuat: D:\XAMPP\htdocs\jb\application\views\jebews/product/manage.php
+INFO - 2018-08-01 11:47:42 --> Output akhir dikirim ke browser
+DEBUG - 2018-08-01 11:47:42 --> Total waktu eksekusi: 0.3666
+INFO - 2018-08-01 11:47:42 --> Config Class telah di inisialisasi
+INFO - 2018-08-01 11:47:42 --> Hooks Class telah di inisialisasi
+DEBUG - 2018-08-01 11:47:42 --> UTF-8 Support Aktif
+INFO - 2018-08-01 11:47:42 --> Utf8 Class telah di inisialisasi
+INFO - 2018-08-01 11:47:42 --> URI Class telah di inisialisasi
+INFO - 2018-08-01 11:47:42 --> Router Class telah di inisialisasi
+INFO - 2018-08-01 11:47:42 --> Output Class telah di inisialisasi
+INFO - 2018-08-01 11:47:42 --> Security Class telah di inisialisasi
+DEBUG - 2018-08-01 11:47:42 --> Global POST, GET dan COOKIE data telah disanitasi
+INFO - 2018-08-01 11:47:42 --> Input Class telah di inisialisasi
+INFO - 2018-08-01 11:47:42 --> Language Class telah di inisialisasi
+INFO - 2018-08-01 11:47:42 --> Loader Class telah di inisialisasi
+INFO - 2018-08-01 11:47:42 --> Helper telah dimuat: url_helper
+INFO - 2018-08-01 11:47:42 --> Controller Class telah di inisialisasi
+DEBUG - 2018-08-01 11:47:42 --> Session: "sess_save_path" kosong; pakai "session.save_path" data dari php.ini.
+INFO - 2018-08-01 11:47:42 --> Session: Class initialized using 'files' driver.
+INFO - 2018-08-01 11:47:42 --> Helper telah dimuat: cookie_helper
+INFO - 2018-08-01 11:47:42 --> Database Driver Class telah di inisialisasi
+INFO - 2018-08-01 11:47:43 --> Model "datatable" telah di inisialisasi
+INFO - 2018-08-01 11:47:43 --> Output akhir dikirim ke browser
+DEBUG - 2018-08-01 11:47:43 --> Total waktu eksekusi: 0.3980
+INFO - 2018-08-01 11:47:49 --> Config Class telah di inisialisasi
+INFO - 2018-08-01 11:47:49 --> Hooks Class telah di inisialisasi
+DEBUG - 2018-08-01 11:47:49 --> UTF-8 Support Aktif
+INFO - 2018-08-01 11:47:49 --> Utf8 Class telah di inisialisasi
+INFO - 2018-08-01 11:47:49 --> URI Class telah di inisialisasi
+INFO - 2018-08-01 11:47:49 --> Router Class telah di inisialisasi
+INFO - 2018-08-01 11:47:49 --> Output Class telah di inisialisasi
+INFO - 2018-08-01 11:47:49 --> Security Class telah di inisialisasi
+DEBUG - 2018-08-01 11:47:49 --> Global POST, GET dan COOKIE data telah disanitasi
+INFO - 2018-08-01 11:47:49 --> Input Class telah di inisialisasi
+INFO - 2018-08-01 11:47:49 --> Language Class telah di inisialisasi
+INFO - 2018-08-01 11:47:50 --> Loader Class telah di inisialisasi
+INFO - 2018-08-01 11:47:50 --> Helper telah dimuat: url_helper
+INFO - 2018-08-01 11:47:50 --> Controller Class telah di inisialisasi
+DEBUG - 2018-08-01 11:47:50 --> Session: "sess_save_path" kosong; pakai "session.save_path" data dari php.ini.
+INFO - 2018-08-01 11:47:50 --> Session: Class initialized using 'files' driver.
+INFO - 2018-08-01 11:47:50 --> Helper telah dimuat: cookie_helper
+INFO - 2018-08-01 11:47:50 --> File telah dimuat: D:\XAMPP\htdocs\jb\application\views\jebews/html/head.php
+INFO - 2018-08-01 11:47:50 --> File telah dimuat: D:\XAMPP\htdocs\jb\application\views\jebews/product/manage.php
+INFO - 2018-08-01 11:47:50 --> Output akhir dikirim ke browser
+DEBUG - 2018-08-01 11:47:50 --> Total waktu eksekusi: 0.3596
+INFO - 2018-08-01 11:47:50 --> Config Class telah di inisialisasi
+INFO - 2018-08-01 11:47:50 --> Hooks Class telah di inisialisasi
+DEBUG - 2018-08-01 11:47:50 --> UTF-8 Support Aktif
+INFO - 2018-08-01 11:47:50 --> Utf8 Class telah di inisialisasi
+INFO - 2018-08-01 11:47:50 --> URI Class telah di inisialisasi
+INFO - 2018-08-01 11:47:50 --> Router Class telah di inisialisasi
+INFO - 2018-08-01 11:47:50 --> Output Class telah di inisialisasi
+INFO - 2018-08-01 11:47:50 --> Security Class telah di inisialisasi
+DEBUG - 2018-08-01 11:47:50 --> Global POST, GET dan COOKIE data telah disanitasi
+INFO - 2018-08-01 11:47:50 --> Input Class telah di inisialisasi
+INFO - 2018-08-01 11:47:50 --> Language Class telah di inisialisasi
+INFO - 2018-08-01 11:47:50 --> Loader Class telah di inisialisasi
+INFO - 2018-08-01 11:47:50 --> Helper telah dimuat: url_helper
+INFO - 2018-08-01 11:47:50 --> Controller Class telah di inisialisasi
+DEBUG - 2018-08-01 11:47:50 --> Session: "sess_save_path" kosong; pakai "session.save_path" data dari php.ini.
+INFO - 2018-08-01 11:47:50 --> Session: Class initialized using 'files' driver.
+INFO - 2018-08-01 11:47:50 --> Helper telah dimuat: cookie_helper
+INFO - 2018-08-01 11:47:50 --> Database Driver Class telah di inisialisasi
+INFO - 2018-08-01 11:47:50 --> Model "datatable" telah di inisialisasi
+INFO - 2018-08-01 11:47:50 --> Output akhir dikirim ke browser
+DEBUG - 2018-08-01 11:47:50 --> Total waktu eksekusi: 0.4050
+INFO - 2018-08-01 11:48:29 --> Config Class telah di inisialisasi
+INFO - 2018-08-01 11:48:29 --> Hooks Class telah di inisialisasi
+DEBUG - 2018-08-01 11:48:29 --> UTF-8 Support Aktif
+INFO - 2018-08-01 11:48:29 --> Utf8 Class telah di inisialisasi
+INFO - 2018-08-01 11:48:30 --> URI Class telah di inisialisasi
+INFO - 2018-08-01 11:48:30 --> Router Class telah di inisialisasi
+INFO - 2018-08-01 11:48:30 --> Output Class telah di inisialisasi
+INFO - 2018-08-01 11:48:30 --> Security Class telah di inisialisasi
+DEBUG - 2018-08-01 11:48:30 --> Global POST, GET dan COOKIE data telah disanitasi
+INFO - 2018-08-01 11:48:30 --> Input Class telah di inisialisasi
+INFO - 2018-08-01 11:48:30 --> Language Class telah di inisialisasi
+INFO - 2018-08-01 11:48:30 --> Loader Class telah di inisialisasi
+INFO - 2018-08-01 11:48:30 --> Helper telah dimuat: url_helper
+INFO - 2018-08-01 11:48:30 --> Controller Class telah di inisialisasi
+DEBUG - 2018-08-01 11:48:30 --> Session: "sess_save_path" kosong; pakai "session.save_path" data dari php.ini.
+INFO - 2018-08-01 11:48:30 --> Session: Class initialized using 'files' driver.
+INFO - 2018-08-01 11:48:30 --> Helper telah dimuat: cookie_helper
+INFO - 2018-08-01 11:48:30 --> File telah dimuat: D:\XAMPP\htdocs\jb\application\views\jebews/html/head.php
+INFO - 2018-08-01 11:48:30 --> File telah dimuat: D:\XAMPP\htdocs\jb\application\views\jebews/product/manage.php
+INFO - 2018-08-01 11:48:30 --> Output akhir dikirim ke browser
+DEBUG - 2018-08-01 11:48:30 --> Total waktu eksekusi: 0.3666
+INFO - 2018-08-01 11:48:30 --> Config Class telah di inisialisasi
+INFO - 2018-08-01 11:48:30 --> Hooks Class telah di inisialisasi
+DEBUG - 2018-08-01 11:48:30 --> UTF-8 Support Aktif
+INFO - 2018-08-01 11:48:30 --> Utf8 Class telah di inisialisasi
+INFO - 2018-08-01 11:48:30 --> URI Class telah di inisialisasi
+INFO - 2018-08-01 11:48:30 --> Router Class telah di inisialisasi
+INFO - 2018-08-01 11:48:30 --> Output Class telah di inisialisasi
+INFO - 2018-08-01 11:48:30 --> Security Class telah di inisialisasi
+DEBUG - 2018-08-01 11:48:30 --> Global POST, GET dan COOKIE data telah disanitasi
+INFO - 2018-08-01 11:48:30 --> Input Class telah di inisialisasi
+INFO - 2018-08-01 11:48:30 --> Language Class telah di inisialisasi
+INFO - 2018-08-01 11:48:30 --> Loader Class telah di inisialisasi
+INFO - 2018-08-01 11:48:30 --> Helper telah dimuat: url_helper
+INFO - 2018-08-01 11:48:30 --> Controller Class telah di inisialisasi
+DEBUG - 2018-08-01 11:48:30 --> Session: "sess_save_path" kosong; pakai "session.save_path" data dari php.ini.
+INFO - 2018-08-01 11:48:30 --> Session: Class initialized using 'files' driver.
+INFO - 2018-08-01 11:48:30 --> Helper telah dimuat: cookie_helper
+INFO - 2018-08-01 11:48:30 --> Database Driver Class telah di inisialisasi
+INFO - 2018-08-01 11:48:30 --> Model "datatable" telah di inisialisasi
+INFO - 2018-08-01 11:48:30 --> Output akhir dikirim ke browser
+DEBUG - 2018-08-01 11:48:30 --> Total waktu eksekusi: 0.4070
+INFO - 2018-08-01 11:48:37 --> Config Class telah di inisialisasi
+INFO - 2018-08-01 11:48:37 --> Hooks Class telah di inisialisasi
+DEBUG - 2018-08-01 11:48:37 --> UTF-8 Support Aktif
+INFO - 2018-08-01 11:48:37 --> Utf8 Class telah di inisialisasi
+INFO - 2018-08-01 11:48:37 --> URI Class telah di inisialisasi
+INFO - 2018-08-01 11:48:37 --> Router Class telah di inisialisasi
+INFO - 2018-08-01 11:48:37 --> Output Class telah di inisialisasi
+INFO - 2018-08-01 11:48:37 --> Security Class telah di inisialisasi
+DEBUG - 2018-08-01 11:48:37 --> Global POST, GET dan COOKIE data telah disanitasi
+INFO - 2018-08-01 11:48:37 --> Input Class telah di inisialisasi
+INFO - 2018-08-01 11:48:37 --> Language Class telah di inisialisasi
+INFO - 2018-08-01 11:48:37 --> Loader Class telah di inisialisasi
+INFO - 2018-08-01 11:48:37 --> Helper telah dimuat: url_helper
+INFO - 2018-08-01 11:48:37 --> Controller Class telah di inisialisasi
+DEBUG - 2018-08-01 11:48:37 --> Session: "sess_save_path" kosong; pakai "session.save_path" data dari php.ini.
+INFO - 2018-08-01 11:48:37 --> Session: Class initialized using 'files' driver.
+INFO - 2018-08-01 11:48:37 --> Helper telah dimuat: cookie_helper
+INFO - 2018-08-01 11:48:37 --> Database Driver Class telah di inisialisasi
+INFO - 2018-08-01 11:48:37 --> Model "datatable" telah di inisialisasi
+INFO - 2018-08-01 11:48:37 --> Output akhir dikirim ke browser
+DEBUG - 2018-08-01 11:48:37 --> Total waktu eksekusi: 0.4314
+INFO - 2018-08-01 11:48:37 --> Config Class telah di inisialisasi
+INFO - 2018-08-01 11:48:37 --> Hooks Class telah di inisialisasi
+DEBUG - 2018-08-01 11:48:37 --> UTF-8 Support Aktif
+INFO - 2018-08-01 11:48:37 --> Utf8 Class telah di inisialisasi
+INFO - 2018-08-01 11:48:37 --> URI Class telah di inisialisasi
+INFO - 2018-08-01 11:48:37 --> Router Class telah di inisialisasi
+INFO - 2018-08-01 11:48:37 --> Output Class telah di inisialisasi
+INFO - 2018-08-01 11:48:37 --> Security Class telah di inisialisasi
+DEBUG - 2018-08-01 11:48:37 --> Global POST, GET dan COOKIE data telah disanitasi
+INFO - 2018-08-01 11:48:37 --> Input Class telah di inisialisasi
+INFO - 2018-08-01 11:48:37 --> Language Class telah di inisialisasi
+INFO - 2018-08-01 11:48:37 --> Loader Class telah di inisialisasi
+INFO - 2018-08-01 11:48:38 --> Helper telah dimuat: url_helper
+INFO - 2018-08-01 11:48:38 --> Controller Class telah di inisialisasi
+DEBUG - 2018-08-01 11:48:38 --> Session: "sess_save_path" kosong; pakai "session.save_path" data dari php.ini.
+INFO - 2018-08-01 11:48:38 --> Session: Class initialized using 'files' driver.
+INFO - 2018-08-01 11:48:38 --> Helper telah dimuat: cookie_helper
+INFO - 2018-08-01 11:48:38 --> Database Driver Class telah di inisialisasi
+INFO - 2018-08-01 11:48:38 --> Model "datatable" telah di inisialisasi
+INFO - 2018-08-01 11:48:38 --> Output akhir dikirim ke browser
+DEBUG - 2018-08-01 11:48:38 --> Total waktu eksekusi: 0.4398
+INFO - 2018-08-01 11:48:38 --> Config Class telah di inisialisasi
+INFO - 2018-08-01 11:48:38 --> Hooks Class telah di inisialisasi
+DEBUG - 2018-08-01 11:48:38 --> UTF-8 Support Aktif
+INFO - 2018-08-01 11:48:38 --> Utf8 Class telah di inisialisasi
+INFO - 2018-08-01 11:48:38 --> URI Class telah di inisialisasi
+INFO - 2018-08-01 11:48:38 --> Router Class telah di inisialisasi
+INFO - 2018-08-01 11:48:38 --> Output Class telah di inisialisasi
+INFO - 2018-08-01 11:48:38 --> Security Class telah di inisialisasi
+DEBUG - 2018-08-01 11:48:38 --> Global POST, GET dan COOKIE data telah disanitasi
+INFO - 2018-08-01 11:48:38 --> Input Class telah di inisialisasi
+INFO - 2018-08-01 11:48:38 --> Language Class telah di inisialisasi
+INFO - 2018-08-01 11:48:38 --> Loader Class telah di inisialisasi
+INFO - 2018-08-01 11:48:38 --> Helper telah dimuat: url_helper
+INFO - 2018-08-01 11:48:38 --> Controller Class telah di inisialisasi
+DEBUG - 2018-08-01 11:48:38 --> Session: "sess_save_path" kosong; pakai "session.save_path" data dari php.ini.
+INFO - 2018-08-01 11:48:38 --> Session: Class initialized using 'files' driver.
+INFO - 2018-08-01 11:48:38 --> Helper telah dimuat: cookie_helper
+INFO - 2018-08-01 11:48:38 --> Database Driver Class telah di inisialisasi
+INFO - 2018-08-01 11:48:38 --> Model "datatable" telah di inisialisasi
+INFO - 2018-08-01 11:48:38 --> Output akhir dikirim ke browser
+DEBUG - 2018-08-01 11:48:38 --> Total waktu eksekusi: 0.3902
+INFO - 2018-08-01 11:48:43 --> Config Class telah di inisialisasi
+INFO - 2018-08-01 11:48:43 --> Hooks Class telah di inisialisasi
+DEBUG - 2018-08-01 11:48:43 --> UTF-8 Support Aktif
+INFO - 2018-08-01 11:48:43 --> Utf8 Class telah di inisialisasi
+INFO - 2018-08-01 11:48:43 --> URI Class telah di inisialisasi
+INFO - 2018-08-01 11:48:43 --> Router Class telah di inisialisasi
+INFO - 2018-08-01 11:48:43 --> Output Class telah di inisialisasi
+INFO - 2018-08-01 11:48:43 --> Security Class telah di inisialisasi
+DEBUG - 2018-08-01 11:48:43 --> Global POST, GET dan COOKIE data telah disanitasi
+INFO - 2018-08-01 11:48:43 --> Input Class telah di inisialisasi
+INFO - 2018-08-01 11:48:43 --> Language Class telah di inisialisasi
+INFO - 2018-08-01 11:48:43 --> Loader Class telah di inisialisasi
+INFO - 2018-08-01 11:48:43 --> Helper telah dimuat: url_helper
+INFO - 2018-08-01 11:48:43 --> Controller Class telah di inisialisasi
+DEBUG - 2018-08-01 11:48:43 --> Session: "sess_save_path" kosong; pakai "session.save_path" data dari php.ini.
+INFO - 2018-08-01 11:48:43 --> Session: Class initialized using 'files' driver.
+INFO - 2018-08-01 11:48:43 --> Helper telah dimuat: cookie_helper
+INFO - 2018-08-01 11:48:43 --> Database Driver Class telah di inisialisasi
+INFO - 2018-08-01 11:48:44 --> Model "datatable" telah di inisialisasi
+INFO - 2018-08-01 11:48:44 --> Output akhir dikirim ke browser
+DEBUG - 2018-08-01 11:48:44 --> Total waktu eksekusi: 0.3928
+INFO - 2018-08-01 11:49:32 --> Config Class telah di inisialisasi
+INFO - 2018-08-01 11:49:32 --> Hooks Class telah di inisialisasi
+DEBUG - 2018-08-01 11:49:32 --> UTF-8 Support Aktif
+INFO - 2018-08-01 11:49:32 --> Utf8 Class telah di inisialisasi
+INFO - 2018-08-01 11:49:32 --> URI Class telah di inisialisasi
+INFO - 2018-08-01 11:49:32 --> Router Class telah di inisialisasi
+INFO - 2018-08-01 11:49:32 --> Output Class telah di inisialisasi
+INFO - 2018-08-01 11:49:32 --> Security Class telah di inisialisasi
+DEBUG - 2018-08-01 11:49:32 --> Global POST, GET dan COOKIE data telah disanitasi
+INFO - 2018-08-01 11:49:32 --> Input Class telah di inisialisasi
+INFO - 2018-08-01 11:49:32 --> Language Class telah di inisialisasi
+INFO - 2018-08-01 11:49:32 --> Loader Class telah di inisialisasi
+INFO - 2018-08-01 11:49:32 --> Helper telah dimuat: url_helper
+INFO - 2018-08-01 11:49:33 --> Controller Class telah di inisialisasi
+DEBUG - 2018-08-01 11:49:33 --> Session: "sess_save_path" kosong; pakai "session.save_path" data dari php.ini.
+INFO - 2018-08-01 11:49:33 --> Session: Class initialized using 'files' driver.
+INFO - 2018-08-01 11:49:33 --> Helper telah dimuat: cookie_helper
+INFO - 2018-08-01 11:49:33 --> Database Driver Class telah di inisialisasi
+INFO - 2018-08-01 11:49:33 --> Model "datatable" telah di inisialisasi
+INFO - 2018-08-01 11:49:33 --> Output akhir dikirim ke browser
+DEBUG - 2018-08-01 11:49:33 --> Total waktu eksekusi: 0.4068
+INFO - 2018-08-01 11:49:44 --> Config Class telah di inisialisasi
+INFO - 2018-08-01 11:49:44 --> Hooks Class telah di inisialisasi
+DEBUG - 2018-08-01 11:49:44 --> UTF-8 Support Aktif
+INFO - 2018-08-01 11:49:44 --> Utf8 Class telah di inisialisasi
+INFO - 2018-08-01 11:49:44 --> URI Class telah di inisialisasi
+INFO - 2018-08-01 11:49:44 --> Router Class telah di inisialisasi
+INFO - 2018-08-01 11:49:44 --> Output Class telah di inisialisasi
+INFO - 2018-08-01 11:49:44 --> Security Class telah di inisialisasi
+DEBUG - 2018-08-01 11:49:45 --> Global POST, GET dan COOKIE data telah disanitasi
+INFO - 2018-08-01 11:49:45 --> Input Class telah di inisialisasi
+INFO - 2018-08-01 11:49:45 --> Language Class telah di inisialisasi
+INFO - 2018-08-01 11:49:45 --> Loader Class telah di inisialisasi
+INFO - 2018-08-01 11:49:45 --> Helper telah dimuat: url_helper
+INFO - 2018-08-01 11:49:45 --> Controller Class telah di inisialisasi
+DEBUG - 2018-08-01 11:49:45 --> Session: "sess_save_path" kosong; pakai "session.save_path" data dari php.ini.
+INFO - 2018-08-01 11:49:45 --> Session: Class initialized using 'files' driver.
+INFO - 2018-08-01 11:49:45 --> Helper telah dimuat: cookie_helper
+INFO - 2018-08-01 11:49:45 --> Database Driver Class telah di inisialisasi
+INFO - 2018-08-01 11:49:45 --> Model "datatable" telah di inisialisasi
+INFO - 2018-08-01 11:49:45 --> Output akhir dikirim ke browser
+DEBUG - 2018-08-01 11:49:45 --> Total waktu eksekusi: 0.3800
+INFO - 2018-08-01 11:49:48 --> Config Class telah di inisialisasi
+INFO - 2018-08-01 11:49:48 --> Hooks Class telah di inisialisasi
+DEBUG - 2018-08-01 11:49:48 --> UTF-8 Support Aktif
+INFO - 2018-08-01 11:49:48 --> Utf8 Class telah di inisialisasi
+INFO - 2018-08-01 11:49:48 --> URI Class telah di inisialisasi
+INFO - 2018-08-01 11:49:48 --> Router Class telah di inisialisasi
+INFO - 2018-08-01 11:49:48 --> Output Class telah di inisialisasi
+INFO - 2018-08-01 11:49:48 --> Security Class telah di inisialisasi
+DEBUG - 2018-08-01 11:49:48 --> Global POST, GET dan COOKIE data telah disanitasi
+INFO - 2018-08-01 11:49:48 --> Input Class telah di inisialisasi
+INFO - 2018-08-01 11:49:48 --> Language Class telah di inisialisasi
+INFO - 2018-08-01 11:49:48 --> Loader Class telah di inisialisasi
+INFO - 2018-08-01 11:49:48 --> Helper telah dimuat: url_helper
+INFO - 2018-08-01 11:49:48 --> Controller Class telah di inisialisasi
+DEBUG - 2018-08-01 11:49:48 --> Session: "sess_save_path" kosong; pakai "session.save_path" data dari php.ini.
+INFO - 2018-08-01 11:49:48 --> Session: Class initialized using 'files' driver.
+INFO - 2018-08-01 11:49:48 --> Helper telah dimuat: cookie_helper
+INFO - 2018-08-01 11:49:48 --> Database Driver Class telah di inisialisasi
+INFO - 2018-08-01 11:49:48 --> Model "datatable" telah di inisialisasi
+INFO - 2018-08-01 11:49:48 --> Output akhir dikirim ke browser
+DEBUG - 2018-08-01 11:49:48 --> Total waktu eksekusi: 0.3736
+INFO - 2018-08-01 11:49:49 --> Config Class telah di inisialisasi
+INFO - 2018-08-01 11:49:49 --> Hooks Class telah di inisialisasi
+DEBUG - 2018-08-01 11:49:49 --> UTF-8 Support Aktif
+INFO - 2018-08-01 11:49:50 --> Utf8 Class telah di inisialisasi
+INFO - 2018-08-01 11:49:50 --> URI Class telah di inisialisasi
+INFO - 2018-08-01 11:49:50 --> Router Class telah di inisialisasi
+INFO - 2018-08-01 11:49:50 --> Output Class telah di inisialisasi
+INFO - 2018-08-01 11:49:50 --> Security Class telah di inisialisasi
+DEBUG - 2018-08-01 11:49:50 --> Global POST, GET dan COOKIE data telah disanitasi
+INFO - 2018-08-01 11:49:50 --> Input Class telah di inisialisasi
+INFO - 2018-08-01 11:49:50 --> Language Class telah di inisialisasi
+INFO - 2018-08-01 11:49:50 --> Loader Class telah di inisialisasi
+INFO - 2018-08-01 11:49:50 --> Helper telah dimuat: url_helper
+INFO - 2018-08-01 11:49:50 --> Controller Class telah di inisialisasi
+DEBUG - 2018-08-01 11:49:50 --> Session: "sess_save_path" kosong; pakai "session.save_path" data dari php.ini.
+INFO - 2018-08-01 11:49:50 --> Session: Class initialized using 'files' driver.
+INFO - 2018-08-01 11:49:50 --> Helper telah dimuat: cookie_helper
+INFO - 2018-08-01 11:49:50 --> Database Driver Class telah di inisialisasi
+INFO - 2018-08-01 11:49:50 --> Model "datatable" telah di inisialisasi
+INFO - 2018-08-01 11:49:50 --> Output akhir dikirim ke browser
+DEBUG - 2018-08-01 11:49:50 --> Total waktu eksekusi: 0.3888
+INFO - 2018-08-01 11:49:54 --> Config Class telah di inisialisasi
+INFO - 2018-08-01 11:49:54 --> Hooks Class telah di inisialisasi
+DEBUG - 2018-08-01 11:49:54 --> UTF-8 Support Aktif
+INFO - 2018-08-01 11:49:54 --> Utf8 Class telah di inisialisasi
+INFO - 2018-08-01 11:49:54 --> URI Class telah di inisialisasi
+INFO - 2018-08-01 11:49:54 --> Router Class telah di inisialisasi
+INFO - 2018-08-01 11:49:54 --> Output Class telah di inisialisasi
+INFO - 2018-08-01 11:49:54 --> Security Class telah di inisialisasi
+DEBUG - 2018-08-01 11:49:54 --> Global POST, GET dan COOKIE data telah disanitasi
+INFO - 2018-08-01 11:49:54 --> Input Class telah di inisialisasi
+INFO - 2018-08-01 11:49:54 --> Language Class telah di inisialisasi
+INFO - 2018-08-01 11:49:54 --> Loader Class telah di inisialisasi
+INFO - 2018-08-01 11:49:54 --> Helper telah dimuat: url_helper
+INFO - 2018-08-01 11:49:54 --> Controller Class telah di inisialisasi
+DEBUG - 2018-08-01 11:49:54 --> Session: "sess_save_path" kosong; pakai "session.save_path" data dari php.ini.
+INFO - 2018-08-01 11:49:54 --> Session: Class initialized using 'files' driver.
+INFO - 2018-08-01 11:49:54 --> Helper telah dimuat: cookie_helper
+INFO - 2018-08-01 11:49:54 --> Database Driver Class telah di inisialisasi
+INFO - 2018-08-01 11:49:54 --> Model "datatable" telah di inisialisasi
+INFO - 2018-08-01 11:49:54 --> Output akhir dikirim ke browser
+DEBUG - 2018-08-01 11:49:54 --> Total waktu eksekusi: 0.3888
+INFO - 2018-08-01 11:49:55 --> Config Class telah di inisialisasi
+INFO - 2018-08-01 11:49:55 --> Hooks Class telah di inisialisasi
+DEBUG - 2018-08-01 11:49:55 --> UTF-8 Support Aktif
+INFO - 2018-08-01 11:49:55 --> Utf8 Class telah di inisialisasi
+INFO - 2018-08-01 11:49:55 --> URI Class telah di inisialisasi
+INFO - 2018-08-01 11:49:55 --> Router Class telah di inisialisasi
+INFO - 2018-08-01 11:49:55 --> Output Class telah di inisialisasi
+INFO - 2018-08-01 11:49:55 --> Security Class telah di inisialisasi
+DEBUG - 2018-08-01 11:49:55 --> Global POST, GET dan COOKIE data telah disanitasi
+INFO - 2018-08-01 11:49:55 --> Input Class telah di inisialisasi
+INFO - 2018-08-01 11:49:55 --> Language Class telah di inisialisasi
+INFO - 2018-08-01 11:49:55 --> Loader Class telah di inisialisasi
+INFO - 2018-08-01 11:49:55 --> Helper telah dimuat: url_helper
+INFO - 2018-08-01 11:49:55 --> Controller Class telah di inisialisasi
+DEBUG - 2018-08-01 11:49:55 --> Session: "sess_save_path" kosong; pakai "session.save_path" data dari php.ini.
+INFO - 2018-08-01 11:49:55 --> Session: Class initialized using 'files' driver.
+INFO - 2018-08-01 11:49:55 --> Helper telah dimuat: cookie_helper
+INFO - 2018-08-01 11:49:55 --> Database Driver Class telah di inisialisasi
+INFO - 2018-08-01 11:49:55 --> Model "datatable" telah di inisialisasi
+INFO - 2018-08-01 11:49:55 --> Output akhir dikirim ke browser
+DEBUG - 2018-08-01 11:49:55 --> Total waktu eksekusi: 0.3812
+INFO - 2018-08-01 11:50:14 --> Config Class telah di inisialisasi
+INFO - 2018-08-01 11:50:14 --> Hooks Class telah di inisialisasi
+DEBUG - 2018-08-01 11:50:14 --> UTF-8 Support Aktif
+INFO - 2018-08-01 11:50:14 --> Utf8 Class telah di inisialisasi
+INFO - 2018-08-01 11:50:14 --> URI Class telah di inisialisasi
+INFO - 2018-08-01 11:50:14 --> Router Class telah di inisialisasi
+INFO - 2018-08-01 11:50:14 --> Output Class telah di inisialisasi
+INFO - 2018-08-01 11:50:14 --> Security Class telah di inisialisasi
+DEBUG - 2018-08-01 11:50:14 --> Global POST, GET dan COOKIE data telah disanitasi
+INFO - 2018-08-01 11:50:14 --> Input Class telah di inisialisasi
+INFO - 2018-08-01 11:50:14 --> Language Class telah di inisialisasi
+INFO - 2018-08-01 11:50:14 --> Loader Class telah di inisialisasi
+INFO - 2018-08-01 11:50:14 --> Helper telah dimuat: url_helper
+INFO - 2018-08-01 11:50:14 --> Controller Class telah di inisialisasi
+DEBUG - 2018-08-01 11:50:14 --> Session: "sess_save_path" kosong; pakai "session.save_path" data dari php.ini.
+INFO - 2018-08-01 11:50:14 --> Session: Class initialized using 'files' driver.
+INFO - 2018-08-01 11:50:14 --> Helper telah dimuat: cookie_helper
+INFO - 2018-08-01 11:50:14 --> File telah dimuat: D:\XAMPP\htdocs\jb\application\views\jebews/html/head.php
+INFO - 2018-08-01 11:50:14 --> File telah dimuat: D:\XAMPP\htdocs\jb\application\views\jebews/product/manage.php
+INFO - 2018-08-01 11:50:14 --> Output akhir dikirim ke browser
+DEBUG - 2018-08-01 11:50:14 --> Total waktu eksekusi: 0.3922
+INFO - 2018-08-01 11:50:14 --> Config Class telah di inisialisasi
+INFO - 2018-08-01 11:50:14 --> Hooks Class telah di inisialisasi
+DEBUG - 2018-08-01 11:50:14 --> UTF-8 Support Aktif
+INFO - 2018-08-01 11:50:14 --> Utf8 Class telah di inisialisasi
+INFO - 2018-08-01 11:50:14 --> URI Class telah di inisialisasi
+INFO - 2018-08-01 11:50:14 --> Router Class telah di inisialisasi
+INFO - 2018-08-01 11:50:14 --> Output Class telah di inisialisasi
+INFO - 2018-08-01 11:50:14 --> Security Class telah di inisialisasi
+DEBUG - 2018-08-01 11:50:14 --> Global POST, GET dan COOKIE data telah disanitasi
+INFO - 2018-08-01 11:50:14 --> Input Class telah di inisialisasi
+INFO - 2018-08-01 11:50:14 --> Language Class telah di inisialisasi
+INFO - 2018-08-01 11:50:14 --> Loader Class telah di inisialisasi
+INFO - 2018-08-01 11:50:14 --> Helper telah dimuat: url_helper
+INFO - 2018-08-01 11:50:14 --> Controller Class telah di inisialisasi
+DEBUG - 2018-08-01 11:50:14 --> Session: "sess_save_path" kosong; pakai "session.save_path" data dari php.ini.
+INFO - 2018-08-01 11:50:14 --> Session: Class initialized using 'files' driver.
+INFO - 2018-08-01 11:50:15 --> Helper telah dimuat: cookie_helper
+INFO - 2018-08-01 11:50:15 --> Database Driver Class telah di inisialisasi
+INFO - 2018-08-01 11:50:15 --> Model "datatable" telah di inisialisasi
+INFO - 2018-08-01 11:50:15 --> Output akhir dikirim ke browser
+DEBUG - 2018-08-01 11:50:15 --> Total waktu eksekusi: 0.4160
+INFO - 2018-08-01 11:50:30 --> Config Class telah di inisialisasi
+INFO - 2018-08-01 11:50:30 --> Hooks Class telah di inisialisasi
+DEBUG - 2018-08-01 11:50:30 --> UTF-8 Support Aktif
+INFO - 2018-08-01 11:50:30 --> Utf8 Class telah di inisialisasi
+INFO - 2018-08-01 11:50:30 --> URI Class telah di inisialisasi
+INFO - 2018-08-01 11:50:30 --> Router Class telah di inisialisasi
+INFO - 2018-08-01 11:50:30 --> Output Class telah di inisialisasi
+INFO - 2018-08-01 11:50:30 --> Security Class telah di inisialisasi
+DEBUG - 2018-08-01 11:50:30 --> Global POST, GET dan COOKIE data telah disanitasi
+INFO - 2018-08-01 11:50:30 --> Input Class telah di inisialisasi
+INFO - 2018-08-01 11:50:30 --> Language Class telah di inisialisasi
+INFO - 2018-08-01 11:50:30 --> Loader Class telah di inisialisasi
+INFO - 2018-08-01 11:50:30 --> Helper telah dimuat: url_helper
+INFO - 2018-08-01 11:50:30 --> Controller Class telah di inisialisasi
+DEBUG - 2018-08-01 11:50:30 --> Session: "sess_save_path" kosong; pakai "session.save_path" data dari php.ini.
+INFO - 2018-08-01 11:50:30 --> Session: Class initialized using 'files' driver.
+INFO - 2018-08-01 11:50:30 --> Helper telah dimuat: cookie_helper
+INFO - 2018-08-01 11:50:30 --> File telah dimuat: D:\XAMPP\htdocs\jb\application\views\jebews/html/head.php
+INFO - 2018-08-01 11:50:30 --> File telah dimuat: D:\XAMPP\htdocs\jb\application\views\jebews/product/manage.php
+INFO - 2018-08-01 11:50:30 --> Output akhir dikirim ke browser
+DEBUG - 2018-08-01 11:50:30 --> Total waktu eksekusi: 0.3706
+INFO - 2018-08-01 11:50:30 --> Config Class telah di inisialisasi
+INFO - 2018-08-01 11:50:30 --> Hooks Class telah di inisialisasi
+DEBUG - 2018-08-01 11:50:30 --> UTF-8 Support Aktif
+INFO - 2018-08-01 11:50:30 --> Utf8 Class telah di inisialisasi
+INFO - 2018-08-01 11:50:30 --> URI Class telah di inisialisasi
+INFO - 2018-08-01 11:50:30 --> Router Class telah di inisialisasi
+INFO - 2018-08-01 11:50:30 --> Output Class telah di inisialisasi
+INFO - 2018-08-01 11:50:30 --> Security Class telah di inisialisasi
+DEBUG - 2018-08-01 11:50:30 --> Global POST, GET dan COOKIE data telah disanitasi
+INFO - 2018-08-01 11:50:30 --> Input Class telah di inisialisasi
+INFO - 2018-08-01 11:50:30 --> Language Class telah di inisialisasi
+INFO - 2018-08-01 11:50:30 --> Loader Class telah di inisialisasi
+INFO - 2018-08-01 11:50:30 --> Helper telah dimuat: url_helper
+INFO - 2018-08-01 11:50:30 --> Controller Class telah di inisialisasi
+DEBUG - 2018-08-01 11:50:30 --> Session: "sess_save_path" kosong; pakai "session.save_path" data dari php.ini.
+INFO - 2018-08-01 11:50:30 --> Session: Class initialized using 'files' driver.
+INFO - 2018-08-01 11:50:30 --> Helper telah dimuat: cookie_helper
+INFO - 2018-08-01 11:50:30 --> Database Driver Class telah di inisialisasi
+INFO - 2018-08-01 11:50:30 --> Model "datatable" telah di inisialisasi
+INFO - 2018-08-01 11:50:30 --> Output akhir dikirim ke browser
+DEBUG - 2018-08-01 11:50:30 --> Total waktu eksekusi: 0.4060
+INFO - 2018-08-01 11:50:37 --> Config Class telah di inisialisasi
+INFO - 2018-08-01 11:50:37 --> Hooks Class telah di inisialisasi
+DEBUG - 2018-08-01 11:50:37 --> UTF-8 Support Aktif
+INFO - 2018-08-01 11:50:37 --> Utf8 Class telah di inisialisasi
+INFO - 2018-08-01 11:50:37 --> URI Class telah di inisialisasi
+INFO - 2018-08-01 11:50:37 --> Router Class telah di inisialisasi
+INFO - 2018-08-01 11:50:37 --> Output Class telah di inisialisasi
+INFO - 2018-08-01 11:50:37 --> Security Class telah di inisialisasi
+DEBUG - 2018-08-01 11:50:37 --> Global POST, GET dan COOKIE data telah disanitasi
+INFO - 2018-08-01 11:50:37 --> Input Class telah di inisialisasi
+INFO - 2018-08-01 11:50:37 --> Language Class telah di inisialisasi
+INFO - 2018-08-01 11:50:37 --> Loader Class telah di inisialisasi
+INFO - 2018-08-01 11:50:37 --> Helper telah dimuat: url_helper
+INFO - 2018-08-01 11:50:37 --> Controller Class telah di inisialisasi
+DEBUG - 2018-08-01 11:50:37 --> Session: "sess_save_path" kosong; pakai "session.save_path" data dari php.ini.
+INFO - 2018-08-01 11:50:37 --> Session: Class initialized using 'files' driver.
+INFO - 2018-08-01 11:50:37 --> Helper telah dimuat: cookie_helper
+INFO - 2018-08-01 11:50:37 --> File telah dimuat: D:\XAMPP\htdocs\jb\application\views\jebews/html/head.php
+INFO - 2018-08-01 11:50:37 --> File telah dimuat: D:\XAMPP\htdocs\jb\application\views\jebews/product/manage.php
+INFO - 2018-08-01 11:50:37 --> Output akhir dikirim ke browser
+DEBUG - 2018-08-01 11:50:37 --> Total waktu eksekusi: 0.3912
+INFO - 2018-08-01 11:50:37 --> Config Class telah di inisialisasi
+INFO - 2018-08-01 11:50:37 --> Hooks Class telah di inisialisasi
+DEBUG - 2018-08-01 11:50:37 --> UTF-8 Support Aktif
+INFO - 2018-08-01 11:50:37 --> Utf8 Class telah di inisialisasi
+INFO - 2018-08-01 11:50:37 --> URI Class telah di inisialisasi
+INFO - 2018-08-01 11:50:37 --> Router Class telah di inisialisasi
+INFO - 2018-08-01 11:50:37 --> Output Class telah di inisialisasi
+INFO - 2018-08-01 11:50:37 --> Security Class telah di inisialisasi
+DEBUG - 2018-08-01 11:50:37 --> Global POST, GET dan COOKIE data telah disanitasi
+INFO - 2018-08-01 11:50:37 --> Input Class telah di inisialisasi
+INFO - 2018-08-01 11:50:37 --> Language Class telah di inisialisasi
+INFO - 2018-08-01 11:50:37 --> Loader Class telah di inisialisasi
+INFO - 2018-08-01 11:50:37 --> Helper telah dimuat: url_helper
+INFO - 2018-08-01 11:50:37 --> Controller Class telah di inisialisasi
+DEBUG - 2018-08-01 11:50:37 --> Session: "sess_save_path" kosong; pakai "session.save_path" data dari php.ini.
+INFO - 2018-08-01 11:50:37 --> Session: Class initialized using 'files' driver.
+INFO - 2018-08-01 11:50:37 --> Helper telah dimuat: cookie_helper
+INFO - 2018-08-01 11:50:37 --> Database Driver Class telah di inisialisasi
+INFO - 2018-08-01 11:50:37 --> Model "datatable" telah di inisialisasi
+INFO - 2018-08-01 11:50:37 --> Output akhir dikirim ke browser
+DEBUG - 2018-08-01 11:50:38 --> Total waktu eksekusi: 0.4140
+INFO - 2018-08-01 11:50:43 --> Config Class telah di inisialisasi
+INFO - 2018-08-01 11:50:43 --> Hooks Class telah di inisialisasi
+DEBUG - 2018-08-01 11:50:43 --> UTF-8 Support Aktif
+INFO - 2018-08-01 11:50:43 --> Utf8 Class telah di inisialisasi
+INFO - 2018-08-01 11:50:43 --> URI Class telah di inisialisasi
+INFO - 2018-08-01 11:50:43 --> Router Class telah di inisialisasi
+INFO - 2018-08-01 11:50:43 --> Output Class telah di inisialisasi
+INFO - 2018-08-01 11:50:43 --> Security Class telah di inisialisasi
+DEBUG - 2018-08-01 11:50:43 --> Global POST, GET dan COOKIE data telah disanitasi
+INFO - 2018-08-01 11:50:43 --> Input Class telah di inisialisasi
+INFO - 2018-08-01 11:50:43 --> Language Class telah di inisialisasi
+INFO - 2018-08-01 11:50:43 --> Loader Class telah di inisialisasi
+INFO - 2018-08-01 11:50:43 --> Helper telah dimuat: url_helper
+INFO - 2018-08-01 11:50:43 --> Controller Class telah di inisialisasi
+DEBUG - 2018-08-01 11:50:43 --> Session: "sess_save_path" kosong; pakai "session.save_path" data dari php.ini.
+INFO - 2018-08-01 11:50:43 --> Session: Class initialized using 'files' driver.
+INFO - 2018-08-01 11:50:43 --> Helper telah dimuat: cookie_helper
+INFO - 2018-08-01 11:50:43 --> File telah dimuat: D:\XAMPP\htdocs\jb\application\views\jebews/html/head.php
+INFO - 2018-08-01 11:50:43 --> File telah dimuat: D:\XAMPP\htdocs\jb\application\views\jebews/product/manage.php
+INFO - 2018-08-01 11:50:43 --> Output akhir dikirim ke browser
+DEBUG - 2018-08-01 11:50:43 --> Total waktu eksekusi: 0.3776
+INFO - 2018-08-01 11:50:43 --> Config Class telah di inisialisasi
+INFO - 2018-08-01 11:50:43 --> Hooks Class telah di inisialisasi
+DEBUG - 2018-08-01 11:50:43 --> UTF-8 Support Aktif
+INFO - 2018-08-01 11:50:43 --> Utf8 Class telah di inisialisasi
+INFO - 2018-08-01 11:50:43 --> URI Class telah di inisialisasi
+INFO - 2018-08-01 11:50:43 --> Router Class telah di inisialisasi
+INFO - 2018-08-01 11:50:43 --> Output Class telah di inisialisasi
+INFO - 2018-08-01 11:50:43 --> Security Class telah di inisialisasi
+DEBUG - 2018-08-01 11:50:43 --> Global POST, GET dan COOKIE data telah disanitasi
+INFO - 2018-08-01 11:50:43 --> Input Class telah di inisialisasi
+INFO - 2018-08-01 11:50:43 --> Language Class telah di inisialisasi
+INFO - 2018-08-01 11:50:43 --> Loader Class telah di inisialisasi
+INFO - 2018-08-01 11:50:43 --> Helper telah dimuat: url_helper
+INFO - 2018-08-01 11:50:43 --> Controller Class telah di inisialisasi
+DEBUG - 2018-08-01 11:50:43 --> Session: "sess_save_path" kosong; pakai "session.save_path" data dari php.ini.
+INFO - 2018-08-01 11:50:43 --> Session: Class initialized using 'files' driver.
+INFO - 2018-08-01 11:50:43 --> Helper telah dimuat: cookie_helper
+INFO - 2018-08-01 11:50:43 --> Database Driver Class telah di inisialisasi
+INFO - 2018-08-01 11:50:43 --> Model "datatable" telah di inisialisasi
+INFO - 2018-08-01 11:50:44 --> Output akhir dikirim ke browser
+DEBUG - 2018-08-01 11:50:44 --> Total waktu eksekusi: 0.4240
+INFO - 2018-08-01 11:50:54 --> Config Class telah di inisialisasi
+INFO - 2018-08-01 11:50:54 --> Hooks Class telah di inisialisasi
+DEBUG - 2018-08-01 11:50:54 --> UTF-8 Support Aktif
+INFO - 2018-08-01 11:50:54 --> Utf8 Class telah di inisialisasi
+INFO - 2018-08-01 11:50:54 --> URI Class telah di inisialisasi
+INFO - 2018-08-01 11:50:54 --> Router Class telah di inisialisasi
+INFO - 2018-08-01 11:50:54 --> Output Class telah di inisialisasi
+INFO - 2018-08-01 11:50:54 --> Security Class telah di inisialisasi
+DEBUG - 2018-08-01 11:50:54 --> Global POST, GET dan COOKIE data telah disanitasi
+INFO - 2018-08-01 11:50:54 --> Input Class telah di inisialisasi
+INFO - 2018-08-01 11:50:54 --> Language Class telah di inisialisasi
+INFO - 2018-08-01 11:50:54 --> Loader Class telah di inisialisasi
+INFO - 2018-08-01 11:50:54 --> Helper telah dimuat: url_helper
+INFO - 2018-08-01 11:50:54 --> Controller Class telah di inisialisasi
+DEBUG - 2018-08-01 11:50:55 --> Session: "sess_save_path" kosong; pakai "session.save_path" data dari php.ini.
+INFO - 2018-08-01 11:50:55 --> Session: Class initialized using 'files' driver.
+INFO - 2018-08-01 11:50:55 --> Helper telah dimuat: cookie_helper
+INFO - 2018-08-01 11:50:55 --> File telah dimuat: D:\XAMPP\htdocs\jb\application\views\jebews/html/head.php
+INFO - 2018-08-01 11:50:55 --> File telah dimuat: D:\XAMPP\htdocs\jb\application\views\jebews/product/manage.php
+INFO - 2018-08-01 11:50:55 --> Output akhir dikirim ke browser
+DEBUG - 2018-08-01 11:50:55 --> Total waktu eksekusi: 0.3812
+INFO - 2018-08-01 11:50:55 --> Config Class telah di inisialisasi
+INFO - 2018-08-01 11:50:55 --> Hooks Class telah di inisialisasi
+DEBUG - 2018-08-01 11:50:55 --> UTF-8 Support Aktif
+INFO - 2018-08-01 11:50:55 --> Utf8 Class telah di inisialisasi
+INFO - 2018-08-01 11:50:55 --> URI Class telah di inisialisasi
+INFO - 2018-08-01 11:50:55 --> Router Class telah di inisialisasi
+INFO - 2018-08-01 11:50:55 --> Output Class telah di inisialisasi
+INFO - 2018-08-01 11:50:55 --> Security Class telah di inisialisasi
+DEBUG - 2018-08-01 11:50:55 --> Global POST, GET dan COOKIE data telah disanitasi
+INFO - 2018-08-01 11:50:55 --> Input Class telah di inisialisasi
+INFO - 2018-08-01 11:50:55 --> Language Class telah di inisialisasi
+INFO - 2018-08-01 11:50:55 --> Loader Class telah di inisialisasi
+INFO - 2018-08-01 11:50:55 --> Helper telah dimuat: url_helper
+INFO - 2018-08-01 11:50:55 --> Controller Class telah di inisialisasi
+DEBUG - 2018-08-01 11:50:55 --> Session: "sess_save_path" kosong; pakai "session.save_path" data dari php.ini.
+INFO - 2018-08-01 11:50:55 --> Session: Class initialized using 'files' driver.
+INFO - 2018-08-01 11:50:55 --> Helper telah dimuat: cookie_helper
+INFO - 2018-08-01 11:50:55 --> Database Driver Class telah di inisialisasi
+INFO - 2018-08-01 11:50:55 --> Model "datatable" telah di inisialisasi
+INFO - 2018-08-01 11:50:55 --> Output akhir dikirim ke browser
+DEBUG - 2018-08-01 11:50:55 --> Total waktu eksekusi: 0.4250
+INFO - 2018-08-01 11:51:20 --> Config Class telah di inisialisasi
+INFO - 2018-08-01 11:51:20 --> Hooks Class telah di inisialisasi
+DEBUG - 2018-08-01 11:51:20 --> UTF-8 Support Aktif
+INFO - 2018-08-01 11:51:20 --> Utf8 Class telah di inisialisasi
+INFO - 2018-08-01 11:51:20 --> URI Class telah di inisialisasi
+INFO - 2018-08-01 11:51:20 --> Router Class telah di inisialisasi
+INFO - 2018-08-01 11:51:20 --> Output Class telah di inisialisasi
+INFO - 2018-08-01 11:51:20 --> Security Class telah di inisialisasi
+DEBUG - 2018-08-01 11:51:20 --> Global POST, GET dan COOKIE data telah disanitasi
+INFO - 2018-08-01 11:51:20 --> Input Class telah di inisialisasi
+INFO - 2018-08-01 11:51:20 --> Language Class telah di inisialisasi
+INFO - 2018-08-01 11:51:20 --> Loader Class telah di inisialisasi
+INFO - 2018-08-01 11:51:20 --> Helper telah dimuat: url_helper
+INFO - 2018-08-01 11:51:20 --> Controller Class telah di inisialisasi
+DEBUG - 2018-08-01 11:51:20 --> Session: "sess_save_path" kosong; pakai "session.save_path" data dari php.ini.
+INFO - 2018-08-01 11:51:20 --> Session: Class initialized using 'files' driver.
+INFO - 2018-08-01 11:51:21 --> Helper telah dimuat: cookie_helper
+INFO - 2018-08-01 11:51:21 --> File telah dimuat: D:\XAMPP\htdocs\jb\application\views\jebews/html/head.php
+INFO - 2018-08-01 11:51:21 --> File telah dimuat: D:\XAMPP\htdocs\jb\application\views\jebews/product/manage.php
+INFO - 2018-08-01 11:51:21 --> Output akhir dikirim ke browser
+DEBUG - 2018-08-01 11:51:21 --> Total waktu eksekusi: 0.3956
+INFO - 2018-08-01 11:51:21 --> Config Class telah di inisialisasi
+INFO - 2018-08-01 11:51:21 --> Hooks Class telah di inisialisasi
+DEBUG - 2018-08-01 11:51:21 --> UTF-8 Support Aktif
+INFO - 2018-08-01 11:51:21 --> Utf8 Class telah di inisialisasi
+INFO - 2018-08-01 11:51:21 --> URI Class telah di inisialisasi
+INFO - 2018-08-01 11:51:21 --> Router Class telah di inisialisasi
+INFO - 2018-08-01 11:51:21 --> Output Class telah di inisialisasi
+INFO - 2018-08-01 11:51:21 --> Security Class telah di inisialisasi
+DEBUG - 2018-08-01 11:51:21 --> Global POST, GET dan COOKIE data telah disanitasi
+INFO - 2018-08-01 11:51:21 --> Input Class telah di inisialisasi
+INFO - 2018-08-01 11:51:21 --> Language Class telah di inisialisasi
+INFO - 2018-08-01 11:51:21 --> Loader Class telah di inisialisasi
+INFO - 2018-08-01 11:51:21 --> Helper telah dimuat: url_helper
+INFO - 2018-08-01 11:51:21 --> Controller Class telah di inisialisasi
+DEBUG - 2018-08-01 11:51:21 --> Session: "sess_save_path" kosong; pakai "session.save_path" data dari php.ini.
+INFO - 2018-08-01 11:51:21 --> Session: Class initialized using 'files' driver.
+INFO - 2018-08-01 11:51:21 --> Helper telah dimuat: cookie_helper
+INFO - 2018-08-01 11:51:21 --> Database Driver Class telah di inisialisasi
+INFO - 2018-08-01 11:51:21 --> Model "datatable" telah di inisialisasi
+INFO - 2018-08-01 11:51:21 --> Output akhir dikirim ke browser
+DEBUG - 2018-08-01 11:51:21 --> Total waktu eksekusi: 0.4210
+INFO - 2018-08-01 11:51:39 --> Config Class telah di inisialisasi
+INFO - 2018-08-01 11:51:39 --> Hooks Class telah di inisialisasi
+DEBUG - 2018-08-01 11:51:39 --> UTF-8 Support Aktif
+INFO - 2018-08-01 11:51:39 --> Utf8 Class telah di inisialisasi
+INFO - 2018-08-01 11:51:39 --> URI Class telah di inisialisasi
+INFO - 2018-08-01 11:51:39 --> Router Class telah di inisialisasi
+INFO - 2018-08-01 11:51:39 --> Output Class telah di inisialisasi
+INFO - 2018-08-01 11:51:39 --> Security Class telah di inisialisasi
+DEBUG - 2018-08-01 11:51:39 --> Global POST, GET dan COOKIE data telah disanitasi
+INFO - 2018-08-01 11:51:40 --> Input Class telah di inisialisasi
+INFO - 2018-08-01 11:51:40 --> Language Class telah di inisialisasi
+INFO - 2018-08-01 11:51:40 --> Loader Class telah di inisialisasi
+INFO - 2018-08-01 11:51:40 --> Helper telah dimuat: url_helper
+INFO - 2018-08-01 11:51:40 --> Controller Class telah di inisialisasi
+DEBUG - 2018-08-01 11:51:40 --> Session: "sess_save_path" kosong; pakai "session.save_path" data dari php.ini.
+INFO - 2018-08-01 11:51:40 --> Session: Class initialized using 'files' driver.
+INFO - 2018-08-01 11:51:40 --> Helper telah dimuat: cookie_helper
+INFO - 2018-08-01 11:51:40 --> Database Driver Class telah di inisialisasi
+INFO - 2018-08-01 11:51:40 --> Model "datatable" telah di inisialisasi
+INFO - 2018-08-01 11:51:40 --> Output akhir dikirim ke browser
+DEBUG - 2018-08-01 11:51:40 --> Total waktu eksekusi: 0.3828
+INFO - 2018-08-01 11:51:42 --> Config Class telah di inisialisasi
+INFO - 2018-08-01 11:51:42 --> Hooks Class telah di inisialisasi
+DEBUG - 2018-08-01 11:51:42 --> UTF-8 Support Aktif
+INFO - 2018-08-01 11:51:42 --> Utf8 Class telah di inisialisasi
+INFO - 2018-08-01 11:51:42 --> URI Class telah di inisialisasi
+INFO - 2018-08-01 11:51:42 --> Router Class telah di inisialisasi
+INFO - 2018-08-01 11:51:42 --> Output Class telah di inisialisasi
+INFO - 2018-08-01 11:51:42 --> Security Class telah di inisialisasi
+DEBUG - 2018-08-01 11:51:42 --> Global POST, GET dan COOKIE data telah disanitasi
+INFO - 2018-08-01 11:51:42 --> Input Class telah di inisialisasi
+INFO - 2018-08-01 11:51:42 --> Language Class telah di inisialisasi
+INFO - 2018-08-01 11:51:42 --> Loader Class telah di inisialisasi
+INFO - 2018-08-01 11:51:42 --> Helper telah dimuat: url_helper
+INFO - 2018-08-01 11:51:42 --> Controller Class telah di inisialisasi
+DEBUG - 2018-08-01 11:51:42 --> Session: "sess_save_path" kosong; pakai "session.save_path" data dari php.ini.
+INFO - 2018-08-01 11:51:42 --> Session: Class initialized using 'files' driver.
+INFO - 2018-08-01 11:51:42 --> Helper telah dimuat: cookie_helper
+INFO - 2018-08-01 11:51:42 --> Database Driver Class telah di inisialisasi
+INFO - 2018-08-01 11:51:42 --> Model "datatable" telah di inisialisasi
+INFO - 2018-08-01 11:51:42 --> Output akhir dikirim ke browser
+DEBUG - 2018-08-01 11:51:42 --> Total waktu eksekusi: 0.4100
+INFO - 2018-08-01 11:53:05 --> Config Class telah di inisialisasi
+INFO - 2018-08-01 11:53:05 --> Hooks Class telah di inisialisasi
+DEBUG - 2018-08-01 11:53:05 --> UTF-8 Support Aktif
+INFO - 2018-08-01 11:53:05 --> Utf8 Class telah di inisialisasi
+INFO - 2018-08-01 11:53:05 --> URI Class telah di inisialisasi
+INFO - 2018-08-01 11:53:05 --> Router Class telah di inisialisasi
+INFO - 2018-08-01 11:53:05 --> Output Class telah di inisialisasi
+INFO - 2018-08-01 11:53:05 --> Security Class telah di inisialisasi
+DEBUG - 2018-08-01 11:53:05 --> Global POST, GET dan COOKIE data telah disanitasi
+INFO - 2018-08-01 11:53:05 --> Input Class telah di inisialisasi
+INFO - 2018-08-01 11:53:05 --> Language Class telah di inisialisasi
+INFO - 2018-08-01 11:53:05 --> Loader Class telah di inisialisasi
+INFO - 2018-08-01 11:53:05 --> Helper telah dimuat: url_helper
+INFO - 2018-08-01 11:53:05 --> Controller Class telah di inisialisasi
+DEBUG - 2018-08-01 11:53:05 --> Session: "sess_save_path" kosong; pakai "session.save_path" data dari php.ini.
+INFO - 2018-08-01 11:53:05 --> Session: Class initialized using 'files' driver.
+INFO - 2018-08-01 11:53:05 --> Helper telah dimuat: cookie_helper
+INFO - 2018-08-01 11:53:05 --> File telah dimuat: D:\XAMPP\htdocs\jb\application\views\jebews/html/head.php
+INFO - 2018-08-01 11:53:05 --> File telah dimuat: D:\XAMPP\htdocs\jb\application\views\jebews/product/manage.php
+INFO - 2018-08-01 11:53:05 --> Output akhir dikirim ke browser
+DEBUG - 2018-08-01 11:53:05 --> Total waktu eksekusi: 0.3836
+INFO - 2018-08-01 11:53:05 --> Config Class telah di inisialisasi
+INFO - 2018-08-01 11:53:05 --> Hooks Class telah di inisialisasi
+DEBUG - 2018-08-01 11:53:05 --> UTF-8 Support Aktif
+INFO - 2018-08-01 11:53:05 --> Utf8 Class telah di inisialisasi
+INFO - 2018-08-01 11:53:05 --> URI Class telah di inisialisasi
+INFO - 2018-08-01 11:53:05 --> Router Class telah di inisialisasi
+INFO - 2018-08-01 11:53:05 --> Output Class telah di inisialisasi
+INFO - 2018-08-01 11:53:05 --> Security Class telah di inisialisasi
+DEBUG - 2018-08-01 11:53:06 --> Global POST, GET dan COOKIE data telah disanitasi
+INFO - 2018-08-01 11:53:06 --> Input Class telah di inisialisasi
+INFO - 2018-08-01 11:53:06 --> Language Class telah di inisialisasi
+INFO - 2018-08-01 11:53:06 --> Loader Class telah di inisialisasi
+INFO - 2018-08-01 11:53:06 --> Helper telah dimuat: url_helper
+INFO - 2018-08-01 11:53:06 --> Controller Class telah di inisialisasi
+DEBUG - 2018-08-01 11:53:06 --> Session: "sess_save_path" kosong; pakai "session.save_path" data dari php.ini.
+INFO - 2018-08-01 11:53:06 --> Session: Class initialized using 'files' driver.
+INFO - 2018-08-01 11:53:06 --> Helper telah dimuat: cookie_helper
+INFO - 2018-08-01 11:53:06 --> Database Driver Class telah di inisialisasi
+INFO - 2018-08-01 11:53:06 --> Model "datatable" telah di inisialisasi
+INFO - 2018-08-01 11:53:06 --> Output akhir dikirim ke browser
+DEBUG - 2018-08-01 11:53:06 --> Total waktu eksekusi: 0.4120
+INFO - 2018-08-01 11:53:14 --> Config Class telah di inisialisasi
+INFO - 2018-08-01 11:53:14 --> Hooks Class telah di inisialisasi
+DEBUG - 2018-08-01 11:53:14 --> UTF-8 Support Aktif
+INFO - 2018-08-01 11:53:14 --> Utf8 Class telah di inisialisasi
+INFO - 2018-08-01 11:53:14 --> URI Class telah di inisialisasi
+INFO - 2018-08-01 11:53:14 --> Router Class telah di inisialisasi
+INFO - 2018-08-01 11:53:14 --> Output Class telah di inisialisasi
+INFO - 2018-08-01 11:53:14 --> Security Class telah di inisialisasi
+DEBUG - 2018-08-01 11:53:14 --> Global POST, GET dan COOKIE data telah disanitasi
+INFO - 2018-08-01 11:53:14 --> Input Class telah di inisialisasi
+INFO - 2018-08-01 11:53:14 --> Language Class telah di inisialisasi
+INFO - 2018-08-01 11:53:14 --> Loader Class telah di inisialisasi
+INFO - 2018-08-01 11:53:15 --> Helper telah dimuat: url_helper
+INFO - 2018-08-01 11:53:15 --> Controller Class telah di inisialisasi
+DEBUG - 2018-08-01 11:53:15 --> Session: "sess_save_path" kosong; pakai "session.save_path" data dari php.ini.
+INFO - 2018-08-01 11:53:15 --> Session: Class initialized using 'files' driver.
+INFO - 2018-08-01 11:53:15 --> Helper telah dimuat: cookie_helper
+INFO - 2018-08-01 11:53:15 --> File telah dimuat: D:\XAMPP\htdocs\jb\application\views\jebews/html/head.php
+INFO - 2018-08-01 11:53:15 --> File telah dimuat: D:\XAMPP\htdocs\jb\application\views\jebews/product/manage.php
+INFO - 2018-08-01 11:53:15 --> Output akhir dikirim ke browser
+DEBUG - 2018-08-01 11:53:15 --> Total waktu eksekusi: 0.3806
+INFO - 2018-08-01 11:53:15 --> Config Class telah di inisialisasi
+INFO - 2018-08-01 11:53:15 --> Hooks Class telah di inisialisasi
+DEBUG - 2018-08-01 11:53:15 --> UTF-8 Support Aktif
+INFO - 2018-08-01 11:53:15 --> Utf8 Class telah di inisialisasi
+INFO - 2018-08-01 11:53:15 --> URI Class telah di inisialisasi
+INFO - 2018-08-01 11:53:15 --> Router Class telah di inisialisasi
+INFO - 2018-08-01 11:53:15 --> Output Class telah di inisialisasi
+INFO - 2018-08-01 11:53:15 --> Security Class telah di inisialisasi
+DEBUG - 2018-08-01 11:53:15 --> Global POST, GET dan COOKIE data telah disanitasi
+INFO - 2018-08-01 11:53:15 --> Input Class telah di inisialisasi
+INFO - 2018-08-01 11:53:15 --> Language Class telah di inisialisasi
+INFO - 2018-08-01 11:53:15 --> Loader Class telah di inisialisasi
+INFO - 2018-08-01 11:53:15 --> Helper telah dimuat: url_helper
+INFO - 2018-08-01 11:53:15 --> Controller Class telah di inisialisasi
+DEBUG - 2018-08-01 11:53:15 --> Session: "sess_save_path" kosong; pakai "session.save_path" data dari php.ini.
+INFO - 2018-08-01 11:53:15 --> Session: Class initialized using 'files' driver.
+INFO - 2018-08-01 11:53:15 --> Helper telah dimuat: cookie_helper
+INFO - 2018-08-01 11:53:15 --> Database Driver Class telah di inisialisasi
+INFO - 2018-08-01 11:53:15 --> Model "datatable" telah di inisialisasi
+INFO - 2018-08-01 11:53:15 --> Output akhir dikirim ke browser
+DEBUG - 2018-08-01 11:53:15 --> Total waktu eksekusi: 0.4230
+INFO - 2018-08-01 11:53:22 --> Config Class telah di inisialisasi
+INFO - 2018-08-01 11:53:22 --> Hooks Class telah di inisialisasi
+DEBUG - 2018-08-01 11:53:22 --> UTF-8 Support Aktif
+INFO - 2018-08-01 11:53:22 --> Utf8 Class telah di inisialisasi
+INFO - 2018-08-01 11:53:22 --> URI Class telah di inisialisasi
+INFO - 2018-08-01 11:53:22 --> Router Class telah di inisialisasi
+INFO - 2018-08-01 11:53:22 --> Output Class telah di inisialisasi
+INFO - 2018-08-01 11:53:22 --> Security Class telah di inisialisasi
+DEBUG - 2018-08-01 11:53:22 --> Global POST, GET dan COOKIE data telah disanitasi
+INFO - 2018-08-01 11:53:22 --> Input Class telah di inisialisasi
+INFO - 2018-08-01 11:53:22 --> Language Class telah di inisialisasi
+INFO - 2018-08-01 11:53:22 --> Loader Class telah di inisialisasi
+INFO - 2018-08-01 11:53:22 --> Helper telah dimuat: url_helper
+INFO - 2018-08-01 11:53:22 --> Controller Class telah di inisialisasi
+DEBUG - 2018-08-01 11:53:22 --> Session: "sess_save_path" kosong; pakai "session.save_path" data dari php.ini.
+INFO - 2018-08-01 11:53:22 --> Session: Class initialized using 'files' driver.
+INFO - 2018-08-01 11:53:22 --> Helper telah dimuat: cookie_helper
+INFO - 2018-08-01 11:53:22 --> File telah dimuat: D:\XAMPP\htdocs\jb\application\views\jebews/html/head.php
+INFO - 2018-08-01 11:53:22 --> File telah dimuat: D:\XAMPP\htdocs\jb\application\views\jebews/product/manage.php
+INFO - 2018-08-01 11:53:22 --> Output akhir dikirim ke browser
+DEBUG - 2018-08-01 11:53:22 --> Total waktu eksekusi: 0.3896
+INFO - 2018-08-01 11:53:23 --> Config Class telah di inisialisasi
+INFO - 2018-08-01 11:53:23 --> Hooks Class telah di inisialisasi
+DEBUG - 2018-08-01 11:53:23 --> UTF-8 Support Aktif
+INFO - 2018-08-01 11:53:23 --> Utf8 Class telah di inisialisasi
+INFO - 2018-08-01 11:53:23 --> URI Class telah di inisialisasi
+INFO - 2018-08-01 11:53:23 --> Router Class telah di inisialisasi
+INFO - 2018-08-01 11:53:23 --> Output Class telah di inisialisasi
+INFO - 2018-08-01 11:53:23 --> Security Class telah di inisialisasi
+DEBUG - 2018-08-01 11:53:23 --> Global POST, GET dan COOKIE data telah disanitasi
+INFO - 2018-08-01 11:53:23 --> Input Class telah di inisialisasi
+INFO - 2018-08-01 11:53:23 --> Language Class telah di inisialisasi
+INFO - 2018-08-01 11:53:23 --> Loader Class telah di inisialisasi
+INFO - 2018-08-01 11:53:23 --> Helper telah dimuat: url_helper
+INFO - 2018-08-01 11:53:23 --> Controller Class telah di inisialisasi
+DEBUG - 2018-08-01 11:53:23 --> Session: "sess_save_path" kosong; pakai "session.save_path" data dari php.ini.
+INFO - 2018-08-01 11:53:23 --> Session: Class initialized using 'files' driver.
+INFO - 2018-08-01 11:53:23 --> Helper telah dimuat: cookie_helper
+INFO - 2018-08-01 11:53:23 --> Database Driver Class telah di inisialisasi
+INFO - 2018-08-01 11:53:23 --> Model "datatable" telah di inisialisasi
+INFO - 2018-08-01 11:53:23 --> Output akhir dikirim ke browser
+DEBUG - 2018-08-01 11:53:23 --> Total waktu eksekusi: 0.4130
+INFO - 2018-08-01 11:53:29 --> Config Class telah di inisialisasi
+INFO - 2018-08-01 11:53:29 --> Hooks Class telah di inisialisasi
+DEBUG - 2018-08-01 11:53:29 --> UTF-8 Support Aktif
+INFO - 2018-08-01 11:53:29 --> Utf8 Class telah di inisialisasi
+INFO - 2018-08-01 11:53:29 --> URI Class telah di inisialisasi
+INFO - 2018-08-01 11:53:29 --> Router Class telah di inisialisasi
+INFO - 2018-08-01 11:53:29 --> Output Class telah di inisialisasi
+INFO - 2018-08-01 11:53:29 --> Security Class telah di inisialisasi
+DEBUG - 2018-08-01 11:53:29 --> Global POST, GET dan COOKIE data telah disanitasi
+INFO - 2018-08-01 11:53:29 --> Input Class telah di inisialisasi
+INFO - 2018-08-01 11:53:29 --> Language Class telah di inisialisasi
+INFO - 2018-08-01 11:53:29 --> Loader Class telah di inisialisasi
+INFO - 2018-08-01 11:53:29 --> Helper telah dimuat: url_helper
+INFO - 2018-08-01 11:53:29 --> Controller Class telah di inisialisasi
+DEBUG - 2018-08-01 11:53:29 --> Session: "sess_save_path" kosong; pakai "session.save_path" data dari php.ini.
+INFO - 2018-08-01 11:53:29 --> Session: Class initialized using 'files' driver.
+INFO - 2018-08-01 11:53:29 --> Helper telah dimuat: cookie_helper
+INFO - 2018-08-01 11:53:29 --> File telah dimuat: D:\XAMPP\htdocs\jb\application\views\jebews/html/head.php
+INFO - 2018-08-01 11:53:29 --> File telah dimuat: D:\XAMPP\htdocs\jb\application\views\jebews/product/manage.php
+INFO - 2018-08-01 11:53:29 --> Output akhir dikirim ke browser
+DEBUG - 2018-08-01 11:53:29 --> Total waktu eksekusi: 0.3922
+INFO - 2018-08-01 11:53:29 --> Config Class telah di inisialisasi
+INFO - 2018-08-01 11:53:29 --> Hooks Class telah di inisialisasi
+DEBUG - 2018-08-01 11:53:29 --> UTF-8 Support Aktif
+INFO - 2018-08-01 11:53:29 --> Utf8 Class telah di inisialisasi
+INFO - 2018-08-01 11:53:29 --> URI Class telah di inisialisasi
+INFO - 2018-08-01 11:53:29 --> Router Class telah di inisialisasi
+INFO - 2018-08-01 11:53:29 --> Output Class telah di inisialisasi
+INFO - 2018-08-01 11:53:29 --> Security Class telah di inisialisasi
+DEBUG - 2018-08-01 11:53:29 --> Global POST, GET dan COOKIE data telah disanitasi
+INFO - 2018-08-01 11:53:29 --> Input Class telah di inisialisasi
+INFO - 2018-08-01 11:53:29 --> Language Class telah di inisialisasi
+INFO - 2018-08-01 11:53:29 --> Loader Class telah di inisialisasi
+INFO - 2018-08-01 11:53:29 --> Helper telah dimuat: url_helper
+INFO - 2018-08-01 11:53:30 --> Controller Class telah di inisialisasi
+DEBUG - 2018-08-01 11:53:30 --> Session: "sess_save_path" kosong; pakai "session.save_path" data dari php.ini.
+INFO - 2018-08-01 11:53:30 --> Session: Class initialized using 'files' driver.
+INFO - 2018-08-01 11:53:30 --> Helper telah dimuat: cookie_helper
+INFO - 2018-08-01 11:53:30 --> Database Driver Class telah di inisialisasi
+INFO - 2018-08-01 11:53:30 --> Model "datatable" telah di inisialisasi
+INFO - 2018-08-01 11:53:30 --> Output akhir dikirim ke browser
+DEBUG - 2018-08-01 11:53:30 --> Total waktu eksekusi: 0.4210
+INFO - 2018-08-01 11:53:35 --> Config Class telah di inisialisasi
+INFO - 2018-08-01 11:53:35 --> Hooks Class telah di inisialisasi
+DEBUG - 2018-08-01 11:53:35 --> UTF-8 Support Aktif
+INFO - 2018-08-01 11:53:35 --> Utf8 Class telah di inisialisasi
+INFO - 2018-08-01 11:53:35 --> URI Class telah di inisialisasi
+INFO - 2018-08-01 11:53:35 --> Router Class telah di inisialisasi
+INFO - 2018-08-01 11:53:35 --> Output Class telah di inisialisasi
+INFO - 2018-08-01 11:53:35 --> Security Class telah di inisialisasi
+DEBUG - 2018-08-01 11:53:35 --> Global POST, GET dan COOKIE data telah disanitasi
+INFO - 2018-08-01 11:53:35 --> Input Class telah di inisialisasi
+INFO - 2018-08-01 11:53:35 --> Language Class telah di inisialisasi
+INFO - 2018-08-01 11:53:35 --> Loader Class telah di inisialisasi
+INFO - 2018-08-01 11:53:35 --> Helper telah dimuat: url_helper
+INFO - 2018-08-01 11:53:35 --> Controller Class telah di inisialisasi
+DEBUG - 2018-08-01 11:53:35 --> Session: "sess_save_path" kosong; pakai "session.save_path" data dari php.ini.
+INFO - 2018-08-01 11:53:35 --> Session: Class initialized using 'files' driver.
+INFO - 2018-08-01 11:53:35 --> Helper telah dimuat: cookie_helper
+INFO - 2018-08-01 11:53:35 --> File telah dimuat: D:\XAMPP\htdocs\jb\application\views\jebews/html/head.php
+INFO - 2018-08-01 11:53:35 --> File telah dimuat: D:\XAMPP\htdocs\jb\application\views\jebews/product/manage.php
+INFO - 2018-08-01 11:53:35 --> Output akhir dikirim ke browser
+DEBUG - 2018-08-01 11:53:35 --> Total waktu eksekusi: 0.3856
+INFO - 2018-08-01 11:53:35 --> Config Class telah di inisialisasi
+INFO - 2018-08-01 11:53:35 --> Hooks Class telah di inisialisasi
+DEBUG - 2018-08-01 11:53:35 --> UTF-8 Support Aktif
+INFO - 2018-08-01 11:53:35 --> Utf8 Class telah di inisialisasi
+INFO - 2018-08-01 11:53:35 --> URI Class telah di inisialisasi
+INFO - 2018-08-01 11:53:35 --> Router Class telah di inisialisasi
+INFO - 2018-08-01 11:53:35 --> Output Class telah di inisialisasi
+INFO - 2018-08-01 11:53:35 --> Security Class telah di inisialisasi
+DEBUG - 2018-08-01 11:53:35 --> Global POST, GET dan COOKIE data telah disanitasi
+INFO - 2018-08-01 11:53:35 --> Input Class telah di inisialisasi
+INFO - 2018-08-01 11:53:35 --> Language Class telah di inisialisasi
+INFO - 2018-08-01 11:53:35 --> Loader Class telah di inisialisasi
+INFO - 2018-08-01 11:53:35 --> Helper telah dimuat: url_helper
+INFO - 2018-08-01 11:53:35 --> Controller Class telah di inisialisasi
+DEBUG - 2018-08-01 11:53:35 --> Session: "sess_save_path" kosong; pakai "session.save_path" data dari php.ini.
+INFO - 2018-08-01 11:53:35 --> Session: Class initialized using 'files' driver.
+INFO - 2018-08-01 11:53:35 --> Helper telah dimuat: cookie_helper
+INFO - 2018-08-01 11:53:36 --> Database Driver Class telah di inisialisasi
+INFO - 2018-08-01 11:53:36 --> Model "datatable" telah di inisialisasi
+INFO - 2018-08-01 11:53:36 --> Output akhir dikirim ke browser
+DEBUG - 2018-08-01 11:53:36 --> Total waktu eksekusi: 0.4240
+INFO - 2018-08-01 11:53:46 --> Config Class telah di inisialisasi
+INFO - 2018-08-01 11:53:46 --> Hooks Class telah di inisialisasi
+DEBUG - 2018-08-01 11:53:46 --> UTF-8 Support Aktif
+INFO - 2018-08-01 11:53:46 --> Utf8 Class telah di inisialisasi
+INFO - 2018-08-01 11:53:46 --> URI Class telah di inisialisasi
+INFO - 2018-08-01 11:53:46 --> Router Class telah di inisialisasi
+INFO - 2018-08-01 11:53:46 --> Output Class telah di inisialisasi
+INFO - 2018-08-01 11:53:46 --> Security Class telah di inisialisasi
+DEBUG - 2018-08-01 11:53:46 --> Global POST, GET dan COOKIE data telah disanitasi
+INFO - 2018-08-01 11:53:46 --> Input Class telah di inisialisasi
+INFO - 2018-08-01 11:53:46 --> Language Class telah di inisialisasi
+INFO - 2018-08-01 11:53:46 --> Loader Class telah di inisialisasi
+INFO - 2018-08-01 11:53:46 --> Helper telah dimuat: url_helper
+INFO - 2018-08-01 11:53:46 --> Controller Class telah di inisialisasi
+DEBUG - 2018-08-01 11:53:46 --> Session: "sess_save_path" kosong; pakai "session.save_path" data dari php.ini.
+INFO - 2018-08-01 11:53:46 --> Session: Class initialized using 'files' driver.
+INFO - 2018-08-01 11:53:46 --> Helper telah dimuat: cookie_helper
+INFO - 2018-08-01 11:53:46 --> File telah dimuat: D:\XAMPP\htdocs\jb\application\views\jebews/html/head.php
+INFO - 2018-08-01 11:53:46 --> File telah dimuat: D:\XAMPP\htdocs\jb\application\views\jebews/product/manage.php
+INFO - 2018-08-01 11:53:46 --> Output akhir dikirim ke browser
+DEBUG - 2018-08-01 11:53:46 --> Total waktu eksekusi: 0.3926
+INFO - 2018-08-01 11:53:46 --> Config Class telah di inisialisasi
+INFO - 2018-08-01 11:53:46 --> Hooks Class telah di inisialisasi
+DEBUG - 2018-08-01 11:53:46 --> UTF-8 Support Aktif
+INFO - 2018-08-01 11:53:46 --> Utf8 Class telah di inisialisasi
+INFO - 2018-08-01 11:53:46 --> URI Class telah di inisialisasi
+INFO - 2018-08-01 11:53:46 --> Router Class telah di inisialisasi
+INFO - 2018-08-01 11:53:46 --> Output Class telah di inisialisasi
+INFO - 2018-08-01 11:53:46 --> Security Class telah di inisialisasi
+DEBUG - 2018-08-01 11:53:46 --> Global POST, GET dan COOKIE data telah disanitasi
+INFO - 2018-08-01 11:53:46 --> Input Class telah di inisialisasi
+INFO - 2018-08-01 11:53:46 --> Language Class telah di inisialisasi
+INFO - 2018-08-01 11:53:46 --> Loader Class telah di inisialisasi
+INFO - 2018-08-01 11:53:46 --> Helper telah dimuat: url_helper
+INFO - 2018-08-01 11:53:46 --> Controller Class telah di inisialisasi
+DEBUG - 2018-08-01 11:53:46 --> Session: "sess_save_path" kosong; pakai "session.save_path" data dari php.ini.
+INFO - 2018-08-01 11:53:47 --> Session: Class initialized using 'files' driver.
+INFO - 2018-08-01 11:53:47 --> Helper telah dimuat: cookie_helper
+INFO - 2018-08-01 11:53:47 --> Database Driver Class telah di inisialisasi
+INFO - 2018-08-01 11:53:47 --> Model "datatable" telah di inisialisasi
+INFO - 2018-08-01 11:53:47 --> Output akhir dikirim ke browser
+DEBUG - 2018-08-01 11:53:47 --> Total waktu eksekusi: 0.4240
+INFO - 2018-08-01 11:53:49 --> Config Class telah di inisialisasi
+INFO - 2018-08-01 11:53:49 --> Hooks Class telah di inisialisasi
+DEBUG - 2018-08-01 11:53:49 --> UTF-8 Support Aktif
+INFO - 2018-08-01 11:53:49 --> Utf8 Class telah di inisialisasi
+INFO - 2018-08-01 11:53:49 --> URI Class telah di inisialisasi
+INFO - 2018-08-01 11:53:49 --> Router Class telah di inisialisasi
+INFO - 2018-08-01 11:53:49 --> Output Class telah di inisialisasi
+INFO - 2018-08-01 11:53:49 --> Security Class telah di inisialisasi
+DEBUG - 2018-08-01 11:53:49 --> Global POST, GET dan COOKIE data telah disanitasi
+INFO - 2018-08-01 11:53:49 --> Input Class telah di inisialisasi
+INFO - 2018-08-01 11:53:49 --> Language Class telah di inisialisasi
+INFO - 2018-08-01 11:53:49 --> Loader Class telah di inisialisasi
+INFO - 2018-08-01 11:53:49 --> Helper telah dimuat: url_helper
+INFO - 2018-08-01 11:53:49 --> Controller Class telah di inisialisasi
+DEBUG - 2018-08-01 11:53:49 --> Session: "sess_save_path" kosong; pakai "session.save_path" data dari php.ini.
+INFO - 2018-08-01 11:53:49 --> Session: Class initialized using 'files' driver.
+INFO - 2018-08-01 11:53:49 --> Helper telah dimuat: cookie_helper
+INFO - 2018-08-01 11:53:49 --> Database Driver Class telah di inisialisasi
+INFO - 2018-08-01 11:53:49 --> Model "datatable" telah di inisialisasi
+INFO - 2018-08-01 11:53:49 --> Output akhir dikirim ke browser
+DEBUG - 2018-08-01 11:53:49 --> Total waktu eksekusi: 0.3930
+INFO - 2018-08-01 11:53:52 --> Config Class telah di inisialisasi
+INFO - 2018-08-01 11:53:52 --> Hooks Class telah di inisialisasi
+DEBUG - 2018-08-01 11:53:52 --> UTF-8 Support Aktif
+INFO - 2018-08-01 11:53:52 --> Utf8 Class telah di inisialisasi
+INFO - 2018-08-01 11:53:52 --> URI Class telah di inisialisasi
+INFO - 2018-08-01 11:53:52 --> Router Class telah di inisialisasi
+INFO - 2018-08-01 11:53:52 --> Output Class telah di inisialisasi
+INFO - 2018-08-01 11:53:52 --> Security Class telah di inisialisasi
+DEBUG - 2018-08-01 11:53:52 --> Global POST, GET dan COOKIE data telah disanitasi
+INFO - 2018-08-01 11:53:52 --> Input Class telah di inisialisasi
+INFO - 2018-08-01 11:53:52 --> Language Class telah di inisialisasi
+INFO - 2018-08-01 11:53:52 --> Loader Class telah di inisialisasi
+INFO - 2018-08-01 11:53:53 --> Helper telah dimuat: url_helper
+INFO - 2018-08-01 11:53:53 --> Controller Class telah di inisialisasi
+DEBUG - 2018-08-01 11:53:53 --> Session: "sess_save_path" kosong; pakai "session.save_path" data dari php.ini.
+INFO - 2018-08-01 11:53:53 --> Session: Class initialized using 'files' driver.
+INFO - 2018-08-01 11:53:53 --> Helper telah dimuat: cookie_helper
+INFO - 2018-08-01 11:53:53 --> Database Driver Class telah di inisialisasi
+INFO - 2018-08-01 11:53:53 --> Model "datatable" telah di inisialisasi
+INFO - 2018-08-01 11:53:53 --> Output akhir dikirim ke browser
+DEBUG - 2018-08-01 11:53:53 --> Total waktu eksekusi: 0.3842
+INFO - 2018-08-01 11:53:54 --> Config Class telah di inisialisasi
+INFO - 2018-08-01 11:53:54 --> Hooks Class telah di inisialisasi
+DEBUG - 2018-08-01 11:53:54 --> UTF-8 Support Aktif
+INFO - 2018-08-01 11:53:54 --> Utf8 Class telah di inisialisasi
+INFO - 2018-08-01 11:53:54 --> URI Class telah di inisialisasi
+INFO - 2018-08-01 11:53:54 --> Router Class telah di inisialisasi
+INFO - 2018-08-01 11:53:54 --> Output Class telah di inisialisasi
+INFO - 2018-08-01 11:53:54 --> Security Class telah di inisialisasi
+DEBUG - 2018-08-01 11:53:54 --> Global POST, GET dan COOKIE data telah disanitasi
+INFO - 2018-08-01 11:53:54 --> Input Class telah di inisialisasi
+INFO - 2018-08-01 11:53:54 --> Language Class telah di inisialisasi
+INFO - 2018-08-01 11:53:54 --> Loader Class telah di inisialisasi
+INFO - 2018-08-01 11:53:54 --> Helper telah dimuat: url_helper
+INFO - 2018-08-01 11:53:54 --> Controller Class telah di inisialisasi
+DEBUG - 2018-08-01 11:53:54 --> Session: "sess_save_path" kosong; pakai "session.save_path" data dari php.ini.
+INFO - 2018-08-01 11:53:54 --> Session: Class initialized using 'files' driver.
+INFO - 2018-08-01 11:53:54 --> Helper telah dimuat: cookie_helper
+INFO - 2018-08-01 11:53:54 --> Database Driver Class telah di inisialisasi
+INFO - 2018-08-01 11:53:54 --> Model "datatable" telah di inisialisasi
+INFO - 2018-08-01 11:53:54 --> Output akhir dikirim ke browser
+DEBUG - 2018-08-01 11:53:54 --> Total waktu eksekusi: 0.3898
+INFO - 2018-08-01 11:53:55 --> Config Class telah di inisialisasi
+INFO - 2018-08-01 11:53:55 --> Hooks Class telah di inisialisasi
+DEBUG - 2018-08-01 11:53:55 --> UTF-8 Support Aktif
+INFO - 2018-08-01 11:53:55 --> Utf8 Class telah di inisialisasi
+INFO - 2018-08-01 11:53:55 --> URI Class telah di inisialisasi
+INFO - 2018-08-01 11:53:55 --> Router Class telah di inisialisasi
+INFO - 2018-08-01 11:53:55 --> Output Class telah di inisialisasi
+INFO - 2018-08-01 11:53:55 --> Security Class telah di inisialisasi
+DEBUG - 2018-08-01 11:53:55 --> Global POST, GET dan COOKIE data telah disanitasi
+INFO - 2018-08-01 11:53:55 --> Input Class telah di inisialisasi
+INFO - 2018-08-01 11:53:55 --> Language Class telah di inisialisasi
+INFO - 2018-08-01 11:53:55 --> Loader Class telah di inisialisasi
+INFO - 2018-08-01 11:53:55 --> Helper telah dimuat: url_helper
+INFO - 2018-08-01 11:53:55 --> Controller Class telah di inisialisasi
+DEBUG - 2018-08-01 11:53:55 --> Session: "sess_save_path" kosong; pakai "session.save_path" data dari php.ini.
+INFO - 2018-08-01 11:53:55 --> Session: Class initialized using 'files' driver.
+INFO - 2018-08-01 11:53:55 --> Helper telah dimuat: cookie_helper
+INFO - 2018-08-01 11:53:55 --> Database Driver Class telah di inisialisasi
+INFO - 2018-08-01 11:53:55 --> Model "datatable" telah di inisialisasi
+INFO - 2018-08-01 11:53:55 --> Output akhir dikirim ke browser
+INFO - 2018-08-01 11:53:55 --> Config Class telah di inisialisasi
+INFO - 2018-08-01 11:53:55 --> Hooks Class telah di inisialisasi
+DEBUG - 2018-08-01 11:53:55 --> Total waktu eksekusi: 0.4000
+DEBUG - 2018-08-01 11:53:55 --> UTF-8 Support Aktif
+INFO - 2018-08-01 11:53:55 --> Utf8 Class telah di inisialisasi
+INFO - 2018-08-01 11:53:55 --> URI Class telah di inisialisasi
+INFO - 2018-08-01 11:53:55 --> Router Class telah di inisialisasi
+INFO - 2018-08-01 11:53:55 --> Output Class telah di inisialisasi
+INFO - 2018-08-01 11:53:55 --> Security Class telah di inisialisasi
+DEBUG - 2018-08-01 11:53:55 --> Global POST, GET dan COOKIE data telah disanitasi
+INFO - 2018-08-01 11:53:55 --> Input Class telah di inisialisasi
+INFO - 2018-08-01 11:53:55 --> Language Class telah di inisialisasi
+INFO - 2018-08-01 11:53:55 --> Loader Class telah di inisialisasi
+INFO - 2018-08-01 11:53:55 --> Helper telah dimuat: url_helper
+INFO - 2018-08-01 11:53:55 --> Controller Class telah di inisialisasi
+DEBUG - 2018-08-01 11:53:55 --> Session: "sess_save_path" kosong; pakai "session.save_path" data dari php.ini.
+INFO - 2018-08-01 11:53:55 --> Session: Class initialized using 'files' driver.
+INFO - 2018-08-01 11:53:55 --> Helper telah dimuat: cookie_helper
+INFO - 2018-08-01 11:53:55 --> Database Driver Class telah di inisialisasi
+INFO - 2018-08-01 11:53:55 --> Model "datatable" telah di inisialisasi
+INFO - 2018-08-01 11:53:55 --> Output akhir dikirim ke browser
+DEBUG - 2018-08-01 11:53:55 --> Total waktu eksekusi: 0.3846
+INFO - 2018-08-01 11:53:57 --> Config Class telah di inisialisasi
+INFO - 2018-08-01 11:53:57 --> Hooks Class telah di inisialisasi
+DEBUG - 2018-08-01 11:53:57 --> UTF-8 Support Aktif
+INFO - 2018-08-01 11:53:57 --> Utf8 Class telah di inisialisasi
+INFO - 2018-08-01 11:53:57 --> URI Class telah di inisialisasi
+INFO - 2018-08-01 11:53:57 --> Router Class telah di inisialisasi
+INFO - 2018-08-01 11:53:57 --> Output Class telah di inisialisasi
+INFO - 2018-08-01 11:53:57 --> Security Class telah di inisialisasi
+DEBUG - 2018-08-01 11:53:57 --> Global POST, GET dan COOKIE data telah disanitasi
+INFO - 2018-08-01 11:53:57 --> Input Class telah di inisialisasi
+INFO - 2018-08-01 11:53:57 --> Language Class telah di inisialisasi
+INFO - 2018-08-01 11:53:57 --> Loader Class telah di inisialisasi
+INFO - 2018-08-01 11:53:57 --> Helper telah dimuat: url_helper
+INFO - 2018-08-01 11:53:57 --> Controller Class telah di inisialisasi
+DEBUG - 2018-08-01 11:53:57 --> Session: "sess_save_path" kosong; pakai "session.save_path" data dari php.ini.
+INFO - 2018-08-01 11:53:57 --> Session: Class initialized using 'files' driver.
+INFO - 2018-08-01 11:53:57 --> Helper telah dimuat: cookie_helper
+INFO - 2018-08-01 11:53:57 --> Database Driver Class telah di inisialisasi
+INFO - 2018-08-01 11:53:57 --> Model "datatable" telah di inisialisasi
+INFO - 2018-08-01 11:53:57 --> Output akhir dikirim ke browser
+DEBUG - 2018-08-01 11:53:57 --> Total waktu eksekusi: 0.3852
+INFO - 2018-08-01 11:53:58 --> Config Class telah di inisialisasi
+INFO - 2018-08-01 11:53:58 --> Hooks Class telah di inisialisasi
+DEBUG - 2018-08-01 11:53:58 --> UTF-8 Support Aktif
+INFO - 2018-08-01 11:53:58 --> Utf8 Class telah di inisialisasi
+INFO - 2018-08-01 11:53:58 --> URI Class telah di inisialisasi
+INFO - 2018-08-01 11:53:58 --> Router Class telah di inisialisasi
+INFO - 2018-08-01 11:53:58 --> Output Class telah di inisialisasi
+INFO - 2018-08-01 11:53:58 --> Security Class telah di inisialisasi
+DEBUG - 2018-08-01 11:53:58 --> Global POST, GET dan COOKIE data telah disanitasi
+INFO - 2018-08-01 11:53:58 --> Input Class telah di inisialisasi
+INFO - 2018-08-01 11:53:58 --> Language Class telah di inisialisasi
+INFO - 2018-08-01 11:53:58 --> Loader Class telah di inisialisasi
+INFO - 2018-08-01 11:53:58 --> Helper telah dimuat: url_helper
+INFO - 2018-08-01 11:53:58 --> Controller Class telah di inisialisasi
+DEBUG - 2018-08-01 11:53:58 --> Session: "sess_save_path" kosong; pakai "session.save_path" data dari php.ini.
+INFO - 2018-08-01 11:53:58 --> Session: Class initialized using 'files' driver.
+INFO - 2018-08-01 11:53:58 --> Helper telah dimuat: cookie_helper
+INFO - 2018-08-01 11:53:59 --> Database Driver Class telah di inisialisasi
+INFO - 2018-08-01 11:53:59 --> Model "datatable" telah di inisialisasi
+INFO - 2018-08-01 11:53:59 --> Output akhir dikirim ke browser
+DEBUG - 2018-08-01 11:53:59 --> Total waktu eksekusi: 0.3948
+INFO - 2018-08-01 11:54:00 --> Config Class telah di inisialisasi
+INFO - 2018-08-01 11:54:00 --> Hooks Class telah di inisialisasi
+DEBUG - 2018-08-01 11:54:00 --> UTF-8 Support Aktif
+INFO - 2018-08-01 11:54:00 --> Utf8 Class telah di inisialisasi
+INFO - 2018-08-01 11:54:00 --> URI Class telah di inisialisasi
+INFO - 2018-08-01 11:54:00 --> Router Class telah di inisialisasi
+INFO - 2018-08-01 11:54:00 --> Output Class telah di inisialisasi
+INFO - 2018-08-01 11:54:00 --> Security Class telah di inisialisasi
+DEBUG - 2018-08-01 11:54:00 --> Global POST, GET dan COOKIE data telah disanitasi
+INFO - 2018-08-01 11:54:00 --> Input Class telah di inisialisasi
+INFO - 2018-08-01 11:54:00 --> Language Class telah di inisialisasi
+INFO - 2018-08-01 11:54:00 --> Loader Class telah di inisialisasi
+INFO - 2018-08-01 11:54:00 --> Helper telah dimuat: url_helper
+INFO - 2018-08-01 11:54:00 --> Controller Class telah di inisialisasi
+DEBUG - 2018-08-01 11:54:00 --> Session: "sess_save_path" kosong; pakai "session.save_path" data dari php.ini.
+INFO - 2018-08-01 11:54:00 --> Session: Class initialized using 'files' driver.
+INFO - 2018-08-01 11:54:00 --> Helper telah dimuat: cookie_helper
+INFO - 2018-08-01 11:54:00 --> Database Driver Class telah di inisialisasi
+INFO - 2018-08-01 11:54:00 --> Model "datatable" telah di inisialisasi
+INFO - 2018-08-01 11:54:00 --> Output akhir dikirim ke browser
+DEBUG - 2018-08-01 11:54:00 --> Total waktu eksekusi: 0.4140
+INFO - 2018-08-01 11:54:00 --> Config Class telah di inisialisasi
+INFO - 2018-08-01 11:54:00 --> Hooks Class telah di inisialisasi
+DEBUG - 2018-08-01 11:54:00 --> UTF-8 Support Aktif
+INFO - 2018-08-01 11:54:00 --> Utf8 Class telah di inisialisasi
+INFO - 2018-08-01 11:54:00 --> URI Class telah di inisialisasi
+INFO - 2018-08-01 11:54:00 --> Router Class telah di inisialisasi
+INFO - 2018-08-01 11:54:00 --> Output Class telah di inisialisasi
+INFO - 2018-08-01 11:54:00 --> Security Class telah di inisialisasi
+DEBUG - 2018-08-01 11:54:00 --> Global POST, GET dan COOKIE data telah disanitasi
+INFO - 2018-08-01 11:54:00 --> Input Class telah di inisialisasi
+INFO - 2018-08-01 11:54:00 --> Language Class telah di inisialisasi
+INFO - 2018-08-01 11:54:00 --> Loader Class telah di inisialisasi
+INFO - 2018-08-01 11:54:00 --> Helper telah dimuat: url_helper
+INFO - 2018-08-01 11:54:00 --> Controller Class telah di inisialisasi
+DEBUG - 2018-08-01 11:54:00 --> Session: "sess_save_path" kosong; pakai "session.save_path" data dari php.ini.
+INFO - 2018-08-01 11:54:00 --> Session: Class initialized using 'files' driver.
+INFO - 2018-08-01 11:54:00 --> Helper telah dimuat: cookie_helper
+INFO - 2018-08-01 11:54:00 --> Database Driver Class telah di inisialisasi
+INFO - 2018-08-01 11:54:00 --> Model "datatable" telah di inisialisasi
+INFO - 2018-08-01 11:54:00 --> Output akhir dikirim ke browser
+DEBUG - 2018-08-01 11:54:00 --> Total waktu eksekusi: 0.3842
+INFO - 2018-08-01 11:54:01 --> Config Class telah di inisialisasi
+INFO - 2018-08-01 11:54:01 --> Hooks Class telah di inisialisasi
+DEBUG - 2018-08-01 11:54:01 --> UTF-8 Support Aktif
+INFO - 2018-08-01 11:54:01 --> Utf8 Class telah di inisialisasi
+INFO - 2018-08-01 11:54:01 --> URI Class telah di inisialisasi
+INFO - 2018-08-01 11:54:01 --> Router Class telah di inisialisasi
+INFO - 2018-08-01 11:54:01 --> Output Class telah di inisialisasi
+INFO - 2018-08-01 11:54:01 --> Security Class telah di inisialisasi
+DEBUG - 2018-08-01 11:54:01 --> Global POST, GET dan COOKIE data telah disanitasi
+INFO - 2018-08-01 11:54:01 --> Input Class telah di inisialisasi
+INFO - 2018-08-01 11:54:01 --> Language Class telah di inisialisasi
+INFO - 2018-08-01 11:54:01 --> Loader Class telah di inisialisasi
+INFO - 2018-08-01 11:54:01 --> Helper telah dimuat: url_helper
+INFO - 2018-08-01 11:54:01 --> Controller Class telah di inisialisasi
+DEBUG - 2018-08-01 11:54:01 --> Session: "sess_save_path" kosong; pakai "session.save_path" data dari php.ini.
+INFO - 2018-08-01 11:54:01 --> Session: Class initialized using 'files' driver.
+INFO - 2018-08-01 11:54:01 --> Helper telah dimuat: cookie_helper
+INFO - 2018-08-01 11:54:01 --> Database Driver Class telah di inisialisasi
+INFO - 2018-08-01 11:54:01 --> Model "datatable" telah di inisialisasi
+INFO - 2018-08-01 11:54:01 --> Output akhir dikirim ke browser
+DEBUG - 2018-08-01 11:54:01 --> Total waktu eksekusi: 0.4128
+INFO - 2018-08-01 11:54:02 --> Config Class telah di inisialisasi
+INFO - 2018-08-01 11:54:02 --> Hooks Class telah di inisialisasi
+DEBUG - 2018-08-01 11:54:02 --> UTF-8 Support Aktif
+INFO - 2018-08-01 11:54:02 --> Utf8 Class telah di inisialisasi
+INFO - 2018-08-01 11:54:02 --> URI Class telah di inisialisasi
+INFO - 2018-08-01 11:54:02 --> Router Class telah di inisialisasi
+INFO - 2018-08-01 11:54:02 --> Output Class telah di inisialisasi
+INFO - 2018-08-01 11:54:02 --> Security Class telah di inisialisasi
+DEBUG - 2018-08-01 11:54:02 --> Global POST, GET dan COOKIE data telah disanitasi
+INFO - 2018-08-01 11:54:02 --> Input Class telah di inisialisasi
+INFO - 2018-08-01 11:54:02 --> Language Class telah di inisialisasi
+INFO - 2018-08-01 11:54:02 --> Loader Class telah di inisialisasi
+INFO - 2018-08-01 11:54:02 --> Helper telah dimuat: url_helper
+INFO - 2018-08-01 11:54:02 --> Controller Class telah di inisialisasi
+DEBUG - 2018-08-01 11:54:02 --> Session: "sess_save_path" kosong; pakai "session.save_path" data dari php.ini.
+INFO - 2018-08-01 11:54:02 --> Session: Class initialized using 'files' driver.
+INFO - 2018-08-01 11:54:02 --> Helper telah dimuat: cookie_helper
+INFO - 2018-08-01 11:54:02 --> Database Driver Class telah di inisialisasi
+INFO - 2018-08-01 11:54:02 --> Model "datatable" telah di inisialisasi
+INFO - 2018-08-01 11:54:02 --> Output akhir dikirim ke browser
+DEBUG - 2018-08-01 11:54:02 --> Total waktu eksekusi: 0.4304
+INFO - 2018-08-01 11:54:03 --> Config Class telah di inisialisasi
+INFO - 2018-08-01 11:54:03 --> Hooks Class telah di inisialisasi
+DEBUG - 2018-08-01 11:54:03 --> UTF-8 Support Aktif
+INFO - 2018-08-01 11:54:03 --> Utf8 Class telah di inisialisasi
+INFO - 2018-08-01 11:54:03 --> URI Class telah di inisialisasi
+INFO - 2018-08-01 11:54:03 --> Router Class telah di inisialisasi
+INFO - 2018-08-01 11:54:03 --> Output Class telah di inisialisasi
+INFO - 2018-08-01 11:54:03 --> Security Class telah di inisialisasi
+DEBUG - 2018-08-01 11:54:03 --> Global POST, GET dan COOKIE data telah disanitasi
+INFO - 2018-08-01 11:54:03 --> Input Class telah di inisialisasi
+INFO - 2018-08-01 11:54:03 --> Language Class telah di inisialisasi
+INFO - 2018-08-01 11:54:03 --> Loader Class telah di inisialisasi
+INFO - 2018-08-01 11:54:03 --> Helper telah dimuat: url_helper
+INFO - 2018-08-01 11:54:03 --> Controller Class telah di inisialisasi
+DEBUG - 2018-08-01 11:54:03 --> Session: "sess_save_path" kosong; pakai "session.save_path" data dari php.ini.
+INFO - 2018-08-01 11:54:03 --> Session: Class initialized using 'files' driver.
+INFO - 2018-08-01 11:54:03 --> Helper telah dimuat: cookie_helper
+INFO - 2018-08-01 11:54:03 --> Database Driver Class telah di inisialisasi
+INFO - 2018-08-01 11:54:03 --> Model "datatable" telah di inisialisasi
+INFO - 2018-08-01 11:54:03 --> Output akhir dikirim ke browser
+DEBUG - 2018-08-01 11:54:03 --> Total waktu eksekusi: 0.4050
+INFO - 2018-08-01 11:54:03 --> Config Class telah di inisialisasi
+INFO - 2018-08-01 11:54:03 --> Hooks Class telah di inisialisasi
+DEBUG - 2018-08-01 11:54:03 --> UTF-8 Support Aktif
+INFO - 2018-08-01 11:54:03 --> Utf8 Class telah di inisialisasi
+INFO - 2018-08-01 11:54:03 --> URI Class telah di inisialisasi
+INFO - 2018-08-01 11:54:03 --> Router Class telah di inisialisasi
+INFO - 2018-08-01 11:54:03 --> Output Class telah di inisialisasi
+INFO - 2018-08-01 11:54:03 --> Security Class telah di inisialisasi
+DEBUG - 2018-08-01 11:54:03 --> Global POST, GET dan COOKIE data telah disanitasi
+INFO - 2018-08-01 11:54:03 --> Input Class telah di inisialisasi
+INFO - 2018-08-01 11:54:03 --> Language Class telah di inisialisasi
+INFO - 2018-08-01 11:54:03 --> Loader Class telah di inisialisasi
+INFO - 2018-08-01 11:54:04 --> Helper telah dimuat: url_helper
+INFO - 2018-08-01 11:54:04 --> Controller Class telah di inisialisasi
+DEBUG - 2018-08-01 11:54:04 --> Session: "sess_save_path" kosong; pakai "session.save_path" data dari php.ini.
+INFO - 2018-08-01 11:54:04 --> Session: Class initialized using 'files' driver.
+INFO - 2018-08-01 11:54:04 --> Helper telah dimuat: cookie_helper
+INFO - 2018-08-01 11:54:04 --> Database Driver Class telah di inisialisasi
+INFO - 2018-08-01 11:54:04 --> Config Class telah di inisialisasi
+INFO - 2018-08-01 11:54:04 --> Hooks Class telah di inisialisasi
+DEBUG - 2018-08-01 11:54:04 --> UTF-8 Support Aktif
+INFO - 2018-08-01 11:54:04 --> Utf8 Class telah di inisialisasi
+INFO - 2018-08-01 11:54:04 --> URI Class telah di inisialisasi
+INFO - 2018-08-01 11:54:04 --> Router Class telah di inisialisasi
+INFO - 2018-08-01 11:54:04 --> Output Class telah di inisialisasi
+INFO - 2018-08-01 11:54:04 --> Security Class telah di inisialisasi
+DEBUG - 2018-08-01 11:54:04 --> Global POST, GET dan COOKIE data telah disanitasi
+INFO - 2018-08-01 11:54:04 --> Input Class telah di inisialisasi
+INFO - 2018-08-01 11:54:04 --> Language Class telah di inisialisasi
+INFO - 2018-08-01 11:54:04 --> Loader Class telah di inisialisasi
+INFO - 2018-08-01 11:54:04 --> Helper telah dimuat: url_helper
+INFO - 2018-08-01 11:54:04 --> Controller Class telah di inisialisasi
+DEBUG - 2018-08-01 11:54:04 --> Session: "sess_save_path" kosong; pakai "session.save_path" data dari php.ini.
+INFO - 2018-08-01 11:54:04 --> Model "datatable" telah di inisialisasi
+INFO - 2018-08-01 11:54:04 --> Output akhir dikirim ke browser
+DEBUG - 2018-08-01 11:54:04 --> Total waktu eksekusi: 0.9872
+INFO - 2018-08-01 11:54:04 --> Session: Class initialized using 'files' driver.
+INFO - 2018-08-01 11:54:04 --> Helper telah dimuat: cookie_helper
+INFO - 2018-08-01 11:54:04 --> Database Driver Class telah di inisialisasi
+INFO - 2018-08-01 11:54:04 --> Model "datatable" telah di inisialisasi
+INFO - 2018-08-01 11:54:04 --> Output akhir dikirim ke browser
+DEBUG - 2018-08-01 11:54:04 --> Total waktu eksekusi: 0.5982
+INFO - 2018-08-01 11:54:06 --> Config Class telah di inisialisasi
+INFO - 2018-08-01 11:54:06 --> Hooks Class telah di inisialisasi
+DEBUG - 2018-08-01 11:54:06 --> UTF-8 Support Aktif
+INFO - 2018-08-01 11:54:06 --> Utf8 Class telah di inisialisasi
+INFO - 2018-08-01 11:54:06 --> URI Class telah di inisialisasi
+INFO - 2018-08-01 11:54:07 --> Router Class telah di inisialisasi
+INFO - 2018-08-01 11:54:07 --> Output Class telah di inisialisasi
+INFO - 2018-08-01 11:54:07 --> Security Class telah di inisialisasi
+DEBUG - 2018-08-01 11:54:07 --> Global POST, GET dan COOKIE data telah disanitasi
+INFO - 2018-08-01 11:54:07 --> Input Class telah di inisialisasi
+INFO - 2018-08-01 11:54:07 --> Language Class telah di inisialisasi
+INFO - 2018-08-01 11:54:07 --> Loader Class telah di inisialisasi
+INFO - 2018-08-01 11:54:07 --> Helper telah dimuat: url_helper
+INFO - 2018-08-01 11:54:07 --> Controller Class telah di inisialisasi
+DEBUG - 2018-08-01 11:54:07 --> Session: "sess_save_path" kosong; pakai "session.save_path" data dari php.ini.
+INFO - 2018-08-01 11:54:07 --> Session: Class initialized using 'files' driver.
+INFO - 2018-08-01 11:54:07 --> Helper telah dimuat: cookie_helper
+INFO - 2018-08-01 11:54:07 --> Database Driver Class telah di inisialisasi
+INFO - 2018-08-01 11:54:07 --> Model "datatable" telah di inisialisasi
+INFO - 2018-08-01 11:54:07 --> Output akhir dikirim ke browser
+DEBUG - 2018-08-01 11:54:07 --> Total waktu eksekusi: 0.3934
+INFO - 2018-08-01 11:54:09 --> Config Class telah di inisialisasi
+INFO - 2018-08-01 11:54:09 --> Hooks Class telah di inisialisasi
+DEBUG - 2018-08-01 11:54:09 --> UTF-8 Support Aktif
+INFO - 2018-08-01 11:54:09 --> Utf8 Class telah di inisialisasi
+INFO - 2018-08-01 11:54:09 --> URI Class telah di inisialisasi
+INFO - 2018-08-01 11:54:09 --> Router Class telah di inisialisasi
+INFO - 2018-08-01 11:54:09 --> Output Class telah di inisialisasi
+INFO - 2018-08-01 11:54:09 --> Security Class telah di inisialisasi
+DEBUG - 2018-08-01 11:54:09 --> Global POST, GET dan COOKIE data telah disanitasi
+INFO - 2018-08-01 11:54:09 --> Input Class telah di inisialisasi
+INFO - 2018-08-01 11:54:09 --> Language Class telah di inisialisasi
+INFO - 2018-08-01 11:54:09 --> Loader Class telah di inisialisasi
+INFO - 2018-08-01 11:54:09 --> Helper telah dimuat: url_helper
+INFO - 2018-08-01 11:54:09 --> Controller Class telah di inisialisasi
+DEBUG - 2018-08-01 11:54:09 --> Session: "sess_save_path" kosong; pakai "session.save_path" data dari php.ini.
+INFO - 2018-08-01 11:54:09 --> Session: Class initialized using 'files' driver.
+INFO - 2018-08-01 11:54:09 --> Helper telah dimuat: cookie_helper
+INFO - 2018-08-01 11:54:09 --> Database Driver Class telah di inisialisasi
+INFO - 2018-08-01 11:54:09 --> Model "datatable" telah di inisialisasi
+INFO - 2018-08-01 11:54:09 --> Output akhir dikirim ke browser
+DEBUG - 2018-08-01 11:54:09 --> Total waktu eksekusi: 0.3990
+INFO - 2018-08-01 11:54:13 --> Config Class telah di inisialisasi
+INFO - 2018-08-01 11:54:13 --> Hooks Class telah di inisialisasi
+DEBUG - 2018-08-01 11:54:13 --> UTF-8 Support Aktif
+INFO - 2018-08-01 11:54:13 --> Utf8 Class telah di inisialisasi
+INFO - 2018-08-01 11:54:13 --> URI Class telah di inisialisasi
+INFO - 2018-08-01 11:54:13 --> Router Class telah di inisialisasi
+INFO - 2018-08-01 11:54:13 --> Output Class telah di inisialisasi
+INFO - 2018-08-01 11:54:13 --> Security Class telah di inisialisasi
+DEBUG - 2018-08-01 11:54:13 --> Global POST, GET dan COOKIE data telah disanitasi
+INFO - 2018-08-01 11:54:13 --> Input Class telah di inisialisasi
+INFO - 2018-08-01 11:54:14 --> Language Class telah di inisialisasi
+INFO - 2018-08-01 11:54:14 --> Loader Class telah di inisialisasi
+INFO - 2018-08-01 11:54:14 --> Helper telah dimuat: url_helper
+INFO - 2018-08-01 11:54:14 --> Controller Class telah di inisialisasi
+DEBUG - 2018-08-01 11:54:14 --> Session: "sess_save_path" kosong; pakai "session.save_path" data dari php.ini.
+INFO - 2018-08-01 11:54:14 --> Session: Class initialized using 'files' driver.
+INFO - 2018-08-01 11:54:14 --> Helper telah dimuat: cookie_helper
+INFO - 2018-08-01 11:54:14 --> Database Driver Class telah di inisialisasi
+INFO - 2018-08-01 11:54:14 --> Model "datatable" telah di inisialisasi
+INFO - 2018-08-01 11:54:14 --> Output akhir dikirim ke browser
+DEBUG - 2018-08-01 11:54:14 --> Total waktu eksekusi: 0.4080
+INFO - 2018-08-01 11:54:14 --> Config Class telah di inisialisasi
+INFO - 2018-08-01 11:54:14 --> Hooks Class telah di inisialisasi
+DEBUG - 2018-08-01 11:54:14 --> UTF-8 Support Aktif
+INFO - 2018-08-01 11:54:14 --> Utf8 Class telah di inisialisasi
+INFO - 2018-08-01 11:54:14 --> URI Class telah di inisialisasi
+INFO - 2018-08-01 11:54:14 --> Router Class telah di inisialisasi
+INFO - 2018-08-01 11:54:14 --> Output Class telah di inisialisasi
+INFO - 2018-08-01 11:54:14 --> Security Class telah di inisialisasi
+DEBUG - 2018-08-01 11:54:14 --> Global POST, GET dan COOKIE data telah disanitasi
+INFO - 2018-08-01 11:54:14 --> Input Class telah di inisialisasi
+INFO - 2018-08-01 11:54:14 --> Language Class telah di inisialisasi
+INFO - 2018-08-01 11:54:14 --> Loader Class telah di inisialisasi
+INFO - 2018-08-01 11:54:14 --> Helper telah dimuat: url_helper
+INFO - 2018-08-01 11:54:14 --> Controller Class telah di inisialisasi
+DEBUG - 2018-08-01 11:54:14 --> Session: "sess_save_path" kosong; pakai "session.save_path" data dari php.ini.
+INFO - 2018-08-01 11:54:14 --> Session: Class initialized using 'files' driver.
+INFO - 2018-08-01 11:54:14 --> Helper telah dimuat: cookie_helper
+INFO - 2018-08-01 11:54:14 --> Database Driver Class telah di inisialisasi
+INFO - 2018-08-01 11:54:14 --> Config Class telah di inisialisasi
+INFO - 2018-08-01 11:54:15 --> Hooks Class telah di inisialisasi
+DEBUG - 2018-08-01 11:54:15 --> UTF-8 Support Aktif
+INFO - 2018-08-01 11:54:15 --> Utf8 Class telah di inisialisasi
+INFO - 2018-08-01 11:54:15 --> URI Class telah di inisialisasi
+INFO - 2018-08-01 11:54:15 --> Router Class telah di inisialisasi
+INFO - 2018-08-01 11:54:15 --> Output Class telah di inisialisasi
+INFO - 2018-08-01 11:54:15 --> Security Class telah di inisialisasi
+DEBUG - 2018-08-01 11:54:15 --> Global POST, GET dan COOKIE data telah disanitasi
+INFO - 2018-08-01 11:54:15 --> Input Class telah di inisialisasi
+INFO - 2018-08-01 11:54:15 --> Language Class telah di inisialisasi
+INFO - 2018-08-01 11:54:15 --> Loader Class telah di inisialisasi
+INFO - 2018-08-01 11:54:15 --> Helper telah dimuat: url_helper
+INFO - 2018-08-01 11:54:15 --> Model "datatable" telah di inisialisasi
+INFO - 2018-08-01 11:54:15 --> Controller Class telah di inisialisasi
+INFO - 2018-08-01 11:54:15 --> Output akhir dikirim ke browser
+DEBUG - 2018-08-01 11:54:15 --> Total waktu eksekusi: 0.7046
+DEBUG - 2018-08-01 11:54:15 --> Session: "sess_save_path" kosong; pakai "session.save_path" data dari php.ini.
+INFO - 2018-08-01 11:54:15 --> Session: Class initialized using 'files' driver.
+INFO - 2018-08-01 11:54:15 --> Helper telah dimuat: cookie_helper
+INFO - 2018-08-01 11:54:15 --> Database Driver Class telah di inisialisasi
+INFO - 2018-08-01 11:54:15 --> Model "datatable" telah di inisialisasi
+INFO - 2018-08-01 11:54:15 --> Output akhir dikirim ke browser
+DEBUG - 2018-08-01 11:54:15 --> Total waktu eksekusi: 0.4218
+INFO - 2018-08-01 11:54:15 --> Config Class telah di inisialisasi
+INFO - 2018-08-01 11:54:15 --> Hooks Class telah di inisialisasi
+DEBUG - 2018-08-01 11:54:15 --> UTF-8 Support Aktif
+INFO - 2018-08-01 11:54:15 --> Utf8 Class telah di inisialisasi
+INFO - 2018-08-01 11:54:15 --> URI Class telah di inisialisasi
+INFO - 2018-08-01 11:54:15 --> Router Class telah di inisialisasi
+INFO - 2018-08-01 11:54:15 --> Output Class telah di inisialisasi
+INFO - 2018-08-01 11:54:15 --> Security Class telah di inisialisasi
+DEBUG - 2018-08-01 11:54:15 --> Global POST, GET dan COOKIE data telah disanitasi
+INFO - 2018-08-01 11:54:15 --> Input Class telah di inisialisasi
+INFO - 2018-08-01 11:54:15 --> Language Class telah di inisialisasi
+INFO - 2018-08-01 11:54:15 --> Loader Class telah di inisialisasi
+INFO - 2018-08-01 11:54:15 --> Helper telah dimuat: url_helper
+INFO - 2018-08-01 11:54:15 --> Controller Class telah di inisialisasi
+DEBUG - 2018-08-01 11:54:15 --> Session: "sess_save_path" kosong; pakai "session.save_path" data dari php.ini.
+INFO - 2018-08-01 11:54:15 --> Session: Class initialized using 'files' driver.
+INFO - 2018-08-01 11:54:15 --> Helper telah dimuat: cookie_helper
+INFO - 2018-08-01 11:54:15 --> Database Driver Class telah di inisialisasi
+INFO - 2018-08-01 11:54:15 --> Model "datatable" telah di inisialisasi
+INFO - 2018-08-01 11:54:15 --> Output akhir dikirim ke browser
+DEBUG - 2018-08-01 11:54:15 --> Total waktu eksekusi: 0.3958
+INFO - 2018-08-01 11:54:16 --> Config Class telah di inisialisasi
+INFO - 2018-08-01 11:54:16 --> Hooks Class telah di inisialisasi
+DEBUG - 2018-08-01 11:54:16 --> UTF-8 Support Aktif
+INFO - 2018-08-01 11:54:16 --> Utf8 Class telah di inisialisasi
+INFO - 2018-08-01 11:54:16 --> URI Class telah di inisialisasi
+INFO - 2018-08-01 11:54:16 --> Router Class telah di inisialisasi
+INFO - 2018-08-01 11:54:16 --> Output Class telah di inisialisasi
+INFO - 2018-08-01 11:54:16 --> Security Class telah di inisialisasi
+DEBUG - 2018-08-01 11:54:16 --> Global POST, GET dan COOKIE data telah disanitasi
+INFO - 2018-08-01 11:54:16 --> Input Class telah di inisialisasi
+INFO - 2018-08-01 11:54:16 --> Language Class telah di inisialisasi
+INFO - 2018-08-01 11:54:16 --> Loader Class telah di inisialisasi
+INFO - 2018-08-01 11:54:16 --> Helper telah dimuat: url_helper
+INFO - 2018-08-01 11:54:16 --> Controller Class telah di inisialisasi
+DEBUG - 2018-08-01 11:54:16 --> Session: "sess_save_path" kosong; pakai "session.save_path" data dari php.ini.
+INFO - 2018-08-01 11:54:16 --> Session: Class initialized using 'files' driver.
+INFO - 2018-08-01 11:54:16 --> Helper telah dimuat: cookie_helper
+INFO - 2018-08-01 11:54:16 --> Database Driver Class telah di inisialisasi
+INFO - 2018-08-01 11:54:16 --> Model "datatable" telah di inisialisasi
+INFO - 2018-08-01 11:54:16 --> Output akhir dikirim ke browser
+DEBUG - 2018-08-01 11:54:17 --> Total waktu eksekusi: 0.7794
+INFO - 2018-08-01 11:54:20 --> Config Class telah di inisialisasi
+INFO - 2018-08-01 11:54:20 --> Hooks Class telah di inisialisasi
+DEBUG - 2018-08-01 11:54:20 --> UTF-8 Support Aktif
+INFO - 2018-08-01 11:54:20 --> Utf8 Class telah di inisialisasi
+INFO - 2018-08-01 11:54:20 --> URI Class telah di inisialisasi
+INFO - 2018-08-01 11:54:20 --> Router Class telah di inisialisasi
+INFO - 2018-08-01 11:54:20 --> Output Class telah di inisialisasi
+INFO - 2018-08-01 11:54:20 --> Security Class telah di inisialisasi
+DEBUG - 2018-08-01 11:54:21 --> Global POST, GET dan COOKIE data telah disanitasi
+INFO - 2018-08-01 11:54:21 --> Input Class telah di inisialisasi
+INFO - 2018-08-01 11:54:21 --> Language Class telah di inisialisasi
+INFO - 2018-08-01 11:54:21 --> Loader Class telah di inisialisasi
+INFO - 2018-08-01 11:54:21 --> Helper telah dimuat: url_helper
+INFO - 2018-08-01 11:54:21 --> Controller Class telah di inisialisasi
+DEBUG - 2018-08-01 11:54:21 --> Session: "sess_save_path" kosong; pakai "session.save_path" data dari php.ini.
+INFO - 2018-08-01 11:54:21 --> Session: Class initialized using 'files' driver.
+INFO - 2018-08-01 11:54:21 --> Helper telah dimuat: cookie_helper
+INFO - 2018-08-01 11:54:21 --> Database Driver Class telah di inisialisasi
+INFO - 2018-08-01 11:54:21 --> Model "datatable" telah di inisialisasi
+INFO - 2018-08-01 11:54:21 --> Output akhir dikirim ke browser
+DEBUG - 2018-08-01 11:54:21 --> Total waktu eksekusi: 0.4058
+INFO - 2018-08-01 11:55:49 --> Config Class telah di inisialisasi
+INFO - 2018-08-01 11:55:49 --> Hooks Class telah di inisialisasi
+DEBUG - 2018-08-01 11:55:49 --> UTF-8 Support Aktif
+INFO - 2018-08-01 11:55:49 --> Utf8 Class telah di inisialisasi
+INFO - 2018-08-01 11:55:49 --> URI Class telah di inisialisasi
+INFO - 2018-08-01 11:55:49 --> Router Class telah di inisialisasi
+INFO - 2018-08-01 11:55:49 --> Output Class telah di inisialisasi
+INFO - 2018-08-01 11:55:49 --> Security Class telah di inisialisasi
+DEBUG - 2018-08-01 11:55:49 --> Global POST, GET dan COOKIE data telah disanitasi
+INFO - 2018-08-01 11:55:49 --> Input Class telah di inisialisasi
+INFO - 2018-08-01 11:55:49 --> Language Class telah di inisialisasi
+INFO - 2018-08-01 11:55:49 --> Loader Class telah di inisialisasi
+INFO - 2018-08-01 11:55:49 --> Helper telah dimuat: url_helper
+INFO - 2018-08-01 11:55:49 --> Controller Class telah di inisialisasi
+DEBUG - 2018-08-01 11:55:49 --> Session: "sess_save_path" kosong; pakai "session.save_path" data dari php.ini.
+INFO - 2018-08-01 11:55:49 --> Session: Class initialized using 'files' driver.
+INFO - 2018-08-01 11:55:49 --> Helper telah dimuat: cookie_helper
+INFO - 2018-08-01 11:55:49 --> File telah dimuat: D:\XAMPP\htdocs\jb\application\views\jebews/html/head.php
+INFO - 2018-08-01 11:55:49 --> File telah dimuat: D:\XAMPP\htdocs\jb\application\views\jebews/product/manage.php
+INFO - 2018-08-01 11:55:49 --> Output akhir dikirim ke browser
+DEBUG - 2018-08-01 11:55:49 --> Total waktu eksekusi: 0.3930
+INFO - 2018-08-01 11:55:50 --> Config Class telah di inisialisasi
+INFO - 2018-08-01 11:55:50 --> Hooks Class telah di inisialisasi
+DEBUG - 2018-08-01 11:55:50 --> UTF-8 Support Aktif
+INFO - 2018-08-01 11:55:50 --> Utf8 Class telah di inisialisasi
+INFO - 2018-08-01 11:55:50 --> URI Class telah di inisialisasi
+INFO - 2018-08-01 11:55:50 --> Router Class telah di inisialisasi
+INFO - 2018-08-01 11:55:50 --> Output Class telah di inisialisasi
+INFO - 2018-08-01 11:55:50 --> Security Class telah di inisialisasi
+DEBUG - 2018-08-01 11:55:50 --> Global POST, GET dan COOKIE data telah disanitasi
+INFO - 2018-08-01 11:55:50 --> Input Class telah di inisialisasi
+INFO - 2018-08-01 11:55:50 --> Language Class telah di inisialisasi
+INFO - 2018-08-01 11:55:50 --> Loader Class telah di inisialisasi
+INFO - 2018-08-01 11:55:50 --> Helper telah dimuat: url_helper
+INFO - 2018-08-01 11:55:50 --> Controller Class telah di inisialisasi
+DEBUG - 2018-08-01 11:55:50 --> Session: "sess_save_path" kosong; pakai "session.save_path" data dari php.ini.
+INFO - 2018-08-01 11:55:50 --> Session: Class initialized using 'files' driver.
+INFO - 2018-08-01 11:55:50 --> Helper telah dimuat: cookie_helper
+INFO - 2018-08-01 11:55:50 --> Database Driver Class telah di inisialisasi
+INFO - 2018-08-01 11:55:50 --> Model "datatable" telah di inisialisasi
+INFO - 2018-08-01 11:55:50 --> Output akhir dikirim ke browser
+DEBUG - 2018-08-01 11:55:50 --> Total waktu eksekusi: 0.4390
+INFO - 2018-08-01 11:56:04 --> Config Class telah di inisialisasi
+INFO - 2018-08-01 11:56:04 --> Hooks Class telah di inisialisasi
+DEBUG - 2018-08-01 11:56:04 --> UTF-8 Support Aktif
+INFO - 2018-08-01 11:56:04 --> Utf8 Class telah di inisialisasi
+INFO - 2018-08-01 11:56:04 --> URI Class telah di inisialisasi
+INFO - 2018-08-01 11:56:04 --> Router Class telah di inisialisasi
+INFO - 2018-08-01 11:56:04 --> Output Class telah di inisialisasi
+INFO - 2018-08-01 11:56:04 --> Security Class telah di inisialisasi
+DEBUG - 2018-08-01 11:56:04 --> Global POST, GET dan COOKIE data telah disanitasi
+INFO - 2018-08-01 11:56:04 --> Input Class telah di inisialisasi
+INFO - 2018-08-01 11:56:04 --> Language Class telah di inisialisasi
+INFO - 2018-08-01 11:56:04 --> Loader Class telah di inisialisasi
+INFO - 2018-08-01 11:56:04 --> Helper telah dimuat: url_helper
+INFO - 2018-08-01 11:56:04 --> Controller Class telah di inisialisasi
+DEBUG - 2018-08-01 11:56:04 --> Session: "sess_save_path" kosong; pakai "session.save_path" data dari php.ini.
+INFO - 2018-08-01 11:56:04 --> Session: Class initialized using 'files' driver.
+INFO - 2018-08-01 11:56:04 --> Helper telah dimuat: cookie_helper
+INFO - 2018-08-01 11:56:04 --> File telah dimuat: D:\XAMPP\htdocs\jb\application\views\jebews/html/head.php
+INFO - 2018-08-01 11:56:04 --> File telah dimuat: D:\XAMPP\htdocs\jb\application\views\jebews/product/manage.php
+INFO - 2018-08-01 11:56:04 --> Output akhir dikirim ke browser
+DEBUG - 2018-08-01 11:56:04 --> Total waktu eksekusi: 0.3916
+INFO - 2018-08-01 11:56:04 --> Config Class telah di inisialisasi
+INFO - 2018-08-01 11:56:04 --> Hooks Class telah di inisialisasi
+DEBUG - 2018-08-01 11:56:04 --> UTF-8 Support Aktif
+INFO - 2018-08-01 11:56:04 --> Utf8 Class telah di inisialisasi
+INFO - 2018-08-01 11:56:04 --> URI Class telah di inisialisasi
+INFO - 2018-08-01 11:56:04 --> Router Class telah di inisialisasi
+INFO - 2018-08-01 11:56:04 --> Output Class telah di inisialisasi
+INFO - 2018-08-01 11:56:04 --> Security Class telah di inisialisasi
+DEBUG - 2018-08-01 11:56:04 --> Global POST, GET dan COOKIE data telah disanitasi
+INFO - 2018-08-01 11:56:04 --> Input Class telah di inisialisasi
+INFO - 2018-08-01 11:56:04 --> Language Class telah di inisialisasi
+INFO - 2018-08-01 11:56:04 --> Loader Class telah di inisialisasi
+INFO - 2018-08-01 11:56:04 --> Helper telah dimuat: url_helper
+INFO - 2018-08-01 11:56:04 --> Controller Class telah di inisialisasi
+DEBUG - 2018-08-01 11:56:04 --> Session: "sess_save_path" kosong; pakai "session.save_path" data dari php.ini.
+INFO - 2018-08-01 11:56:04 --> Session: Class initialized using 'files' driver.
+INFO - 2018-08-01 11:56:04 --> Helper telah dimuat: cookie_helper
+INFO - 2018-08-01 11:56:04 --> Database Driver Class telah di inisialisasi
+INFO - 2018-08-01 11:56:05 --> Model "datatable" telah di inisialisasi
+INFO - 2018-08-01 11:56:05 --> Output akhir dikirim ke browser
+DEBUG - 2018-08-01 11:56:05 --> Total waktu eksekusi: 0.4350
+INFO - 2018-08-01 11:56:07 --> Config Class telah di inisialisasi
+INFO - 2018-08-01 11:56:07 --> Hooks Class telah di inisialisasi
+DEBUG - 2018-08-01 11:56:07 --> UTF-8 Support Aktif
+INFO - 2018-08-01 11:56:07 --> Utf8 Class telah di inisialisasi
+INFO - 2018-08-01 11:56:07 --> URI Class telah di inisialisasi
+INFO - 2018-08-01 11:56:07 --> Router Class telah di inisialisasi
+INFO - 2018-08-01 11:56:07 --> Output Class telah di inisialisasi
+INFO - 2018-08-01 11:56:07 --> Security Class telah di inisialisasi
+DEBUG - 2018-08-01 11:56:07 --> Global POST, GET dan COOKIE data telah disanitasi
+INFO - 2018-08-01 11:56:07 --> Input Class telah di inisialisasi
+INFO - 2018-08-01 11:56:07 --> Language Class telah di inisialisasi
+INFO - 2018-08-01 11:56:07 --> Loader Class telah di inisialisasi
+INFO - 2018-08-01 11:56:07 --> Helper telah dimuat: url_helper
+INFO - 2018-08-01 11:56:07 --> Controller Class telah di inisialisasi
+DEBUG - 2018-08-01 11:56:07 --> Session: "sess_save_path" kosong; pakai "session.save_path" data dari php.ini.
+INFO - 2018-08-01 11:56:07 --> Session: Class initialized using 'files' driver.
+INFO - 2018-08-01 11:56:07 --> Helper telah dimuat: cookie_helper
+INFO - 2018-08-01 11:56:07 --> Database Driver Class telah di inisialisasi
+INFO - 2018-08-01 11:56:07 --> Model "datatable" telah di inisialisasi
+INFO - 2018-08-01 11:56:07 --> Config Class telah di inisialisasi
+INFO - 2018-08-01 11:56:07 --> Output akhir dikirim ke browser
+INFO - 2018-08-01 11:56:07 --> Hooks Class telah di inisialisasi
+DEBUG - 2018-08-01 11:56:07 --> Total waktu eksekusi: 0.4256
+DEBUG - 2018-08-01 11:56:07 --> UTF-8 Support Aktif
+INFO - 2018-08-01 11:56:07 --> Utf8 Class telah di inisialisasi
+INFO - 2018-08-01 11:56:07 --> URI Class telah di inisialisasi
+INFO - 2018-08-01 11:56:07 --> Router Class telah di inisialisasi
+INFO - 2018-08-01 11:56:07 --> Output Class telah di inisialisasi
+INFO - 2018-08-01 11:56:07 --> Security Class telah di inisialisasi
+DEBUG - 2018-08-01 11:56:07 --> Global POST, GET dan COOKIE data telah disanitasi
+INFO - 2018-08-01 11:56:07 --> Input Class telah di inisialisasi
+INFO - 2018-08-01 11:56:07 --> Language Class telah di inisialisasi
+INFO - 2018-08-01 11:56:07 --> Loader Class telah di inisialisasi
+INFO - 2018-08-01 11:56:07 --> Helper telah dimuat: url_helper
+INFO - 2018-08-01 11:56:07 --> Controller Class telah di inisialisasi
+DEBUG - 2018-08-01 11:56:07 --> Session: "sess_save_path" kosong; pakai "session.save_path" data dari php.ini.
+INFO - 2018-08-01 11:56:07 --> Session: Class initialized using 'files' driver.
+INFO - 2018-08-01 11:56:07 --> Helper telah dimuat: cookie_helper
+INFO - 2018-08-01 11:56:07 --> Database Driver Class telah di inisialisasi
+INFO - 2018-08-01 11:56:07 --> Model "datatable" telah di inisialisasi
+INFO - 2018-08-01 11:56:07 --> Output akhir dikirim ke browser
+DEBUG - 2018-08-01 11:56:07 --> Total waktu eksekusi: 0.4208
+INFO - 2018-08-01 11:56:08 --> Config Class telah di inisialisasi
+INFO - 2018-08-01 11:56:08 --> Hooks Class telah di inisialisasi
+DEBUG - 2018-08-01 11:56:08 --> UTF-8 Support Aktif
+INFO - 2018-08-01 11:56:08 --> Utf8 Class telah di inisialisasi
+INFO - 2018-08-01 11:56:08 --> URI Class telah di inisialisasi
+INFO - 2018-08-01 11:56:08 --> Router Class telah di inisialisasi
+INFO - 2018-08-01 11:56:08 --> Output Class telah di inisialisasi
+INFO - 2018-08-01 11:56:08 --> Security Class telah di inisialisasi
+DEBUG - 2018-08-01 11:56:08 --> Global POST, GET dan COOKIE data telah disanitasi
+INFO - 2018-08-01 11:56:08 --> Input Class telah di inisialisasi
+INFO - 2018-08-01 11:56:08 --> Language Class telah di inisialisasi
+INFO - 2018-08-01 11:56:08 --> Loader Class telah di inisialisasi
+INFO - 2018-08-01 11:56:08 --> Helper telah dimuat: url_helper
+INFO - 2018-08-01 11:56:08 --> Controller Class telah di inisialisasi
+DEBUG - 2018-08-01 11:56:08 --> Session: "sess_save_path" kosong; pakai "session.save_path" data dari php.ini.
+INFO - 2018-08-01 11:56:08 --> Session: Class initialized using 'files' driver.
+INFO - 2018-08-01 11:56:08 --> Helper telah dimuat: cookie_helper
+INFO - 2018-08-01 11:56:08 --> Database Driver Class telah di inisialisasi
+INFO - 2018-08-01 11:56:08 --> Model "datatable" telah di inisialisasi
+INFO - 2018-08-01 11:56:08 --> Output akhir dikirim ke browser
+DEBUG - 2018-08-01 11:56:08 --> Total waktu eksekusi: 0.3964
+INFO - 2018-08-01 11:57:09 --> Config Class telah di inisialisasi
+INFO - 2018-08-01 11:57:09 --> Hooks Class telah di inisialisasi
+DEBUG - 2018-08-01 11:57:09 --> UTF-8 Support Aktif
+INFO - 2018-08-01 11:57:09 --> Utf8 Class telah di inisialisasi
+INFO - 2018-08-01 11:57:09 --> URI Class telah di inisialisasi
+INFO - 2018-08-01 11:57:09 --> Router Class telah di inisialisasi
+INFO - 2018-08-01 11:57:09 --> Output Class telah di inisialisasi
+INFO - 2018-08-01 11:57:09 --> Security Class telah di inisialisasi
+DEBUG - 2018-08-01 11:57:09 --> Global POST, GET dan COOKIE data telah disanitasi
+INFO - 2018-08-01 11:57:09 --> Input Class telah di inisialisasi
+INFO - 2018-08-01 11:57:09 --> Language Class telah di inisialisasi
+INFO - 2018-08-01 11:57:09 --> Loader Class telah di inisialisasi
+INFO - 2018-08-01 11:57:09 --> Helper telah dimuat: url_helper
+INFO - 2018-08-01 11:57:09 --> Controller Class telah di inisialisasi
+DEBUG - 2018-08-01 11:57:09 --> Session: "sess_save_path" kosong; pakai "session.save_path" data dari php.ini.
+INFO - 2018-08-01 11:57:09 --> Session: Class initialized using 'files' driver.
+INFO - 2018-08-01 11:57:09 --> Helper telah dimuat: cookie_helper
+INFO - 2018-08-01 11:57:09 --> File telah dimuat: D:\XAMPP\htdocs\jb\application\views\jebews/html/head.php
+INFO - 2018-08-01 11:57:09 --> File telah dimuat: D:\XAMPP\htdocs\jb\application\views\jebews/product/manage.php
+INFO - 2018-08-01 11:57:09 --> Output akhir dikirim ke browser
+DEBUG - 2018-08-01 11:57:09 --> Total waktu eksekusi: 0.3980
+INFO - 2018-08-01 11:57:10 --> Config Class telah di inisialisasi
+INFO - 2018-08-01 11:57:10 --> Hooks Class telah di inisialisasi
+DEBUG - 2018-08-01 11:57:10 --> UTF-8 Support Aktif
+INFO - 2018-08-01 11:57:10 --> Utf8 Class telah di inisialisasi
+INFO - 2018-08-01 11:57:10 --> URI Class telah di inisialisasi
+INFO - 2018-08-01 11:57:10 --> Router Class telah di inisialisasi
+INFO - 2018-08-01 11:57:10 --> Output Class telah di inisialisasi
+INFO - 2018-08-01 11:57:10 --> Security Class telah di inisialisasi
+DEBUG - 2018-08-01 11:57:10 --> Global POST, GET dan COOKIE data telah disanitasi
+INFO - 2018-08-01 11:57:10 --> Input Class telah di inisialisasi
+INFO - 2018-08-01 11:57:10 --> Language Class telah di inisialisasi
+INFO - 2018-08-01 11:57:10 --> Loader Class telah di inisialisasi
+INFO - 2018-08-01 11:57:10 --> Helper telah dimuat: url_helper
+INFO - 2018-08-01 11:57:10 --> Controller Class telah di inisialisasi
+DEBUG - 2018-08-01 11:57:10 --> Session: "sess_save_path" kosong; pakai "session.save_path" data dari php.ini.
+INFO - 2018-08-01 11:57:10 --> Session: Class initialized using 'files' driver.
+INFO - 2018-08-01 11:57:10 --> Helper telah dimuat: cookie_helper
+INFO - 2018-08-01 11:57:10 --> Database Driver Class telah di inisialisasi
+INFO - 2018-08-01 11:57:10 --> Model "datatable" telah di inisialisasi
+INFO - 2018-08-01 11:57:10 --> Output akhir dikirim ke browser
+DEBUG - 2018-08-01 11:57:10 --> Total waktu eksekusi: 0.4410
+INFO - 2018-08-01 11:57:11 --> Config Class telah di inisialisasi
+INFO - 2018-08-01 11:57:11 --> Hooks Class telah di inisialisasi
+DEBUG - 2018-08-01 11:57:11 --> UTF-8 Support Aktif
+INFO - 2018-08-01 11:57:11 --> Utf8 Class telah di inisialisasi
+INFO - 2018-08-01 11:57:11 --> URI Class telah di inisialisasi
+INFO - 2018-08-01 11:57:11 --> Router Class telah di inisialisasi
+INFO - 2018-08-01 11:57:11 --> Output Class telah di inisialisasi
+INFO - 2018-08-01 11:57:11 --> Security Class telah di inisialisasi
+DEBUG - 2018-08-01 11:57:12 --> Global POST, GET dan COOKIE data telah disanitasi
+INFO - 2018-08-01 11:57:12 --> Input Class telah di inisialisasi
+INFO - 2018-08-01 11:57:12 --> Language Class telah di inisialisasi
+INFO - 2018-08-01 11:57:12 --> Loader Class telah di inisialisasi
+INFO - 2018-08-01 11:57:12 --> Helper telah dimuat: url_helper
+INFO - 2018-08-01 11:57:12 --> Controller Class telah di inisialisasi
+DEBUG - 2018-08-01 11:57:12 --> Session: "sess_save_path" kosong; pakai "session.save_path" data dari php.ini.
+INFO - 2018-08-01 11:57:12 --> Session: Class initialized using 'files' driver.
+INFO - 2018-08-01 11:57:12 --> Helper telah dimuat: cookie_helper
+INFO - 2018-08-01 11:57:12 --> Database Driver Class telah di inisialisasi
+INFO - 2018-08-01 11:57:12 --> Model "datatable" telah di inisialisasi
+INFO - 2018-08-01 11:57:12 --> Output akhir dikirim ke browser
+INFO - 2018-08-01 11:57:12 --> Config Class telah di inisialisasi
+DEBUG - 2018-08-01 11:57:12 --> Total waktu eksekusi: 0.4168
+INFO - 2018-08-01 11:57:12 --> Hooks Class telah di inisialisasi
+DEBUG - 2018-08-01 11:57:12 --> UTF-8 Support Aktif
+INFO - 2018-08-01 11:57:12 --> Utf8 Class telah di inisialisasi
+INFO - 2018-08-01 11:57:12 --> URI Class telah di inisialisasi
+INFO - 2018-08-01 11:57:12 --> Router Class telah di inisialisasi
+INFO - 2018-08-01 11:57:12 --> Output Class telah di inisialisasi
+INFO - 2018-08-01 11:57:12 --> Security Class telah di inisialisasi
+DEBUG - 2018-08-01 11:57:12 --> Global POST, GET dan COOKIE data telah disanitasi
+INFO - 2018-08-01 11:57:12 --> Input Class telah di inisialisasi
+INFO - 2018-08-01 11:57:12 --> Language Class telah di inisialisasi
+INFO - 2018-08-01 11:57:12 --> Loader Class telah di inisialisasi
+INFO - 2018-08-01 11:57:12 --> Helper telah dimuat: url_helper
+INFO - 2018-08-01 11:57:12 --> Controller Class telah di inisialisasi
+DEBUG - 2018-08-01 11:57:12 --> Session: "sess_save_path" kosong; pakai "session.save_path" data dari php.ini.
+INFO - 2018-08-01 11:57:12 --> Session: Class initialized using 'files' driver.
+INFO - 2018-08-01 11:57:12 --> Helper telah dimuat: cookie_helper
+INFO - 2018-08-01 11:57:12 --> Database Driver Class telah di inisialisasi
+INFO - 2018-08-01 11:57:12 --> Model "datatable" telah di inisialisasi
+INFO - 2018-08-01 11:57:12 --> Output akhir dikirim ke browser
+DEBUG - 2018-08-01 11:57:12 --> Total waktu eksekusi: 0.4130
+INFO - 2018-08-01 11:57:12 --> Config Class telah di inisialisasi
+INFO - 2018-08-01 11:57:12 --> Hooks Class telah di inisialisasi
+DEBUG - 2018-08-01 11:57:12 --> UTF-8 Support Aktif
+INFO - 2018-08-01 11:57:12 --> Utf8 Class telah di inisialisasi
+INFO - 2018-08-01 11:57:12 --> URI Class telah di inisialisasi
+INFO - 2018-08-01 11:57:12 --> Router Class telah di inisialisasi
+INFO - 2018-08-01 11:57:12 --> Output Class telah di inisialisasi
+INFO - 2018-08-01 11:57:13 --> Security Class telah di inisialisasi
+DEBUG - 2018-08-01 11:57:13 --> Global POST, GET dan COOKIE data telah disanitasi
+INFO - 2018-08-01 11:57:13 --> Input Class telah di inisialisasi
+INFO - 2018-08-01 11:57:13 --> Language Class telah di inisialisasi
+INFO - 2018-08-01 11:57:13 --> Loader Class telah di inisialisasi
+INFO - 2018-08-01 11:57:13 --> Helper telah dimuat: url_helper
+INFO - 2018-08-01 11:57:13 --> Controller Class telah di inisialisasi
+DEBUG - 2018-08-01 11:57:13 --> Session: "sess_save_path" kosong; pakai "session.save_path" data dari php.ini.
+INFO - 2018-08-01 11:57:13 --> Session: Class initialized using 'files' driver.
+INFO - 2018-08-01 11:57:13 --> Helper telah dimuat: cookie_helper
+INFO - 2018-08-01 11:57:13 --> Database Driver Class telah di inisialisasi
+INFO - 2018-08-01 11:57:13 --> Model "datatable" telah di inisialisasi
+INFO - 2018-08-01 11:57:13 --> Output akhir dikirim ke browser
+DEBUG - 2018-08-01 11:57:13 --> Total waktu eksekusi: 0.4048
+INFO - 2018-08-01 11:57:15 --> Config Class telah di inisialisasi
+INFO - 2018-08-01 11:57:15 --> Hooks Class telah di inisialisasi
+DEBUG - 2018-08-01 11:57:15 --> UTF-8 Support Aktif
+INFO - 2018-08-01 11:57:15 --> Utf8 Class telah di inisialisasi
+INFO - 2018-08-01 11:57:15 --> URI Class telah di inisialisasi
+INFO - 2018-08-01 11:57:15 --> Router Class telah di inisialisasi
+INFO - 2018-08-01 11:57:15 --> Output Class telah di inisialisasi
+INFO - 2018-08-01 11:57:15 --> Security Class telah di inisialisasi
+DEBUG - 2018-08-01 11:57:15 --> Global POST, GET dan COOKIE data telah disanitasi
+INFO - 2018-08-01 11:57:15 --> Input Class telah di inisialisasi
+INFO - 2018-08-01 11:57:15 --> Language Class telah di inisialisasi
+INFO - 2018-08-01 11:57:15 --> Loader Class telah di inisialisasi
+INFO - 2018-08-01 11:57:15 --> Helper telah dimuat: url_helper
+INFO - 2018-08-01 11:57:15 --> Controller Class telah di inisialisasi
+DEBUG - 2018-08-01 11:57:15 --> Session: "sess_save_path" kosong; pakai "session.save_path" data dari php.ini.
+INFO - 2018-08-01 11:57:15 --> Session: Class initialized using 'files' driver.
+INFO - 2018-08-01 11:57:15 --> Helper telah dimuat: cookie_helper
+INFO - 2018-08-01 11:57:15 --> File telah dimuat: D:\XAMPP\htdocs\jb\application\views\jebews/html/head.php
+INFO - 2018-08-01 11:57:15 --> File telah dimuat: D:\XAMPP\htdocs\jb\application\views\jebews/product/manage.php
+INFO - 2018-08-01 11:57:15 --> Output akhir dikirim ke browser
+DEBUG - 2018-08-01 11:57:15 --> Total waktu eksekusi: 0.4110
+INFO - 2018-08-01 11:57:15 --> Config Class telah di inisialisasi
+INFO - 2018-08-01 11:57:15 --> Hooks Class telah di inisialisasi
+DEBUG - 2018-08-01 11:57:15 --> UTF-8 Support Aktif
+INFO - 2018-08-01 11:57:15 --> Utf8 Class telah di inisialisasi
+INFO - 2018-08-01 11:57:15 --> URI Class telah di inisialisasi
+INFO - 2018-08-01 11:57:15 --> Router Class telah di inisialisasi
+INFO - 2018-08-01 11:57:15 --> Output Class telah di inisialisasi
+INFO - 2018-08-01 11:57:15 --> Security Class telah di inisialisasi
+DEBUG - 2018-08-01 11:57:15 --> Global POST, GET dan COOKIE data telah disanitasi
+INFO - 2018-08-01 11:57:15 --> Input Class telah di inisialisasi
+INFO - 2018-08-01 11:57:15 --> Language Class telah di inisialisasi
+INFO - 2018-08-01 11:57:15 --> Loader Class telah di inisialisasi
+INFO - 2018-08-01 11:57:15 --> Helper telah dimuat: url_helper
+INFO - 2018-08-01 11:57:15 --> Controller Class telah di inisialisasi
+DEBUG - 2018-08-01 11:57:15 --> Session: "sess_save_path" kosong; pakai "session.save_path" data dari php.ini.
+INFO - 2018-08-01 11:57:15 --> Session: Class initialized using 'files' driver.
+INFO - 2018-08-01 11:57:15 --> Helper telah dimuat: cookie_helper
+INFO - 2018-08-01 11:57:15 --> Database Driver Class telah di inisialisasi
+INFO - 2018-08-01 11:57:15 --> Model "datatable" telah di inisialisasi
+INFO - 2018-08-01 11:57:16 --> Output akhir dikirim ke browser
+DEBUG - 2018-08-01 11:57:16 --> Total waktu eksekusi: 0.4300
+INFO - 2018-08-01 11:57:17 --> Config Class telah di inisialisasi
+INFO - 2018-08-01 11:57:17 --> Hooks Class telah di inisialisasi
+DEBUG - 2018-08-01 11:57:17 --> UTF-8 Support Aktif
+INFO - 2018-08-01 11:57:18 --> Utf8 Class telah di inisialisasi
+INFO - 2018-08-01 11:57:18 --> URI Class telah di inisialisasi
+INFO - 2018-08-01 11:57:18 --> Router Class telah di inisialisasi
+INFO - 2018-08-01 11:57:18 --> Output Class telah di inisialisasi
+INFO - 2018-08-01 11:57:18 --> Security Class telah di inisialisasi
+DEBUG - 2018-08-01 11:57:18 --> Global POST, GET dan COOKIE data telah disanitasi
+INFO - 2018-08-01 11:57:18 --> Input Class telah di inisialisasi
+INFO - 2018-08-01 11:57:18 --> Language Class telah di inisialisasi
+INFO - 2018-08-01 11:57:18 --> Loader Class telah di inisialisasi
+INFO - 2018-08-01 11:57:18 --> Helper telah dimuat: url_helper
+INFO - 2018-08-01 11:57:18 --> Controller Class telah di inisialisasi
+DEBUG - 2018-08-01 11:57:18 --> Session: "sess_save_path" kosong; pakai "session.save_path" data dari php.ini.
+INFO - 2018-08-01 11:57:18 --> Session: Class initialized using 'files' driver.
+INFO - 2018-08-01 11:57:18 --> Helper telah dimuat: cookie_helper
+INFO - 2018-08-01 11:57:18 --> File telah dimuat: D:\XAMPP\htdocs\jb\application\views\jebews/html/head.php
+INFO - 2018-08-01 11:57:18 --> File telah dimuat: D:\XAMPP\htdocs\jb\application\views\jebews/product/manage.php
+INFO - 2018-08-01 11:57:18 --> Output akhir dikirim ke browser
+DEBUG - 2018-08-01 11:57:18 --> Total waktu eksekusi: 0.4882
+INFO - 2018-08-01 11:57:19 --> Config Class telah di inisialisasi
+INFO - 2018-08-01 11:57:19 --> Hooks Class telah di inisialisasi
+DEBUG - 2018-08-01 11:57:19 --> UTF-8 Support Aktif
+INFO - 2018-08-01 11:57:19 --> Utf8 Class telah di inisialisasi
+INFO - 2018-08-01 11:57:19 --> URI Class telah di inisialisasi
+INFO - 2018-08-01 11:57:19 --> Router Class telah di inisialisasi
+INFO - 2018-08-01 11:57:19 --> Output Class telah di inisialisasi
+INFO - 2018-08-01 11:57:19 --> Security Class telah di inisialisasi
+DEBUG - 2018-08-01 11:57:19 --> Global POST, GET dan COOKIE data telah disanitasi
+INFO - 2018-08-01 11:57:19 --> Input Class telah di inisialisasi
+INFO - 2018-08-01 11:57:19 --> Language Class telah di inisialisasi
+INFO - 2018-08-01 11:57:19 --> Loader Class telah di inisialisasi
+INFO - 2018-08-01 11:57:19 --> Helper telah dimuat: url_helper
+INFO - 2018-08-01 11:57:19 --> Controller Class telah di inisialisasi
+DEBUG - 2018-08-01 11:57:19 --> Session: "sess_save_path" kosong; pakai "session.save_path" data dari php.ini.
+INFO - 2018-08-01 11:57:19 --> Session: Class initialized using 'files' driver.
+INFO - 2018-08-01 11:57:19 --> Helper telah dimuat: cookie_helper
+INFO - 2018-08-01 11:57:19 --> File telah dimuat: D:\XAMPP\htdocs\jb\application\views\jebews/html/head.php
+INFO - 2018-08-01 11:57:19 --> File telah dimuat: D:\XAMPP\htdocs\jb\application\views\jebews/product/manage.php
+INFO - 2018-08-01 11:57:19 --> Output akhir dikirim ke browser
+DEBUG - 2018-08-01 11:57:19 --> Total waktu eksekusi: 0.4186
+INFO - 2018-08-01 11:57:34 --> Config Class telah di inisialisasi
+INFO - 2018-08-01 11:57:34 --> Hooks Class telah di inisialisasi
+DEBUG - 2018-08-01 11:57:34 --> UTF-8 Support Aktif
+INFO - 2018-08-01 11:57:34 --> Utf8 Class telah di inisialisasi
+INFO - 2018-08-01 11:57:34 --> URI Class telah di inisialisasi
+INFO - 2018-08-01 11:57:34 --> Router Class telah di inisialisasi
+INFO - 2018-08-01 11:57:34 --> Output Class telah di inisialisasi
+INFO - 2018-08-01 11:57:34 --> Security Class telah di inisialisasi
+DEBUG - 2018-08-01 11:57:35 --> Global POST, GET dan COOKIE data telah disanitasi
+INFO - 2018-08-01 11:57:35 --> Input Class telah di inisialisasi
+INFO - 2018-08-01 11:57:35 --> Language Class telah di inisialisasi
+INFO - 2018-08-01 11:57:35 --> Loader Class telah di inisialisasi
+INFO - 2018-08-01 11:57:35 --> Helper telah dimuat: url_helper
+INFO - 2018-08-01 11:57:35 --> Controller Class telah di inisialisasi
+DEBUG - 2018-08-01 11:57:35 --> Session: "sess_save_path" kosong; pakai "session.save_path" data dari php.ini.
+INFO - 2018-08-01 11:57:35 --> Session: Class initialized using 'files' driver.
+INFO - 2018-08-01 11:57:35 --> Helper telah dimuat: cookie_helper
+INFO - 2018-08-01 11:57:35 --> File telah dimuat: D:\XAMPP\htdocs\jb\application\views\jebews/html/head.php
+INFO - 2018-08-01 11:57:35 --> File telah dimuat: D:\XAMPP\htdocs\jb\application\views\jebews/product/manage.php
+INFO - 2018-08-01 11:57:35 --> Output akhir dikirim ke browser
+DEBUG - 2018-08-01 11:57:35 --> Total waktu eksekusi: 0.4296
+INFO - 2018-08-01 11:57:35 --> Config Class telah di inisialisasi
+INFO - 2018-08-01 11:57:35 --> Hooks Class telah di inisialisasi
+DEBUG - 2018-08-01 11:57:35 --> UTF-8 Support Aktif
+INFO - 2018-08-01 11:57:35 --> Utf8 Class telah di inisialisasi
+INFO - 2018-08-01 11:57:35 --> URI Class telah di inisialisasi
+INFO - 2018-08-01 11:57:35 --> Router Class telah di inisialisasi
+INFO - 2018-08-01 11:57:35 --> Output Class telah di inisialisasi
+INFO - 2018-08-01 11:57:35 --> Security Class telah di inisialisasi
+DEBUG - 2018-08-01 11:57:35 --> Global POST, GET dan COOKIE data telah disanitasi
+INFO - 2018-08-01 11:57:35 --> Input Class telah di inisialisasi
+INFO - 2018-08-01 11:57:35 --> Language Class telah di inisialisasi
+INFO - 2018-08-01 11:57:35 --> Loader Class telah di inisialisasi
+INFO - 2018-08-01 11:57:35 --> Helper telah dimuat: url_helper
+INFO - 2018-08-01 11:57:35 --> Controller Class telah di inisialisasi
+DEBUG - 2018-08-01 11:57:35 --> Session: "sess_save_path" kosong; pakai "session.save_path" data dari php.ini.
+INFO - 2018-08-01 11:57:35 --> Session: Class initialized using 'files' driver.
+INFO - 2018-08-01 11:57:35 --> Helper telah dimuat: cookie_helper
+INFO - 2018-08-01 11:57:35 --> Database Driver Class telah di inisialisasi
+INFO - 2018-08-01 11:57:36 --> Model "datatable" telah di inisialisasi
+INFO - 2018-08-01 11:57:36 --> Output akhir dikirim ke browser
+DEBUG - 2018-08-01 11:57:36 --> Total waktu eksekusi: 0.5410
+INFO - 2018-08-01 11:57:37 --> Config Class telah di inisialisasi
+INFO - 2018-08-01 11:57:37 --> Hooks Class telah di inisialisasi
+DEBUG - 2018-08-01 11:57:37 --> UTF-8 Support Aktif
+INFO - 2018-08-01 11:57:37 --> Utf8 Class telah di inisialisasi
+INFO - 2018-08-01 11:57:37 --> URI Class telah di inisialisasi
+INFO - 2018-08-01 11:57:37 --> Router Class telah di inisialisasi
+INFO - 2018-08-01 11:57:37 --> Output Class telah di inisialisasi
+INFO - 2018-08-01 11:57:37 --> Security Class telah di inisialisasi
+DEBUG - 2018-08-01 11:57:37 --> Global POST, GET dan COOKIE data telah disanitasi
+INFO - 2018-08-01 11:57:37 --> Input Class telah di inisialisasi
+INFO - 2018-08-01 11:57:37 --> Language Class telah di inisialisasi
+INFO - 2018-08-01 11:57:37 --> Loader Class telah di inisialisasi
+INFO - 2018-08-01 11:57:37 --> Helper telah dimuat: url_helper
+INFO - 2018-08-01 11:57:37 --> Controller Class telah di inisialisasi
+DEBUG - 2018-08-01 11:57:37 --> Session: "sess_save_path" kosong; pakai "session.save_path" data dari php.ini.
+INFO - 2018-08-01 11:57:37 --> Session: Class initialized using 'files' driver.
+INFO - 2018-08-01 11:57:37 --> Helper telah dimuat: cookie_helper
+INFO - 2018-08-01 11:57:37 --> Database Driver Class telah di inisialisasi
+INFO - 2018-08-01 11:57:37 --> Config Class telah di inisialisasi
+INFO - 2018-08-01 11:57:37 --> Model "datatable" telah di inisialisasi
+INFO - 2018-08-01 11:57:37 --> Hooks Class telah di inisialisasi
+INFO - 2018-08-01 11:57:37 --> Output akhir dikirim ke browser
+DEBUG - 2018-08-01 11:57:37 --> Total waktu eksekusi: 0.4402
+DEBUG - 2018-08-01 11:57:37 --> UTF-8 Support Aktif
+INFO - 2018-08-01 11:57:37 --> Utf8 Class telah di inisialisasi
+INFO - 2018-08-01 11:57:37 --> URI Class telah di inisialisasi
+INFO - 2018-08-01 11:57:37 --> Router Class telah di inisialisasi
+INFO - 2018-08-01 11:57:37 --> Output Class telah di inisialisasi
+INFO - 2018-08-01 11:57:37 --> Security Class telah di inisialisasi
+DEBUG - 2018-08-01 11:57:37 --> Global POST, GET dan COOKIE data telah disanitasi
+INFO - 2018-08-01 11:57:37 --> Input Class telah di inisialisasi
+INFO - 2018-08-01 11:57:37 --> Language Class telah di inisialisasi
+INFO - 2018-08-01 11:57:37 --> Loader Class telah di inisialisasi
+INFO - 2018-08-01 11:57:37 --> Helper telah dimuat: url_helper
+INFO - 2018-08-01 11:57:37 --> Controller Class telah di inisialisasi
+DEBUG - 2018-08-01 11:57:37 --> Session: "sess_save_path" kosong; pakai "session.save_path" data dari php.ini.
+INFO - 2018-08-01 11:57:37 --> Session: Class initialized using 'files' driver.
+INFO - 2018-08-01 11:57:37 --> Helper telah dimuat: cookie_helper
+INFO - 2018-08-01 11:57:37 --> Database Driver Class telah di inisialisasi
+INFO - 2018-08-01 11:57:37 --> Model "datatable" telah di inisialisasi
+INFO - 2018-08-01 11:57:37 --> Output akhir dikirim ke browser
+DEBUG - 2018-08-01 11:57:37 --> Total waktu eksekusi: 0.4220
+INFO - 2018-08-01 11:57:41 --> Config Class telah di inisialisasi
+INFO - 2018-08-01 11:57:41 --> Hooks Class telah di inisialisasi
+DEBUG - 2018-08-01 11:57:41 --> UTF-8 Support Aktif
+INFO - 2018-08-01 11:57:41 --> Utf8 Class telah di inisialisasi
+INFO - 2018-08-01 11:57:41 --> URI Class telah di inisialisasi
+INFO - 2018-08-01 11:57:41 --> Router Class telah di inisialisasi
+INFO - 2018-08-01 11:57:41 --> Output Class telah di inisialisasi
+INFO - 2018-08-01 11:57:41 --> Security Class telah di inisialisasi
+DEBUG - 2018-08-01 11:57:41 --> Global POST, GET dan COOKIE data telah disanitasi
+INFO - 2018-08-01 11:57:41 --> Input Class telah di inisialisasi
+INFO - 2018-08-01 11:57:41 --> Language Class telah di inisialisasi
+INFO - 2018-08-01 11:57:41 --> Loader Class telah di inisialisasi
+INFO - 2018-08-01 11:57:41 --> Helper telah dimuat: url_helper
+INFO - 2018-08-01 11:57:41 --> Controller Class telah di inisialisasi
+DEBUG - 2018-08-01 11:57:41 --> Session: "sess_save_path" kosong; pakai "session.save_path" data dari php.ini.
+INFO - 2018-08-01 11:57:41 --> Session: Class initialized using 'files' driver.
+INFO - 2018-08-01 11:57:41 --> Helper telah dimuat: cookie_helper
+INFO - 2018-08-01 11:57:41 --> Database Driver Class telah di inisialisasi
+INFO - 2018-08-01 11:57:41 --> Model "datatable" telah di inisialisasi
+INFO - 2018-08-01 11:57:41 --> Output akhir dikirim ke browser
+DEBUG - 2018-08-01 11:57:41 --> Total waktu eksekusi: 0.4162
+INFO - 2018-08-01 11:57:59 --> Config Class telah di inisialisasi
+INFO - 2018-08-01 11:57:59 --> Hooks Class telah di inisialisasi
+DEBUG - 2018-08-01 11:57:59 --> UTF-8 Support Aktif
+INFO - 2018-08-01 11:57:59 --> Utf8 Class telah di inisialisasi
+INFO - 2018-08-01 11:57:59 --> URI Class telah di inisialisasi
+INFO - 2018-08-01 11:57:59 --> Router Class telah di inisialisasi
+INFO - 2018-08-01 11:57:59 --> Output Class telah di inisialisasi
+INFO - 2018-08-01 11:57:59 --> Security Class telah di inisialisasi
+DEBUG - 2018-08-01 11:57:59 --> Global POST, GET dan COOKIE data telah disanitasi
+INFO - 2018-08-01 11:57:59 --> Input Class telah di inisialisasi
+INFO - 2018-08-01 11:57:59 --> Language Class telah di inisialisasi
+INFO - 2018-08-01 11:57:59 --> Loader Class telah di inisialisasi
+INFO - 2018-08-01 11:57:59 --> Helper telah dimuat: url_helper
+INFO - 2018-08-01 11:57:59 --> Controller Class telah di inisialisasi
+DEBUG - 2018-08-01 11:57:59 --> Session: "sess_save_path" kosong; pakai "session.save_path" data dari php.ini.
+INFO - 2018-08-01 11:57:59 --> Session: Class initialized using 'files' driver.
+INFO - 2018-08-01 11:57:59 --> Helper telah dimuat: cookie_helper
+INFO - 2018-08-01 11:57:59 --> File telah dimuat: D:\XAMPP\htdocs\jb\application\views\jebews/html/head.php
+INFO - 2018-08-01 11:57:59 --> File telah dimuat: D:\XAMPP\htdocs\jb\application\views\jebews/product/manage.php
+INFO - 2018-08-01 11:57:59 --> Output akhir dikirim ke browser
+DEBUG - 2018-08-01 11:57:59 --> Total waktu eksekusi: 0.4016
+INFO - 2018-08-01 11:57:59 --> Config Class telah di inisialisasi
+INFO - 2018-08-01 11:57:59 --> Hooks Class telah di inisialisasi
+DEBUG - 2018-08-01 11:57:59 --> UTF-8 Support Aktif
+INFO - 2018-08-01 11:58:00 --> Utf8 Class telah di inisialisasi
+INFO - 2018-08-01 11:58:00 --> URI Class telah di inisialisasi
+INFO - 2018-08-01 11:58:00 --> Router Class telah di inisialisasi
+INFO - 2018-08-01 11:58:00 --> Output Class telah di inisialisasi
+INFO - 2018-08-01 11:58:00 --> Security Class telah di inisialisasi
+DEBUG - 2018-08-01 11:58:00 --> Global POST, GET dan COOKIE data telah disanitasi
+INFO - 2018-08-01 11:58:00 --> Input Class telah di inisialisasi
+INFO - 2018-08-01 11:58:00 --> Language Class telah di inisialisasi
+INFO - 2018-08-01 11:58:00 --> Loader Class telah di inisialisasi
+INFO - 2018-08-01 11:58:00 --> Helper telah dimuat: url_helper
+INFO - 2018-08-01 11:58:00 --> Controller Class telah di inisialisasi
+DEBUG - 2018-08-01 11:58:00 --> Session: "sess_save_path" kosong; pakai "session.save_path" data dari php.ini.
+INFO - 2018-08-01 11:58:00 --> Session: Class initialized using 'files' driver.
+INFO - 2018-08-01 11:58:00 --> Helper telah dimuat: cookie_helper
+INFO - 2018-08-01 11:58:00 --> Database Driver Class telah di inisialisasi
+INFO - 2018-08-01 11:58:00 --> Model "datatable" telah di inisialisasi
+INFO - 2018-08-01 11:58:00 --> Output akhir dikirim ke browser
+DEBUG - 2018-08-01 11:58:00 --> Total waktu eksekusi: 0.4480
+INFO - 2018-08-01 11:58:00 --> Config Class telah di inisialisasi
+INFO - 2018-08-01 11:58:00 --> Hooks Class telah di inisialisasi
+DEBUG - 2018-08-01 11:58:00 --> UTF-8 Support Aktif
+INFO - 2018-08-01 11:58:00 --> Utf8 Class telah di inisialisasi
+INFO - 2018-08-01 11:58:00 --> URI Class telah di inisialisasi
+INFO - 2018-08-01 11:58:00 --> Router Class telah di inisialisasi
+INFO - 2018-08-01 11:58:00 --> Output Class telah di inisialisasi
+INFO - 2018-08-01 11:58:00 --> Security Class telah di inisialisasi
+DEBUG - 2018-08-01 11:58:00 --> Global POST, GET dan COOKIE data telah disanitasi
+INFO - 2018-08-01 11:58:00 --> Input Class telah di inisialisasi
+INFO - 2018-08-01 11:58:00 --> Language Class telah di inisialisasi
+INFO - 2018-08-01 11:58:00 --> Loader Class telah di inisialisasi
+INFO - 2018-08-01 11:58:00 --> Helper telah dimuat: url_helper
+INFO - 2018-08-01 11:58:01 --> Controller Class telah di inisialisasi
+DEBUG - 2018-08-01 11:58:01 --> Session: "sess_save_path" kosong; pakai "session.save_path" data dari php.ini.
+INFO - 2018-08-01 11:58:01 --> Session: Class initialized using 'files' driver.
+INFO - 2018-08-01 11:58:01 --> Helper telah dimuat: cookie_helper
+INFO - 2018-08-01 11:58:01 --> Database Driver Class telah di inisialisasi
+INFO - 2018-08-01 11:58:01 --> Model "datatable" telah di inisialisasi
+INFO - 2018-08-01 11:58:01 --> Output akhir dikirim ke browser
+DEBUG - 2018-08-01 11:58:01 --> Total waktu eksekusi: 0.4288
+INFO - 2018-08-01 11:58:01 --> Config Class telah di inisialisasi
+INFO - 2018-08-01 11:58:01 --> Hooks Class telah di inisialisasi
+DEBUG - 2018-08-01 11:58:01 --> UTF-8 Support Aktif
+INFO - 2018-08-01 11:58:01 --> Utf8 Class telah di inisialisasi
+INFO - 2018-08-01 11:58:01 --> URI Class telah di inisialisasi
+INFO - 2018-08-01 11:58:01 --> Router Class telah di inisialisasi
+INFO - 2018-08-01 11:58:01 --> Output Class telah di inisialisasi
+INFO - 2018-08-01 11:58:01 --> Security Class telah di inisialisasi
+DEBUG - 2018-08-01 11:58:01 --> Global POST, GET dan COOKIE data telah disanitasi
+INFO - 2018-08-01 11:58:01 --> Input Class telah di inisialisasi
+INFO - 2018-08-01 11:58:01 --> Language Class telah di inisialisasi
+INFO - 2018-08-01 11:58:01 --> Loader Class telah di inisialisasi
+INFO - 2018-08-01 11:58:01 --> Helper telah dimuat: url_helper
+INFO - 2018-08-01 11:58:01 --> Controller Class telah di inisialisasi
+DEBUG - 2018-08-01 11:58:01 --> Session: "sess_save_path" kosong; pakai "session.save_path" data dari php.ini.
+INFO - 2018-08-01 11:58:01 --> Session: Class initialized using 'files' driver.
+INFO - 2018-08-01 11:58:01 --> Helper telah dimuat: cookie_helper
+INFO - 2018-08-01 11:58:01 --> Database Driver Class telah di inisialisasi
+INFO - 2018-08-01 11:58:01 --> Model "datatable" telah di inisialisasi
+INFO - 2018-08-01 11:58:01 --> Output akhir dikirim ke browser
+DEBUG - 2018-08-01 11:58:01 --> Total waktu eksekusi: 0.3758
+INFO - 2018-08-01 11:58:05 --> Config Class telah di inisialisasi
+INFO - 2018-08-01 11:58:05 --> Hooks Class telah di inisialisasi
+DEBUG - 2018-08-01 11:58:05 --> UTF-8 Support Aktif
+INFO - 2018-08-01 11:58:05 --> Utf8 Class telah di inisialisasi
+INFO - 2018-08-01 11:58:05 --> URI Class telah di inisialisasi
+INFO - 2018-08-01 11:58:05 --> Router Class telah di inisialisasi
+INFO - 2018-08-01 11:58:05 --> Output Class telah di inisialisasi
+INFO - 2018-08-01 11:58:05 --> Security Class telah di inisialisasi
+DEBUG - 2018-08-01 11:58:05 --> Global POST, GET dan COOKIE data telah disanitasi
+INFO - 2018-08-01 11:58:05 --> Input Class telah di inisialisasi
+INFO - 2018-08-01 11:58:05 --> Language Class telah di inisialisasi
+INFO - 2018-08-01 11:58:05 --> Loader Class telah di inisialisasi
+INFO - 2018-08-01 11:58:05 --> Helper telah dimuat: url_helper
+INFO - 2018-08-01 11:58:05 --> Controller Class telah di inisialisasi
+DEBUG - 2018-08-01 11:58:05 --> Session: "sess_save_path" kosong; pakai "session.save_path" data dari php.ini.
+INFO - 2018-08-01 11:58:05 --> Session: Class initialized using 'files' driver.
+INFO - 2018-08-01 11:58:05 --> Helper telah dimuat: cookie_helper
+INFO - 2018-08-01 11:58:05 --> Database Driver Class telah di inisialisasi
+INFO - 2018-08-01 11:58:05 --> Model "datatable" telah di inisialisasi
+INFO - 2018-08-01 11:58:05 --> Output akhir dikirim ke browser
+DEBUG - 2018-08-01 11:58:05 --> Total waktu eksekusi: 0.4260
+INFO - 2018-08-01 11:58:08 --> Config Class telah di inisialisasi
+INFO - 2018-08-01 11:58:08 --> Hooks Class telah di inisialisasi
+DEBUG - 2018-08-01 11:58:08 --> UTF-8 Support Aktif
+INFO - 2018-08-01 11:58:08 --> Utf8 Class telah di inisialisasi
+INFO - 2018-08-01 11:58:08 --> URI Class telah di inisialisasi
+INFO - 2018-08-01 11:58:08 --> Router Class telah di inisialisasi
+INFO - 2018-08-01 11:58:08 --> Output Class telah di inisialisasi
+INFO - 2018-08-01 11:58:08 --> Security Class telah di inisialisasi
+DEBUG - 2018-08-01 11:58:08 --> Global POST, GET dan COOKIE data telah disanitasi
+INFO - 2018-08-01 11:58:08 --> Input Class telah di inisialisasi
+INFO - 2018-08-01 11:58:08 --> Language Class telah di inisialisasi
+INFO - 2018-08-01 11:58:08 --> Loader Class telah di inisialisasi
+INFO - 2018-08-01 11:58:08 --> Helper telah dimuat: url_helper
+INFO - 2018-08-01 11:58:08 --> Controller Class telah di inisialisasi
+DEBUG - 2018-08-01 11:58:08 --> Session: "sess_save_path" kosong; pakai "session.save_path" data dari php.ini.
+INFO - 2018-08-01 11:58:08 --> Session: Class initialized using 'files' driver.
+INFO - 2018-08-01 11:58:08 --> Helper telah dimuat: cookie_helper
+INFO - 2018-08-01 11:58:08 --> File telah dimuat: D:\XAMPP\htdocs\jb\application\views\jebews/html/head.php
+INFO - 2018-08-01 11:58:08 --> File telah dimuat: D:\XAMPP\htdocs\jb\application\views\jebews/product/manage.php
+INFO - 2018-08-01 11:58:08 --> Output akhir dikirim ke browser
+DEBUG - 2018-08-01 11:58:08 --> Total waktu eksekusi: 0.4036
+INFO - 2018-08-01 11:58:09 --> Config Class telah di inisialisasi
+INFO - 2018-08-01 11:58:09 --> Hooks Class telah di inisialisasi
+DEBUG - 2018-08-01 11:58:09 --> UTF-8 Support Aktif
+INFO - 2018-08-01 11:58:09 --> Utf8 Class telah di inisialisasi
+INFO - 2018-08-01 11:58:09 --> URI Class telah di inisialisasi
+INFO - 2018-08-01 11:58:09 --> Router Class telah di inisialisasi
+INFO - 2018-08-01 11:58:09 --> Output Class telah di inisialisasi
+INFO - 2018-08-01 11:58:09 --> Security Class telah di inisialisasi
+DEBUG - 2018-08-01 11:58:09 --> Global POST, GET dan COOKIE data telah disanitasi
+INFO - 2018-08-01 11:58:09 --> Input Class telah di inisialisasi
+INFO - 2018-08-01 11:58:09 --> Language Class telah di inisialisasi
+INFO - 2018-08-01 11:58:09 --> Loader Class telah di inisialisasi
+INFO - 2018-08-01 11:58:09 --> Helper telah dimuat: url_helper
+INFO - 2018-08-01 11:58:09 --> Controller Class telah di inisialisasi
+DEBUG - 2018-08-01 11:58:09 --> Session: "sess_save_path" kosong; pakai "session.save_path" data dari php.ini.
+INFO - 2018-08-01 11:58:09 --> Session: Class initialized using 'files' driver.
+INFO - 2018-08-01 11:58:09 --> Helper telah dimuat: cookie_helper
+INFO - 2018-08-01 11:58:09 --> Database Driver Class telah di inisialisasi
+INFO - 2018-08-01 11:58:09 --> Model "datatable" telah di inisialisasi
+INFO - 2018-08-01 11:58:09 --> Output akhir dikirim ke browser
+DEBUG - 2018-08-01 11:58:09 --> Total waktu eksekusi: 0.4410
+INFO - 2018-08-01 11:58:13 --> Config Class telah di inisialisasi
+INFO - 2018-08-01 11:58:13 --> Hooks Class telah di inisialisasi
+DEBUG - 2018-08-01 11:58:13 --> UTF-8 Support Aktif
+INFO - 2018-08-01 11:58:13 --> Utf8 Class telah di inisialisasi
+INFO - 2018-08-01 11:58:13 --> URI Class telah di inisialisasi
+INFO - 2018-08-01 11:58:13 --> Router Class telah di inisialisasi
+INFO - 2018-08-01 11:58:13 --> Output Class telah di inisialisasi
+INFO - 2018-08-01 11:58:13 --> Security Class telah di inisialisasi
+DEBUG - 2018-08-01 11:58:13 --> Global POST, GET dan COOKIE data telah disanitasi
+INFO - 2018-08-01 11:58:13 --> Input Class telah di inisialisasi
+INFO - 2018-08-01 11:58:13 --> Language Class telah di inisialisasi
+INFO - 2018-08-01 11:58:13 --> Loader Class telah di inisialisasi
+INFO - 2018-08-01 11:58:13 --> Helper telah dimuat: url_helper
+INFO - 2018-08-01 11:58:13 --> Controller Class telah di inisialisasi
+DEBUG - 2018-08-01 11:58:13 --> Session: "sess_save_path" kosong; pakai "session.save_path" data dari php.ini.
+INFO - 2018-08-01 11:58:13 --> Session: Class initialized using 'files' driver.
+INFO - 2018-08-01 11:58:13 --> Helper telah dimuat: cookie_helper
+INFO - 2018-08-01 11:58:13 --> File telah dimuat: D:\XAMPP\htdocs\jb\application\views\jebews/html/head.php
+INFO - 2018-08-01 11:58:13 --> File telah dimuat: D:\XAMPP\htdocs\jb\application\views\jebews/product/manage.php
+INFO - 2018-08-01 11:58:13 --> Output akhir dikirim ke browser
+DEBUG - 2018-08-01 11:58:13 --> Total waktu eksekusi: 0.4082
+INFO - 2018-08-01 11:58:13 --> Config Class telah di inisialisasi
+INFO - 2018-08-01 11:58:13 --> Hooks Class telah di inisialisasi
+DEBUG - 2018-08-01 11:58:13 --> UTF-8 Support Aktif
+INFO - 2018-08-01 11:58:13 --> Utf8 Class telah di inisialisasi
+INFO - 2018-08-01 11:58:13 --> URI Class telah di inisialisasi
+INFO - 2018-08-01 11:58:13 --> Router Class telah di inisialisasi
+INFO - 2018-08-01 11:58:13 --> Output Class telah di inisialisasi
+INFO - 2018-08-01 11:58:13 --> Security Class telah di inisialisasi
+DEBUG - 2018-08-01 11:58:13 --> Global POST, GET dan COOKIE data telah disanitasi
+INFO - 2018-08-01 11:58:13 --> Input Class telah di inisialisasi
+INFO - 2018-08-01 11:58:13 --> Language Class telah di inisialisasi
+INFO - 2018-08-01 11:58:14 --> Loader Class telah di inisialisasi
+INFO - 2018-08-01 11:58:14 --> Helper telah dimuat: url_helper
+INFO - 2018-08-01 11:58:14 --> Controller Class telah di inisialisasi
+DEBUG - 2018-08-01 11:58:14 --> Session: "sess_save_path" kosong; pakai "session.save_path" data dari php.ini.
+INFO - 2018-08-01 11:58:14 --> Session: Class initialized using 'files' driver.
+INFO - 2018-08-01 11:58:14 --> Helper telah dimuat: cookie_helper
+INFO - 2018-08-01 11:58:14 --> Database Driver Class telah di inisialisasi
+INFO - 2018-08-01 11:58:14 --> Model "datatable" telah di inisialisasi
+INFO - 2018-08-01 11:58:14 --> Output akhir dikirim ke browser
+DEBUG - 2018-08-01 11:58:14 --> Total waktu eksekusi: 0.4560
+INFO - 2018-08-01 11:58:15 --> Config Class telah di inisialisasi
+INFO - 2018-08-01 11:58:15 --> Hooks Class telah di inisialisasi
+DEBUG - 2018-08-01 11:58:15 --> UTF-8 Support Aktif
+INFO - 2018-08-01 11:58:15 --> Utf8 Class telah di inisialisasi
+INFO - 2018-08-01 11:58:15 --> URI Class telah di inisialisasi
+INFO - 2018-08-01 11:58:15 --> Router Class telah di inisialisasi
+INFO - 2018-08-01 11:58:15 --> Output Class telah di inisialisasi
+INFO - 2018-08-01 11:58:15 --> Security Class telah di inisialisasi
+DEBUG - 2018-08-01 11:58:15 --> Global POST, GET dan COOKIE data telah disanitasi
+INFO - 2018-08-01 11:58:15 --> Input Class telah di inisialisasi
+INFO - 2018-08-01 11:58:15 --> Language Class telah di inisialisasi
+INFO - 2018-08-01 11:58:15 --> Loader Class telah di inisialisasi
+INFO - 2018-08-01 11:58:15 --> Helper telah dimuat: url_helper
+INFO - 2018-08-01 11:58:15 --> Controller Class telah di inisialisasi
+DEBUG - 2018-08-01 11:58:15 --> Session: "sess_save_path" kosong; pakai "session.save_path" data dari php.ini.
+INFO - 2018-08-01 11:58:15 --> Session: Class initialized using 'files' driver.
+INFO - 2018-08-01 11:58:15 --> Helper telah dimuat: cookie_helper
+INFO - 2018-08-01 11:58:15 --> Database Driver Class telah di inisialisasi
+INFO - 2018-08-01 11:58:15 --> Model "datatable" telah di inisialisasi
+INFO - 2018-08-01 11:58:15 --> Output akhir dikirim ke browser
+INFO - 2018-08-01 11:58:16 --> Config Class telah di inisialisasi
+INFO - 2018-08-01 11:58:16 --> Hooks Class telah di inisialisasi
+DEBUG - 2018-08-01 11:58:16 --> Total waktu eksekusi: 0.4234
+DEBUG - 2018-08-01 11:58:16 --> UTF-8 Support Aktif
+INFO - 2018-08-01 11:58:16 --> Utf8 Class telah di inisialisasi
+INFO - 2018-08-01 11:58:16 --> URI Class telah di inisialisasi
+INFO - 2018-08-01 11:58:16 --> Router Class telah di inisialisasi
+INFO - 2018-08-01 11:58:16 --> Output Class telah di inisialisasi
+INFO - 2018-08-01 11:58:16 --> Security Class telah di inisialisasi
+DEBUG - 2018-08-01 11:58:16 --> Global POST, GET dan COOKIE data telah disanitasi
+INFO - 2018-08-01 11:58:16 --> Input Class telah di inisialisasi
+INFO - 2018-08-01 11:58:16 --> Language Class telah di inisialisasi
+INFO - 2018-08-01 11:58:16 --> Loader Class telah di inisialisasi
+INFO - 2018-08-01 11:58:16 --> Helper telah dimuat: url_helper
+INFO - 2018-08-01 11:58:16 --> Controller Class telah di inisialisasi
+DEBUG - 2018-08-01 11:58:16 --> Session: "sess_save_path" kosong; pakai "session.save_path" data dari php.ini.
+INFO - 2018-08-01 11:58:16 --> Session: Class initialized using 'files' driver.
+INFO - 2018-08-01 11:58:16 --> Helper telah dimuat: cookie_helper
+INFO - 2018-08-01 11:58:16 --> Database Driver Class telah di inisialisasi
+INFO - 2018-08-01 11:58:16 --> Model "datatable" telah di inisialisasi
+INFO - 2018-08-01 11:58:16 --> Output akhir dikirim ke browser
+DEBUG - 2018-08-01 11:58:16 --> Total waktu eksekusi: 0.4128
+INFO - 2018-08-01 11:58:55 --> Config Class telah di inisialisasi
+INFO - 2018-08-01 11:58:55 --> Hooks Class telah di inisialisasi
+DEBUG - 2018-08-01 11:58:55 --> UTF-8 Support Aktif
+INFO - 2018-08-01 11:58:55 --> Utf8 Class telah di inisialisasi
+INFO - 2018-08-01 11:58:55 --> URI Class telah di inisialisasi
+INFO - 2018-08-01 11:58:55 --> Router Class telah di inisialisasi
+INFO - 2018-08-01 11:58:55 --> Output Class telah di inisialisasi
+INFO - 2018-08-01 11:58:55 --> Security Class telah di inisialisasi
+DEBUG - 2018-08-01 11:58:55 --> Global POST, GET dan COOKIE data telah disanitasi
+INFO - 2018-08-01 11:58:55 --> Input Class telah di inisialisasi
+INFO - 2018-08-01 11:58:55 --> Language Class telah di inisialisasi
+INFO - 2018-08-01 11:58:55 --> Loader Class telah di inisialisasi
+INFO - 2018-08-01 11:58:55 --> Helper telah dimuat: url_helper
+INFO - 2018-08-01 11:58:55 --> Controller Class telah di inisialisasi
+DEBUG - 2018-08-01 11:58:55 --> Session: "sess_save_path" kosong; pakai "session.save_path" data dari php.ini.
+INFO - 2018-08-01 11:58:55 --> Session: Class initialized using 'files' driver.
+INFO - 2018-08-01 11:58:55 --> Helper telah dimuat: cookie_helper
+INFO - 2018-08-01 11:58:55 --> File telah dimuat: D:\XAMPP\htdocs\jb\application\views\jebews/html/head.php
+INFO - 2018-08-01 11:58:55 --> File telah dimuat: D:\XAMPP\htdocs\jb\application\views\jebews/product/manage.php
+INFO - 2018-08-01 11:58:55 --> Output akhir dikirim ke browser
+DEBUG - 2018-08-01 11:58:55 --> Total waktu eksekusi: 0.4230
+INFO - 2018-08-01 11:58:55 --> Config Class telah di inisialisasi
+INFO - 2018-08-01 11:58:55 --> Hooks Class telah di inisialisasi
+DEBUG - 2018-08-01 11:58:55 --> UTF-8 Support Aktif
+INFO - 2018-08-01 11:58:55 --> Utf8 Class telah di inisialisasi
+INFO - 2018-08-01 11:58:55 --> URI Class telah di inisialisasi
+INFO - 2018-08-01 11:58:55 --> Router Class telah di inisialisasi
+INFO - 2018-08-01 11:58:55 --> Output Class telah di inisialisasi
+INFO - 2018-08-01 11:58:55 --> Security Class telah di inisialisasi
+DEBUG - 2018-08-01 11:58:55 --> Global POST, GET dan COOKIE data telah disanitasi
+INFO - 2018-08-01 11:58:55 --> Input Class telah di inisialisasi
+INFO - 2018-08-01 11:58:55 --> Language Class telah di inisialisasi
+INFO - 2018-08-01 11:58:55 --> Loader Class telah di inisialisasi
+INFO - 2018-08-01 11:58:55 --> Helper telah dimuat: url_helper
+INFO - 2018-08-01 11:58:56 --> Controller Class telah di inisialisasi
+DEBUG - 2018-08-01 11:58:56 --> Session: "sess_save_path" kosong; pakai "session.save_path" data dari php.ini.
+INFO - 2018-08-01 11:58:56 --> Session: Class initialized using 'files' driver.
+INFO - 2018-08-01 11:58:56 --> Helper telah dimuat: cookie_helper
+INFO - 2018-08-01 11:58:56 --> Database Driver Class telah di inisialisasi
+INFO - 2018-08-01 11:58:56 --> Model "datatable" telah di inisialisasi
+INFO - 2018-08-01 11:58:56 --> Output akhir dikirim ke browser
+DEBUG - 2018-08-01 11:58:56 --> Total waktu eksekusi: 0.4460
+INFO - 2018-08-01 11:58:56 --> Config Class telah di inisialisasi
+INFO - 2018-08-01 11:58:56 --> Hooks Class telah di inisialisasi
+DEBUG - 2018-08-01 11:58:56 --> UTF-8 Support Aktif
+INFO - 2018-08-01 11:58:56 --> Utf8 Class telah di inisialisasi
+INFO - 2018-08-01 11:58:56 --> URI Class telah di inisialisasi
+INFO - 2018-08-01 11:58:56 --> Router Class telah di inisialisasi
+INFO - 2018-08-01 11:58:56 --> Output Class telah di inisialisasi
+INFO - 2018-08-01 11:58:56 --> Security Class telah di inisialisasi
+DEBUG - 2018-08-01 11:58:56 --> Global POST, GET dan COOKIE data telah disanitasi
+INFO - 2018-08-01 11:58:56 --> Input Class telah di inisialisasi
+INFO - 2018-08-01 11:58:56 --> Language Class telah di inisialisasi
+INFO - 2018-08-01 11:58:56 --> Loader Class telah di inisialisasi
+INFO - 2018-08-01 11:58:56 --> Helper telah dimuat: url_helper
+INFO - 2018-08-01 11:58:56 --> Controller Class telah di inisialisasi
+DEBUG - 2018-08-01 11:58:56 --> Session: "sess_save_path" kosong; pakai "session.save_path" data dari php.ini.
+INFO - 2018-08-01 11:58:56 --> Session: Class initialized using 'files' driver.
+INFO - 2018-08-01 11:58:56 --> Helper telah dimuat: cookie_helper
+INFO - 2018-08-01 11:58:56 --> Database Driver Class telah di inisialisasi
+INFO - 2018-08-01 11:58:57 --> Model "datatable" telah di inisialisasi
+INFO - 2018-08-01 11:58:57 --> Output akhir dikirim ke browser
+INFO - 2018-08-01 11:58:57 --> Config Class telah di inisialisasi
+INFO - 2018-08-01 11:58:57 --> Hooks Class telah di inisialisasi
+DEBUG - 2018-08-01 11:58:57 --> Total waktu eksekusi: 0.4462
+DEBUG - 2018-08-01 11:58:57 --> UTF-8 Support Aktif
+INFO - 2018-08-01 11:58:57 --> Utf8 Class telah di inisialisasi
+INFO - 2018-08-01 11:58:57 --> URI Class telah di inisialisasi
+INFO - 2018-08-01 11:58:57 --> Router Class telah di inisialisasi
+INFO - 2018-08-01 11:58:57 --> Output Class telah di inisialisasi
+INFO - 2018-08-01 11:58:57 --> Security Class telah di inisialisasi
+DEBUG - 2018-08-01 11:58:57 --> Global POST, GET dan COOKIE data telah disanitasi
+INFO - 2018-08-01 11:58:57 --> Input Class telah di inisialisasi
+INFO - 2018-08-01 11:58:57 --> Language Class telah di inisialisasi
+INFO - 2018-08-01 11:58:57 --> Loader Class telah di inisialisasi
+INFO - 2018-08-01 11:58:57 --> Helper telah dimuat: url_helper
+INFO - 2018-08-01 11:58:57 --> Controller Class telah di inisialisasi
+DEBUG - 2018-08-01 11:58:57 --> Session: "sess_save_path" kosong; pakai "session.save_path" data dari php.ini.
+INFO - 2018-08-01 11:58:57 --> Session: Class initialized using 'files' driver.
+INFO - 2018-08-01 11:58:57 --> Helper telah dimuat: cookie_helper
+INFO - 2018-08-01 11:58:57 --> Database Driver Class telah di inisialisasi
+INFO - 2018-08-01 11:58:57 --> Model "datatable" telah di inisialisasi
+INFO - 2018-08-01 11:58:57 --> Output akhir dikirim ke browser
+DEBUG - 2018-08-01 11:58:57 --> Total waktu eksekusi: 0.4208
+INFO - 2018-08-01 11:59:01 --> Config Class telah di inisialisasi
+INFO - 2018-08-01 11:59:01 --> Hooks Class telah di inisialisasi
+DEBUG - 2018-08-01 11:59:01 --> UTF-8 Support Aktif
+INFO - 2018-08-01 11:59:01 --> Utf8 Class telah di inisialisasi
+INFO - 2018-08-01 11:59:01 --> URI Class telah di inisialisasi
+INFO - 2018-08-01 11:59:01 --> Router Class telah di inisialisasi
+INFO - 2018-08-01 11:59:01 --> Output Class telah di inisialisasi
+INFO - 2018-08-01 11:59:01 --> Security Class telah di inisialisasi
+DEBUG - 2018-08-01 11:59:01 --> Global POST, GET dan COOKIE data telah disanitasi
+INFO - 2018-08-01 11:59:01 --> Input Class telah di inisialisasi
+INFO - 2018-08-01 11:59:01 --> Language Class telah di inisialisasi
+INFO - 2018-08-01 11:59:01 --> Loader Class telah di inisialisasi
+INFO - 2018-08-01 11:59:01 --> Helper telah dimuat: url_helper
+INFO - 2018-08-01 11:59:01 --> Controller Class telah di inisialisasi
+DEBUG - 2018-08-01 11:59:01 --> Session: "sess_save_path" kosong; pakai "session.save_path" data dari php.ini.
+INFO - 2018-08-01 11:59:01 --> Session: Class initialized using 'files' driver.
+INFO - 2018-08-01 11:59:01 --> Helper telah dimuat: cookie_helper
+INFO - 2018-08-01 11:59:01 --> Database Driver Class telah di inisialisasi
+INFO - 2018-08-01 11:59:01 --> Model "datatable" telah di inisialisasi
+INFO - 2018-08-01 11:59:01 --> Output akhir dikirim ke browser
+DEBUG - 2018-08-01 11:59:01 --> Total waktu eksekusi: 0.4250
+INFO - 2018-08-01 11:59:06 --> Config Class telah di inisialisasi
+INFO - 2018-08-01 11:59:07 --> Hooks Class telah di inisialisasi
+DEBUG - 2018-08-01 11:59:07 --> UTF-8 Support Aktif
+INFO - 2018-08-01 11:59:07 --> Utf8 Class telah di inisialisasi
+INFO - 2018-08-01 11:59:07 --> URI Class telah di inisialisasi
+INFO - 2018-08-01 11:59:07 --> Router Class telah di inisialisasi
+INFO - 2018-08-01 11:59:07 --> Output Class telah di inisialisasi
+INFO - 2018-08-01 11:59:07 --> Security Class telah di inisialisasi
+DEBUG - 2018-08-01 11:59:07 --> Global POST, GET dan COOKIE data telah disanitasi
+INFO - 2018-08-01 11:59:07 --> Input Class telah di inisialisasi
+INFO - 2018-08-01 11:59:07 --> Language Class telah di inisialisasi
+INFO - 2018-08-01 11:59:07 --> Loader Class telah di inisialisasi
+INFO - 2018-08-01 11:59:07 --> Helper telah dimuat: url_helper
+INFO - 2018-08-01 11:59:07 --> Controller Class telah di inisialisasi
+DEBUG - 2018-08-01 11:59:07 --> Session: "sess_save_path" kosong; pakai "session.save_path" data dari php.ini.
+INFO - 2018-08-01 11:59:07 --> Session: Class initialized using 'files' driver.
+INFO - 2018-08-01 11:59:07 --> Helper telah dimuat: cookie_helper
+INFO - 2018-08-01 11:59:07 --> Database Driver Class telah di inisialisasi
+INFO - 2018-08-01 11:59:07 --> Config Class telah di inisialisasi
+INFO - 2018-08-01 11:59:07 --> Model "datatable" telah di inisialisasi
+INFO - 2018-08-01 11:59:07 --> Hooks Class telah di inisialisasi
+INFO - 2018-08-01 11:59:07 --> Output akhir dikirim ke browser
+DEBUG - 2018-08-01 11:59:07 --> Total waktu eksekusi: 0.4532
+DEBUG - 2018-08-01 11:59:07 --> UTF-8 Support Aktif
+INFO - 2018-08-01 11:59:07 --> Utf8 Class telah di inisialisasi
+INFO - 2018-08-01 11:59:07 --> URI Class telah di inisialisasi
+INFO - 2018-08-01 11:59:07 --> Router Class telah di inisialisasi
+INFO - 2018-08-01 11:59:07 --> Output Class telah di inisialisasi
+INFO - 2018-08-01 11:59:07 --> Security Class telah di inisialisasi
+DEBUG - 2018-08-01 11:59:07 --> Global POST, GET dan COOKIE data telah disanitasi
+INFO - 2018-08-01 11:59:07 --> Input Class telah di inisialisasi
+INFO - 2018-08-01 11:59:07 --> Language Class telah di inisialisasi
+INFO - 2018-08-01 11:59:07 --> Loader Class telah di inisialisasi
+INFO - 2018-08-01 11:59:07 --> Helper telah dimuat: url_helper
+INFO - 2018-08-01 11:59:07 --> Controller Class telah di inisialisasi
+DEBUG - 2018-08-01 11:59:07 --> Session: "sess_save_path" kosong; pakai "session.save_path" data dari php.ini.
+INFO - 2018-08-01 11:59:07 --> Session: Class initialized using 'files' driver.
+INFO - 2018-08-01 11:59:07 --> Helper telah dimuat: cookie_helper
+INFO - 2018-08-01 11:59:07 --> Database Driver Class telah di inisialisasi
+INFO - 2018-08-01 11:59:07 --> Model "datatable" telah di inisialisasi
+INFO - 2018-08-01 11:59:07 --> Output akhir dikirim ke browser
+DEBUG - 2018-08-01 11:59:07 --> Total waktu eksekusi: 0.4120
+INFO - 2018-08-01 11:59:07 --> Config Class telah di inisialisasi
+INFO - 2018-08-01 11:59:07 --> Hooks Class telah di inisialisasi
+DEBUG - 2018-08-01 11:59:07 --> UTF-8 Support Aktif
+INFO - 2018-08-01 11:59:08 --> Utf8 Class telah di inisialisasi
+INFO - 2018-08-01 11:59:08 --> URI Class telah di inisialisasi
+INFO - 2018-08-01 11:59:08 --> Router Class telah di inisialisasi
+INFO - 2018-08-01 11:59:08 --> Output Class telah di inisialisasi
+INFO - 2018-08-01 11:59:08 --> Security Class telah di inisialisasi
+DEBUG - 2018-08-01 11:59:08 --> Global POST, GET dan COOKIE data telah disanitasi
+INFO - 2018-08-01 11:59:08 --> Input Class telah di inisialisasi
+INFO - 2018-08-01 11:59:08 --> Language Class telah di inisialisasi
+INFO - 2018-08-01 11:59:08 --> Loader Class telah di inisialisasi
+INFO - 2018-08-01 11:59:08 --> Helper telah dimuat: url_helper
+INFO - 2018-08-01 11:59:08 --> Controller Class telah di inisialisasi
+DEBUG - 2018-08-01 11:59:08 --> Session: "sess_save_path" kosong; pakai "session.save_path" data dari php.ini.
+INFO - 2018-08-01 11:59:08 --> Session: Class initialized using 'files' driver.
+INFO - 2018-08-01 11:59:08 --> Helper telah dimuat: cookie_helper
+INFO - 2018-08-01 11:59:08 --> Database Driver Class telah di inisialisasi
+INFO - 2018-08-01 11:59:08 --> Model "datatable" telah di inisialisasi
+INFO - 2018-08-01 11:59:08 --> Output akhir dikirim ke browser
+DEBUG - 2018-08-01 11:59:08 --> Total waktu eksekusi: 0.4274
+INFO - 2018-08-01 11:59:09 --> Config Class telah di inisialisasi
+INFO - 2018-08-01 11:59:09 --> Hooks Class telah di inisialisasi
+DEBUG - 2018-08-01 11:59:09 --> UTF-8 Support Aktif
+INFO - 2018-08-01 11:59:09 --> Utf8 Class telah di inisialisasi
+INFO - 2018-08-01 11:59:09 --> URI Class telah di inisialisasi
+INFO - 2018-08-01 11:59:09 --> Router Class telah di inisialisasi
+INFO - 2018-08-01 11:59:09 --> Output Class telah di inisialisasi
+INFO - 2018-08-01 11:59:09 --> Security Class telah di inisialisasi
+DEBUG - 2018-08-01 11:59:09 --> Global POST, GET dan COOKIE data telah disanitasi
+INFO - 2018-08-01 11:59:09 --> Input Class telah di inisialisasi
+INFO - 2018-08-01 11:59:09 --> Language Class telah di inisialisasi
+INFO - 2018-08-01 11:59:09 --> Loader Class telah di inisialisasi
+INFO - 2018-08-01 11:59:09 --> Helper telah dimuat: url_helper
+INFO - 2018-08-01 11:59:09 --> Controller Class telah di inisialisasi
+DEBUG - 2018-08-01 11:59:09 --> Session: "sess_save_path" kosong; pakai "session.save_path" data dari php.ini.
+INFO - 2018-08-01 11:59:09 --> Session: Class initialized using 'files' driver.
+INFO - 2018-08-01 11:59:09 --> Helper telah dimuat: cookie_helper
+INFO - 2018-08-01 11:59:09 --> Database Driver Class telah di inisialisasi
+INFO - 2018-08-01 11:59:09 --> Model "datatable" telah di inisialisasi
+INFO - 2018-08-01 11:59:09 --> Output akhir dikirim ke browser
+DEBUG - 2018-08-01 11:59:09 --> Total waktu eksekusi: 0.4468
+INFO - 2018-08-01 11:59:56 --> Config Class telah di inisialisasi
+INFO - 2018-08-01 11:59:56 --> Hooks Class telah di inisialisasi
+DEBUG - 2018-08-01 11:59:56 --> UTF-8 Support Aktif
+INFO - 2018-08-01 11:59:56 --> Utf8 Class telah di inisialisasi
+INFO - 2018-08-01 11:59:56 --> URI Class telah di inisialisasi
+INFO - 2018-08-01 11:59:56 --> Router Class telah di inisialisasi
+INFO - 2018-08-01 11:59:56 --> Output Class telah di inisialisasi
+INFO - 2018-08-01 11:59:56 --> Security Class telah di inisialisasi
+DEBUG - 2018-08-01 11:59:56 --> Global POST, GET dan COOKIE data telah disanitasi
+INFO - 2018-08-01 11:59:56 --> Input Class telah di inisialisasi
+INFO - 2018-08-01 11:59:56 --> Language Class telah di inisialisasi
+INFO - 2018-08-01 11:59:56 --> Loader Class telah di inisialisasi
+INFO - 2018-08-01 11:59:56 --> Helper telah dimuat: url_helper
+INFO - 2018-08-01 11:59:56 --> Controller Class telah di inisialisasi
+DEBUG - 2018-08-01 11:59:56 --> Session: "sess_save_path" kosong; pakai "session.save_path" data dari php.ini.
+INFO - 2018-08-01 11:59:56 --> Session: Class initialized using 'files' driver.
+INFO - 2018-08-01 11:59:56 --> Helper telah dimuat: cookie_helper
+INFO - 2018-08-01 11:59:56 --> Database Driver Class telah di inisialisasi
+INFO - 2018-08-01 11:59:56 --> Model "datatable" telah di inisialisasi
+INFO - 2018-08-01 11:59:57 --> Output akhir dikirim ke browser
+DEBUG - 2018-08-01 11:59:57 --> Total waktu eksekusi: 0.4360
+INFO - 2018-08-01 11:59:59 --> Config Class telah di inisialisasi
+INFO - 2018-08-01 11:59:59 --> Hooks Class telah di inisialisasi
+DEBUG - 2018-08-01 11:59:59 --> UTF-8 Support Aktif
+INFO - 2018-08-01 11:59:59 --> Utf8 Class telah di inisialisasi
+INFO - 2018-08-01 11:59:59 --> URI Class telah di inisialisasi
+INFO - 2018-08-01 11:59:59 --> Router Class telah di inisialisasi
+INFO - 2018-08-01 11:59:59 --> Output Class telah di inisialisasi
+INFO - 2018-08-01 11:59:59 --> Security Class telah di inisialisasi
+DEBUG - 2018-08-01 12:00:00 --> Global POST, GET dan COOKIE data telah disanitasi
+INFO - 2018-08-01 12:00:00 --> Input Class telah di inisialisasi
+INFO - 2018-08-01 12:00:00 --> Language Class telah di inisialisasi
+INFO - 2018-08-01 12:00:00 --> Loader Class telah di inisialisasi
+INFO - 2018-08-01 12:00:00 --> Helper telah dimuat: url_helper
+INFO - 2018-08-01 12:00:00 --> Controller Class telah di inisialisasi
+DEBUG - 2018-08-01 12:00:00 --> Session: "sess_save_path" kosong; pakai "session.save_path" data dari php.ini.
+INFO - 2018-08-01 12:00:00 --> Session: Class initialized using 'files' driver.
+INFO - 2018-08-01 12:00:00 --> Helper telah dimuat: cookie_helper
+INFO - 2018-08-01 12:00:00 --> Database Driver Class telah di inisialisasi
+INFO - 2018-08-01 12:00:00 --> Model "datatable" telah di inisialisasi
+INFO - 2018-08-01 12:00:00 --> Output akhir dikirim ke browser
+DEBUG - 2018-08-01 12:00:00 --> Total waktu eksekusi: 0.4340
+INFO - 2018-08-01 12:00:13 --> Config Class telah di inisialisasi
+INFO - 2018-08-01 12:00:13 --> Hooks Class telah di inisialisasi
+DEBUG - 2018-08-01 12:00:13 --> UTF-8 Support Aktif
+INFO - 2018-08-01 12:00:14 --> Utf8 Class telah di inisialisasi
+INFO - 2018-08-01 12:00:14 --> URI Class telah di inisialisasi
+INFO - 2018-08-01 12:00:14 --> Router Class telah di inisialisasi
+INFO - 2018-08-01 12:00:14 --> Output Class telah di inisialisasi
+INFO - 2018-08-01 12:00:14 --> Security Class telah di inisialisasi
+DEBUG - 2018-08-01 12:00:14 --> Global POST, GET dan COOKIE data telah disanitasi
+INFO - 2018-08-01 12:00:14 --> Input Class telah di inisialisasi
+INFO - 2018-08-01 12:00:14 --> Language Class telah di inisialisasi
+INFO - 2018-08-01 12:00:14 --> Loader Class telah di inisialisasi
+INFO - 2018-08-01 12:00:14 --> Helper telah dimuat: url_helper
+INFO - 2018-08-01 12:00:14 --> Controller Class telah di inisialisasi
+INFO - 2018-08-01 12:00:14 --> Database Driver Class telah di inisialisasi
+ERROR - 2018-08-01 12:00:14 --> 404 Halaman tidak ditemukan: 
+INFO - 2018-08-01 12:00:16 --> Config Class telah di inisialisasi
+INFO - 2018-08-01 12:00:16 --> Hooks Class telah di inisialisasi
+DEBUG - 2018-08-01 12:00:16 --> UTF-8 Support Aktif
+INFO - 2018-08-01 12:00:16 --> Utf8 Class telah di inisialisasi
+INFO - 2018-08-01 12:00:16 --> URI Class telah di inisialisasi
+INFO - 2018-08-01 12:00:16 --> Router Class telah di inisialisasi
+INFO - 2018-08-01 12:00:16 --> Output Class telah di inisialisasi
+INFO - 2018-08-01 12:00:16 --> Security Class telah di inisialisasi
+DEBUG - 2018-08-01 12:00:16 --> Global POST, GET dan COOKIE data telah disanitasi
+INFO - 2018-08-01 12:00:16 --> Input Class telah di inisialisasi
+INFO - 2018-08-01 12:00:16 --> Language Class telah di inisialisasi
+INFO - 2018-08-01 12:00:16 --> Loader Class telah di inisialisasi
+INFO - 2018-08-01 12:00:16 --> Helper telah dimuat: url_helper
+INFO - 2018-08-01 12:00:16 --> Controller Class telah di inisialisasi
+DEBUG - 2018-08-01 12:00:16 --> Session: "sess_save_path" kosong; pakai "session.save_path" data dari php.ini.
+INFO - 2018-08-01 12:00:16 --> Session: Class initialized using 'files' driver.
+INFO - 2018-08-01 12:00:16 --> Helper telah dimuat: cookie_helper
+INFO - 2018-08-01 12:00:16 --> File telah dimuat: D:\XAMPP\htdocs\jb\application\views\jebews/html/head.php
+INFO - 2018-08-01 12:00:16 --> File telah dimuat: D:\XAMPP\htdocs\jb\application\views\jebews/product/manage.php
+INFO - 2018-08-01 12:00:16 --> Output akhir dikirim ke browser
+DEBUG - 2018-08-01 12:00:16 --> Total waktu eksekusi: 0.4016
+INFO - 2018-08-01 12:00:16 --> Config Class telah di inisialisasi
+INFO - 2018-08-01 12:00:16 --> Hooks Class telah di inisialisasi
+DEBUG - 2018-08-01 12:00:16 --> UTF-8 Support Aktif
+INFO - 2018-08-01 12:00:17 --> Utf8 Class telah di inisialisasi
+INFO - 2018-08-01 12:00:17 --> URI Class telah di inisialisasi
+INFO - 2018-08-01 12:00:17 --> Router Class telah di inisialisasi
+INFO - 2018-08-01 12:00:17 --> Output Class telah di inisialisasi
+INFO - 2018-08-01 12:00:17 --> Security Class telah di inisialisasi
+DEBUG - 2018-08-01 12:00:17 --> Global POST, GET dan COOKIE data telah disanitasi
+INFO - 2018-08-01 12:00:17 --> Input Class telah di inisialisasi
+INFO - 2018-08-01 12:00:17 --> Language Class telah di inisialisasi
+INFO - 2018-08-01 12:00:17 --> Loader Class telah di inisialisasi
+INFO - 2018-08-01 12:00:17 --> Helper telah dimuat: url_helper
+INFO - 2018-08-01 12:00:17 --> Controller Class telah di inisialisasi
+DEBUG - 2018-08-01 12:00:17 --> Session: "sess_save_path" kosong; pakai "session.save_path" data dari php.ini.
+INFO - 2018-08-01 12:00:17 --> Session: Class initialized using 'files' driver.
+INFO - 2018-08-01 12:00:17 --> Helper telah dimuat: cookie_helper
+INFO - 2018-08-01 12:00:17 --> Database Driver Class telah di inisialisasi
+INFO - 2018-08-01 12:00:17 --> Model "datatable" telah di inisialisasi
+INFO - 2018-08-01 12:00:17 --> Output akhir dikirim ke browser
+DEBUG - 2018-08-01 12:00:17 --> Total waktu eksekusi: 0.4480
+INFO - 2018-08-01 12:00:47 --> Config Class telah di inisialisasi
+INFO - 2018-08-01 12:00:47 --> Hooks Class telah di inisialisasi
+DEBUG - 2018-08-01 12:00:47 --> UTF-8 Support Aktif
+INFO - 2018-08-01 12:00:47 --> Utf8 Class telah di inisialisasi
+INFO - 2018-08-01 12:00:47 --> URI Class telah di inisialisasi
+INFO - 2018-08-01 12:00:47 --> Router Class telah di inisialisasi
+INFO - 2018-08-01 12:00:47 --> Output Class telah di inisialisasi
+INFO - 2018-08-01 12:00:47 --> Security Class telah di inisialisasi
+DEBUG - 2018-08-01 12:00:47 --> Global POST, GET dan COOKIE data telah disanitasi
+INFO - 2018-08-01 12:00:47 --> Input Class telah di inisialisasi
+INFO - 2018-08-01 12:00:47 --> Language Class telah di inisialisasi
+INFO - 2018-08-01 12:00:47 --> Loader Class telah di inisialisasi
+INFO - 2018-08-01 12:00:47 --> Helper telah dimuat: url_helper
+INFO - 2018-08-01 12:00:47 --> Controller Class telah di inisialisasi
+DEBUG - 2018-08-01 12:00:47 --> Session: "sess_save_path" kosong; pakai "session.save_path" data dari php.ini.
+INFO - 2018-08-01 12:00:47 --> Session: Class initialized using 'files' driver.
+INFO - 2018-08-01 12:00:47 --> Helper telah dimuat: cookie_helper
+INFO - 2018-08-01 12:00:47 --> File telah dimuat: D:\XAMPP\htdocs\jb\application\views\jebews/html/head.php
+INFO - 2018-08-01 12:00:47 --> File telah dimuat: D:\XAMPP\htdocs\jb\application\views\jebews/product/manage.php
+INFO - 2018-08-01 12:00:47 --> Output akhir dikirim ke browser
+DEBUG - 2018-08-01 12:00:47 --> Total waktu eksekusi: 0.4066
+INFO - 2018-08-01 12:00:48 --> Config Class telah di inisialisasi
+INFO - 2018-08-01 12:00:48 --> Hooks Class telah di inisialisasi
+DEBUG - 2018-08-01 12:00:48 --> UTF-8 Support Aktif
+INFO - 2018-08-01 12:00:48 --> Utf8 Class telah di inisialisasi
+INFO - 2018-08-01 12:00:48 --> URI Class telah di inisialisasi
+INFO - 2018-08-01 12:00:48 --> Router Class telah di inisialisasi
+INFO - 2018-08-01 12:00:48 --> Output Class telah di inisialisasi
+INFO - 2018-08-01 12:00:48 --> Security Class telah di inisialisasi
+DEBUG - 2018-08-01 12:00:48 --> Global POST, GET dan COOKIE data telah disanitasi
+INFO - 2018-08-01 12:00:48 --> Input Class telah di inisialisasi
+INFO - 2018-08-01 12:00:48 --> Language Class telah di inisialisasi
+INFO - 2018-08-01 12:00:48 --> Loader Class telah di inisialisasi
+INFO - 2018-08-01 12:00:48 --> Helper telah dimuat: url_helper
+INFO - 2018-08-01 12:00:48 --> Controller Class telah di inisialisasi
+DEBUG - 2018-08-01 12:00:48 --> Session: "sess_save_path" kosong; pakai "session.save_path" data dari php.ini.
+INFO - 2018-08-01 12:00:48 --> Session: Class initialized using 'files' driver.
+INFO - 2018-08-01 12:00:48 --> Helper telah dimuat: cookie_helper
+INFO - 2018-08-01 12:00:48 --> Database Driver Class telah di inisialisasi
+INFO - 2018-08-01 12:00:48 --> Model "datatable" telah di inisialisasi
+INFO - 2018-08-01 12:00:48 --> Output akhir dikirim ke browser
+DEBUG - 2018-08-01 12:00:48 --> Total waktu eksekusi: 0.4640
+INFO - 2018-08-01 12:00:50 --> Config Class telah di inisialisasi
+INFO - 2018-08-01 12:00:50 --> Hooks Class telah di inisialisasi
+DEBUG - 2018-08-01 12:00:50 --> UTF-8 Support Aktif
+INFO - 2018-08-01 12:00:50 --> Utf8 Class telah di inisialisasi
+INFO - 2018-08-01 12:00:50 --> URI Class telah di inisialisasi
+INFO - 2018-08-01 12:00:50 --> Router Class telah di inisialisasi
+INFO - 2018-08-01 12:00:50 --> Output Class telah di inisialisasi
+INFO - 2018-08-01 12:00:50 --> Security Class telah di inisialisasi
+DEBUG - 2018-08-01 12:00:50 --> Global POST, GET dan COOKIE data telah disanitasi
+INFO - 2018-08-01 12:00:50 --> Input Class telah di inisialisasi
+INFO - 2018-08-01 12:00:50 --> Language Class telah di inisialisasi
+INFO - 2018-08-01 12:00:50 --> Loader Class telah di inisialisasi
+INFO - 2018-08-01 12:00:50 --> Helper telah dimuat: url_helper
+INFO - 2018-08-01 12:00:50 --> Controller Class telah di inisialisasi
+DEBUG - 2018-08-01 12:00:50 --> Session: "sess_save_path" kosong; pakai "session.save_path" data dari php.ini.
+INFO - 2018-08-01 12:00:51 --> Session: Class initialized using 'files' driver.
+INFO - 2018-08-01 12:00:51 --> Model "product" telah di inisialisasi
+INFO - 2018-08-01 12:00:51 --> Model "visitor" telah di inisialisasi
+INFO - 2018-08-01 12:00:51 --> Helper telah dimuat: tools_helper
+INFO - 2018-08-01 12:00:51 --> File telah dimuat: D:\XAMPP\htdocs\jb\application\views\jebews/html/head.php
+INFO - 2018-08-01 12:00:51 --> Database Driver Class telah di inisialisasi
+INFO - 2018-08-01 12:00:51 --> File telah dimuat: D:\XAMPP\htdocs\jb\application\views\jebews/dashboard.php
+INFO - 2018-08-01 12:00:51 --> Output akhir dikirim ke browser
+DEBUG - 2018-08-01 12:00:51 --> Total waktu eksekusi: 0.5106
+INFO - 2018-08-01 12:00:53 --> Config Class telah di inisialisasi
+INFO - 2018-08-01 12:00:53 --> Hooks Class telah di inisialisasi
+DEBUG - 2018-08-01 12:00:53 --> UTF-8 Support Aktif
+INFO - 2018-08-01 12:00:53 --> Utf8 Class telah di inisialisasi
+INFO - 2018-08-01 12:00:53 --> URI Class telah di inisialisasi
+INFO - 2018-08-01 12:00:53 --> Router Class telah di inisialisasi
+INFO - 2018-08-01 12:00:53 --> Output Class telah di inisialisasi
+INFO - 2018-08-01 12:00:53 --> Security Class telah di inisialisasi
+DEBUG - 2018-08-01 12:00:53 --> Global POST, GET dan COOKIE data telah disanitasi
+INFO - 2018-08-01 12:00:53 --> Input Class telah di inisialisasi
+INFO - 2018-08-01 12:00:53 --> Language Class telah di inisialisasi
+INFO - 2018-08-01 12:00:53 --> Loader Class telah di inisialisasi
+INFO - 2018-08-01 12:00:53 --> Helper telah dimuat: url_helper
+INFO - 2018-08-01 12:00:53 --> Controller Class telah di inisialisasi
+DEBUG - 2018-08-01 12:00:53 --> Session: "sess_save_path" kosong; pakai "session.save_path" data dari php.ini.
+INFO - 2018-08-01 12:00:53 --> Session: Class initialized using 'files' driver.
+INFO - 2018-08-01 12:00:53 --> Helper telah dimuat: cookie_helper
+INFO - 2018-08-01 12:00:53 --> File telah dimuat: D:\XAMPP\htdocs\jb\application\views\jebews/html/head.php
+INFO - 2018-08-01 12:00:53 --> File telah dimuat: D:\XAMPP\htdocs\jb\application\views\jebews/product/manage.php
+INFO - 2018-08-01 12:00:53 --> Output akhir dikirim ke browser
+DEBUG - 2018-08-01 12:00:53 --> Total waktu eksekusi: 0.4056
+INFO - 2018-08-01 12:00:54 --> Config Class telah di inisialisasi
+INFO - 2018-08-01 12:00:54 --> Hooks Class telah di inisialisasi
+DEBUG - 2018-08-01 12:00:54 --> UTF-8 Support Aktif
+INFO - 2018-08-01 12:00:54 --> Utf8 Class telah di inisialisasi
+INFO - 2018-08-01 12:00:54 --> URI Class telah di inisialisasi
+INFO - 2018-08-01 12:00:54 --> Router Class telah di inisialisasi
+INFO - 2018-08-01 12:00:54 --> Output Class telah di inisialisasi
+INFO - 2018-08-01 12:00:54 --> Security Class telah di inisialisasi
+DEBUG - 2018-08-01 12:00:54 --> Global POST, GET dan COOKIE data telah disanitasi
+INFO - 2018-08-01 12:00:54 --> Input Class telah di inisialisasi
+INFO - 2018-08-01 12:00:54 --> Language Class telah di inisialisasi
+INFO - 2018-08-01 12:00:54 --> Loader Class telah di inisialisasi
+INFO - 2018-08-01 12:00:54 --> Helper telah dimuat: url_helper
+INFO - 2018-08-01 12:00:54 --> Controller Class telah di inisialisasi
+DEBUG - 2018-08-01 12:00:54 --> Session: "sess_save_path" kosong; pakai "session.save_path" data dari php.ini.
+INFO - 2018-08-01 12:00:54 --> Session: Class initialized using 'files' driver.
+INFO - 2018-08-01 12:00:54 --> Helper telah dimuat: cookie_helper
+INFO - 2018-08-01 12:00:54 --> Database Driver Class telah di inisialisasi
+INFO - 2018-08-01 12:00:54 --> Model "datatable" telah di inisialisasi
+INFO - 2018-08-01 12:00:54 --> Output akhir dikirim ke browser
+DEBUG - 2018-08-01 12:00:54 --> Total waktu eksekusi: 0.4510
+INFO - 2018-08-01 12:02:04 --> Config Class telah di inisialisasi
+INFO - 2018-08-01 12:02:04 --> Hooks Class telah di inisialisasi
+DEBUG - 2018-08-01 12:02:04 --> UTF-8 Support Aktif
+INFO - 2018-08-01 12:02:04 --> Utf8 Class telah di inisialisasi
+INFO - 2018-08-01 12:02:04 --> URI Class telah di inisialisasi
+INFO - 2018-08-01 12:02:04 --> Router Class telah di inisialisasi
+INFO - 2018-08-01 12:02:04 --> Output Class telah di inisialisasi
+INFO - 2018-08-01 12:02:04 --> Security Class telah di inisialisasi
+DEBUG - 2018-08-01 12:02:04 --> Global POST, GET dan COOKIE data telah disanitasi
+INFO - 2018-08-01 12:02:04 --> Input Class telah di inisialisasi
+INFO - 2018-08-01 12:02:04 --> Language Class telah di inisialisasi
+INFO - 2018-08-01 12:02:04 --> Loader Class telah di inisialisasi
+INFO - 2018-08-01 12:02:05 --> Helper telah dimuat: url_helper
+INFO - 2018-08-01 12:02:05 --> Controller Class telah di inisialisasi
+INFO - 2018-08-01 12:02:05 --> Database Driver Class telah di inisialisasi
+INFO - 2018-08-01 12:02:05 --> File telah dimuat: D:\XAMPP\htdocs\jb\application\views\html/head.php
+INFO - 2018-08-01 12:02:05 --> File telah dimuat: D:\XAMPP\htdocs\jb\application\views\details.php
+INFO - 2018-08-01 12:02:05 --> Output akhir dikirim ke browser
+DEBUG - 2018-08-01 12:02:05 --> Total waktu eksekusi: 0.4070
+INFO - 2018-08-01 12:02:59 --> Config Class telah di inisialisasi
+INFO - 2018-08-01 12:02:59 --> Hooks Class telah di inisialisasi
+DEBUG - 2018-08-01 12:02:59 --> UTF-8 Support Aktif
+INFO - 2018-08-01 12:03:00 --> Utf8 Class telah di inisialisasi
+INFO - 2018-08-01 12:03:00 --> URI Class telah di inisialisasi
+INFO - 2018-08-01 12:03:00 --> Router Class telah di inisialisasi
+INFO - 2018-08-01 12:03:00 --> Output Class telah di inisialisasi
+INFO - 2018-08-01 12:03:00 --> Security Class telah di inisialisasi
+DEBUG - 2018-08-01 12:03:00 --> Global POST, GET dan COOKIE data telah disanitasi
+INFO - 2018-08-01 12:03:00 --> Input Class telah di inisialisasi
+INFO - 2018-08-01 12:03:00 --> Language Class telah di inisialisasi
+INFO - 2018-08-01 12:03:00 --> Loader Class telah di inisialisasi
+INFO - 2018-08-01 12:03:00 --> Helper telah dimuat: url_helper
+INFO - 2018-08-01 12:03:00 --> Controller Class telah di inisialisasi
+DEBUG - 2018-08-01 12:03:00 --> Session: "sess_save_path" kosong; pakai "session.save_path" data dari php.ini.
+INFO - 2018-08-01 12:03:00 --> Session: Class initialized using 'files' driver.
+INFO - 2018-08-01 12:03:00 --> Helper telah dimuat: cookie_helper
+INFO - 2018-08-01 12:03:00 --> File telah dimuat: D:\XAMPP\htdocs\jb\application\views\jebews/html/head.php
+INFO - 2018-08-01 12:03:00 --> File telah dimuat: D:\XAMPP\htdocs\jb\application\views\jebews/product/manage.php
+INFO - 2018-08-01 12:03:00 --> Output akhir dikirim ke browser
+DEBUG - 2018-08-01 12:03:00 --> Total waktu eksekusi: 0.4236
+INFO - 2018-08-01 12:03:00 --> Config Class telah di inisialisasi
+INFO - 2018-08-01 12:03:00 --> Hooks Class telah di inisialisasi
+DEBUG - 2018-08-01 12:03:00 --> UTF-8 Support Aktif
+INFO - 2018-08-01 12:03:00 --> Utf8 Class telah di inisialisasi
+INFO - 2018-08-01 12:03:00 --> URI Class telah di inisialisasi
+INFO - 2018-08-01 12:03:00 --> Router Class telah di inisialisasi
+INFO - 2018-08-01 12:03:00 --> Output Class telah di inisialisasi
+INFO - 2018-08-01 12:03:00 --> Security Class telah di inisialisasi
+DEBUG - 2018-08-01 12:03:00 --> Global POST, GET dan COOKIE data telah disanitasi
+INFO - 2018-08-01 12:03:00 --> Input Class telah di inisialisasi
+INFO - 2018-08-01 12:03:00 --> Language Class telah di inisialisasi
+INFO - 2018-08-01 12:03:00 --> Loader Class telah di inisialisasi
+INFO - 2018-08-01 12:03:00 --> Helper telah dimuat: url_helper
+INFO - 2018-08-01 12:03:00 --> Controller Class telah di inisialisasi
+DEBUG - 2018-08-01 12:03:00 --> Session: "sess_save_path" kosong; pakai "session.save_path" data dari php.ini.
+INFO - 2018-08-01 12:03:00 --> Session: Class initialized using 'files' driver.
+INFO - 2018-08-01 12:03:00 --> Helper telah dimuat: cookie_helper
+INFO - 2018-08-01 12:03:00 --> Database Driver Class telah di inisialisasi
+INFO - 2018-08-01 12:03:00 --> Model "datatable" telah di inisialisasi
+INFO - 2018-08-01 12:03:00 --> Output akhir dikirim ke browser
+DEBUG - 2018-08-01 12:03:00 --> Total waktu eksekusi: 0.4430
+INFO - 2018-08-01 12:03:26 --> Config Class telah di inisialisasi
+INFO - 2018-08-01 12:03:26 --> Hooks Class telah di inisialisasi
+DEBUG - 2018-08-01 12:03:26 --> UTF-8 Support Aktif
+INFO - 2018-08-01 12:03:26 --> Utf8 Class telah di inisialisasi
+INFO - 2018-08-01 12:03:26 --> URI Class telah di inisialisasi
+INFO - 2018-08-01 12:03:26 --> Router Class telah di inisialisasi
+INFO - 2018-08-01 12:03:26 --> Output Class telah di inisialisasi
+INFO - 2018-08-01 12:03:26 --> Security Class telah di inisialisasi
+DEBUG - 2018-08-01 12:03:26 --> Global POST, GET dan COOKIE data telah disanitasi
+INFO - 2018-08-01 12:03:26 --> Input Class telah di inisialisasi
+INFO - 2018-08-01 12:03:26 --> Language Class telah di inisialisasi
+INFO - 2018-08-01 12:03:26 --> Loader Class telah di inisialisasi
+INFO - 2018-08-01 12:03:26 --> Helper telah dimuat: url_helper
+INFO - 2018-08-01 12:03:26 --> Controller Class telah di inisialisasi
+DEBUG - 2018-08-01 12:03:26 --> Session: "sess_save_path" kosong; pakai "session.save_path" data dari php.ini.
+INFO - 2018-08-01 12:03:26 --> Session: Class initialized using 'files' driver.
+INFO - 2018-08-01 12:03:26 --> Helper telah dimuat: cookie_helper
+INFO - 2018-08-01 12:03:26 --> File telah dimuat: D:\XAMPP\htdocs\jb\application\views\jebews/html/head.php
+INFO - 2018-08-01 12:03:26 --> File telah dimuat: D:\XAMPP\htdocs\jb\application\views\jebews/product/manage.php
+INFO - 2018-08-01 12:03:26 --> Output akhir dikirim ke browser
+DEBUG - 2018-08-01 12:03:26 --> Total waktu eksekusi: 0.4106
+INFO - 2018-08-01 12:03:26 --> Config Class telah di inisialisasi
+INFO - 2018-08-01 12:03:26 --> Hooks Class telah di inisialisasi
+DEBUG - 2018-08-01 12:03:26 --> UTF-8 Support Aktif
+INFO - 2018-08-01 12:03:26 --> Utf8 Class telah di inisialisasi
+INFO - 2018-08-01 12:03:26 --> URI Class telah di inisialisasi
+INFO - 2018-08-01 12:03:26 --> Router Class telah di inisialisasi
+INFO - 2018-08-01 12:03:26 --> Output Class telah di inisialisasi
+INFO - 2018-08-01 12:03:26 --> Security Class telah di inisialisasi
+DEBUG - 2018-08-01 12:03:26 --> Global POST, GET dan COOKIE data telah disanitasi
+INFO - 2018-08-01 12:03:26 --> Input Class telah di inisialisasi
+INFO - 2018-08-01 12:03:26 --> Language Class telah di inisialisasi
+INFO - 2018-08-01 12:03:26 --> Loader Class telah di inisialisasi
+INFO - 2018-08-01 12:03:26 --> Helper telah dimuat: url_helper
+INFO - 2018-08-01 12:03:26 --> Controller Class telah di inisialisasi
+DEBUG - 2018-08-01 12:03:26 --> Session: "sess_save_path" kosong; pakai "session.save_path" data dari php.ini.
+INFO - 2018-08-01 12:03:27 --> Session: Class initialized using 'files' driver.
+INFO - 2018-08-01 12:03:27 --> Helper telah dimuat: cookie_helper
+INFO - 2018-08-01 12:03:27 --> Database Driver Class telah di inisialisasi
+INFO - 2018-08-01 12:03:27 --> Model "datatable" telah di inisialisasi
+INFO - 2018-08-01 12:03:27 --> Output akhir dikirim ke browser
+DEBUG - 2018-08-01 12:03:27 --> Total waktu eksekusi: 0.4520
+INFO - 2018-08-01 12:03:35 --> Config Class telah di inisialisasi
+INFO - 2018-08-01 12:03:35 --> Hooks Class telah di inisialisasi
+DEBUG - 2018-08-01 12:03:35 --> UTF-8 Support Aktif
+INFO - 2018-08-01 12:03:35 --> Utf8 Class telah di inisialisasi
+INFO - 2018-08-01 12:03:35 --> URI Class telah di inisialisasi
+INFO - 2018-08-01 12:03:35 --> Router Class telah di inisialisasi
+INFO - 2018-08-01 12:03:35 --> Output Class telah di inisialisasi
+INFO - 2018-08-01 12:03:35 --> Security Class telah di inisialisasi
+DEBUG - 2018-08-01 12:03:35 --> Global POST, GET dan COOKIE data telah disanitasi
+INFO - 2018-08-01 12:03:35 --> Input Class telah di inisialisasi
+INFO - 2018-08-01 12:03:35 --> Language Class telah di inisialisasi
+INFO - 2018-08-01 12:03:35 --> Loader Class telah di inisialisasi
+INFO - 2018-08-01 12:03:35 --> Helper telah dimuat: url_helper
+INFO - 2018-08-01 12:03:35 --> Controller Class telah di inisialisasi
+DEBUG - 2018-08-01 12:03:35 --> Session: "sess_save_path" kosong; pakai "session.save_path" data dari php.ini.
+INFO - 2018-08-01 12:03:35 --> Session: Class initialized using 'files' driver.
+INFO - 2018-08-01 12:03:35 --> Helper telah dimuat: cookie_helper
+INFO - 2018-08-01 12:03:35 --> File telah dimuat: D:\XAMPP\htdocs\jb\application\views\jebews/html/head.php
+INFO - 2018-08-01 12:03:35 --> File telah dimuat: D:\XAMPP\htdocs\jb\application\views\jebews/product/manage.php
+INFO - 2018-08-01 12:03:35 --> Output akhir dikirim ke browser
+DEBUG - 2018-08-01 12:03:35 --> Total waktu eksekusi: 0.4236
+INFO - 2018-08-01 12:03:36 --> Config Class telah di inisialisasi
+INFO - 2018-08-01 12:03:36 --> Hooks Class telah di inisialisasi
+DEBUG - 2018-08-01 12:03:36 --> UTF-8 Support Aktif
+INFO - 2018-08-01 12:03:36 --> Utf8 Class telah di inisialisasi
+INFO - 2018-08-01 12:03:36 --> URI Class telah di inisialisasi
+INFO - 2018-08-01 12:03:36 --> Router Class telah di inisialisasi
+INFO - 2018-08-01 12:03:36 --> Output Class telah di inisialisasi
+INFO - 2018-08-01 12:03:36 --> Security Class telah di inisialisasi
+DEBUG - 2018-08-01 12:03:36 --> Global POST, GET dan COOKIE data telah disanitasi
+INFO - 2018-08-01 12:03:36 --> Input Class telah di inisialisasi
+INFO - 2018-08-01 12:03:36 --> Language Class telah di inisialisasi
+INFO - 2018-08-01 12:03:36 --> Loader Class telah di inisialisasi
+INFO - 2018-08-01 12:03:36 --> Helper telah dimuat: url_helper
+INFO - 2018-08-01 12:03:36 --> Controller Class telah di inisialisasi
+DEBUG - 2018-08-01 12:03:36 --> Session: "sess_save_path" kosong; pakai "session.save_path" data dari php.ini.
+INFO - 2018-08-01 12:03:36 --> Session: Class initialized using 'files' driver.
+INFO - 2018-08-01 12:03:36 --> Helper telah dimuat: cookie_helper
+INFO - 2018-08-01 12:03:36 --> Database Driver Class telah di inisialisasi
+INFO - 2018-08-01 12:03:36 --> Model "datatable" telah di inisialisasi
+INFO - 2018-08-01 12:03:36 --> Output akhir dikirim ke browser
+DEBUG - 2018-08-01 12:03:36 --> Total waktu eksekusi: 0.4730
+INFO - 2018-08-01 12:04:08 --> Config Class telah di inisialisasi
+INFO - 2018-08-01 12:04:08 --> Hooks Class telah di inisialisasi
+DEBUG - 2018-08-01 12:04:08 --> UTF-8 Support Aktif
+INFO - 2018-08-01 12:04:08 --> Utf8 Class telah di inisialisasi
+INFO - 2018-08-01 12:04:08 --> URI Class telah di inisialisasi
+INFO - 2018-08-01 12:04:08 --> Router Class telah di inisialisasi
+INFO - 2018-08-01 12:04:08 --> Output Class telah di inisialisasi
+INFO - 2018-08-01 12:04:08 --> Security Class telah di inisialisasi
+DEBUG - 2018-08-01 12:04:08 --> Global POST, GET dan COOKIE data telah disanitasi
+INFO - 2018-08-01 12:04:08 --> Input Class telah di inisialisasi
+INFO - 2018-08-01 12:04:08 --> Language Class telah di inisialisasi
+INFO - 2018-08-01 12:04:08 --> Loader Class telah di inisialisasi
+INFO - 2018-08-01 12:04:08 --> Helper telah dimuat: url_helper
+INFO - 2018-08-01 12:04:08 --> Controller Class telah di inisialisasi
+DEBUG - 2018-08-01 12:04:08 --> Session: "sess_save_path" kosong; pakai "session.save_path" data dari php.ini.
+INFO - 2018-08-01 12:04:08 --> Session: Class initialized using 'files' driver.
+INFO - 2018-08-01 12:04:08 --> Helper telah dimuat: cookie_helper
+INFO - 2018-08-01 12:04:08 --> File telah dimuat: D:\XAMPP\htdocs\jb\application\views\jebews/html/head.php
+INFO - 2018-08-01 12:04:08 --> File telah dimuat: D:\XAMPP\htdocs\jb\application\views\jebews/product/manage.php
+INFO - 2018-08-01 12:04:08 --> Output akhir dikirim ke browser
+DEBUG - 2018-08-01 12:04:08 --> Total waktu eksekusi: 0.4246
+INFO - 2018-08-01 12:04:08 --> Config Class telah di inisialisasi
+INFO - 2018-08-01 12:04:08 --> Hooks Class telah di inisialisasi
+DEBUG - 2018-08-01 12:04:08 --> UTF-8 Support Aktif
+INFO - 2018-08-01 12:04:08 --> Utf8 Class telah di inisialisasi
+INFO - 2018-08-01 12:04:08 --> URI Class telah di inisialisasi
+INFO - 2018-08-01 12:04:08 --> Router Class telah di inisialisasi
+INFO - 2018-08-01 12:04:08 --> Output Class telah di inisialisasi
+INFO - 2018-08-01 12:04:08 --> Security Class telah di inisialisasi
+DEBUG - 2018-08-01 12:04:08 --> Global POST, GET dan COOKIE data telah disanitasi
+INFO - 2018-08-01 12:04:08 --> Input Class telah di inisialisasi
+INFO - 2018-08-01 12:04:08 --> Language Class telah di inisialisasi
+INFO - 2018-08-01 12:04:08 --> Loader Class telah di inisialisasi
+INFO - 2018-08-01 12:04:09 --> Helper telah dimuat: url_helper
+INFO - 2018-08-01 12:04:09 --> Controller Class telah di inisialisasi
+DEBUG - 2018-08-01 12:04:09 --> Session: "sess_save_path" kosong; pakai "session.save_path" data dari php.ini.
+INFO - 2018-08-01 12:04:09 --> Session: Class initialized using 'files' driver.
+INFO - 2018-08-01 12:04:09 --> Helper telah dimuat: cookie_helper
+INFO - 2018-08-01 12:04:09 --> Database Driver Class telah di inisialisasi
+INFO - 2018-08-01 12:04:09 --> Model "datatable" telah di inisialisasi
+INFO - 2018-08-01 12:04:09 --> Output akhir dikirim ke browser
+DEBUG - 2018-08-01 12:04:09 --> Total waktu eksekusi: 0.4740
+INFO - 2018-08-01 12:05:04 --> Config Class telah di inisialisasi
+INFO - 2018-08-01 12:05:04 --> Hooks Class telah di inisialisasi
+DEBUG - 2018-08-01 12:05:04 --> UTF-8 Support Aktif
+INFO - 2018-08-01 12:05:04 --> Utf8 Class telah di inisialisasi
+INFO - 2018-08-01 12:05:04 --> URI Class telah di inisialisasi
+INFO - 2018-08-01 12:05:04 --> Router Class telah di inisialisasi
+INFO - 2018-08-01 12:05:04 --> Output Class telah di inisialisasi
+INFO - 2018-08-01 12:05:04 --> Security Class telah di inisialisasi
+DEBUG - 2018-08-01 12:05:04 --> Global POST, GET dan COOKIE data telah disanitasi
+INFO - 2018-08-01 12:05:04 --> Input Class telah di inisialisasi
+INFO - 2018-08-01 12:05:04 --> Language Class telah di inisialisasi
+INFO - 2018-08-01 12:05:04 --> Loader Class telah di inisialisasi
+INFO - 2018-08-01 12:05:04 --> Helper telah dimuat: url_helper
+INFO - 2018-08-01 12:05:04 --> Controller Class telah di inisialisasi
+DEBUG - 2018-08-01 12:05:04 --> Session: "sess_save_path" kosong; pakai "session.save_path" data dari php.ini.
+INFO - 2018-08-01 12:05:04 --> Session: Class initialized using 'files' driver.
+INFO - 2018-08-01 12:05:04 --> Helper telah dimuat: cookie_helper
+INFO - 2018-08-01 12:05:04 --> File telah dimuat: D:\XAMPP\htdocs\jb\application\views\jebews/html/head.php
+INFO - 2018-08-01 12:05:04 --> File telah dimuat: D:\XAMPP\htdocs\jb\application\views\jebews/product/manage.php
+INFO - 2018-08-01 12:05:04 --> Output akhir dikirim ke browser
+DEBUG - 2018-08-01 12:05:04 --> Total waktu eksekusi: 0.4336
+INFO - 2018-08-01 12:05:05 --> Config Class telah di inisialisasi
+INFO - 2018-08-01 12:05:05 --> Hooks Class telah di inisialisasi
+DEBUG - 2018-08-01 12:05:05 --> UTF-8 Support Aktif
+INFO - 2018-08-01 12:05:05 --> Utf8 Class telah di inisialisasi
+INFO - 2018-08-01 12:05:05 --> URI Class telah di inisialisasi
+INFO - 2018-08-01 12:05:05 --> Router Class telah di inisialisasi
+INFO - 2018-08-01 12:05:05 --> Output Class telah di inisialisasi
+INFO - 2018-08-01 12:05:05 --> Security Class telah di inisialisasi
+DEBUG - 2018-08-01 12:05:05 --> Global POST, GET dan COOKIE data telah disanitasi
+INFO - 2018-08-01 12:05:05 --> Input Class telah di inisialisasi
+INFO - 2018-08-01 12:05:05 --> Language Class telah di inisialisasi
+INFO - 2018-08-01 12:05:05 --> Loader Class telah di inisialisasi
+INFO - 2018-08-01 12:05:05 --> Helper telah dimuat: url_helper
+INFO - 2018-08-01 12:05:05 --> Controller Class telah di inisialisasi
+DEBUG - 2018-08-01 12:05:05 --> Session: "sess_save_path" kosong; pakai "session.save_path" data dari php.ini.
+INFO - 2018-08-01 12:05:05 --> Session: Class initialized using 'files' driver.
+INFO - 2018-08-01 12:05:05 --> Helper telah dimuat: cookie_helper
+INFO - 2018-08-01 12:05:05 --> Database Driver Class telah di inisialisasi
+INFO - 2018-08-01 12:05:05 --> Model "datatable" telah di inisialisasi
+INFO - 2018-08-01 12:05:05 --> Output akhir dikirim ke browser
+DEBUG - 2018-08-01 12:05:05 --> Total waktu eksekusi: 0.4610
+INFO - 2018-08-01 12:06:14 --> Config Class telah di inisialisasi
+INFO - 2018-08-01 12:06:14 --> Hooks Class telah di inisialisasi
+DEBUG - 2018-08-01 12:06:14 --> UTF-8 Support Aktif
+INFO - 2018-08-01 12:06:14 --> Utf8 Class telah di inisialisasi
+INFO - 2018-08-01 12:06:14 --> URI Class telah di inisialisasi
+INFO - 2018-08-01 12:06:14 --> Router Class telah di inisialisasi
+INFO - 2018-08-01 12:06:14 --> Output Class telah di inisialisasi
+INFO - 2018-08-01 12:06:14 --> Security Class telah di inisialisasi
+DEBUG - 2018-08-01 12:06:14 --> Global POST, GET dan COOKIE data telah disanitasi
+INFO - 2018-08-01 12:06:14 --> Input Class telah di inisialisasi
+INFO - 2018-08-01 12:06:14 --> Language Class telah di inisialisasi
+INFO - 2018-08-01 12:06:14 --> Loader Class telah di inisialisasi
+INFO - 2018-08-01 12:06:14 --> Helper telah dimuat: url_helper
+INFO - 2018-08-01 12:06:14 --> Controller Class telah di inisialisasi
+DEBUG - 2018-08-01 12:06:14 --> Session: "sess_save_path" kosong; pakai "session.save_path" data dari php.ini.
+INFO - 2018-08-01 12:06:14 --> Session: Class initialized using 'files' driver.
+INFO - 2018-08-01 12:06:14 --> Helper telah dimuat: cookie_helper
+INFO - 2018-08-01 12:06:14 --> File telah dimuat: D:\XAMPP\htdocs\jb\application\views\jebews/html/head.php
+INFO - 2018-08-01 12:06:14 --> File telah dimuat: D:\XAMPP\htdocs\jb\application\views\jebews/product/manage.php
+INFO - 2018-08-01 12:06:14 --> Output akhir dikirim ke browser
+DEBUG - 2018-08-01 12:06:14 --> Total waktu eksekusi: 0.4256
+INFO - 2018-08-01 12:06:14 --> Config Class telah di inisialisasi
+INFO - 2018-08-01 12:06:14 --> Hooks Class telah di inisialisasi
+DEBUG - 2018-08-01 12:06:14 --> UTF-8 Support Aktif
+INFO - 2018-08-01 12:06:14 --> Utf8 Class telah di inisialisasi
+INFO - 2018-08-01 12:06:14 --> URI Class telah di inisialisasi
+INFO - 2018-08-01 12:06:14 --> Router Class telah di inisialisasi
+INFO - 2018-08-01 12:06:15 --> Output Class telah di inisialisasi
+INFO - 2018-08-01 12:06:15 --> Security Class telah di inisialisasi
+DEBUG - 2018-08-01 12:06:15 --> Global POST, GET dan COOKIE data telah disanitasi
+INFO - 2018-08-01 12:06:15 --> Input Class telah di inisialisasi
+INFO - 2018-08-01 12:06:15 --> Language Class telah di inisialisasi
+INFO - 2018-08-01 12:06:15 --> Loader Class telah di inisialisasi
+INFO - 2018-08-01 12:06:15 --> Helper telah dimuat: url_helper
+INFO - 2018-08-01 12:06:15 --> Controller Class telah di inisialisasi
+DEBUG - 2018-08-01 12:06:15 --> Session: "sess_save_path" kosong; pakai "session.save_path" data dari php.ini.
+INFO - 2018-08-01 12:06:15 --> Session: Class initialized using 'files' driver.
+INFO - 2018-08-01 12:06:15 --> Helper telah dimuat: cookie_helper
+INFO - 2018-08-01 12:06:15 --> Database Driver Class telah di inisialisasi
+INFO - 2018-08-01 12:06:15 --> Model "datatable" telah di inisialisasi
+INFO - 2018-08-01 12:06:15 --> Output akhir dikirim ke browser
+DEBUG - 2018-08-01 12:06:15 --> Total waktu eksekusi: 0.4590
+INFO - 2018-08-01 12:06:36 --> Config Class telah di inisialisasi
+INFO - 2018-08-01 12:06:36 --> Hooks Class telah di inisialisasi
+DEBUG - 2018-08-01 12:06:36 --> UTF-8 Support Aktif
+INFO - 2018-08-01 12:06:36 --> Utf8 Class telah di inisialisasi
+INFO - 2018-08-01 12:06:36 --> URI Class telah di inisialisasi
+INFO - 2018-08-01 12:06:36 --> Router Class telah di inisialisasi
+INFO - 2018-08-01 12:06:36 --> Output Class telah di inisialisasi
+INFO - 2018-08-01 12:06:36 --> Security Class telah di inisialisasi
+DEBUG - 2018-08-01 12:06:36 --> Global POST, GET dan COOKIE data telah disanitasi
+INFO - 2018-08-01 12:06:36 --> Input Class telah di inisialisasi
+INFO - 2018-08-01 12:06:36 --> Language Class telah di inisialisasi
+INFO - 2018-08-01 12:06:36 --> Loader Class telah di inisialisasi
+INFO - 2018-08-01 12:06:36 --> Helper telah dimuat: url_helper
+INFO - 2018-08-01 12:06:36 --> Controller Class telah di inisialisasi
+DEBUG - 2018-08-01 12:06:36 --> Session: "sess_save_path" kosong; pakai "session.save_path" data dari php.ini.
+INFO - 2018-08-01 12:06:36 --> Session: Class initialized using 'files' driver.
+INFO - 2018-08-01 12:06:36 --> Helper telah dimuat: cookie_helper
+INFO - 2018-08-01 12:06:36 --> File telah dimuat: D:\XAMPP\htdocs\jb\application\views\jebews/html/head.php
+INFO - 2018-08-01 12:06:36 --> File telah dimuat: D:\XAMPP\htdocs\jb\application\views\jebews/product/manage.php
+INFO - 2018-08-01 12:06:36 --> Output akhir dikirim ke browser
+DEBUG - 2018-08-01 12:06:36 --> Total waktu eksekusi: 0.4396
+INFO - 2018-08-01 12:06:36 --> Config Class telah di inisialisasi
+INFO - 2018-08-01 12:06:36 --> Hooks Class telah di inisialisasi
+DEBUG - 2018-08-01 12:06:36 --> UTF-8 Support Aktif
+INFO - 2018-08-01 12:06:37 --> Utf8 Class telah di inisialisasi
+INFO - 2018-08-01 12:06:37 --> URI Class telah di inisialisasi
+INFO - 2018-08-01 12:06:37 --> Router Class telah di inisialisasi
+INFO - 2018-08-01 12:06:37 --> Output Class telah di inisialisasi
+INFO - 2018-08-01 12:06:37 --> Security Class telah di inisialisasi
+DEBUG - 2018-08-01 12:06:37 --> Global POST, GET dan COOKIE data telah disanitasi
+INFO - 2018-08-01 12:06:37 --> Input Class telah di inisialisasi
+INFO - 2018-08-01 12:06:37 --> Language Class telah di inisialisasi
+INFO - 2018-08-01 12:06:37 --> Loader Class telah di inisialisasi
+INFO - 2018-08-01 12:06:37 --> Helper telah dimuat: url_helper
+INFO - 2018-08-01 12:06:37 --> Controller Class telah di inisialisasi
+DEBUG - 2018-08-01 12:06:37 --> Session: "sess_save_path" kosong; pakai "session.save_path" data dari php.ini.
+INFO - 2018-08-01 12:06:37 --> Session: Class initialized using 'files' driver.
+INFO - 2018-08-01 12:06:37 --> Helper telah dimuat: cookie_helper
+INFO - 2018-08-01 12:06:37 --> Database Driver Class telah di inisialisasi
+INFO - 2018-08-01 12:06:37 --> Model "datatable" telah di inisialisasi
+INFO - 2018-08-01 12:06:37 --> Output akhir dikirim ke browser
+DEBUG - 2018-08-01 12:06:37 --> Total waktu eksekusi: 0.4580
+INFO - 2018-08-01 12:06:48 --> Config Class telah di inisialisasi
+INFO - 2018-08-01 12:06:48 --> Hooks Class telah di inisialisasi
+DEBUG - 2018-08-01 12:06:48 --> UTF-8 Support Aktif
+INFO - 2018-08-01 12:06:48 --> Utf8 Class telah di inisialisasi
+INFO - 2018-08-01 12:06:48 --> URI Class telah di inisialisasi
+INFO - 2018-08-01 12:06:48 --> Router Class telah di inisialisasi
+INFO - 2018-08-01 12:06:48 --> Output Class telah di inisialisasi
+INFO - 2018-08-01 12:06:48 --> Security Class telah di inisialisasi
+DEBUG - 2018-08-01 12:06:48 --> Global POST, GET dan COOKIE data telah disanitasi
+INFO - 2018-08-01 12:06:48 --> Input Class telah di inisialisasi
+INFO - 2018-08-01 12:06:48 --> Language Class telah di inisialisasi
+INFO - 2018-08-01 12:06:48 --> Loader Class telah di inisialisasi
+INFO - 2018-08-01 12:06:48 --> Helper telah dimuat: url_helper
+INFO - 2018-08-01 12:06:48 --> Controller Class telah di inisialisasi
+DEBUG - 2018-08-01 12:06:48 --> Session: "sess_save_path" kosong; pakai "session.save_path" data dari php.ini.
+INFO - 2018-08-01 12:06:48 --> Session: Class initialized using 'files' driver.
+INFO - 2018-08-01 12:06:49 --> Helper telah dimuat: cookie_helper
+INFO - 2018-08-01 12:06:49 --> File telah dimuat: D:\XAMPP\htdocs\jb\application\views\jebews/html/head.php
+INFO - 2018-08-01 12:06:49 --> File telah dimuat: D:\XAMPP\htdocs\jb\application\views\jebews/product/manage.php
+INFO - 2018-08-01 12:06:49 --> Output akhir dikirim ke browser
+DEBUG - 2018-08-01 12:06:49 --> Total waktu eksekusi: 0.4216
+INFO - 2018-08-01 12:06:49 --> Config Class telah di inisialisasi
+INFO - 2018-08-01 12:06:49 --> Hooks Class telah di inisialisasi
+DEBUG - 2018-08-01 12:06:49 --> UTF-8 Support Aktif
+INFO - 2018-08-01 12:06:49 --> Utf8 Class telah di inisialisasi
+INFO - 2018-08-01 12:06:49 --> URI Class telah di inisialisasi
+INFO - 2018-08-01 12:06:49 --> Router Class telah di inisialisasi
+INFO - 2018-08-01 12:06:49 --> Output Class telah di inisialisasi
+INFO - 2018-08-01 12:06:49 --> Security Class telah di inisialisasi
+DEBUG - 2018-08-01 12:06:49 --> Global POST, GET dan COOKIE data telah disanitasi
+INFO - 2018-08-01 12:06:49 --> Input Class telah di inisialisasi
+INFO - 2018-08-01 12:06:49 --> Language Class telah di inisialisasi
+INFO - 2018-08-01 12:06:49 --> Loader Class telah di inisialisasi
+INFO - 2018-08-01 12:06:49 --> Helper telah dimuat: url_helper
+INFO - 2018-08-01 12:06:49 --> Controller Class telah di inisialisasi
+DEBUG - 2018-08-01 12:06:49 --> Session: "sess_save_path" kosong; pakai "session.save_path" data dari php.ini.
+INFO - 2018-08-01 12:06:49 --> Session: Class initialized using 'files' driver.
+INFO - 2018-08-01 12:06:49 --> Helper telah dimuat: cookie_helper
+INFO - 2018-08-01 12:06:49 --> Database Driver Class telah di inisialisasi
+INFO - 2018-08-01 12:06:49 --> Model "datatable" telah di inisialisasi
+INFO - 2018-08-01 12:06:49 --> Output akhir dikirim ke browser
+DEBUG - 2018-08-01 12:06:49 --> Total waktu eksekusi: 0.4660
+INFO - 2018-08-01 12:07:36 --> Config Class telah di inisialisasi
+INFO - 2018-08-01 12:07:36 --> Hooks Class telah di inisialisasi
+DEBUG - 2018-08-01 12:07:36 --> UTF-8 Support Aktif
+INFO - 2018-08-01 12:07:36 --> Utf8 Class telah di inisialisasi
+INFO - 2018-08-01 12:07:36 --> URI Class telah di inisialisasi
+INFO - 2018-08-01 12:07:36 --> Router Class telah di inisialisasi
+INFO - 2018-08-01 12:07:36 --> Output Class telah di inisialisasi
+INFO - 2018-08-01 12:07:36 --> Security Class telah di inisialisasi
+DEBUG - 2018-08-01 12:07:36 --> Global POST, GET dan COOKIE data telah disanitasi
+INFO - 2018-08-01 12:07:36 --> Input Class telah di inisialisasi
+INFO - 2018-08-01 12:07:36 --> Language Class telah di inisialisasi
+INFO - 2018-08-01 12:07:36 --> Loader Class telah di inisialisasi
+INFO - 2018-08-01 12:07:36 --> Helper telah dimuat: url_helper
+INFO - 2018-08-01 12:07:37 --> Controller Class telah di inisialisasi
+DEBUG - 2018-08-01 12:07:37 --> Session: "sess_save_path" kosong; pakai "session.save_path" data dari php.ini.
+INFO - 2018-08-01 12:07:37 --> Session: Class initialized using 'files' driver.
+INFO - 2018-08-01 12:07:37 --> Helper telah dimuat: cookie_helper
+INFO - 2018-08-01 12:07:37 --> Database Driver Class telah di inisialisasi
+INFO - 2018-08-01 12:07:37 --> Model "datatable" telah di inisialisasi
+INFO - 2018-08-01 12:07:37 --> Output akhir dikirim ke browser
+DEBUG - 2018-08-01 12:07:37 --> Total waktu eksekusi: 0.4520
+INFO - 2018-08-01 12:07:40 --> Config Class telah di inisialisasi
+INFO - 2018-08-01 12:07:40 --> Hooks Class telah di inisialisasi
+DEBUG - 2018-08-01 12:07:40 --> UTF-8 Support Aktif
+INFO - 2018-08-01 12:07:40 --> Utf8 Class telah di inisialisasi
+INFO - 2018-08-01 12:07:40 --> URI Class telah di inisialisasi
+INFO - 2018-08-01 12:07:40 --> Router Class telah di inisialisasi
+INFO - 2018-08-01 12:07:40 --> Output Class telah di inisialisasi
+INFO - 2018-08-01 12:07:40 --> Security Class telah di inisialisasi
+DEBUG - 2018-08-01 12:07:40 --> Global POST, GET dan COOKIE data telah disanitasi
+INFO - 2018-08-01 12:07:40 --> Input Class telah di inisialisasi
+INFO - 2018-08-01 12:07:40 --> Language Class telah di inisialisasi
+INFO - 2018-08-01 12:07:40 --> Loader Class telah di inisialisasi
+INFO - 2018-08-01 12:07:40 --> Helper telah dimuat: url_helper
+INFO - 2018-08-01 12:07:40 --> Controller Class telah di inisialisasi
+DEBUG - 2018-08-01 12:07:40 --> Session: "sess_save_path" kosong; pakai "session.save_path" data dari php.ini.
+INFO - 2018-08-01 12:07:40 --> Session: Class initialized using 'files' driver.
+INFO - 2018-08-01 12:07:40 --> Helper telah dimuat: cookie_helper
+INFO - 2018-08-01 12:07:40 --> Database Driver Class telah di inisialisasi
+INFO - 2018-08-01 12:07:40 --> Model "datatable" telah di inisialisasi
+INFO - 2018-08-01 12:07:40 --> Output akhir dikirim ke browser
+DEBUG - 2018-08-01 12:07:40 --> Total waktu eksekusi: 0.4402
+INFO - 2018-08-01 12:07:42 --> Config Class telah di inisialisasi
+INFO - 2018-08-01 12:07:42 --> Hooks Class telah di inisialisasi
+DEBUG - 2018-08-01 12:07:42 --> UTF-8 Support Aktif
+INFO - 2018-08-01 12:07:42 --> Utf8 Class telah di inisialisasi
+INFO - 2018-08-01 12:07:42 --> URI Class telah di inisialisasi
+INFO - 2018-08-01 12:07:42 --> Router Class telah di inisialisasi
+INFO - 2018-08-01 12:07:42 --> Output Class telah di inisialisasi
+INFO - 2018-08-01 12:07:42 --> Security Class telah di inisialisasi
+DEBUG - 2018-08-01 12:07:42 --> Global POST, GET dan COOKIE data telah disanitasi
+INFO - 2018-08-01 12:07:42 --> Input Class telah di inisialisasi
+INFO - 2018-08-01 12:07:42 --> Language Class telah di inisialisasi
+INFO - 2018-08-01 12:07:42 --> Loader Class telah di inisialisasi
+INFO - 2018-08-01 12:07:42 --> Helper telah dimuat: url_helper
+INFO - 2018-08-01 12:07:42 --> Controller Class telah di inisialisasi
+DEBUG - 2018-08-01 12:07:42 --> Session: "sess_save_path" kosong; pakai "session.save_path" data dari php.ini.
+INFO - 2018-08-01 12:07:42 --> Session: Class initialized using 'files' driver.
+INFO - 2018-08-01 12:07:42 --> Helper telah dimuat: cookie_helper
+INFO - 2018-08-01 12:07:42 --> Database Driver Class telah di inisialisasi
+INFO - 2018-08-01 12:07:42 --> Model "datatable" telah di inisialisasi
+INFO - 2018-08-01 12:07:42 --> Output akhir dikirim ke browser
+DEBUG - 2018-08-01 12:07:42 --> Total waktu eksekusi: 0.4396
+INFO - 2018-08-01 12:07:45 --> Config Class telah di inisialisasi
+INFO - 2018-08-01 12:07:45 --> Hooks Class telah di inisialisasi
+DEBUG - 2018-08-01 12:07:45 --> UTF-8 Support Aktif
+INFO - 2018-08-01 12:07:45 --> Utf8 Class telah di inisialisasi
+INFO - 2018-08-01 12:07:45 --> URI Class telah di inisialisasi
+INFO - 2018-08-01 12:07:45 --> Router Class telah di inisialisasi
+INFO - 2018-08-01 12:07:45 --> Output Class telah di inisialisasi
+INFO - 2018-08-01 12:07:45 --> Security Class telah di inisialisasi
+DEBUG - 2018-08-01 12:07:45 --> Global POST, GET dan COOKIE data telah disanitasi
+INFO - 2018-08-01 12:07:45 --> Input Class telah di inisialisasi
+INFO - 2018-08-01 12:07:45 --> Language Class telah di inisialisasi
+INFO - 2018-08-01 12:07:45 --> Loader Class telah di inisialisasi
+INFO - 2018-08-01 12:07:45 --> Helper telah dimuat: url_helper
+INFO - 2018-08-01 12:07:45 --> Controller Class telah di inisialisasi
+DEBUG - 2018-08-01 12:07:45 --> Session: "sess_save_path" kosong; pakai "session.save_path" data dari php.ini.
+INFO - 2018-08-01 12:07:45 --> Session: Class initialized using 'files' driver.
+INFO - 2018-08-01 12:07:45 --> Helper telah dimuat: cookie_helper
+INFO - 2018-08-01 12:07:45 --> Database Driver Class telah di inisialisasi
+INFO - 2018-08-01 12:07:45 --> Model "datatable" telah di inisialisasi
+INFO - 2018-08-01 12:07:45 --> Output akhir dikirim ke browser
+DEBUG - 2018-08-01 12:07:45 --> Total waktu eksekusi: 0.4710
+INFO - 2018-08-01 12:08:21 --> Config Class telah di inisialisasi
+INFO - 2018-08-01 12:08:21 --> Hooks Class telah di inisialisasi
+DEBUG - 2018-08-01 12:08:21 --> UTF-8 Support Aktif
+INFO - 2018-08-01 12:08:21 --> Utf8 Class telah di inisialisasi
+INFO - 2018-08-01 12:08:22 --> URI Class telah di inisialisasi
+INFO - 2018-08-01 12:08:22 --> Router Class telah di inisialisasi
+INFO - 2018-08-01 12:08:22 --> Output Class telah di inisialisasi
+INFO - 2018-08-01 12:08:22 --> Security Class telah di inisialisasi
+DEBUG - 2018-08-01 12:08:22 --> Global POST, GET dan COOKIE data telah disanitasi
+INFO - 2018-08-01 12:08:22 --> Input Class telah di inisialisasi
+INFO - 2018-08-01 12:08:22 --> Language Class telah di inisialisasi
+INFO - 2018-08-01 12:08:22 --> Loader Class telah di inisialisasi
+INFO - 2018-08-01 12:08:22 --> Helper telah dimuat: url_helper
+INFO - 2018-08-01 12:08:22 --> Controller Class telah di inisialisasi
+DEBUG - 2018-08-01 12:08:22 --> Session: "sess_save_path" kosong; pakai "session.save_path" data dari php.ini.
+INFO - 2018-08-01 12:08:22 --> Session: Class initialized using 'files' driver.
+INFO - 2018-08-01 12:08:22 --> Helper telah dimuat: cookie_helper
+INFO - 2018-08-01 12:08:22 --> File telah dimuat: D:\XAMPP\htdocs\jb\application\views\jebews/html/head.php
+INFO - 2018-08-01 12:08:22 --> File telah dimuat: D:\XAMPP\htdocs\jb\application\views\jebews/product/manage.php
+INFO - 2018-08-01 12:08:22 --> Output akhir dikirim ke browser
+DEBUG - 2018-08-01 12:08:22 --> Total waktu eksekusi: 0.4836
+INFO - 2018-08-01 12:08:22 --> Config Class telah di inisialisasi
+INFO - 2018-08-01 12:08:22 --> Hooks Class telah di inisialisasi
+DEBUG - 2018-08-01 12:08:22 --> UTF-8 Support Aktif
+INFO - 2018-08-01 12:08:22 --> Utf8 Class telah di inisialisasi
+INFO - 2018-08-01 12:08:22 --> URI Class telah di inisialisasi
+INFO - 2018-08-01 12:08:22 --> Router Class telah di inisialisasi
+INFO - 2018-08-01 12:08:22 --> Output Class telah di inisialisasi
+INFO - 2018-08-01 12:08:22 --> Security Class telah di inisialisasi
+DEBUG - 2018-08-01 12:08:22 --> Global POST, GET dan COOKIE data telah disanitasi
+INFO - 2018-08-01 12:08:22 --> Input Class telah di inisialisasi
+INFO - 2018-08-01 12:08:22 --> Language Class telah di inisialisasi
+INFO - 2018-08-01 12:08:22 --> Loader Class telah di inisialisasi
+INFO - 2018-08-01 12:08:22 --> Helper telah dimuat: url_helper
+INFO - 2018-08-01 12:08:22 --> Controller Class telah di inisialisasi
+DEBUG - 2018-08-01 12:08:22 --> Session: "sess_save_path" kosong; pakai "session.save_path" data dari php.ini.
+INFO - 2018-08-01 12:08:22 --> Session: Class initialized using 'files' driver.
+INFO - 2018-08-01 12:08:22 --> Helper telah dimuat: cookie_helper
+INFO - 2018-08-01 12:08:22 --> Database Driver Class telah di inisialisasi
+INFO - 2018-08-01 12:08:23 --> Model "datatable" telah di inisialisasi
+INFO - 2018-08-01 12:08:23 --> Output akhir dikirim ke browser
+DEBUG - 2018-08-01 12:08:23 --> Total waktu eksekusi: 0.4790
+INFO - 2018-08-01 12:08:49 --> Config Class telah di inisialisasi
+INFO - 2018-08-01 12:08:49 --> Hooks Class telah di inisialisasi
+DEBUG - 2018-08-01 12:08:49 --> UTF-8 Support Aktif
+INFO - 2018-08-01 12:08:49 --> Utf8 Class telah di inisialisasi
+INFO - 2018-08-01 12:08:49 --> URI Class telah di inisialisasi
+INFO - 2018-08-01 12:08:49 --> Router Class telah di inisialisasi
+INFO - 2018-08-01 12:08:49 --> Output Class telah di inisialisasi
+INFO - 2018-08-01 12:08:49 --> Security Class telah di inisialisasi
+DEBUG - 2018-08-01 12:08:49 --> Global POST, GET dan COOKIE data telah disanitasi
+INFO - 2018-08-01 12:08:49 --> Input Class telah di inisialisasi
+INFO - 2018-08-01 12:08:49 --> Language Class telah di inisialisasi
+INFO - 2018-08-01 12:08:50 --> Loader Class telah di inisialisasi
+INFO - 2018-08-01 12:08:50 --> Helper telah dimuat: url_helper
+INFO - 2018-08-01 12:08:50 --> Controller Class telah di inisialisasi
+DEBUG - 2018-08-01 12:08:50 --> Session: "sess_save_path" kosong; pakai "session.save_path" data dari php.ini.
+INFO - 2018-08-01 12:08:50 --> Session: Class initialized using 'files' driver.
+INFO - 2018-08-01 12:08:50 --> Helper telah dimuat: cookie_helper
+INFO - 2018-08-01 12:08:50 --> File telah dimuat: D:\XAMPP\htdocs\jb\application\views\jebews/html/head.php
+INFO - 2018-08-01 12:08:50 --> File telah dimuat: D:\XAMPP\htdocs\jb\application\views\jebews/product/manage.php
+INFO - 2018-08-01 12:08:50 --> Output akhir dikirim ke browser
+DEBUG - 2018-08-01 12:08:50 --> Total waktu eksekusi: 0.4672
+INFO - 2018-08-01 12:08:50 --> Config Class telah di inisialisasi
+INFO - 2018-08-01 12:08:50 --> Hooks Class telah di inisialisasi
+DEBUG - 2018-08-01 12:08:50 --> UTF-8 Support Aktif
+INFO - 2018-08-01 12:08:50 --> Utf8 Class telah di inisialisasi
+INFO - 2018-08-01 12:08:50 --> URI Class telah di inisialisasi
+INFO - 2018-08-01 12:08:50 --> Router Class telah di inisialisasi
+INFO - 2018-08-01 12:08:50 --> Output Class telah di inisialisasi
+INFO - 2018-08-01 12:08:50 --> Security Class telah di inisialisasi
+DEBUG - 2018-08-01 12:08:50 --> Global POST, GET dan COOKIE data telah disanitasi
+INFO - 2018-08-01 12:08:50 --> Input Class telah di inisialisasi
+INFO - 2018-08-01 12:08:50 --> Language Class telah di inisialisasi
+INFO - 2018-08-01 12:08:50 --> Loader Class telah di inisialisasi
+INFO - 2018-08-01 12:08:50 --> Helper telah dimuat: url_helper
+INFO - 2018-08-01 12:08:50 --> Controller Class telah di inisialisasi
+DEBUG - 2018-08-01 12:08:50 --> Session: "sess_save_path" kosong; pakai "session.save_path" data dari php.ini.
+INFO - 2018-08-01 12:08:50 --> Session: Class initialized using 'files' driver.
+INFO - 2018-08-01 12:08:50 --> Helper telah dimuat: cookie_helper
+INFO - 2018-08-01 12:08:50 --> Database Driver Class telah di inisialisasi
+INFO - 2018-08-01 12:08:50 --> Model "datatable" telah di inisialisasi
+INFO - 2018-08-01 12:08:50 --> Output akhir dikirim ke browser
+DEBUG - 2018-08-01 12:08:50 --> Total waktu eksekusi: 0.4610
+INFO - 2018-08-01 12:09:10 --> Config Class telah di inisialisasi
+INFO - 2018-08-01 12:09:10 --> Hooks Class telah di inisialisasi
+DEBUG - 2018-08-01 12:09:10 --> UTF-8 Support Aktif
+INFO - 2018-08-01 12:09:10 --> Utf8 Class telah di inisialisasi
+INFO - 2018-08-01 12:09:10 --> URI Class telah di inisialisasi
+INFO - 2018-08-01 12:09:10 --> Router Class telah di inisialisasi
+INFO - 2018-08-01 12:09:10 --> Output Class telah di inisialisasi
+INFO - 2018-08-01 12:09:10 --> Security Class telah di inisialisasi
+DEBUG - 2018-08-01 12:09:10 --> Global POST, GET dan COOKIE data telah disanitasi
+INFO - 2018-08-01 12:09:10 --> Input Class telah di inisialisasi
+INFO - 2018-08-01 12:09:10 --> Language Class telah di inisialisasi
+INFO - 2018-08-01 12:09:10 --> Loader Class telah di inisialisasi
+INFO - 2018-08-01 12:09:10 --> Helper telah dimuat: url_helper
+INFO - 2018-08-01 12:09:10 --> Controller Class telah di inisialisasi
+DEBUG - 2018-08-01 12:09:10 --> Session: "sess_save_path" kosong; pakai "session.save_path" data dari php.ini.
+INFO - 2018-08-01 12:09:10 --> Session: Class initialized using 'files' driver.
+INFO - 2018-08-01 12:09:10 --> Helper telah dimuat: cookie_helper
+INFO - 2018-08-01 12:09:10 --> File telah dimuat: D:\XAMPP\htdocs\jb\application\views\jebews/html/head.php
+INFO - 2018-08-01 12:09:10 --> File telah dimuat: D:\XAMPP\htdocs\jb\application\views\jebews/product/manage.php
+INFO - 2018-08-01 12:09:10 --> Output akhir dikirim ke browser
+DEBUG - 2018-08-01 12:09:10 --> Total waktu eksekusi: 0.4296
+INFO - 2018-08-01 12:09:11 --> Config Class telah di inisialisasi
+INFO - 2018-08-01 12:09:11 --> Hooks Class telah di inisialisasi
+DEBUG - 2018-08-01 12:09:11 --> UTF-8 Support Aktif
+INFO - 2018-08-01 12:09:11 --> Utf8 Class telah di inisialisasi
+INFO - 2018-08-01 12:09:11 --> URI Class telah di inisialisasi
+INFO - 2018-08-01 12:09:11 --> Router Class telah di inisialisasi
+INFO - 2018-08-01 12:09:11 --> Output Class telah di inisialisasi
+INFO - 2018-08-01 12:09:11 --> Security Class telah di inisialisasi
+DEBUG - 2018-08-01 12:09:11 --> Global POST, GET dan COOKIE data telah disanitasi
+INFO - 2018-08-01 12:09:11 --> Input Class telah di inisialisasi
+INFO - 2018-08-01 12:09:11 --> Language Class telah di inisialisasi
+INFO - 2018-08-01 12:09:11 --> Loader Class telah di inisialisasi
+INFO - 2018-08-01 12:09:11 --> Helper telah dimuat: url_helper
+INFO - 2018-08-01 12:09:11 --> Controller Class telah di inisialisasi
+DEBUG - 2018-08-01 12:09:11 --> Session: "sess_save_path" kosong; pakai "session.save_path" data dari php.ini.
+INFO - 2018-08-01 12:09:11 --> Session: Class initialized using 'files' driver.
+INFO - 2018-08-01 12:09:11 --> Helper telah dimuat: cookie_helper
+INFO - 2018-08-01 12:09:11 --> Database Driver Class telah di inisialisasi
+INFO - 2018-08-01 12:09:11 --> Model "datatable" telah di inisialisasi
+INFO - 2018-08-01 12:09:11 --> Output akhir dikirim ke browser
+DEBUG - 2018-08-01 12:09:11 --> Total waktu eksekusi: 0.4590
+INFO - 2018-08-01 12:09:19 --> Config Class telah di inisialisasi
+INFO - 2018-08-01 12:09:19 --> Hooks Class telah di inisialisasi
+DEBUG - 2018-08-01 12:09:19 --> UTF-8 Support Aktif
+INFO - 2018-08-01 12:09:19 --> Utf8 Class telah di inisialisasi
+INFO - 2018-08-01 12:09:19 --> URI Class telah di inisialisasi
+INFO - 2018-08-01 12:09:19 --> Router Class telah di inisialisasi
+INFO - 2018-08-01 12:09:20 --> Output Class telah di inisialisasi
+INFO - 2018-08-01 12:09:20 --> Security Class telah di inisialisasi
+DEBUG - 2018-08-01 12:09:20 --> Global POST, GET dan COOKIE data telah disanitasi
+INFO - 2018-08-01 12:09:20 --> Input Class telah di inisialisasi
+INFO - 2018-08-01 12:09:20 --> Language Class telah di inisialisasi
+INFO - 2018-08-01 12:09:20 --> Loader Class telah di inisialisasi
+INFO - 2018-08-01 12:09:20 --> Helper telah dimuat: url_helper
+INFO - 2018-08-01 12:09:20 --> Controller Class telah di inisialisasi
+DEBUG - 2018-08-01 12:09:20 --> Session: "sess_save_path" kosong; pakai "session.save_path" data dari php.ini.
+INFO - 2018-08-01 12:09:20 --> Session: Class initialized using 'files' driver.
+INFO - 2018-08-01 12:09:20 --> Helper telah dimuat: cookie_helper
+INFO - 2018-08-01 12:09:20 --> File telah dimuat: D:\XAMPP\htdocs\jb\application\views\jebews/html/head.php
+INFO - 2018-08-01 12:09:20 --> File telah dimuat: D:\XAMPP\htdocs\jb\application\views\jebews/product/manage.php
+INFO - 2018-08-01 12:09:20 --> Output akhir dikirim ke browser
+DEBUG - 2018-08-01 12:09:20 --> Total waktu eksekusi: 0.4266
+INFO - 2018-08-01 12:09:20 --> Config Class telah di inisialisasi
+INFO - 2018-08-01 12:09:20 --> Hooks Class telah di inisialisasi
+DEBUG - 2018-08-01 12:09:20 --> UTF-8 Support Aktif
+INFO - 2018-08-01 12:09:20 --> Utf8 Class telah di inisialisasi
+INFO - 2018-08-01 12:09:20 --> URI Class telah di inisialisasi
+INFO - 2018-08-01 12:09:20 --> Router Class telah di inisialisasi
+INFO - 2018-08-01 12:09:20 --> Output Class telah di inisialisasi
+INFO - 2018-08-01 12:09:20 --> Security Class telah di inisialisasi
+DEBUG - 2018-08-01 12:09:20 --> Global POST, GET dan COOKIE data telah disanitasi
+INFO - 2018-08-01 12:09:20 --> Input Class telah di inisialisasi
+INFO - 2018-08-01 12:09:20 --> Language Class telah di inisialisasi
+INFO - 2018-08-01 12:09:20 --> Loader Class telah di inisialisasi
+INFO - 2018-08-01 12:09:20 --> Helper telah dimuat: url_helper
+INFO - 2018-08-01 12:09:20 --> Controller Class telah di inisialisasi
+DEBUG - 2018-08-01 12:09:20 --> Session: "sess_save_path" kosong; pakai "session.save_path" data dari php.ini.
+INFO - 2018-08-01 12:09:20 --> Session: Class initialized using 'files' driver.
+INFO - 2018-08-01 12:09:20 --> Helper telah dimuat: cookie_helper
+INFO - 2018-08-01 12:09:20 --> Database Driver Class telah di inisialisasi
+INFO - 2018-08-01 12:09:21 --> Model "datatable" telah di inisialisasi
+INFO - 2018-08-01 12:09:21 --> Output akhir dikirim ke browser
+DEBUG - 2018-08-01 12:09:21 --> Total waktu eksekusi: 0.5612
+INFO - 2018-08-01 12:09:28 --> Config Class telah di inisialisasi
+INFO - 2018-08-01 12:09:28 --> Hooks Class telah di inisialisasi
+DEBUG - 2018-08-01 12:09:28 --> UTF-8 Support Aktif
+INFO - 2018-08-01 12:09:28 --> Utf8 Class telah di inisialisasi
+INFO - 2018-08-01 12:09:28 --> URI Class telah di inisialisasi
+INFO - 2018-08-01 12:09:28 --> Router Class telah di inisialisasi
+INFO - 2018-08-01 12:09:28 --> Output Class telah di inisialisasi
+INFO - 2018-08-01 12:09:28 --> Security Class telah di inisialisasi
+DEBUG - 2018-08-01 12:09:28 --> Global POST, GET dan COOKIE data telah disanitasi
+INFO - 2018-08-01 12:09:28 --> Input Class telah di inisialisasi
+INFO - 2018-08-01 12:09:28 --> Language Class telah di inisialisasi
+INFO - 2018-08-01 12:09:28 --> Loader Class telah di inisialisasi
+INFO - 2018-08-01 12:09:28 --> Helper telah dimuat: url_helper
+INFO - 2018-08-01 12:09:28 --> Controller Class telah di inisialisasi
+DEBUG - 2018-08-01 12:09:28 --> Session: "sess_save_path" kosong; pakai "session.save_path" data dari php.ini.
+INFO - 2018-08-01 12:09:28 --> Session: Class initialized using 'files' driver.
+INFO - 2018-08-01 12:09:28 --> Helper telah dimuat: cookie_helper
+INFO - 2018-08-01 12:09:28 --> File telah dimuat: D:\XAMPP\htdocs\jb\application\views\jebews/html/head.php
+INFO - 2018-08-01 12:09:28 --> File telah dimuat: D:\XAMPP\htdocs\jb\application\views\jebews/product/manage.php
+INFO - 2018-08-01 12:09:28 --> Output akhir dikirim ke browser
+DEBUG - 2018-08-01 12:09:29 --> Total waktu eksekusi: 0.4326
+INFO - 2018-08-01 12:09:29 --> Config Class telah di inisialisasi
+INFO - 2018-08-01 12:09:29 --> Hooks Class telah di inisialisasi
+DEBUG - 2018-08-01 12:09:29 --> UTF-8 Support Aktif
+INFO - 2018-08-01 12:09:29 --> Utf8 Class telah di inisialisasi
+INFO - 2018-08-01 12:09:29 --> URI Class telah di inisialisasi
+INFO - 2018-08-01 12:09:29 --> Router Class telah di inisialisasi
+INFO - 2018-08-01 12:09:29 --> Output Class telah di inisialisasi
+INFO - 2018-08-01 12:09:29 --> Security Class telah di inisialisasi
+DEBUG - 2018-08-01 12:09:29 --> Global POST, GET dan COOKIE data telah disanitasi
+INFO - 2018-08-01 12:09:29 --> Input Class telah di inisialisasi
+INFO - 2018-08-01 12:09:29 --> Language Class telah di inisialisasi
+INFO - 2018-08-01 12:09:29 --> Loader Class telah di inisialisasi
+INFO - 2018-08-01 12:09:29 --> Helper telah dimuat: url_helper
+INFO - 2018-08-01 12:09:29 --> Controller Class telah di inisialisasi
+DEBUG - 2018-08-01 12:09:29 --> Session: "sess_save_path" kosong; pakai "session.save_path" data dari php.ini.
+INFO - 2018-08-01 12:09:29 --> Session: Class initialized using 'files' driver.
+INFO - 2018-08-01 12:09:29 --> Helper telah dimuat: cookie_helper
+INFO - 2018-08-01 12:09:29 --> Database Driver Class telah di inisialisasi
+INFO - 2018-08-01 12:09:29 --> Model "datatable" telah di inisialisasi
+INFO - 2018-08-01 12:09:29 --> Output akhir dikirim ke browser
+DEBUG - 2018-08-01 12:09:29 --> Total waktu eksekusi: 0.4592
+INFO - 2018-08-01 12:10:13 --> Config Class telah di inisialisasi
+INFO - 2018-08-01 12:10:13 --> Hooks Class telah di inisialisasi
+DEBUG - 2018-08-01 12:10:13 --> UTF-8 Support Aktif
+INFO - 2018-08-01 12:10:13 --> Utf8 Class telah di inisialisasi
+INFO - 2018-08-01 12:10:13 --> URI Class telah di inisialisasi
+INFO - 2018-08-01 12:10:13 --> Router Class telah di inisialisasi
+INFO - 2018-08-01 12:10:13 --> Output Class telah di inisialisasi
+INFO - 2018-08-01 12:10:13 --> Security Class telah di inisialisasi
+DEBUG - 2018-08-01 12:10:13 --> Global POST, GET dan COOKIE data telah disanitasi
+INFO - 2018-08-01 12:10:13 --> Input Class telah di inisialisasi
+INFO - 2018-08-01 12:10:13 --> Language Class telah di inisialisasi
+INFO - 2018-08-01 12:10:13 --> Loader Class telah di inisialisasi
+INFO - 2018-08-01 12:10:13 --> Helper telah dimuat: url_helper
+INFO - 2018-08-01 12:10:13 --> Controller Class telah di inisialisasi
+DEBUG - 2018-08-01 12:10:13 --> Session: "sess_save_path" kosong; pakai "session.save_path" data dari php.ini.
+INFO - 2018-08-01 12:10:13 --> Session: Class initialized using 'files' driver.
+INFO - 2018-08-01 12:10:13 --> Helper telah dimuat: cookie_helper
+INFO - 2018-08-01 12:10:13 --> File telah dimuat: D:\XAMPP\htdocs\jb\application\views\jebews/html/head.php
+INFO - 2018-08-01 12:10:13 --> File telah dimuat: D:\XAMPP\htdocs\jb\application\views\jebews/product/manage.php
+INFO - 2018-08-01 12:10:13 --> Output akhir dikirim ke browser
+DEBUG - 2018-08-01 12:10:13 --> Total waktu eksekusi: 0.4396
+INFO - 2018-08-01 12:10:14 --> Config Class telah di inisialisasi
+INFO - 2018-08-01 12:10:14 --> Hooks Class telah di inisialisasi
+DEBUG - 2018-08-01 12:10:14 --> UTF-8 Support Aktif
+INFO - 2018-08-01 12:10:14 --> Utf8 Class telah di inisialisasi
+INFO - 2018-08-01 12:10:14 --> URI Class telah di inisialisasi
+INFO - 2018-08-01 12:10:14 --> Router Class telah di inisialisasi
+INFO - 2018-08-01 12:10:14 --> Output Class telah di inisialisasi
+INFO - 2018-08-01 12:10:14 --> Security Class telah di inisialisasi
+DEBUG - 2018-08-01 12:10:14 --> Global POST, GET dan COOKIE data telah disanitasi
+INFO - 2018-08-01 12:10:14 --> Input Class telah di inisialisasi
+INFO - 2018-08-01 12:10:14 --> Language Class telah di inisialisasi
+INFO - 2018-08-01 12:10:14 --> Loader Class telah di inisialisasi
+INFO - 2018-08-01 12:10:14 --> Helper telah dimuat: url_helper
+INFO - 2018-08-01 12:10:14 --> Controller Class telah di inisialisasi
+DEBUG - 2018-08-01 12:10:14 --> Session: "sess_save_path" kosong; pakai "session.save_path" data dari php.ini.
+INFO - 2018-08-01 12:10:14 --> Session: Class initialized using 'files' driver.
+INFO - 2018-08-01 12:10:14 --> Helper telah dimuat: cookie_helper
+INFO - 2018-08-01 12:10:14 --> Database Driver Class telah di inisialisasi
+INFO - 2018-08-01 12:10:14 --> Model "datatable" telah di inisialisasi
+INFO - 2018-08-01 12:10:14 --> Output akhir dikirim ke browser
+DEBUG - 2018-08-01 12:10:14 --> Total waktu eksekusi: 0.4750
+INFO - 2018-08-01 12:10:26 --> Config Class telah di inisialisasi
+INFO - 2018-08-01 12:10:26 --> Hooks Class telah di inisialisasi
+DEBUG - 2018-08-01 12:10:26 --> UTF-8 Support Aktif
+INFO - 2018-08-01 12:10:27 --> Utf8 Class telah di inisialisasi
+INFO - 2018-08-01 12:10:27 --> URI Class telah di inisialisasi
+INFO - 2018-08-01 12:10:27 --> Router Class telah di inisialisasi
+INFO - 2018-08-01 12:10:27 --> Output Class telah di inisialisasi
+INFO - 2018-08-01 12:10:27 --> Security Class telah di inisialisasi
+DEBUG - 2018-08-01 12:10:27 --> Global POST, GET dan COOKIE data telah disanitasi
+INFO - 2018-08-01 12:10:27 --> Input Class telah di inisialisasi
+INFO - 2018-08-01 12:10:27 --> Language Class telah di inisialisasi
+INFO - 2018-08-01 12:10:27 --> Loader Class telah di inisialisasi
+INFO - 2018-08-01 12:10:27 --> Helper telah dimuat: url_helper
+INFO - 2018-08-01 12:10:27 --> Controller Class telah di inisialisasi
+DEBUG - 2018-08-01 12:10:27 --> Session: "sess_save_path" kosong; pakai "session.save_path" data dari php.ini.
+INFO - 2018-08-01 12:10:27 --> Session: Class initialized using 'files' driver.
+INFO - 2018-08-01 12:10:27 --> Helper telah dimuat: cookie_helper
+INFO - 2018-08-01 12:10:27 --> File telah dimuat: D:\XAMPP\htdocs\jb\application\views\jebews/html/head.php
+INFO - 2018-08-01 12:10:27 --> File telah dimuat: D:\XAMPP\htdocs\jb\application\views\jebews/product/manage.php
+INFO - 2018-08-01 12:10:27 --> Output akhir dikirim ke browser
+DEBUG - 2018-08-01 12:10:27 --> Total waktu eksekusi: 0.4346
+INFO - 2018-08-01 12:10:27 --> Config Class telah di inisialisasi
+INFO - 2018-08-01 12:10:27 --> Hooks Class telah di inisialisasi
+DEBUG - 2018-08-01 12:10:27 --> UTF-8 Support Aktif
+INFO - 2018-08-01 12:10:27 --> Utf8 Class telah di inisialisasi
+INFO - 2018-08-01 12:10:27 --> URI Class telah di inisialisasi
+INFO - 2018-08-01 12:10:27 --> Router Class telah di inisialisasi
+INFO - 2018-08-01 12:10:27 --> Output Class telah di inisialisasi
+INFO - 2018-08-01 12:10:27 --> Security Class telah di inisialisasi
+DEBUG - 2018-08-01 12:10:27 --> Global POST, GET dan COOKIE data telah disanitasi
+INFO - 2018-08-01 12:10:27 --> Input Class telah di inisialisasi
+INFO - 2018-08-01 12:10:27 --> Language Class telah di inisialisasi
+INFO - 2018-08-01 12:10:27 --> Loader Class telah di inisialisasi
+INFO - 2018-08-01 12:10:27 --> Helper telah dimuat: url_helper
+INFO - 2018-08-01 12:10:27 --> Controller Class telah di inisialisasi
+DEBUG - 2018-08-01 12:10:27 --> Session: "sess_save_path" kosong; pakai "session.save_path" data dari php.ini.
+INFO - 2018-08-01 12:10:27 --> Session: Class initialized using 'files' driver.
+INFO - 2018-08-01 12:10:27 --> Helper telah dimuat: cookie_helper
+INFO - 2018-08-01 12:10:27 --> Database Driver Class telah di inisialisasi
+INFO - 2018-08-01 12:10:28 --> Model "datatable" telah di inisialisasi
+INFO - 2018-08-01 12:10:28 --> Output akhir dikirim ke browser
+DEBUG - 2018-08-01 12:10:28 --> Total waktu eksekusi: 0.4810
+INFO - 2018-08-01 12:10:41 --> Config Class telah di inisialisasi
+INFO - 2018-08-01 12:10:41 --> Hooks Class telah di inisialisasi
+DEBUG - 2018-08-01 12:10:41 --> UTF-8 Support Aktif
+INFO - 2018-08-01 12:10:41 --> Utf8 Class telah di inisialisasi
+INFO - 2018-08-01 12:10:41 --> URI Class telah di inisialisasi
+INFO - 2018-08-01 12:10:41 --> Router Class telah di inisialisasi
+INFO - 2018-08-01 12:10:41 --> Output Class telah di inisialisasi
+INFO - 2018-08-01 12:10:41 --> Security Class telah di inisialisasi
+DEBUG - 2018-08-01 12:10:41 --> Global POST, GET dan COOKIE data telah disanitasi
+INFO - 2018-08-01 12:10:41 --> Input Class telah di inisialisasi
+INFO - 2018-08-01 12:10:41 --> Language Class telah di inisialisasi
+INFO - 2018-08-01 12:10:41 --> Loader Class telah di inisialisasi
+INFO - 2018-08-01 12:10:41 --> Helper telah dimuat: url_helper
+INFO - 2018-08-01 12:10:41 --> Controller Class telah di inisialisasi
+DEBUG - 2018-08-01 12:10:41 --> Session: "sess_save_path" kosong; pakai "session.save_path" data dari php.ini.
+INFO - 2018-08-01 12:10:41 --> Session: Class initialized using 'files' driver.
+INFO - 2018-08-01 12:10:41 --> Helper telah dimuat: cookie_helper
+INFO - 2018-08-01 12:10:41 --> File telah dimuat: D:\XAMPP\htdocs\jb\application\views\jebews/html/head.php
+INFO - 2018-08-01 12:10:41 --> File telah dimuat: D:\XAMPP\htdocs\jb\application\views\jebews/product/manage.php
+INFO - 2018-08-01 12:10:41 --> Output akhir dikirim ke browser
+DEBUG - 2018-08-01 12:10:41 --> Total waktu eksekusi: 0.4276
+INFO - 2018-08-01 12:10:41 --> Config Class telah di inisialisasi
+INFO - 2018-08-01 12:10:41 --> Hooks Class telah di inisialisasi
+DEBUG - 2018-08-01 12:10:41 --> UTF-8 Support Aktif
+INFO - 2018-08-01 12:10:41 --> Utf8 Class telah di inisialisasi
+INFO - 2018-08-01 12:10:41 --> URI Class telah di inisialisasi
+INFO - 2018-08-01 12:10:41 --> Router Class telah di inisialisasi
+INFO - 2018-08-01 12:10:41 --> Output Class telah di inisialisasi
+INFO - 2018-08-01 12:10:42 --> Security Class telah di inisialisasi
+DEBUG - 2018-08-01 12:10:42 --> Global POST, GET dan COOKIE data telah disanitasi
+INFO - 2018-08-01 12:10:42 --> Input Class telah di inisialisasi
+INFO - 2018-08-01 12:10:42 --> Language Class telah di inisialisasi
+INFO - 2018-08-01 12:10:42 --> Loader Class telah di inisialisasi
+INFO - 2018-08-01 12:10:42 --> Helper telah dimuat: url_helper
+INFO - 2018-08-01 12:10:42 --> Controller Class telah di inisialisasi
+DEBUG - 2018-08-01 12:10:42 --> Session: "sess_save_path" kosong; pakai "session.save_path" data dari php.ini.
+INFO - 2018-08-01 12:10:42 --> Session: Class initialized using 'files' driver.
+INFO - 2018-08-01 12:10:42 --> Helper telah dimuat: cookie_helper
+INFO - 2018-08-01 12:10:42 --> Database Driver Class telah di inisialisasi
+INFO - 2018-08-01 12:10:42 --> Model "datatable" telah di inisialisasi
+INFO - 2018-08-01 12:10:42 --> Output akhir dikirim ke browser
+DEBUG - 2018-08-01 12:10:42 --> Total waktu eksekusi: 0.4600
+INFO - 2018-08-01 12:11:00 --> Config Class telah di inisialisasi
+INFO - 2018-08-01 12:11:00 --> Hooks Class telah di inisialisasi
+DEBUG - 2018-08-01 12:11:00 --> UTF-8 Support Aktif
+INFO - 2018-08-01 12:11:00 --> Utf8 Class telah di inisialisasi
+INFO - 2018-08-01 12:11:00 --> URI Class telah di inisialisasi
+INFO - 2018-08-01 12:11:00 --> Router Class telah di inisialisasi
+INFO - 2018-08-01 12:11:00 --> Output Class telah di inisialisasi
+INFO - 2018-08-01 12:11:00 --> Security Class telah di inisialisasi
+DEBUG - 2018-08-01 12:11:00 --> Global POST, GET dan COOKIE data telah disanitasi
+INFO - 2018-08-01 12:11:00 --> Input Class telah di inisialisasi
+INFO - 2018-08-01 12:11:00 --> Language Class telah di inisialisasi
+INFO - 2018-08-01 12:11:00 --> Loader Class telah di inisialisasi
+INFO - 2018-08-01 12:11:00 --> Helper telah dimuat: url_helper
+INFO - 2018-08-01 12:11:00 --> Controller Class telah di inisialisasi
+DEBUG - 2018-08-01 12:11:00 --> Session: "sess_save_path" kosong; pakai "session.save_path" data dari php.ini.
+INFO - 2018-08-01 12:11:00 --> Session: Class initialized using 'files' driver.
+INFO - 2018-08-01 12:11:00 --> Helper telah dimuat: cookie_helper
+INFO - 2018-08-01 12:11:00 --> File telah dimuat: D:\XAMPP\htdocs\jb\application\views\jebews/html/head.php
+INFO - 2018-08-01 12:11:00 --> File telah dimuat: D:\XAMPP\htdocs\jb\application\views\jebews/product/manage.php
+INFO - 2018-08-01 12:11:00 --> Output akhir dikirim ke browser
+DEBUG - 2018-08-01 12:11:00 --> Total waktu eksekusi: 0.4290
+INFO - 2018-08-01 12:11:00 --> Config Class telah di inisialisasi
+INFO - 2018-08-01 12:11:00 --> Hooks Class telah di inisialisasi
+DEBUG - 2018-08-01 12:11:00 --> UTF-8 Support Aktif
+INFO - 2018-08-01 12:11:00 --> Utf8 Class telah di inisialisasi
+INFO - 2018-08-01 12:11:01 --> URI Class telah di inisialisasi
+INFO - 2018-08-01 12:11:01 --> Router Class telah di inisialisasi
+INFO - 2018-08-01 12:11:01 --> Output Class telah di inisialisasi
+INFO - 2018-08-01 12:11:01 --> Security Class telah di inisialisasi
+DEBUG - 2018-08-01 12:11:01 --> Global POST, GET dan COOKIE data telah disanitasi
+INFO - 2018-08-01 12:11:01 --> Input Class telah di inisialisasi
+INFO - 2018-08-01 12:11:01 --> Language Class telah di inisialisasi
+INFO - 2018-08-01 12:11:01 --> Loader Class telah di inisialisasi
+INFO - 2018-08-01 12:11:01 --> Helper telah dimuat: url_helper
+INFO - 2018-08-01 12:11:01 --> Controller Class telah di inisialisasi
+DEBUG - 2018-08-01 12:11:01 --> Session: "sess_save_path" kosong; pakai "session.save_path" data dari php.ini.
+INFO - 2018-08-01 12:11:01 --> Session: Class initialized using 'files' driver.
+INFO - 2018-08-01 12:11:01 --> Helper telah dimuat: cookie_helper
+INFO - 2018-08-01 12:11:01 --> Database Driver Class telah di inisialisasi
+INFO - 2018-08-01 12:11:01 --> Model "datatable" telah di inisialisasi
+INFO - 2018-08-01 12:11:01 --> Output akhir dikirim ke browser
+DEBUG - 2018-08-01 12:11:01 --> Total waktu eksekusi: 0.4660
+INFO - 2018-08-01 12:11:02 --> Config Class telah di inisialisasi
+INFO - 2018-08-01 12:11:02 --> Hooks Class telah di inisialisasi
+DEBUG - 2018-08-01 12:11:02 --> UTF-8 Support Aktif
+INFO - 2018-08-01 12:11:02 --> Utf8 Class telah di inisialisasi
+INFO - 2018-08-01 12:11:02 --> URI Class telah di inisialisasi
+INFO - 2018-08-01 12:11:02 --> Router Class telah di inisialisasi
+INFO - 2018-08-01 12:11:02 --> Output Class telah di inisialisasi
+INFO - 2018-08-01 12:11:02 --> Security Class telah di inisialisasi
+DEBUG - 2018-08-01 12:11:02 --> Global POST, GET dan COOKIE data telah disanitasi
+INFO - 2018-08-01 12:11:02 --> Input Class telah di inisialisasi
+INFO - 2018-08-01 12:11:02 --> Language Class telah di inisialisasi
+INFO - 2018-08-01 12:11:02 --> Loader Class telah di inisialisasi
+INFO - 2018-08-01 12:11:02 --> Helper telah dimuat: url_helper
+INFO - 2018-08-01 12:11:02 --> Controller Class telah di inisialisasi
+DEBUG - 2018-08-01 12:11:02 --> Session: "sess_save_path" kosong; pakai "session.save_path" data dari php.ini.
+INFO - 2018-08-01 12:11:02 --> Session: Class initialized using 'files' driver.
+INFO - 2018-08-01 12:11:02 --> Helper telah dimuat: cookie_helper
+INFO - 2018-08-01 12:11:02 --> File telah dimuat: D:\XAMPP\htdocs\jb\application\views\jebews/html/head.php
+INFO - 2018-08-01 12:11:02 --> File telah dimuat: D:\XAMPP\htdocs\jb\application\views\jebews/product/manage.php
+INFO - 2018-08-01 12:11:02 --> Output akhir dikirim ke browser
+DEBUG - 2018-08-01 12:11:02 --> Total waktu eksekusi: 0.4420
+INFO - 2018-08-01 12:11:03 --> Config Class telah di inisialisasi
+INFO - 2018-08-01 12:11:03 --> Hooks Class telah di inisialisasi
+DEBUG - 2018-08-01 12:11:03 --> UTF-8 Support Aktif
+INFO - 2018-08-01 12:11:03 --> Utf8 Class telah di inisialisasi
+INFO - 2018-08-01 12:11:03 --> URI Class telah di inisialisasi
+INFO - 2018-08-01 12:11:03 --> Router Class telah di inisialisasi
+INFO - 2018-08-01 12:11:03 --> Output Class telah di inisialisasi
+INFO - 2018-08-01 12:11:03 --> Security Class telah di inisialisasi
+DEBUG - 2018-08-01 12:11:03 --> Global POST, GET dan COOKIE data telah disanitasi
+INFO - 2018-08-01 12:11:03 --> Input Class telah di inisialisasi
+INFO - 2018-08-01 12:11:03 --> Language Class telah di inisialisasi
+INFO - 2018-08-01 12:11:03 --> Loader Class telah di inisialisasi
+INFO - 2018-08-01 12:11:03 --> Helper telah dimuat: url_helper
+INFO - 2018-08-01 12:11:03 --> Controller Class telah di inisialisasi
+DEBUG - 2018-08-01 12:11:03 --> Session: "sess_save_path" kosong; pakai "session.save_path" data dari php.ini.
+INFO - 2018-08-01 12:11:03 --> Session: Class initialized using 'files' driver.
+INFO - 2018-08-01 12:11:03 --> Helper telah dimuat: cookie_helper
+INFO - 2018-08-01 12:11:03 --> Database Driver Class telah di inisialisasi
+INFO - 2018-08-01 12:11:03 --> Model "datatable" telah di inisialisasi
+INFO - 2018-08-01 12:11:03 --> Output akhir dikirim ke browser
+DEBUG - 2018-08-01 12:11:03 --> Total waktu eksekusi: 0.4590
+INFO - 2018-08-01 12:11:12 --> Config Class telah di inisialisasi
+INFO - 2018-08-01 12:11:12 --> Hooks Class telah di inisialisasi
+DEBUG - 2018-08-01 12:11:12 --> UTF-8 Support Aktif
+INFO - 2018-08-01 12:11:12 --> Utf8 Class telah di inisialisasi
+INFO - 2018-08-01 12:11:12 --> URI Class telah di inisialisasi
+INFO - 2018-08-01 12:11:12 --> Router Class telah di inisialisasi
+INFO - 2018-08-01 12:11:12 --> Output Class telah di inisialisasi
+INFO - 2018-08-01 12:11:12 --> Security Class telah di inisialisasi
+DEBUG - 2018-08-01 12:11:12 --> Global POST, GET dan COOKIE data telah disanitasi
+INFO - 2018-08-01 12:11:12 --> Input Class telah di inisialisasi
+INFO - 2018-08-01 12:11:12 --> Language Class telah di inisialisasi
+INFO - 2018-08-01 12:11:12 --> Loader Class telah di inisialisasi
+INFO - 2018-08-01 12:11:12 --> Helper telah dimuat: url_helper
+INFO - 2018-08-01 12:11:12 --> Controller Class telah di inisialisasi
+DEBUG - 2018-08-01 12:11:12 --> Session: "sess_save_path" kosong; pakai "session.save_path" data dari php.ini.
+INFO - 2018-08-01 12:11:12 --> Session: Class initialized using 'files' driver.
+INFO - 2018-08-01 12:11:12 --> Helper telah dimuat: cookie_helper
+INFO - 2018-08-01 12:11:12 --> File telah dimuat: D:\XAMPP\htdocs\jb\application\views\jebews/html/head.php
+INFO - 2018-08-01 12:11:12 --> File telah dimuat: D:\XAMPP\htdocs\jb\application\views\jebews/product/manage.php
+INFO - 2018-08-01 12:11:12 --> Output akhir dikirim ke browser
+DEBUG - 2018-08-01 12:11:13 --> Total waktu eksekusi: 0.4432
+INFO - 2018-08-01 12:11:13 --> Config Class telah di inisialisasi
+INFO - 2018-08-01 12:11:13 --> Hooks Class telah di inisialisasi
+DEBUG - 2018-08-01 12:11:13 --> UTF-8 Support Aktif
+INFO - 2018-08-01 12:11:13 --> Utf8 Class telah di inisialisasi
+INFO - 2018-08-01 12:11:13 --> URI Class telah di inisialisasi
+INFO - 2018-08-01 12:11:13 --> Router Class telah di inisialisasi
+INFO - 2018-08-01 12:11:13 --> Output Class telah di inisialisasi
+INFO - 2018-08-01 12:11:13 --> Security Class telah di inisialisasi
+DEBUG - 2018-08-01 12:11:13 --> Global POST, GET dan COOKIE data telah disanitasi
+INFO - 2018-08-01 12:11:13 --> Input Class telah di inisialisasi
+INFO - 2018-08-01 12:11:13 --> Language Class telah di inisialisasi
+INFO - 2018-08-01 12:11:13 --> Loader Class telah di inisialisasi
+INFO - 2018-08-01 12:11:13 --> Helper telah dimuat: url_helper
+INFO - 2018-08-01 12:11:13 --> Controller Class telah di inisialisasi
+DEBUG - 2018-08-01 12:11:13 --> Session: "sess_save_path" kosong; pakai "session.save_path" data dari php.ini.
+INFO - 2018-08-01 12:11:13 --> Session: Class initialized using 'files' driver.
+INFO - 2018-08-01 12:11:13 --> Helper telah dimuat: cookie_helper
+INFO - 2018-08-01 12:11:13 --> Database Driver Class telah di inisialisasi
+INFO - 2018-08-01 12:11:13 --> Model "datatable" telah di inisialisasi
+INFO - 2018-08-01 12:11:13 --> Output akhir dikirim ke browser
+DEBUG - 2018-08-01 12:11:13 --> Total waktu eksekusi: 0.4980
+INFO - 2018-08-01 12:11:15 --> Config Class telah di inisialisasi
+INFO - 2018-08-01 12:11:15 --> Hooks Class telah di inisialisasi
+DEBUG - 2018-08-01 12:11:16 --> UTF-8 Support Aktif
+INFO - 2018-08-01 12:11:16 --> Utf8 Class telah di inisialisasi
+INFO - 2018-08-01 12:11:16 --> URI Class telah di inisialisasi
+INFO - 2018-08-01 12:11:16 --> Router Class telah di inisialisasi
+INFO - 2018-08-01 12:11:16 --> Output Class telah di inisialisasi
+INFO - 2018-08-01 12:11:16 --> Security Class telah di inisialisasi
+DEBUG - 2018-08-01 12:11:16 --> Global POST, GET dan COOKIE data telah disanitasi
+INFO - 2018-08-01 12:11:16 --> Input Class telah di inisialisasi
+INFO - 2018-08-01 12:11:16 --> Language Class telah di inisialisasi
+INFO - 2018-08-01 12:11:16 --> Loader Class telah di inisialisasi
+INFO - 2018-08-01 12:11:16 --> Helper telah dimuat: url_helper
+INFO - 2018-08-01 12:11:16 --> Controller Class telah di inisialisasi
+DEBUG - 2018-08-01 12:11:16 --> Session: "sess_save_path" kosong; pakai "session.save_path" data dari php.ini.
+INFO - 2018-08-01 12:11:16 --> Session: Class initialized using 'files' driver.
+INFO - 2018-08-01 12:11:16 --> Helper telah dimuat: cookie_helper
+INFO - 2018-08-01 12:11:16 --> File telah dimuat: D:\XAMPP\htdocs\jb\application\views\jebews/html/head.php
+INFO - 2018-08-01 12:11:16 --> File telah dimuat: D:\XAMPP\htdocs\jb\application\views\jebews/product/manage.php
+INFO - 2018-08-01 12:11:16 --> Output akhir dikirim ke browser
+DEBUG - 2018-08-01 12:11:16 --> Total waktu eksekusi: 0.4632
+INFO - 2018-08-01 12:11:16 --> Config Class telah di inisialisasi
+INFO - 2018-08-01 12:11:16 --> Hooks Class telah di inisialisasi
+DEBUG - 2018-08-01 12:11:16 --> UTF-8 Support Aktif
+INFO - 2018-08-01 12:11:16 --> Utf8 Class telah di inisialisasi
+INFO - 2018-08-01 12:11:16 --> URI Class telah di inisialisasi
+INFO - 2018-08-01 12:11:16 --> Router Class telah di inisialisasi
+INFO - 2018-08-01 12:11:16 --> Output Class telah di inisialisasi
+INFO - 2018-08-01 12:11:16 --> Security Class telah di inisialisasi
+DEBUG - 2018-08-01 12:11:16 --> Global POST, GET dan COOKIE data telah disanitasi
+INFO - 2018-08-01 12:11:16 --> Input Class telah di inisialisasi
+INFO - 2018-08-01 12:11:16 --> Language Class telah di inisialisasi
+INFO - 2018-08-01 12:11:16 --> Loader Class telah di inisialisasi
+INFO - 2018-08-01 12:11:16 --> Helper telah dimuat: url_helper
+INFO - 2018-08-01 12:11:16 --> Controller Class telah di inisialisasi
+DEBUG - 2018-08-01 12:11:16 --> Session: "sess_save_path" kosong; pakai "session.save_path" data dari php.ini.
+INFO - 2018-08-01 12:11:16 --> Session: Class initialized using 'files' driver.
+INFO - 2018-08-01 12:11:16 --> Helper telah dimuat: cookie_helper
+INFO - 2018-08-01 12:11:16 --> Database Driver Class telah di inisialisasi
+INFO - 2018-08-01 12:11:17 --> Model "datatable" telah di inisialisasi
+INFO - 2018-08-01 12:11:17 --> Output akhir dikirim ke browser
+DEBUG - 2018-08-01 12:11:17 --> Total waktu eksekusi: 0.4850
+INFO - 2018-08-01 12:13:53 --> Config Class telah di inisialisasi
+INFO - 2018-08-01 12:13:53 --> Hooks Class telah di inisialisasi
+DEBUG - 2018-08-01 12:13:53 --> UTF-8 Support Aktif
+INFO - 2018-08-01 12:13:53 --> Utf8 Class telah di inisialisasi
+INFO - 2018-08-01 12:13:53 --> URI Class telah di inisialisasi
+INFO - 2018-08-01 12:13:53 --> Router Class telah di inisialisasi
+INFO - 2018-08-01 12:13:53 --> Output Class telah di inisialisasi
+INFO - 2018-08-01 12:13:53 --> Security Class telah di inisialisasi
+DEBUG - 2018-08-01 12:13:53 --> Global POST, GET dan COOKIE data telah disanitasi
+INFO - 2018-08-01 12:13:53 --> Input Class telah di inisialisasi
+INFO - 2018-08-01 12:13:53 --> Language Class telah di inisialisasi
+INFO - 2018-08-01 12:13:53 --> Loader Class telah di inisialisasi
+INFO - 2018-08-01 12:13:53 --> Helper telah dimuat: url_helper
+INFO - 2018-08-01 12:13:53 --> Controller Class telah di inisialisasi
+DEBUG - 2018-08-01 12:13:53 --> Session: "sess_save_path" kosong; pakai "session.save_path" data dari php.ini.
+INFO - 2018-08-01 12:13:53 --> Session: Class initialized using 'files' driver.
+INFO - 2018-08-01 12:13:53 --> Helper telah dimuat: cookie_helper
+INFO - 2018-08-01 12:13:53 --> File telah dimuat: D:\XAMPP\htdocs\jb\application\views\jebews/html/head.php
+INFO - 2018-08-01 12:13:53 --> File telah dimuat: D:\XAMPP\htdocs\jb\application\views\jebews/product/manage.php
+INFO - 2018-08-01 12:13:53 --> Output akhir dikirim ke browser
+DEBUG - 2018-08-01 12:13:53 --> Total waktu eksekusi: 0.4286
+INFO - 2018-08-01 12:13:53 --> Config Class telah di inisialisasi
+INFO - 2018-08-01 12:13:53 --> Hooks Class telah di inisialisasi
+DEBUG - 2018-08-01 12:13:53 --> UTF-8 Support Aktif
+INFO - 2018-08-01 12:13:53 --> Utf8 Class telah di inisialisasi
+INFO - 2018-08-01 12:13:53 --> URI Class telah di inisialisasi
+INFO - 2018-08-01 12:13:54 --> Router Class telah di inisialisasi
+INFO - 2018-08-01 12:13:54 --> Output Class telah di inisialisasi
+INFO - 2018-08-01 12:13:54 --> Security Class telah di inisialisasi
+DEBUG - 2018-08-01 12:13:54 --> Global POST, GET dan COOKIE data telah disanitasi
+INFO - 2018-08-01 12:13:54 --> Input Class telah di inisialisasi
+INFO - 2018-08-01 12:13:54 --> Language Class telah di inisialisasi
+INFO - 2018-08-01 12:13:54 --> Loader Class telah di inisialisasi
+INFO - 2018-08-01 12:13:54 --> Helper telah dimuat: url_helper
+INFO - 2018-08-01 12:13:54 --> Controller Class telah di inisialisasi
+DEBUG - 2018-08-01 12:13:54 --> Session: "sess_save_path" kosong; pakai "session.save_path" data dari php.ini.
+INFO - 2018-08-01 12:13:54 --> Session: Class initialized using 'files' driver.
+INFO - 2018-08-01 12:13:54 --> Helper telah dimuat: cookie_helper
+INFO - 2018-08-01 12:13:54 --> Database Driver Class telah di inisialisasi
+INFO - 2018-08-01 12:13:54 --> Model "datatable" telah di inisialisasi
+INFO - 2018-08-01 12:13:54 --> Output akhir dikirim ke browser
+DEBUG - 2018-08-01 12:13:54 --> Total waktu eksekusi: 0.4840
+INFO - 2018-08-01 12:14:54 --> Config Class telah di inisialisasi
+INFO - 2018-08-01 12:14:54 --> Hooks Class telah di inisialisasi
+DEBUG - 2018-08-01 12:14:54 --> UTF-8 Support Aktif
+INFO - 2018-08-01 12:14:54 --> Utf8 Class telah di inisialisasi
+INFO - 2018-08-01 12:14:54 --> URI Class telah di inisialisasi
+INFO - 2018-08-01 12:14:54 --> Router Class telah di inisialisasi
+INFO - 2018-08-01 12:14:54 --> Output Class telah di inisialisasi
+INFO - 2018-08-01 12:14:54 --> Security Class telah di inisialisasi
+DEBUG - 2018-08-01 12:14:54 --> Global POST, GET dan COOKIE data telah disanitasi
+INFO - 2018-08-01 12:14:55 --> Input Class telah di inisialisasi
+INFO - 2018-08-01 12:14:55 --> Language Class telah di inisialisasi
+INFO - 2018-08-01 12:14:55 --> Loader Class telah di inisialisasi
+INFO - 2018-08-01 12:14:55 --> Helper telah dimuat: url_helper
+INFO - 2018-08-01 12:14:55 --> Controller Class telah di inisialisasi
+DEBUG - 2018-08-01 12:14:55 --> Session: "sess_save_path" kosong; pakai "session.save_path" data dari php.ini.
+INFO - 2018-08-01 12:14:55 --> Session: Class initialized using 'files' driver.
+INFO - 2018-08-01 12:14:55 --> Helper telah dimuat: cookie_helper
+INFO - 2018-08-01 12:14:55 --> File telah dimuat: D:\XAMPP\htdocs\jb\application\views\jebews/html/head.php
+INFO - 2018-08-01 12:14:55 --> File telah dimuat: D:\XAMPP\htdocs\jb\application\views\jebews/product/manage.php
+INFO - 2018-08-01 12:14:55 --> Output akhir dikirim ke browser
+DEBUG - 2018-08-01 12:14:55 --> Total waktu eksekusi: 0.4286
+INFO - 2018-08-01 12:14:55 --> Config Class telah di inisialisasi
+INFO - 2018-08-01 12:14:55 --> Hooks Class telah di inisialisasi
+DEBUG - 2018-08-01 12:14:55 --> UTF-8 Support Aktif
+INFO - 2018-08-01 12:14:55 --> Utf8 Class telah di inisialisasi
+INFO - 2018-08-01 12:14:55 --> URI Class telah di inisialisasi
+INFO - 2018-08-01 12:14:55 --> Router Class telah di inisialisasi
+INFO - 2018-08-01 12:14:55 --> Output Class telah di inisialisasi
+INFO - 2018-08-01 12:14:55 --> Security Class telah di inisialisasi
+DEBUG - 2018-08-01 12:14:55 --> Global POST, GET dan COOKIE data telah disanitasi
+INFO - 2018-08-01 12:14:55 --> Input Class telah di inisialisasi
+INFO - 2018-08-01 12:14:55 --> Language Class telah di inisialisasi
+INFO - 2018-08-01 12:14:55 --> Loader Class telah di inisialisasi
+INFO - 2018-08-01 12:14:55 --> Helper telah dimuat: url_helper
+INFO - 2018-08-01 12:14:55 --> Controller Class telah di inisialisasi
+DEBUG - 2018-08-01 12:14:55 --> Session: "sess_save_path" kosong; pakai "session.save_path" data dari php.ini.
+INFO - 2018-08-01 12:14:55 --> Session: Class initialized using 'files' driver.
+INFO - 2018-08-01 12:14:55 --> Helper telah dimuat: cookie_helper
+INFO - 2018-08-01 12:14:55 --> Database Driver Class telah di inisialisasi
+INFO - 2018-08-01 12:14:55 --> Model "datatable" telah di inisialisasi
+INFO - 2018-08-01 12:14:55 --> Output akhir dikirim ke browser
+DEBUG - 2018-08-01 12:14:56 --> Total waktu eksekusi: 0.4830
+INFO - 2018-08-01 12:15:25 --> Config Class telah di inisialisasi
+INFO - 2018-08-01 12:15:25 --> Hooks Class telah di inisialisasi
+DEBUG - 2018-08-01 12:15:25 --> UTF-8 Support Aktif
+INFO - 2018-08-01 12:15:25 --> Utf8 Class telah di inisialisasi
+INFO - 2018-08-01 12:15:25 --> URI Class telah di inisialisasi
+INFO - 2018-08-01 12:15:25 --> Router Class telah di inisialisasi
+INFO - 2018-08-01 12:15:25 --> Output Class telah di inisialisasi
+INFO - 2018-08-01 12:15:25 --> Security Class telah di inisialisasi
+DEBUG - 2018-08-01 12:15:25 --> Global POST, GET dan COOKIE data telah disanitasi
+INFO - 2018-08-01 12:15:25 --> Input Class telah di inisialisasi
+INFO - 2018-08-01 12:15:25 --> Language Class telah di inisialisasi
+INFO - 2018-08-01 12:15:25 --> Loader Class telah di inisialisasi
+INFO - 2018-08-01 12:15:25 --> Helper telah dimuat: url_helper
+INFO - 2018-08-01 12:15:26 --> Controller Class telah di inisialisasi
+DEBUG - 2018-08-01 12:15:26 --> Session: "sess_save_path" kosong; pakai "session.save_path" data dari php.ini.
+INFO - 2018-08-01 12:15:26 --> Session: Class initialized using 'files' driver.
+INFO - 2018-08-01 12:15:26 --> Helper telah dimuat: cookie_helper
+INFO - 2018-08-01 12:15:26 --> File telah dimuat: D:\XAMPP\htdocs\jb\application\views\jebews/html/head.php
+INFO - 2018-08-01 12:15:26 --> File telah dimuat: D:\XAMPP\htdocs\jb\application\views\jebews/product/manage.php
+INFO - 2018-08-01 12:15:26 --> Output akhir dikirim ke browser
+DEBUG - 2018-08-01 12:15:26 --> Total waktu eksekusi: 0.4406
+INFO - 2018-08-01 12:15:26 --> Config Class telah di inisialisasi
+INFO - 2018-08-01 12:15:26 --> Hooks Class telah di inisialisasi
+DEBUG - 2018-08-01 12:15:26 --> UTF-8 Support Aktif
+INFO - 2018-08-01 12:15:26 --> Utf8 Class telah di inisialisasi
+INFO - 2018-08-01 12:15:26 --> URI Class telah di inisialisasi
+INFO - 2018-08-01 12:15:26 --> Router Class telah di inisialisasi
+INFO - 2018-08-01 12:15:26 --> Output Class telah di inisialisasi
+INFO - 2018-08-01 12:15:26 --> Security Class telah di inisialisasi
+DEBUG - 2018-08-01 12:15:26 --> Global POST, GET dan COOKIE data telah disanitasi
+INFO - 2018-08-01 12:15:26 --> Input Class telah di inisialisasi
+INFO - 2018-08-01 12:15:26 --> Language Class telah di inisialisasi
+INFO - 2018-08-01 12:15:26 --> Loader Class telah di inisialisasi
+INFO - 2018-08-01 12:15:26 --> Helper telah dimuat: url_helper
+INFO - 2018-08-01 12:15:26 --> Controller Class telah di inisialisasi
+DEBUG - 2018-08-01 12:15:26 --> Session: "sess_save_path" kosong; pakai "session.save_path" data dari php.ini.
+INFO - 2018-08-01 12:15:26 --> Session: Class initialized using 'files' driver.
+INFO - 2018-08-01 12:15:26 --> Helper telah dimuat: cookie_helper
+INFO - 2018-08-01 12:15:26 --> Database Driver Class telah di inisialisasi
+INFO - 2018-08-01 12:15:26 --> Model "datatable" telah di inisialisasi
+INFO - 2018-08-01 12:15:26 --> Output akhir dikirim ke browser
+DEBUG - 2018-08-01 12:15:26 --> Total waktu eksekusi: 0.4790
+INFO - 2018-08-01 12:15:50 --> Config Class telah di inisialisasi
+INFO - 2018-08-01 12:15:50 --> Hooks Class telah di inisialisasi
+DEBUG - 2018-08-01 12:15:50 --> UTF-8 Support Aktif
+INFO - 2018-08-01 12:15:50 --> Utf8 Class telah di inisialisasi
+INFO - 2018-08-01 12:15:51 --> URI Class telah di inisialisasi
+INFO - 2018-08-01 12:15:51 --> Router Class telah di inisialisasi
+INFO - 2018-08-01 12:15:51 --> Output Class telah di inisialisasi
+INFO - 2018-08-01 12:15:51 --> Security Class telah di inisialisasi
+DEBUG - 2018-08-01 12:15:51 --> Global POST, GET dan COOKIE data telah disanitasi
+INFO - 2018-08-01 12:15:51 --> Input Class telah di inisialisasi
+INFO - 2018-08-01 12:15:51 --> Language Class telah di inisialisasi
+INFO - 2018-08-01 12:15:51 --> Loader Class telah di inisialisasi
+INFO - 2018-08-01 12:15:51 --> Helper telah dimuat: url_helper
+INFO - 2018-08-01 12:15:51 --> Controller Class telah di inisialisasi
+DEBUG - 2018-08-01 12:15:51 --> Session: "sess_save_path" kosong; pakai "session.save_path" data dari php.ini.
+INFO - 2018-08-01 12:15:51 --> Session: Class initialized using 'files' driver.
+INFO - 2018-08-01 12:15:51 --> Helper telah dimuat: cookie_helper
+INFO - 2018-08-01 12:15:51 --> File telah dimuat: D:\XAMPP\htdocs\jb\application\views\jebews/html/head.php
+INFO - 2018-08-01 12:15:51 --> File telah dimuat: D:\XAMPP\htdocs\jb\application\views\jebews/product/manage.php
+INFO - 2018-08-01 12:15:51 --> Output akhir dikirim ke browser
+DEBUG - 2018-08-01 12:15:51 --> Total waktu eksekusi: 0.4316
+INFO - 2018-08-01 12:15:51 --> Config Class telah di inisialisasi
+INFO - 2018-08-01 12:15:51 --> Hooks Class telah di inisialisasi
+DEBUG - 2018-08-01 12:15:51 --> UTF-8 Support Aktif
+INFO - 2018-08-01 12:15:51 --> Utf8 Class telah di inisialisasi
+INFO - 2018-08-01 12:15:51 --> URI Class telah di inisialisasi
+INFO - 2018-08-01 12:15:51 --> Router Class telah di inisialisasi
+INFO - 2018-08-01 12:15:51 --> Output Class telah di inisialisasi
+INFO - 2018-08-01 12:15:51 --> Security Class telah di inisialisasi
+DEBUG - 2018-08-01 12:15:51 --> Global POST, GET dan COOKIE data telah disanitasi
+INFO - 2018-08-01 12:15:51 --> Input Class telah di inisialisasi
+INFO - 2018-08-01 12:15:51 --> Language Class telah di inisialisasi
+INFO - 2018-08-01 12:15:51 --> Loader Class telah di inisialisasi
+INFO - 2018-08-01 12:15:51 --> Helper telah dimuat: url_helper
+INFO - 2018-08-01 12:15:51 --> Controller Class telah di inisialisasi
+DEBUG - 2018-08-01 12:15:51 --> Session: "sess_save_path" kosong; pakai "session.save_path" data dari php.ini.
+INFO - 2018-08-01 12:15:51 --> Session: Class initialized using 'files' driver.
+INFO - 2018-08-01 12:15:51 --> Helper telah dimuat: cookie_helper
+INFO - 2018-08-01 12:15:51 --> Database Driver Class telah di inisialisasi
+INFO - 2018-08-01 12:15:51 --> Model "datatable" telah di inisialisasi
+INFO - 2018-08-01 12:15:52 --> Output akhir dikirim ke browser
+DEBUG - 2018-08-01 12:15:52 --> Total waktu eksekusi: 0.4910
+INFO - 2018-08-01 12:16:32 --> Config Class telah di inisialisasi
+INFO - 2018-08-01 12:16:32 --> Hooks Class telah di inisialisasi
+DEBUG - 2018-08-01 12:16:32 --> UTF-8 Support Aktif
+INFO - 2018-08-01 12:16:32 --> Utf8 Class telah di inisialisasi
+INFO - 2018-08-01 12:16:32 --> URI Class telah di inisialisasi
+INFO - 2018-08-01 12:16:32 --> Router Class telah di inisialisasi
+INFO - 2018-08-01 12:16:32 --> Output Class telah di inisialisasi
+INFO - 2018-08-01 12:16:32 --> Security Class telah di inisialisasi
+DEBUG - 2018-08-01 12:16:32 --> Global POST, GET dan COOKIE data telah disanitasi
+INFO - 2018-08-01 12:16:32 --> Input Class telah di inisialisasi
+INFO - 2018-08-01 12:16:32 --> Language Class telah di inisialisasi
+INFO - 2018-08-01 12:16:32 --> Loader Class telah di inisialisasi
+INFO - 2018-08-01 12:16:32 --> Helper telah dimuat: url_helper
+INFO - 2018-08-01 12:16:32 --> Controller Class telah di inisialisasi
+DEBUG - 2018-08-01 12:16:32 --> Session: "sess_save_path" kosong; pakai "session.save_path" data dari php.ini.
+INFO - 2018-08-01 12:16:32 --> Session: Class initialized using 'files' driver.
+INFO - 2018-08-01 12:16:33 --> Helper telah dimuat: cookie_helper
+INFO - 2018-08-01 12:16:33 --> File telah dimuat: D:\XAMPP\htdocs\jb\application\views\jebews/html/head.php
+INFO - 2018-08-01 12:16:33 --> File telah dimuat: D:\XAMPP\htdocs\jb\application\views\jebews/product/manage.php
+INFO - 2018-08-01 12:16:33 --> Output akhir dikirim ke browser
+DEBUG - 2018-08-01 12:16:33 --> Total waktu eksekusi: 0.4446
+INFO - 2018-08-01 12:16:33 --> Config Class telah di inisialisasi
+INFO - 2018-08-01 12:16:33 --> Hooks Class telah di inisialisasi
+DEBUG - 2018-08-01 12:16:33 --> UTF-8 Support Aktif
+INFO - 2018-08-01 12:16:33 --> Utf8 Class telah di inisialisasi
+INFO - 2018-08-01 12:16:33 --> URI Class telah di inisialisasi
+INFO - 2018-08-01 12:16:33 --> Router Class telah di inisialisasi
+INFO - 2018-08-01 12:16:33 --> Output Class telah di inisialisasi
+INFO - 2018-08-01 12:16:33 --> Security Class telah di inisialisasi
+DEBUG - 2018-08-01 12:16:33 --> Global POST, GET dan COOKIE data telah disanitasi
+INFO - 2018-08-01 12:16:33 --> Input Class telah di inisialisasi
+INFO - 2018-08-01 12:16:33 --> Language Class telah di inisialisasi
+INFO - 2018-08-01 12:16:33 --> Loader Class telah di inisialisasi
+INFO - 2018-08-01 12:16:33 --> Helper telah dimuat: url_helper
+INFO - 2018-08-01 12:16:33 --> Controller Class telah di inisialisasi
+DEBUG - 2018-08-01 12:16:33 --> Session: "sess_save_path" kosong; pakai "session.save_path" data dari php.ini.
+INFO - 2018-08-01 12:16:33 --> Session: Class initialized using 'files' driver.
+INFO - 2018-08-01 12:16:33 --> Helper telah dimuat: cookie_helper
+INFO - 2018-08-01 12:16:33 --> Database Driver Class telah di inisialisasi
+INFO - 2018-08-01 12:16:33 --> Model "datatable" telah di inisialisasi
+INFO - 2018-08-01 12:16:33 --> Output akhir dikirim ke browser
+DEBUG - 2018-08-01 12:16:33 --> Total waktu eksekusi: 0.4870
+INFO - 2018-08-01 12:16:40 --> Config Class telah di inisialisasi
+INFO - 2018-08-01 12:16:40 --> Hooks Class telah di inisialisasi
+DEBUG - 2018-08-01 12:16:40 --> UTF-8 Support Aktif
+INFO - 2018-08-01 12:16:40 --> Utf8 Class telah di inisialisasi
+INFO - 2018-08-01 12:16:40 --> URI Class telah di inisialisasi
+INFO - 2018-08-01 12:16:40 --> Router Class telah di inisialisasi
+INFO - 2018-08-01 12:16:40 --> Output Class telah di inisialisasi
+INFO - 2018-08-01 12:16:40 --> Security Class telah di inisialisasi
+DEBUG - 2018-08-01 12:16:40 --> Global POST, GET dan COOKIE data telah disanitasi
+INFO - 2018-08-01 12:16:40 --> Input Class telah di inisialisasi
+INFO - 2018-08-01 12:16:40 --> Language Class telah di inisialisasi
+INFO - 2018-08-01 12:16:40 --> Loader Class telah di inisialisasi
+INFO - 2018-08-01 12:16:40 --> Helper telah dimuat: url_helper
+INFO - 2018-08-01 12:16:40 --> Controller Class telah di inisialisasi
+DEBUG - 2018-08-01 12:16:40 --> Session: "sess_save_path" kosong; pakai "session.save_path" data dari php.ini.
+INFO - 2018-08-01 12:16:40 --> Session: Class initialized using 'files' driver.
+INFO - 2018-08-01 12:16:40 --> Helper telah dimuat: cookie_helper
+INFO - 2018-08-01 12:16:41 --> File telah dimuat: D:\XAMPP\htdocs\jb\application\views\jebews/html/head.php
+INFO - 2018-08-01 12:16:41 --> File telah dimuat: D:\XAMPP\htdocs\jb\application\views\jebews/product/manage.php
+INFO - 2018-08-01 12:16:41 --> Output akhir dikirim ke browser
+DEBUG - 2018-08-01 12:16:41 --> Total waktu eksekusi: 0.4446
+INFO - 2018-08-01 12:16:41 --> Config Class telah di inisialisasi
+INFO - 2018-08-01 12:16:41 --> Hooks Class telah di inisialisasi
+DEBUG - 2018-08-01 12:16:41 --> UTF-8 Support Aktif
+INFO - 2018-08-01 12:16:41 --> Utf8 Class telah di inisialisasi
+INFO - 2018-08-01 12:16:41 --> URI Class telah di inisialisasi
+INFO - 2018-08-01 12:16:41 --> Router Class telah di inisialisasi
+INFO - 2018-08-01 12:16:41 --> Output Class telah di inisialisasi
+INFO - 2018-08-01 12:16:41 --> Security Class telah di inisialisasi
+DEBUG - 2018-08-01 12:16:41 --> Global POST, GET dan COOKIE data telah disanitasi
+INFO - 2018-08-01 12:16:41 --> Input Class telah di inisialisasi
+INFO - 2018-08-01 12:16:41 --> Language Class telah di inisialisasi
+INFO - 2018-08-01 12:16:41 --> Loader Class telah di inisialisasi
+INFO - 2018-08-01 12:16:41 --> Helper telah dimuat: url_helper
+INFO - 2018-08-01 12:16:41 --> Controller Class telah di inisialisasi
+DEBUG - 2018-08-01 12:16:41 --> Session: "sess_save_path" kosong; pakai "session.save_path" data dari php.ini.
+INFO - 2018-08-01 12:16:41 --> Session: Class initialized using 'files' driver.
+INFO - 2018-08-01 12:16:41 --> Helper telah dimuat: cookie_helper
+INFO - 2018-08-01 12:16:41 --> Database Driver Class telah di inisialisasi
+INFO - 2018-08-01 12:16:41 --> Model "datatable" telah di inisialisasi
+INFO - 2018-08-01 12:16:41 --> Output akhir dikirim ke browser
+DEBUG - 2018-08-01 12:16:41 --> Total waktu eksekusi: 0.4800
+INFO - 2018-08-01 12:17:00 --> Config Class telah di inisialisasi
+INFO - 2018-08-01 12:17:00 --> Hooks Class telah di inisialisasi
+DEBUG - 2018-08-01 12:17:00 --> UTF-8 Support Aktif
+INFO - 2018-08-01 12:17:00 --> Utf8 Class telah di inisialisasi
+INFO - 2018-08-01 12:17:00 --> URI Class telah di inisialisasi
+INFO - 2018-08-01 12:17:00 --> Router Class telah di inisialisasi
+INFO - 2018-08-01 12:17:00 --> Output Class telah di inisialisasi
+INFO - 2018-08-01 12:17:00 --> Security Class telah di inisialisasi
+DEBUG - 2018-08-01 12:17:00 --> Global POST, GET dan COOKIE data telah disanitasi
+INFO - 2018-08-01 12:17:00 --> Input Class telah di inisialisasi
+INFO - 2018-08-01 12:17:00 --> Language Class telah di inisialisasi
+INFO - 2018-08-01 12:17:00 --> Loader Class telah di inisialisasi
+INFO - 2018-08-01 12:17:00 --> Helper telah dimuat: url_helper
+INFO - 2018-08-01 12:17:00 --> Controller Class telah di inisialisasi
+DEBUG - 2018-08-01 12:17:00 --> Session: "sess_save_path" kosong; pakai "session.save_path" data dari php.ini.
+INFO - 2018-08-01 12:17:00 --> Session: Class initialized using 'files' driver.
+INFO - 2018-08-01 12:17:00 --> Helper telah dimuat: cookie_helper
+INFO - 2018-08-01 12:17:00 --> File telah dimuat: D:\XAMPP\htdocs\jb\application\views\jebews/html/head.php
+INFO - 2018-08-01 12:17:00 --> File telah dimuat: D:\XAMPP\htdocs\jb\application\views\jebews/product/manage.php
+INFO - 2018-08-01 12:17:00 --> Output akhir dikirim ke browser
+DEBUG - 2018-08-01 12:17:00 --> Total waktu eksekusi: 0.4692
+INFO - 2018-08-01 12:17:00 --> Config Class telah di inisialisasi
+INFO - 2018-08-01 12:17:00 --> Hooks Class telah di inisialisasi
+DEBUG - 2018-08-01 12:17:00 --> UTF-8 Support Aktif
+INFO - 2018-08-01 12:17:00 --> Utf8 Class telah di inisialisasi
+INFO - 2018-08-01 12:17:00 --> URI Class telah di inisialisasi
+INFO - 2018-08-01 12:17:00 --> Router Class telah di inisialisasi
+INFO - 2018-08-01 12:17:00 --> Output Class telah di inisialisasi
+INFO - 2018-08-01 12:17:00 --> Security Class telah di inisialisasi
+DEBUG - 2018-08-01 12:17:00 --> Global POST, GET dan COOKIE data telah disanitasi
+INFO - 2018-08-01 12:17:00 --> Input Class telah di inisialisasi
+INFO - 2018-08-01 12:17:00 --> Language Class telah di inisialisasi
+INFO - 2018-08-01 12:17:00 --> Loader Class telah di inisialisasi
+INFO - 2018-08-01 12:17:00 --> Helper telah dimuat: url_helper
+INFO - 2018-08-01 12:17:01 --> Controller Class telah di inisialisasi
+DEBUG - 2018-08-01 12:17:01 --> Session: "sess_save_path" kosong; pakai "session.save_path" data dari php.ini.
+INFO - 2018-08-01 12:17:01 --> Session: Class initialized using 'files' driver.
+INFO - 2018-08-01 12:17:01 --> Helper telah dimuat: cookie_helper
+INFO - 2018-08-01 12:17:01 --> Database Driver Class telah di inisialisasi
+INFO - 2018-08-01 12:17:01 --> Model "datatable" telah di inisialisasi
+INFO - 2018-08-01 12:17:01 --> Output akhir dikirim ke browser
+DEBUG - 2018-08-01 12:17:01 --> Total waktu eksekusi: 0.4800
+INFO - 2018-08-01 12:17:10 --> Config Class telah di inisialisasi
+INFO - 2018-08-01 12:17:10 --> Hooks Class telah di inisialisasi
+DEBUG - 2018-08-01 12:17:10 --> UTF-8 Support Aktif
+INFO - 2018-08-01 12:17:10 --> Utf8 Class telah di inisialisasi
+INFO - 2018-08-01 12:17:10 --> URI Class telah di inisialisasi
+INFO - 2018-08-01 12:17:10 --> Router Class telah di inisialisasi
+INFO - 2018-08-01 12:17:10 --> Output Class telah di inisialisasi
+INFO - 2018-08-01 12:17:10 --> Security Class telah di inisialisasi
+DEBUG - 2018-08-01 12:17:10 --> Global POST, GET dan COOKIE data telah disanitasi
+INFO - 2018-08-01 12:17:10 --> Input Class telah di inisialisasi
+INFO - 2018-08-01 12:17:10 --> Language Class telah di inisialisasi
+INFO - 2018-08-01 12:17:10 --> Loader Class telah di inisialisasi
+INFO - 2018-08-01 12:17:10 --> Helper telah dimuat: url_helper
+INFO - 2018-08-01 12:17:10 --> Controller Class telah di inisialisasi
+DEBUG - 2018-08-01 12:17:11 --> Session: "sess_save_path" kosong; pakai "session.save_path" data dari php.ini.
+INFO - 2018-08-01 12:17:11 --> Session: Class initialized using 'files' driver.
+INFO - 2018-08-01 12:17:11 --> Helper telah dimuat: cookie_helper
+INFO - 2018-08-01 12:17:11 --> File telah dimuat: D:\XAMPP\htdocs\jb\application\views\jebews/html/head.php
+INFO - 2018-08-01 12:17:11 --> File telah dimuat: D:\XAMPP\htdocs\jb\application\views\jebews/product/manage.php
+INFO - 2018-08-01 12:17:11 --> Output akhir dikirim ke browser
+DEBUG - 2018-08-01 12:17:11 --> Total waktu eksekusi: 0.4416
+INFO - 2018-08-01 12:17:11 --> Config Class telah di inisialisasi
+INFO - 2018-08-01 12:17:11 --> Hooks Class telah di inisialisasi
+DEBUG - 2018-08-01 12:17:11 --> UTF-8 Support Aktif
+INFO - 2018-08-01 12:17:11 --> Utf8 Class telah di inisialisasi
+INFO - 2018-08-01 12:17:11 --> URI Class telah di inisialisasi
+INFO - 2018-08-01 12:17:11 --> Router Class telah di inisialisasi
+INFO - 2018-08-01 12:17:11 --> Output Class telah di inisialisasi
+INFO - 2018-08-01 12:17:11 --> Security Class telah di inisialisasi
+DEBUG - 2018-08-01 12:17:11 --> Global POST, GET dan COOKIE data telah disanitasi
+INFO - 2018-08-01 12:17:11 --> Input Class telah di inisialisasi
+INFO - 2018-08-01 12:17:11 --> Language Class telah di inisialisasi
+INFO - 2018-08-01 12:17:11 --> Loader Class telah di inisialisasi
+INFO - 2018-08-01 12:17:11 --> Helper telah dimuat: url_helper
+INFO - 2018-08-01 12:17:11 --> Controller Class telah di inisialisasi
+DEBUG - 2018-08-01 12:17:11 --> Session: "sess_save_path" kosong; pakai "session.save_path" data dari php.ini.
+INFO - 2018-08-01 12:17:11 --> Session: Class initialized using 'files' driver.
+INFO - 2018-08-01 12:17:11 --> Helper telah dimuat: cookie_helper
+INFO - 2018-08-01 12:17:11 --> Database Driver Class telah di inisialisasi
+INFO - 2018-08-01 12:17:11 --> Model "datatable" telah di inisialisasi
+INFO - 2018-08-01 12:17:11 --> Output akhir dikirim ke browser
+DEBUG - 2018-08-01 12:17:11 --> Total waktu eksekusi: 0.4920
+INFO - 2018-08-01 12:17:53 --> Config Class telah di inisialisasi
+INFO - 2018-08-01 12:17:53 --> Hooks Class telah di inisialisasi
+DEBUG - 2018-08-01 12:17:53 --> UTF-8 Support Aktif
+INFO - 2018-08-01 12:17:53 --> Utf8 Class telah di inisialisasi
+INFO - 2018-08-01 12:17:53 --> URI Class telah di inisialisasi
+INFO - 2018-08-01 12:17:53 --> Router Class telah di inisialisasi
+INFO - 2018-08-01 12:17:53 --> Output Class telah di inisialisasi
+INFO - 2018-08-01 12:17:53 --> Security Class telah di inisialisasi
+DEBUG - 2018-08-01 12:17:53 --> Global POST, GET dan COOKIE data telah disanitasi
+INFO - 2018-08-01 12:17:53 --> Input Class telah di inisialisasi
+INFO - 2018-08-01 12:17:54 --> Language Class telah di inisialisasi
+INFO - 2018-08-01 12:17:54 --> Loader Class telah di inisialisasi
+INFO - 2018-08-01 12:17:54 --> Helper telah dimuat: url_helper
+INFO - 2018-08-01 12:17:54 --> Controller Class telah di inisialisasi
+DEBUG - 2018-08-01 12:17:54 --> Session: "sess_save_path" kosong; pakai "session.save_path" data dari php.ini.
+INFO - 2018-08-01 12:17:54 --> Session: Class initialized using 'files' driver.
+INFO - 2018-08-01 12:17:54 --> Helper telah dimuat: cookie_helper
+INFO - 2018-08-01 12:17:54 --> File telah dimuat: D:\XAMPP\htdocs\jb\application\views\jebews/html/head.php
+INFO - 2018-08-01 12:17:54 --> File telah dimuat: D:\XAMPP\htdocs\jb\application\views\jebews/product/manage.php
+INFO - 2018-08-01 12:17:54 --> Output akhir dikirim ke browser
+DEBUG - 2018-08-01 12:17:54 --> Total waktu eksekusi: 0.4366
+INFO - 2018-08-01 12:17:54 --> Config Class telah di inisialisasi
+INFO - 2018-08-01 12:17:54 --> Hooks Class telah di inisialisasi
+DEBUG - 2018-08-01 12:17:54 --> UTF-8 Support Aktif
+INFO - 2018-08-01 12:17:54 --> Utf8 Class telah di inisialisasi
+INFO - 2018-08-01 12:17:54 --> URI Class telah di inisialisasi
+INFO - 2018-08-01 12:17:54 --> Router Class telah di inisialisasi
+INFO - 2018-08-01 12:17:54 --> Output Class telah di inisialisasi
+INFO - 2018-08-01 12:17:54 --> Security Class telah di inisialisasi
+DEBUG - 2018-08-01 12:17:54 --> Global POST, GET dan COOKIE data telah disanitasi
+INFO - 2018-08-01 12:17:54 --> Input Class telah di inisialisasi
+INFO - 2018-08-01 12:17:54 --> Language Class telah di inisialisasi
+INFO - 2018-08-01 12:17:54 --> Loader Class telah di inisialisasi
+INFO - 2018-08-01 12:17:54 --> Helper telah dimuat: url_helper
+INFO - 2018-08-01 12:17:54 --> Controller Class telah di inisialisasi
+DEBUG - 2018-08-01 12:17:54 --> Session: "sess_save_path" kosong; pakai "session.save_path" data dari php.ini.
+INFO - 2018-08-01 12:17:54 --> Session: Class initialized using 'files' driver.
+INFO - 2018-08-01 12:17:54 --> Helper telah dimuat: cookie_helper
+INFO - 2018-08-01 12:17:54 --> Database Driver Class telah di inisialisasi
+INFO - 2018-08-01 12:17:54 --> Model "datatable" telah di inisialisasi
+INFO - 2018-08-01 12:17:54 --> Output akhir dikirim ke browser
+DEBUG - 2018-08-01 12:17:54 --> Total waktu eksekusi: 0.4860
+INFO - 2018-08-01 12:18:58 --> Config Class telah di inisialisasi
+INFO - 2018-08-01 12:18:58 --> Hooks Class telah di inisialisasi
+DEBUG - 2018-08-01 12:18:58 --> UTF-8 Support Aktif
+INFO - 2018-08-01 12:18:58 --> Utf8 Class telah di inisialisasi
+INFO - 2018-08-01 12:18:58 --> URI Class telah di inisialisasi
+INFO - 2018-08-01 12:18:58 --> Router Class telah di inisialisasi
+INFO - 2018-08-01 12:18:58 --> Output Class telah di inisialisasi
+INFO - 2018-08-01 12:18:58 --> Security Class telah di inisialisasi
+DEBUG - 2018-08-01 12:18:58 --> Global POST, GET dan COOKIE data telah disanitasi
+INFO - 2018-08-01 12:18:58 --> Input Class telah di inisialisasi
+INFO - 2018-08-01 12:18:58 --> Language Class telah di inisialisasi
+INFO - 2018-08-01 12:18:58 --> Loader Class telah di inisialisasi
+INFO - 2018-08-01 12:18:58 --> Helper telah dimuat: url_helper
+INFO - 2018-08-01 12:18:58 --> Controller Class telah di inisialisasi
+DEBUG - 2018-08-01 12:18:58 --> Session: "sess_save_path" kosong; pakai "session.save_path" data dari php.ini.
+INFO - 2018-08-01 12:18:58 --> Session: Class initialized using 'files' driver.
+INFO - 2018-08-01 12:18:58 --> Helper telah dimuat: cookie_helper
+INFO - 2018-08-01 12:18:58 --> File telah dimuat: D:\XAMPP\htdocs\jb\application\views\jebews/html/head.php
+INFO - 2018-08-01 12:18:58 --> File telah dimuat: D:\XAMPP\htdocs\jb\application\views\jebews/product/manage.php
+INFO - 2018-08-01 12:18:58 --> Output akhir dikirim ke browser
+DEBUG - 2018-08-01 12:18:58 --> Total waktu eksekusi: 0.4536
+INFO - 2018-08-01 12:18:58 --> Config Class telah di inisialisasi
+INFO - 2018-08-01 12:18:58 --> Hooks Class telah di inisialisasi
+DEBUG - 2018-08-01 12:18:58 --> UTF-8 Support Aktif
+INFO - 2018-08-01 12:18:58 --> Utf8 Class telah di inisialisasi
+INFO - 2018-08-01 12:18:58 --> URI Class telah di inisialisasi
+INFO - 2018-08-01 12:18:58 --> Router Class telah di inisialisasi
+INFO - 2018-08-01 12:18:58 --> Output Class telah di inisialisasi
+INFO - 2018-08-01 12:18:58 --> Security Class telah di inisialisasi
+DEBUG - 2018-08-01 12:18:59 --> Global POST, GET dan COOKIE data telah disanitasi
+INFO - 2018-08-01 12:18:59 --> Input Class telah di inisialisasi
+INFO - 2018-08-01 12:18:59 --> Language Class telah di inisialisasi
+INFO - 2018-08-01 12:18:59 --> Loader Class telah di inisialisasi
+INFO - 2018-08-01 12:18:59 --> Helper telah dimuat: url_helper
+INFO - 2018-08-01 12:18:59 --> Controller Class telah di inisialisasi
+DEBUG - 2018-08-01 12:18:59 --> Session: "sess_save_path" kosong; pakai "session.save_path" data dari php.ini.
+INFO - 2018-08-01 12:18:59 --> Session: Class initialized using 'files' driver.
+INFO - 2018-08-01 12:18:59 --> Helper telah dimuat: cookie_helper
+INFO - 2018-08-01 12:18:59 --> Database Driver Class telah di inisialisasi
+INFO - 2018-08-01 12:18:59 --> Model "datatable" telah di inisialisasi
+INFO - 2018-08-01 12:18:59 --> Output akhir dikirim ke browser
+DEBUG - 2018-08-01 12:18:59 --> Total waktu eksekusi: 0.4930
+INFO - 2018-08-01 12:19:28 --> Config Class telah di inisialisasi
+INFO - 2018-08-01 12:19:28 --> Hooks Class telah di inisialisasi
+DEBUG - 2018-08-01 12:19:28 --> UTF-8 Support Aktif
+INFO - 2018-08-01 12:19:28 --> Utf8 Class telah di inisialisasi
+INFO - 2018-08-01 12:19:28 --> URI Class telah di inisialisasi
+INFO - 2018-08-01 12:19:28 --> Router Class telah di inisialisasi
+INFO - 2018-08-01 12:19:28 --> Output Class telah di inisialisasi
+INFO - 2018-08-01 12:19:28 --> Security Class telah di inisialisasi
+DEBUG - 2018-08-01 12:19:28 --> Global POST, GET dan COOKIE data telah disanitasi
+INFO - 2018-08-01 12:19:28 --> Input Class telah di inisialisasi
+INFO - 2018-08-01 12:19:28 --> Language Class telah di inisialisasi
+INFO - 2018-08-01 12:19:28 --> Loader Class telah di inisialisasi
+INFO - 2018-08-01 12:19:28 --> Helper telah dimuat: url_helper
+INFO - 2018-08-01 12:19:28 --> Controller Class telah di inisialisasi
+DEBUG - 2018-08-01 12:19:28 --> Session: "sess_save_path" kosong; pakai "session.save_path" data dari php.ini.
+INFO - 2018-08-01 12:19:28 --> Session: Class initialized using 'files' driver.
+INFO - 2018-08-01 12:19:28 --> Helper telah dimuat: cookie_helper
+INFO - 2018-08-01 12:19:28 --> File telah dimuat: D:\XAMPP\htdocs\jb\application\views\jebews/html/head.php
+INFO - 2018-08-01 12:19:29 --> File telah dimuat: D:\XAMPP\htdocs\jb\application\views\jebews/product/manage.php
+INFO - 2018-08-01 12:19:29 --> Output akhir dikirim ke browser
+DEBUG - 2018-08-01 12:19:29 --> Total waktu eksekusi: 0.4492
+INFO - 2018-08-01 12:19:29 --> Config Class telah di inisialisasi
+INFO - 2018-08-01 12:19:29 --> Hooks Class telah di inisialisasi
+DEBUG - 2018-08-01 12:19:29 --> UTF-8 Support Aktif
+INFO - 2018-08-01 12:19:29 --> Utf8 Class telah di inisialisasi
+INFO - 2018-08-01 12:19:29 --> URI Class telah di inisialisasi
+INFO - 2018-08-01 12:19:29 --> Router Class telah di inisialisasi
+INFO - 2018-08-01 12:19:29 --> Output Class telah di inisialisasi
+INFO - 2018-08-01 12:19:29 --> Security Class telah di inisialisasi
+DEBUG - 2018-08-01 12:19:29 --> Global POST, GET dan COOKIE data telah disanitasi
+INFO - 2018-08-01 12:19:29 --> Input Class telah di inisialisasi
+INFO - 2018-08-01 12:19:29 --> Language Class telah di inisialisasi
+INFO - 2018-08-01 12:19:29 --> Loader Class telah di inisialisasi
+INFO - 2018-08-01 12:19:29 --> Helper telah dimuat: url_helper
+INFO - 2018-08-01 12:19:29 --> Controller Class telah di inisialisasi
+DEBUG - 2018-08-01 12:19:29 --> Session: "sess_save_path" kosong; pakai "session.save_path" data dari php.ini.
+INFO - 2018-08-01 12:19:29 --> Session: Class initialized using 'files' driver.
+INFO - 2018-08-01 12:19:29 --> Helper telah dimuat: cookie_helper
+INFO - 2018-08-01 12:19:29 --> Database Driver Class telah di inisialisasi
+INFO - 2018-08-01 12:19:29 --> Model "datatable" telah di inisialisasi
+INFO - 2018-08-01 12:19:29 --> Output akhir dikirim ke browser
+DEBUG - 2018-08-01 12:19:29 --> Total waktu eksekusi: 0.4786
+INFO - 2018-08-01 12:20:25 --> Config Class telah di inisialisasi
+INFO - 2018-08-01 12:20:25 --> Hooks Class telah di inisialisasi
+DEBUG - 2018-08-01 12:20:25 --> UTF-8 Support Aktif
+INFO - 2018-08-01 12:20:25 --> Utf8 Class telah di inisialisasi
+INFO - 2018-08-01 12:20:25 --> URI Class telah di inisialisasi
+INFO - 2018-08-01 12:20:25 --> Router Class telah di inisialisasi
+INFO - 2018-08-01 12:20:26 --> Output Class telah di inisialisasi
+INFO - 2018-08-01 12:20:26 --> Security Class telah di inisialisasi
+DEBUG - 2018-08-01 12:20:26 --> Global POST, GET dan COOKIE data telah disanitasi
+INFO - 2018-08-01 12:20:26 --> Input Class telah di inisialisasi
+INFO - 2018-08-01 12:20:26 --> Language Class telah di inisialisasi
+INFO - 2018-08-01 12:20:26 --> Loader Class telah di inisialisasi
+INFO - 2018-08-01 12:20:26 --> Helper telah dimuat: url_helper
+INFO - 2018-08-01 12:20:26 --> Controller Class telah di inisialisasi
+DEBUG - 2018-08-01 12:20:26 --> Session: "sess_save_path" kosong; pakai "session.save_path" data dari php.ini.
+INFO - 2018-08-01 12:20:26 --> Session: Class initialized using 'files' driver.
+INFO - 2018-08-01 12:20:26 --> Helper telah dimuat: cookie_helper
+INFO - 2018-08-01 12:20:26 --> File telah dimuat: D:\XAMPP\htdocs\jb\application\views\jebews/html/head.php
+INFO - 2018-08-01 12:20:26 --> File telah dimuat: D:\XAMPP\htdocs\jb\application\views\jebews/product/manage.php
+INFO - 2018-08-01 12:20:26 --> Output akhir dikirim ke browser
+DEBUG - 2018-08-01 12:20:26 --> Total waktu eksekusi: 0.4456
+INFO - 2018-08-01 12:20:26 --> Config Class telah di inisialisasi
+INFO - 2018-08-01 12:20:26 --> Hooks Class telah di inisialisasi
+DEBUG - 2018-08-01 12:20:26 --> UTF-8 Support Aktif
+INFO - 2018-08-01 12:20:26 --> Utf8 Class telah di inisialisasi
+INFO - 2018-08-01 12:20:26 --> URI Class telah di inisialisasi
+INFO - 2018-08-01 12:20:26 --> Router Class telah di inisialisasi
+INFO - 2018-08-01 12:20:26 --> Output Class telah di inisialisasi
+INFO - 2018-08-01 12:20:26 --> Security Class telah di inisialisasi
+DEBUG - 2018-08-01 12:20:26 --> Global POST, GET dan COOKIE data telah disanitasi
+INFO - 2018-08-01 12:20:26 --> Input Class telah di inisialisasi
+INFO - 2018-08-01 12:20:26 --> Language Class telah di inisialisasi
+INFO - 2018-08-01 12:20:26 --> Loader Class telah di inisialisasi
+INFO - 2018-08-01 12:20:26 --> Helper telah dimuat: url_helper
+INFO - 2018-08-01 12:20:26 --> Controller Class telah di inisialisasi
+DEBUG - 2018-08-01 12:20:26 --> Session: "sess_save_path" kosong; pakai "session.save_path" data dari php.ini.
+INFO - 2018-08-01 12:20:26 --> Session: Class initialized using 'files' driver.
+INFO - 2018-08-01 12:20:26 --> Helper telah dimuat: cookie_helper
+INFO - 2018-08-01 12:20:26 --> Database Driver Class telah di inisialisasi
+INFO - 2018-08-01 12:20:26 --> Model "datatable" telah di inisialisasi
+INFO - 2018-08-01 12:20:26 --> Output akhir dikirim ke browser
+DEBUG - 2018-08-01 12:20:27 --> Total waktu eksekusi: 0.4880
+INFO - 2018-08-01 12:20:34 --> Config Class telah di inisialisasi
+INFO - 2018-08-01 12:20:34 --> Hooks Class telah di inisialisasi
+DEBUG - 2018-08-01 12:20:34 --> UTF-8 Support Aktif
+INFO - 2018-08-01 12:20:34 --> Utf8 Class telah di inisialisasi
+INFO - 2018-08-01 12:20:34 --> URI Class telah di inisialisasi
+INFO - 2018-08-01 12:20:34 --> Router Class telah di inisialisasi
+INFO - 2018-08-01 12:20:34 --> Output Class telah di inisialisasi
+INFO - 2018-08-01 12:20:34 --> Security Class telah di inisialisasi
+DEBUG - 2018-08-01 12:20:34 --> Global POST, GET dan COOKIE data telah disanitasi
+INFO - 2018-08-01 12:20:34 --> Input Class telah di inisialisasi
+INFO - 2018-08-01 12:20:34 --> Language Class telah di inisialisasi
+INFO - 2018-08-01 12:20:34 --> Loader Class telah di inisialisasi
+INFO - 2018-08-01 12:20:34 --> Helper telah dimuat: url_helper
+INFO - 2018-08-01 12:20:34 --> Controller Class telah di inisialisasi
+DEBUG - 2018-08-01 12:20:34 --> Session: "sess_save_path" kosong; pakai "session.save_path" data dari php.ini.
+INFO - 2018-08-01 12:20:34 --> Session: Class initialized using 'files' driver.
+INFO - 2018-08-01 12:20:34 --> Helper telah dimuat: cookie_helper
+INFO - 2018-08-01 12:20:34 --> File telah dimuat: D:\XAMPP\htdocs\jb\application\views\jebews/html/head.php
+INFO - 2018-08-01 12:20:34 --> File telah dimuat: D:\XAMPP\htdocs\jb\application\views\jebews/product/manage.php
+INFO - 2018-08-01 12:20:34 --> Output akhir dikirim ke browser
+DEBUG - 2018-08-01 12:20:34 --> Total waktu eksekusi: 0.4396
+INFO - 2018-08-01 12:20:34 --> Config Class telah di inisialisasi
+INFO - 2018-08-01 12:20:34 --> Hooks Class telah di inisialisasi
+DEBUG - 2018-08-01 12:20:34 --> UTF-8 Support Aktif
+INFO - 2018-08-01 12:20:34 --> Utf8 Class telah di inisialisasi
+INFO - 2018-08-01 12:20:34 --> URI Class telah di inisialisasi
+INFO - 2018-08-01 12:20:34 --> Router Class telah di inisialisasi
+INFO - 2018-08-01 12:20:34 --> Output Class telah di inisialisasi
+INFO - 2018-08-01 12:20:34 --> Security Class telah di inisialisasi
+DEBUG - 2018-08-01 12:20:34 --> Global POST, GET dan COOKIE data telah disanitasi
+INFO - 2018-08-01 12:20:35 --> Input Class telah di inisialisasi
+INFO - 2018-08-01 12:20:35 --> Language Class telah di inisialisasi
+INFO - 2018-08-01 12:20:35 --> Loader Class telah di inisialisasi
+INFO - 2018-08-01 12:20:35 --> Helper telah dimuat: url_helper
+INFO - 2018-08-01 12:20:35 --> Controller Class telah di inisialisasi
+DEBUG - 2018-08-01 12:20:35 --> Session: "sess_save_path" kosong; pakai "session.save_path" data dari php.ini.
+INFO - 2018-08-01 12:20:35 --> Session: Class initialized using 'files' driver.
+INFO - 2018-08-01 12:20:35 --> Helper telah dimuat: cookie_helper
+INFO - 2018-08-01 12:20:35 --> Database Driver Class telah di inisialisasi
+INFO - 2018-08-01 12:20:35 --> Model "datatable" telah di inisialisasi
+INFO - 2018-08-01 12:20:35 --> Output akhir dikirim ke browser
+DEBUG - 2018-08-01 12:20:35 --> Total waktu eksekusi: 0.4920
+INFO - 2018-08-01 12:20:41 --> Config Class telah di inisialisasi
+INFO - 2018-08-01 12:20:41 --> Hooks Class telah di inisialisasi
+DEBUG - 2018-08-01 12:20:41 --> UTF-8 Support Aktif
+INFO - 2018-08-01 12:20:41 --> Utf8 Class telah di inisialisasi
+INFO - 2018-08-01 12:20:41 --> URI Class telah di inisialisasi
+INFO - 2018-08-01 12:20:42 --> Router Class telah di inisialisasi
+INFO - 2018-08-01 12:20:42 --> Output Class telah di inisialisasi
+INFO - 2018-08-01 12:20:42 --> Security Class telah di inisialisasi
+DEBUG - 2018-08-01 12:20:42 --> Global POST, GET dan COOKIE data telah disanitasi
+INFO - 2018-08-01 12:20:42 --> Input Class telah di inisialisasi
+INFO - 2018-08-01 12:20:42 --> Language Class telah di inisialisasi
+INFO - 2018-08-01 12:20:42 --> Loader Class telah di inisialisasi
+INFO - 2018-08-01 12:20:42 --> Helper telah dimuat: url_helper
+INFO - 2018-08-01 12:20:42 --> Controller Class telah di inisialisasi
+DEBUG - 2018-08-01 12:20:42 --> Session: "sess_save_path" kosong; pakai "session.save_path" data dari php.ini.
+INFO - 2018-08-01 12:20:42 --> Session: Class initialized using 'files' driver.
+INFO - 2018-08-01 12:20:42 --> Helper telah dimuat: cookie_helper
+INFO - 2018-08-01 12:20:42 --> File telah dimuat: D:\XAMPP\htdocs\jb\application\views\jebews/html/head.php
+INFO - 2018-08-01 12:20:42 --> File telah dimuat: D:\XAMPP\htdocs\jb\application\views\jebews/product/manage.php
+INFO - 2018-08-01 12:20:42 --> Output akhir dikirim ke browser
+DEBUG - 2018-08-01 12:20:42 --> Total waktu eksekusi: 0.4426
+INFO - 2018-08-01 12:20:42 --> Config Class telah di inisialisasi
+INFO - 2018-08-01 12:20:42 --> Hooks Class telah di inisialisasi
+DEBUG - 2018-08-01 12:20:42 --> UTF-8 Support Aktif
+INFO - 2018-08-01 12:20:42 --> Utf8 Class telah di inisialisasi
+INFO - 2018-08-01 12:20:42 --> URI Class telah di inisialisasi
+INFO - 2018-08-01 12:20:42 --> Router Class telah di inisialisasi
+INFO - 2018-08-01 12:20:42 --> Output Class telah di inisialisasi
+INFO - 2018-08-01 12:20:42 --> Security Class telah di inisialisasi
+DEBUG - 2018-08-01 12:20:42 --> Global POST, GET dan COOKIE data telah disanitasi
+INFO - 2018-08-01 12:20:42 --> Input Class telah di inisialisasi
+INFO - 2018-08-01 12:20:42 --> Language Class telah di inisialisasi
+INFO - 2018-08-01 12:20:42 --> Loader Class telah di inisialisasi
+INFO - 2018-08-01 12:20:42 --> Helper telah dimuat: url_helper
+INFO - 2018-08-01 12:20:42 --> Controller Class telah di inisialisasi
+DEBUG - 2018-08-01 12:20:42 --> Session: "sess_save_path" kosong; pakai "session.save_path" data dari php.ini.
+INFO - 2018-08-01 12:20:42 --> Session: Class initialized using 'files' driver.
+INFO - 2018-08-01 12:20:42 --> Helper telah dimuat: cookie_helper
+INFO - 2018-08-01 12:20:42 --> Database Driver Class telah di inisialisasi
+INFO - 2018-08-01 12:20:42 --> Model "datatable" telah di inisialisasi
+INFO - 2018-08-01 12:20:42 --> Output akhir dikirim ke browser
+DEBUG - 2018-08-01 12:20:43 --> Total waktu eksekusi: 0.4940
+INFO - 2018-08-01 12:20:51 --> Config Class telah di inisialisasi
+INFO - 2018-08-01 12:20:51 --> Hooks Class telah di inisialisasi
+DEBUG - 2018-08-01 12:20:51 --> UTF-8 Support Aktif
+INFO - 2018-08-01 12:20:51 --> Utf8 Class telah di inisialisasi
+INFO - 2018-08-01 12:20:51 --> URI Class telah di inisialisasi
+INFO - 2018-08-01 12:20:51 --> Router Class telah di inisialisasi
+INFO - 2018-08-01 12:20:51 --> Output Class telah di inisialisasi
+INFO - 2018-08-01 12:20:51 --> Security Class telah di inisialisasi
+DEBUG - 2018-08-01 12:20:51 --> Global POST, GET dan COOKIE data telah disanitasi
+INFO - 2018-08-01 12:20:51 --> Input Class telah di inisialisasi
+INFO - 2018-08-01 12:20:51 --> Language Class telah di inisialisasi
+INFO - 2018-08-01 12:20:51 --> Loader Class telah di inisialisasi
+INFO - 2018-08-01 12:20:51 --> Helper telah dimuat: url_helper
+INFO - 2018-08-01 12:20:51 --> Controller Class telah di inisialisasi
+DEBUG - 2018-08-01 12:20:51 --> Session: "sess_save_path" kosong; pakai "session.save_path" data dari php.ini.
+INFO - 2018-08-01 12:20:51 --> Session: Class initialized using 'files' driver.
+INFO - 2018-08-01 12:20:51 --> Helper telah dimuat: cookie_helper
+INFO - 2018-08-01 12:20:51 --> File telah dimuat: D:\XAMPP\htdocs\jb\application\views\jebews/html/head.php
+INFO - 2018-08-01 12:20:51 --> File telah dimuat: D:\XAMPP\htdocs\jb\application\views\jebews/product/manage.php
+INFO - 2018-08-01 12:20:51 --> Output akhir dikirim ke browser
+DEBUG - 2018-08-01 12:20:51 --> Total waktu eksekusi: 0.4536
+INFO - 2018-08-01 12:20:51 --> Config Class telah di inisialisasi
+INFO - 2018-08-01 12:20:51 --> Hooks Class telah di inisialisasi
+DEBUG - 2018-08-01 12:20:51 --> UTF-8 Support Aktif
+INFO - 2018-08-01 12:20:51 --> Utf8 Class telah di inisialisasi
+INFO - 2018-08-01 12:20:51 --> URI Class telah di inisialisasi
+INFO - 2018-08-01 12:20:51 --> Router Class telah di inisialisasi
+INFO - 2018-08-01 12:20:51 --> Output Class telah di inisialisasi
+INFO - 2018-08-01 12:20:51 --> Security Class telah di inisialisasi
+DEBUG - 2018-08-01 12:20:51 --> Global POST, GET dan COOKIE data telah disanitasi
+INFO - 2018-08-01 12:20:51 --> Input Class telah di inisialisasi
+INFO - 2018-08-01 12:20:51 --> Language Class telah di inisialisasi
+INFO - 2018-08-01 12:20:51 --> Loader Class telah di inisialisasi
+INFO - 2018-08-01 12:20:51 --> Helper telah dimuat: url_helper
+INFO - 2018-08-01 12:20:52 --> Controller Class telah di inisialisasi
+DEBUG - 2018-08-01 12:20:52 --> Session: "sess_save_path" kosong; pakai "session.save_path" data dari php.ini.
+INFO - 2018-08-01 12:20:52 --> Session: Class initialized using 'files' driver.
+INFO - 2018-08-01 12:20:52 --> Helper telah dimuat: cookie_helper
+INFO - 2018-08-01 12:20:52 --> Database Driver Class telah di inisialisasi
+INFO - 2018-08-01 12:20:52 --> Model "datatable" telah di inisialisasi
+INFO - 2018-08-01 12:20:52 --> Output akhir dikirim ke browser
+DEBUG - 2018-08-01 12:20:52 --> Total waktu eksekusi: 0.4890
+INFO - 2018-08-01 12:21:57 --> Config Class telah di inisialisasi
+INFO - 2018-08-01 12:21:57 --> Hooks Class telah di inisialisasi
+DEBUG - 2018-08-01 12:21:57 --> UTF-8 Support Aktif
+INFO - 2018-08-01 12:21:57 --> Utf8 Class telah di inisialisasi
+INFO - 2018-08-01 12:21:57 --> URI Class telah di inisialisasi
+INFO - 2018-08-01 12:21:57 --> Router Class telah di inisialisasi
+INFO - 2018-08-01 12:21:57 --> Output Class telah di inisialisasi
+INFO - 2018-08-01 12:21:57 --> Security Class telah di inisialisasi
+DEBUG - 2018-08-01 12:21:57 --> Global POST, GET dan COOKIE data telah disanitasi
+INFO - 2018-08-01 12:21:57 --> Input Class telah di inisialisasi
+INFO - 2018-08-01 12:21:57 --> Language Class telah di inisialisasi
+INFO - 2018-08-01 12:21:57 --> Loader Class telah di inisialisasi
+INFO - 2018-08-01 12:21:57 --> Helper telah dimuat: url_helper
+INFO - 2018-08-01 12:21:57 --> Controller Class telah di inisialisasi
+DEBUG - 2018-08-01 12:21:57 --> Session: "sess_save_path" kosong; pakai "session.save_path" data dari php.ini.
+INFO - 2018-08-01 12:21:57 --> Session: Class initialized using 'files' driver.
+INFO - 2018-08-01 12:21:57 --> Helper telah dimuat: cookie_helper
+INFO - 2018-08-01 12:21:57 --> File telah dimuat: D:\XAMPP\htdocs\jb\application\views\jebews/html/head.php
+INFO - 2018-08-01 12:21:57 --> File telah dimuat: D:\XAMPP\htdocs\jb\application\views\jebews/product/manage.php
+INFO - 2018-08-01 12:21:57 --> Output akhir dikirim ke browser
+DEBUG - 2018-08-01 12:21:57 --> Total waktu eksekusi: 0.4546
+INFO - 2018-08-01 12:21:57 --> Config Class telah di inisialisasi
+INFO - 2018-08-01 12:21:57 --> Hooks Class telah di inisialisasi
+DEBUG - 2018-08-01 12:21:58 --> UTF-8 Support Aktif
+INFO - 2018-08-01 12:21:58 --> Utf8 Class telah di inisialisasi
+INFO - 2018-08-01 12:21:58 --> URI Class telah di inisialisasi
+INFO - 2018-08-01 12:21:58 --> Router Class telah di inisialisasi
+INFO - 2018-08-01 12:21:58 --> Output Class telah di inisialisasi
+INFO - 2018-08-01 12:21:58 --> Security Class telah di inisialisasi
+DEBUG - 2018-08-01 12:21:58 --> Global POST, GET dan COOKIE data telah disanitasi
+INFO - 2018-08-01 12:21:58 --> Input Class telah di inisialisasi
+INFO - 2018-08-01 12:21:58 --> Language Class telah di inisialisasi
+INFO - 2018-08-01 12:21:58 --> Loader Class telah di inisialisasi
+INFO - 2018-08-01 12:21:58 --> Helper telah dimuat: url_helper
+INFO - 2018-08-01 12:21:58 --> Controller Class telah di inisialisasi
+DEBUG - 2018-08-01 12:21:58 --> Session: "sess_save_path" kosong; pakai "session.save_path" data dari php.ini.
+INFO - 2018-08-01 12:21:58 --> Session: Class initialized using 'files' driver.
+INFO - 2018-08-01 12:21:58 --> Helper telah dimuat: cookie_helper
+INFO - 2018-08-01 12:21:58 --> Database Driver Class telah di inisialisasi
+INFO - 2018-08-01 12:21:58 --> Model "datatable" telah di inisialisasi
+INFO - 2018-08-01 12:21:58 --> Output akhir dikirim ke browser
+DEBUG - 2018-08-01 12:21:58 --> Total waktu eksekusi: 0.4890
+INFO - 2018-08-01 12:22:16 --> Config Class telah di inisialisasi
+INFO - 2018-08-01 12:22:16 --> Hooks Class telah di inisialisasi
+DEBUG - 2018-08-01 12:22:16 --> UTF-8 Support Aktif
+INFO - 2018-08-01 12:22:16 --> Utf8 Class telah di inisialisasi
+INFO - 2018-08-01 12:22:16 --> URI Class telah di inisialisasi
+INFO - 2018-08-01 12:22:16 --> Router Class telah di inisialisasi
+INFO - 2018-08-01 12:22:16 --> Output Class telah di inisialisasi
+INFO - 2018-08-01 12:22:16 --> Security Class telah di inisialisasi
+DEBUG - 2018-08-01 12:22:16 --> Global POST, GET dan COOKIE data telah disanitasi
+INFO - 2018-08-01 12:22:16 --> Input Class telah di inisialisasi
+INFO - 2018-08-01 12:22:16 --> Language Class telah di inisialisasi
+INFO - 2018-08-01 12:22:16 --> Loader Class telah di inisialisasi
+INFO - 2018-08-01 12:22:16 --> Helper telah dimuat: url_helper
+INFO - 2018-08-01 12:22:16 --> Controller Class telah di inisialisasi
+DEBUG - 2018-08-01 12:22:16 --> Session: "sess_save_path" kosong; pakai "session.save_path" data dari php.ini.
+INFO - 2018-08-01 12:22:16 --> Session: Class initialized using 'files' driver.
+INFO - 2018-08-01 12:22:16 --> Helper telah dimuat: cookie_helper
+INFO - 2018-08-01 12:22:16 --> File telah dimuat: D:\XAMPP\htdocs\jb\application\views\jebews/html/head.php
+INFO - 2018-08-01 12:22:16 --> File telah dimuat: D:\XAMPP\htdocs\jb\application\views\jebews/product/manage.php
+INFO - 2018-08-01 12:22:16 --> Output akhir dikirim ke browser
+DEBUG - 2018-08-01 12:22:16 --> Total waktu eksekusi: 0.4486
+INFO - 2018-08-01 12:22:16 --> Config Class telah di inisialisasi
+INFO - 2018-08-01 12:22:16 --> Hooks Class telah di inisialisasi
+DEBUG - 2018-08-01 12:22:16 --> UTF-8 Support Aktif
+INFO - 2018-08-01 12:22:16 --> Utf8 Class telah di inisialisasi
+INFO - 2018-08-01 12:22:17 --> URI Class telah di inisialisasi
+INFO - 2018-08-01 12:22:17 --> Router Class telah di inisialisasi
+INFO - 2018-08-01 12:22:17 --> Output Class telah di inisialisasi
+INFO - 2018-08-01 12:22:17 --> Security Class telah di inisialisasi
+DEBUG - 2018-08-01 12:22:17 --> Global POST, GET dan COOKIE data telah disanitasi
+INFO - 2018-08-01 12:22:17 --> Input Class telah di inisialisasi
+INFO - 2018-08-01 12:22:17 --> Language Class telah di inisialisasi
+INFO - 2018-08-01 12:22:17 --> Loader Class telah di inisialisasi
+INFO - 2018-08-01 12:22:17 --> Helper telah dimuat: url_helper
+INFO - 2018-08-01 12:22:17 --> Controller Class telah di inisialisasi
+DEBUG - 2018-08-01 12:22:17 --> Session: "sess_save_path" kosong; pakai "session.save_path" data dari php.ini.
+INFO - 2018-08-01 12:22:17 --> Session: Class initialized using 'files' driver.
+INFO - 2018-08-01 12:22:17 --> Helper telah dimuat: cookie_helper
+INFO - 2018-08-01 12:22:17 --> Database Driver Class telah di inisialisasi
+INFO - 2018-08-01 12:22:17 --> Model "datatable" telah di inisialisasi
+INFO - 2018-08-01 12:22:17 --> Output akhir dikirim ke browser
+DEBUG - 2018-08-01 12:22:17 --> Total waktu eksekusi: 0.5030
+INFO - 2018-08-01 12:22:37 --> Config Class telah di inisialisasi
+INFO - 2018-08-01 12:22:37 --> Hooks Class telah di inisialisasi
+DEBUG - 2018-08-01 12:22:37 --> UTF-8 Support Aktif
+INFO - 2018-08-01 12:22:38 --> Utf8 Class telah di inisialisasi
+INFO - 2018-08-01 12:22:38 --> URI Class telah di inisialisasi
+INFO - 2018-08-01 12:22:38 --> Router Class telah di inisialisasi
+INFO - 2018-08-01 12:22:38 --> Output Class telah di inisialisasi
+INFO - 2018-08-01 12:22:38 --> Security Class telah di inisialisasi
+DEBUG - 2018-08-01 12:22:38 --> Global POST, GET dan COOKIE data telah disanitasi
+INFO - 2018-08-01 12:22:38 --> Input Class telah di inisialisasi
+INFO - 2018-08-01 12:22:38 --> Language Class telah di inisialisasi
+INFO - 2018-08-01 12:22:38 --> Loader Class telah di inisialisasi
+INFO - 2018-08-01 12:22:38 --> Helper telah dimuat: url_helper
+INFO - 2018-08-01 12:22:38 --> Controller Class telah di inisialisasi
+DEBUG - 2018-08-01 12:22:38 --> Session: "sess_save_path" kosong; pakai "session.save_path" data dari php.ini.
+INFO - 2018-08-01 12:22:38 --> Session: Class initialized using 'files' driver.
+INFO - 2018-08-01 12:22:38 --> Helper telah dimuat: cookie_helper
+INFO - 2018-08-01 12:22:38 --> File telah dimuat: D:\XAMPP\htdocs\jb\application\views\jebews/html/head.php
+INFO - 2018-08-01 12:22:38 --> File telah dimuat: D:\XAMPP\htdocs\jb\application\views\jebews/product/manage.php
+INFO - 2018-08-01 12:22:38 --> Output akhir dikirim ke browser
+DEBUG - 2018-08-01 12:22:38 --> Total waktu eksekusi: 0.4686
+INFO - 2018-08-01 12:22:38 --> Config Class telah di inisialisasi
+INFO - 2018-08-01 12:22:38 --> Hooks Class telah di inisialisasi
+DEBUG - 2018-08-01 12:22:38 --> UTF-8 Support Aktif
+INFO - 2018-08-01 12:22:38 --> Utf8 Class telah di inisialisasi
+INFO - 2018-08-01 12:22:38 --> URI Class telah di inisialisasi
+INFO - 2018-08-01 12:22:38 --> Router Class telah di inisialisasi
+INFO - 2018-08-01 12:22:38 --> Output Class telah di inisialisasi
+INFO - 2018-08-01 12:22:38 --> Security Class telah di inisialisasi
+DEBUG - 2018-08-01 12:22:38 --> Global POST, GET dan COOKIE data telah disanitasi
+INFO - 2018-08-01 12:22:38 --> Input Class telah di inisialisasi
+INFO - 2018-08-01 12:22:38 --> Language Class telah di inisialisasi
+INFO - 2018-08-01 12:22:38 --> Loader Class telah di inisialisasi
+INFO - 2018-08-01 12:22:38 --> Helper telah dimuat: url_helper
+INFO - 2018-08-01 12:22:38 --> Controller Class telah di inisialisasi
+DEBUG - 2018-08-01 12:22:38 --> Session: "sess_save_path" kosong; pakai "session.save_path" data dari php.ini.
+INFO - 2018-08-01 12:22:38 --> Session: Class initialized using 'files' driver.
+INFO - 2018-08-01 12:22:39 --> Helper telah dimuat: cookie_helper
+INFO - 2018-08-01 12:22:39 --> Database Driver Class telah di inisialisasi
+INFO - 2018-08-01 12:22:39 --> Model "datatable" telah di inisialisasi
+INFO - 2018-08-01 12:22:39 --> Output akhir dikirim ke browser
+DEBUG - 2018-08-01 12:22:39 --> Total waktu eksekusi: 0.5050
+INFO - 2018-08-01 12:23:01 --> Config Class telah di inisialisasi
+INFO - 2018-08-01 12:23:01 --> Hooks Class telah di inisialisasi
+DEBUG - 2018-08-01 12:23:01 --> UTF-8 Support Aktif
+INFO - 2018-08-01 12:23:01 --> Utf8 Class telah di inisialisasi
+INFO - 2018-08-01 12:23:01 --> URI Class telah di inisialisasi
+INFO - 2018-08-01 12:23:01 --> Router Class telah di inisialisasi
+INFO - 2018-08-01 12:23:01 --> Output Class telah di inisialisasi
+INFO - 2018-08-01 12:23:01 --> Security Class telah di inisialisasi
+DEBUG - 2018-08-01 12:23:01 --> Global POST, GET dan COOKIE data telah disanitasi
+INFO - 2018-08-01 12:23:01 --> Input Class telah di inisialisasi
+INFO - 2018-08-01 12:23:01 --> Language Class telah di inisialisasi
+INFO - 2018-08-01 12:23:01 --> Loader Class telah di inisialisasi
+INFO - 2018-08-01 12:23:01 --> Helper telah dimuat: url_helper
+INFO - 2018-08-01 12:23:01 --> Controller Class telah di inisialisasi
+DEBUG - 2018-08-01 12:23:01 --> Session: "sess_save_path" kosong; pakai "session.save_path" data dari php.ini.
+INFO - 2018-08-01 12:23:01 --> Session: Class initialized using 'files' driver.
+INFO - 2018-08-01 12:23:01 --> Helper telah dimuat: cookie_helper
+INFO - 2018-08-01 12:23:01 --> File telah dimuat: D:\XAMPP\htdocs\jb\application\views\jebews/html/head.php
+INFO - 2018-08-01 12:23:01 --> File telah dimuat: D:\XAMPP\htdocs\jb\application\views\jebews/product/manage.php
+INFO - 2018-08-01 12:23:01 --> Output akhir dikirim ke browser
+DEBUG - 2018-08-01 12:23:01 --> Total waktu eksekusi: 0.4912
+INFO - 2018-08-01 12:23:02 --> Config Class telah di inisialisasi
+INFO - 2018-08-01 12:23:02 --> Hooks Class telah di inisialisasi
+DEBUG - 2018-08-01 12:23:02 --> UTF-8 Support Aktif
+INFO - 2018-08-01 12:23:02 --> Utf8 Class telah di inisialisasi
+INFO - 2018-08-01 12:23:02 --> URI Class telah di inisialisasi
+INFO - 2018-08-01 12:23:02 --> Router Class telah di inisialisasi
+INFO - 2018-08-01 12:23:02 --> Output Class telah di inisialisasi
+INFO - 2018-08-01 12:23:02 --> Security Class telah di inisialisasi
+DEBUG - 2018-08-01 12:23:02 --> Global POST, GET dan COOKIE data telah disanitasi
+INFO - 2018-08-01 12:23:02 --> Input Class telah di inisialisasi
+INFO - 2018-08-01 12:23:02 --> Language Class telah di inisialisasi
+INFO - 2018-08-01 12:23:02 --> Loader Class telah di inisialisasi
+INFO - 2018-08-01 12:23:02 --> Helper telah dimuat: url_helper
+INFO - 2018-08-01 12:23:02 --> Controller Class telah di inisialisasi
+DEBUG - 2018-08-01 12:23:02 --> Session: "sess_save_path" kosong; pakai "session.save_path" data dari php.ini.
+INFO - 2018-08-01 12:23:02 --> Session: Class initialized using 'files' driver.
+INFO - 2018-08-01 12:23:02 --> Helper telah dimuat: cookie_helper
+INFO - 2018-08-01 12:23:02 --> Database Driver Class telah di inisialisasi
+INFO - 2018-08-01 12:23:02 --> Model "datatable" telah di inisialisasi
+INFO - 2018-08-01 12:23:02 --> Output akhir dikirim ke browser
+DEBUG - 2018-08-01 12:23:02 --> Total waktu eksekusi: 0.4860
+INFO - 2018-08-01 12:23:06 --> Config Class telah di inisialisasi
+INFO - 2018-08-01 12:23:07 --> Hooks Class telah di inisialisasi
+DEBUG - 2018-08-01 12:23:07 --> UTF-8 Support Aktif
+INFO - 2018-08-01 12:23:07 --> Utf8 Class telah di inisialisasi
+INFO - 2018-08-01 12:23:07 --> URI Class telah di inisialisasi
+INFO - 2018-08-01 12:23:07 --> Router Class telah di inisialisasi
+INFO - 2018-08-01 12:23:07 --> Output Class telah di inisialisasi
+INFO - 2018-08-01 12:23:07 --> Security Class telah di inisialisasi
+DEBUG - 2018-08-01 12:23:07 --> Global POST, GET dan COOKIE data telah disanitasi
+INFO - 2018-08-01 12:23:07 --> Input Class telah di inisialisasi
+INFO - 2018-08-01 12:23:07 --> Language Class telah di inisialisasi
+INFO - 2018-08-01 12:23:07 --> Loader Class telah di inisialisasi
+INFO - 2018-08-01 12:23:07 --> Helper telah dimuat: url_helper
+INFO - 2018-08-01 12:23:07 --> Controller Class telah di inisialisasi
+DEBUG - 2018-08-01 12:23:07 --> Session: "sess_save_path" kosong; pakai "session.save_path" data dari php.ini.
+INFO - 2018-08-01 12:23:07 --> Session: Class initialized using 'files' driver.
+INFO - 2018-08-01 12:23:07 --> Helper telah dimuat: cookie_helper
+INFO - 2018-08-01 12:23:07 --> File telah dimuat: D:\XAMPP\htdocs\jb\application\views\jebews/html/head.php
+INFO - 2018-08-01 12:23:07 --> File telah dimuat: D:\XAMPP\htdocs\jb\application\views\jebews/product/manage.php
+INFO - 2018-08-01 12:23:07 --> Output akhir dikirim ke browser
+DEBUG - 2018-08-01 12:23:07 --> Total waktu eksekusi: 0.4556
+INFO - 2018-08-01 12:23:07 --> Config Class telah di inisialisasi
+INFO - 2018-08-01 12:23:07 --> Hooks Class telah di inisialisasi
+DEBUG - 2018-08-01 12:23:07 --> UTF-8 Support Aktif
+INFO - 2018-08-01 12:23:07 --> Utf8 Class telah di inisialisasi
+INFO - 2018-08-01 12:23:07 --> URI Class telah di inisialisasi
+INFO - 2018-08-01 12:23:07 --> Router Class telah di inisialisasi
+INFO - 2018-08-01 12:23:07 --> Output Class telah di inisialisasi
+INFO - 2018-08-01 12:23:07 --> Security Class telah di inisialisasi
+DEBUG - 2018-08-01 12:23:07 --> Global POST, GET dan COOKIE data telah disanitasi
+INFO - 2018-08-01 12:23:07 --> Input Class telah di inisialisasi
+INFO - 2018-08-01 12:23:07 --> Language Class telah di inisialisasi
+INFO - 2018-08-01 12:23:07 --> Loader Class telah di inisialisasi
+INFO - 2018-08-01 12:23:07 --> Helper telah dimuat: url_helper
+INFO - 2018-08-01 12:23:07 --> Controller Class telah di inisialisasi
+DEBUG - 2018-08-01 12:23:07 --> Session: "sess_save_path" kosong; pakai "session.save_path" data dari php.ini.
+INFO - 2018-08-01 12:23:07 --> Session: Class initialized using 'files' driver.
+INFO - 2018-08-01 12:23:08 --> Helper telah dimuat: cookie_helper
+INFO - 2018-08-01 12:23:08 --> Database Driver Class telah di inisialisasi
+INFO - 2018-08-01 12:23:08 --> Model "datatable" telah di inisialisasi
+INFO - 2018-08-01 12:23:08 --> Output akhir dikirim ke browser
+DEBUG - 2018-08-01 12:23:08 --> Total waktu eksekusi: 0.4910
+INFO - 2018-08-01 12:23:28 --> Config Class telah di inisialisasi
+INFO - 2018-08-01 12:23:28 --> Hooks Class telah di inisialisasi
+DEBUG - 2018-08-01 12:23:28 --> UTF-8 Support Aktif
+INFO - 2018-08-01 12:23:28 --> Utf8 Class telah di inisialisasi
+INFO - 2018-08-01 12:23:28 --> URI Class telah di inisialisasi
+INFO - 2018-08-01 12:23:28 --> Router Class telah di inisialisasi
+INFO - 2018-08-01 12:23:28 --> Output Class telah di inisialisasi
+INFO - 2018-08-01 12:23:28 --> Security Class telah di inisialisasi
+DEBUG - 2018-08-01 12:23:28 --> Global POST, GET dan COOKIE data telah disanitasi
+INFO - 2018-08-01 12:23:28 --> Input Class telah di inisialisasi
+INFO - 2018-08-01 12:23:28 --> Language Class telah di inisialisasi
+INFO - 2018-08-01 12:23:28 --> Loader Class telah di inisialisasi
+INFO - 2018-08-01 12:23:28 --> Helper telah dimuat: url_helper
+INFO - 2018-08-01 12:23:28 --> Controller Class telah di inisialisasi
+DEBUG - 2018-08-01 12:23:28 --> Session: "sess_save_path" kosong; pakai "session.save_path" data dari php.ini.
+INFO - 2018-08-01 12:23:28 --> Session: Class initialized using 'files' driver.
+INFO - 2018-08-01 12:23:28 --> Helper telah dimuat: cookie_helper
+INFO - 2018-08-01 12:23:28 --> File telah dimuat: D:\XAMPP\htdocs\jb\application\views\jebews/html/head.php
+INFO - 2018-08-01 12:23:28 --> File telah dimuat: D:\XAMPP\htdocs\jb\application\views\jebews/product/manage.php
+INFO - 2018-08-01 12:23:28 --> Output akhir dikirim ke browser
+DEBUG - 2018-08-01 12:23:28 --> Total waktu eksekusi: 0.4566
+INFO - 2018-08-01 12:23:28 --> Config Class telah di inisialisasi
+INFO - 2018-08-01 12:23:28 --> Hooks Class telah di inisialisasi
+DEBUG - 2018-08-01 12:23:28 --> UTF-8 Support Aktif
+INFO - 2018-08-01 12:23:28 --> Utf8 Class telah di inisialisasi
+INFO - 2018-08-01 12:23:28 --> URI Class telah di inisialisasi
+INFO - 2018-08-01 12:23:28 --> Router Class telah di inisialisasi
+INFO - 2018-08-01 12:23:28 --> Output Class telah di inisialisasi
+INFO - 2018-08-01 12:23:28 --> Security Class telah di inisialisasi
+DEBUG - 2018-08-01 12:23:28 --> Global POST, GET dan COOKIE data telah disanitasi
+INFO - 2018-08-01 12:23:28 --> Input Class telah di inisialisasi
+INFO - 2018-08-01 12:23:28 --> Language Class telah di inisialisasi
+INFO - 2018-08-01 12:23:28 --> Loader Class telah di inisialisasi
+INFO - 2018-08-01 12:23:28 --> Helper telah dimuat: url_helper
+INFO - 2018-08-01 12:23:29 --> Controller Class telah di inisialisasi
+DEBUG - 2018-08-01 12:23:29 --> Session: "sess_save_path" kosong; pakai "session.save_path" data dari php.ini.
+INFO - 2018-08-01 12:23:29 --> Session: Class initialized using 'files' driver.
+INFO - 2018-08-01 12:23:29 --> Helper telah dimuat: cookie_helper
+INFO - 2018-08-01 12:23:29 --> Database Driver Class telah di inisialisasi
+INFO - 2018-08-01 12:23:29 --> Model "datatable" telah di inisialisasi
+INFO - 2018-08-01 12:23:29 --> Output akhir dikirim ke browser
+DEBUG - 2018-08-01 12:23:29 --> Total waktu eksekusi: 0.5000
+INFO - 2018-08-01 12:25:12 --> Config Class telah di inisialisasi
+INFO - 2018-08-01 12:25:12 --> Hooks Class telah di inisialisasi
+DEBUG - 2018-08-01 12:25:12 --> UTF-8 Support Aktif
+INFO - 2018-08-01 12:25:12 --> Utf8 Class telah di inisialisasi
+INFO - 2018-08-01 12:25:12 --> URI Class telah di inisialisasi
+INFO - 2018-08-01 12:25:12 --> Router Class telah di inisialisasi
+INFO - 2018-08-01 12:25:12 --> Output Class telah di inisialisasi
+INFO - 2018-08-01 12:25:12 --> Security Class telah di inisialisasi
+DEBUG - 2018-08-01 12:25:12 --> Global POST, GET dan COOKIE data telah disanitasi
+INFO - 2018-08-01 12:25:12 --> Input Class telah di inisialisasi
+INFO - 2018-08-01 12:25:12 --> Language Class telah di inisialisasi
+INFO - 2018-08-01 12:25:12 --> Loader Class telah di inisialisasi
+INFO - 2018-08-01 12:25:12 --> Helper telah dimuat: url_helper
+INFO - 2018-08-01 12:25:12 --> Controller Class telah di inisialisasi
+DEBUG - 2018-08-01 12:25:12 --> Session: "sess_save_path" kosong; pakai "session.save_path" data dari php.ini.
+INFO - 2018-08-01 12:25:12 --> Session: Class initialized using 'files' driver.
+INFO - 2018-08-01 12:25:12 --> Helper telah dimuat: cookie_helper
+INFO - 2018-08-01 12:25:12 --> File telah dimuat: D:\XAMPP\htdocs\jb\application\views\jebews/html/head.php
+INFO - 2018-08-01 12:25:12 --> File telah dimuat: D:\XAMPP\htdocs\jb\application\views\jebews/product/manage.php
+INFO - 2018-08-01 12:25:13 --> Output akhir dikirim ke browser
+DEBUG - 2018-08-01 12:25:13 --> Total waktu eksekusi: 0.4470
+INFO - 2018-08-01 12:25:13 --> Config Class telah di inisialisasi
+INFO - 2018-08-01 12:25:13 --> Hooks Class telah di inisialisasi
+DEBUG - 2018-08-01 12:25:13 --> UTF-8 Support Aktif
+INFO - 2018-08-01 12:25:13 --> Utf8 Class telah di inisialisasi
+INFO - 2018-08-01 12:25:13 --> URI Class telah di inisialisasi
+INFO - 2018-08-01 12:25:13 --> Router Class telah di inisialisasi
+INFO - 2018-08-01 12:25:13 --> Output Class telah di inisialisasi
+INFO - 2018-08-01 12:25:13 --> Security Class telah di inisialisasi
+DEBUG - 2018-08-01 12:25:13 --> Global POST, GET dan COOKIE data telah disanitasi
+INFO - 2018-08-01 12:25:13 --> Input Class telah di inisialisasi
+INFO - 2018-08-01 12:25:13 --> Language Class telah di inisialisasi
+INFO - 2018-08-01 12:25:13 --> Loader Class telah di inisialisasi
+INFO - 2018-08-01 12:25:13 --> Helper telah dimuat: url_helper
+INFO - 2018-08-01 12:25:13 --> Controller Class telah di inisialisasi
+DEBUG - 2018-08-01 12:25:13 --> Session: "sess_save_path" kosong; pakai "session.save_path" data dari php.ini.
+INFO - 2018-08-01 12:25:13 --> Session: Class initialized using 'files' driver.
+INFO - 2018-08-01 12:25:13 --> Helper telah dimuat: cookie_helper
+INFO - 2018-08-01 12:25:13 --> Database Driver Class telah di inisialisasi
+INFO - 2018-08-01 12:25:13 --> Model "datatable" telah di inisialisasi
+INFO - 2018-08-01 12:25:13 --> Output akhir dikirim ke browser
+DEBUG - 2018-08-01 12:25:13 --> Total waktu eksekusi: 0.4930
+INFO - 2018-08-01 12:25:15 --> Config Class telah di inisialisasi
+INFO - 2018-08-01 12:25:15 --> Hooks Class telah di inisialisasi
+DEBUG - 2018-08-01 12:25:15 --> UTF-8 Support Aktif
+INFO - 2018-08-01 12:25:15 --> Utf8 Class telah di inisialisasi
+INFO - 2018-08-01 12:25:15 --> URI Class telah di inisialisasi
+INFO - 2018-08-01 12:25:15 --> Router Class telah di inisialisasi
+INFO - 2018-08-01 12:25:15 --> Output Class telah di inisialisasi
+INFO - 2018-08-01 12:25:15 --> Security Class telah di inisialisasi
+DEBUG - 2018-08-01 12:25:15 --> Global POST, GET dan COOKIE data telah disanitasi
+INFO - 2018-08-01 12:25:15 --> Input Class telah di inisialisasi
+INFO - 2018-08-01 12:25:15 --> Language Class telah di inisialisasi
+INFO - 2018-08-01 12:25:15 --> Loader Class telah di inisialisasi
+INFO - 2018-08-01 12:25:15 --> Helper telah dimuat: url_helper
+INFO - 2018-08-01 12:25:15 --> Controller Class telah di inisialisasi
+DEBUG - 2018-08-01 12:25:15 --> Session: "sess_save_path" kosong; pakai "session.save_path" data dari php.ini.
+INFO - 2018-08-01 12:25:15 --> Session: Class initialized using 'files' driver.
+INFO - 2018-08-01 12:25:15 --> Helper telah dimuat: cookie_helper
+INFO - 2018-08-01 12:25:15 --> File telah dimuat: D:\XAMPP\htdocs\jb\application\views\jebews/html/head.php
+INFO - 2018-08-01 12:25:15 --> File telah dimuat: D:\XAMPP\htdocs\jb\application\views\jebews/product/manage.php
+INFO - 2018-08-01 12:25:15 --> Output akhir dikirim ke browser
+DEBUG - 2018-08-01 12:25:15 --> Total waktu eksekusi: 0.4436
+INFO - 2018-08-01 12:25:16 --> Config Class telah di inisialisasi
+INFO - 2018-08-01 12:25:16 --> Hooks Class telah di inisialisasi
+DEBUG - 2018-08-01 12:25:16 --> UTF-8 Support Aktif
+INFO - 2018-08-01 12:25:16 --> Utf8 Class telah di inisialisasi
+INFO - 2018-08-01 12:25:16 --> URI Class telah di inisialisasi
+INFO - 2018-08-01 12:25:16 --> Router Class telah di inisialisasi
+INFO - 2018-08-01 12:25:16 --> Output Class telah di inisialisasi
+INFO - 2018-08-01 12:25:16 --> Security Class telah di inisialisasi
+DEBUG - 2018-08-01 12:25:16 --> Global POST, GET dan COOKIE data telah disanitasi
+INFO - 2018-08-01 12:25:16 --> Input Class telah di inisialisasi
+INFO - 2018-08-01 12:25:16 --> Language Class telah di inisialisasi
+INFO - 2018-08-01 12:25:16 --> Loader Class telah di inisialisasi
+INFO - 2018-08-01 12:25:16 --> Helper telah dimuat: url_helper
+INFO - 2018-08-01 12:25:16 --> Controller Class telah di inisialisasi
+DEBUG - 2018-08-01 12:25:16 --> Session: "sess_save_path" kosong; pakai "session.save_path" data dari php.ini.
+INFO - 2018-08-01 12:25:16 --> Session: Class initialized using 'files' driver.
+INFO - 2018-08-01 12:25:16 --> Helper telah dimuat: cookie_helper
+INFO - 2018-08-01 12:25:16 --> Database Driver Class telah di inisialisasi
+INFO - 2018-08-01 12:25:16 --> Model "datatable" telah di inisialisasi
+INFO - 2018-08-01 12:25:16 --> Output akhir dikirim ke browser
+DEBUG - 2018-08-01 12:25:16 --> Total waktu eksekusi: 0.4880
+INFO - 2018-08-01 12:25:17 --> Config Class telah di inisialisasi
+INFO - 2018-08-01 12:25:17 --> Hooks Class telah di inisialisasi
+DEBUG - 2018-08-01 12:25:17 --> UTF-8 Support Aktif
+INFO - 2018-08-01 12:25:17 --> Utf8 Class telah di inisialisasi
+INFO - 2018-08-01 12:25:17 --> URI Class telah di inisialisasi
+INFO - 2018-08-01 12:25:17 --> Router Class telah di inisialisasi
+INFO - 2018-08-01 12:25:18 --> Output Class telah di inisialisasi
+INFO - 2018-08-01 12:25:18 --> Security Class telah di inisialisasi
+DEBUG - 2018-08-01 12:25:18 --> Global POST, GET dan COOKIE data telah disanitasi
+INFO - 2018-08-01 12:25:18 --> Input Class telah di inisialisasi
+INFO - 2018-08-01 12:25:18 --> Language Class telah di inisialisasi
+INFO - 2018-08-01 12:25:18 --> Loader Class telah di inisialisasi
+INFO - 2018-08-01 12:25:18 --> Helper telah dimuat: url_helper
+INFO - 2018-08-01 12:25:18 --> Controller Class telah di inisialisasi
+DEBUG - 2018-08-01 12:25:18 --> Session: "sess_save_path" kosong; pakai "session.save_path" data dari php.ini.
+INFO - 2018-08-01 12:25:18 --> Session: Class initialized using 'files' driver.
+INFO - 2018-08-01 12:25:18 --> Helper telah dimuat: cookie_helper
+INFO - 2018-08-01 12:25:18 --> File telah dimuat: D:\XAMPP\htdocs\jb\application\views\jebews/html/head.php
+INFO - 2018-08-01 12:25:18 --> File telah dimuat: D:\XAMPP\htdocs\jb\application\views\jebews/product/manage.php
+INFO - 2018-08-01 12:25:18 --> Output akhir dikirim ke browser
+DEBUG - 2018-08-01 12:25:18 --> Total waktu eksekusi: 0.5652
+INFO - 2018-08-01 12:25:23 --> Config Class telah di inisialisasi
+INFO - 2018-08-01 12:25:23 --> Hooks Class telah di inisialisasi
+DEBUG - 2018-08-01 12:25:24 --> UTF-8 Support Aktif
+INFO - 2018-08-01 12:25:24 --> Utf8 Class telah di inisialisasi
+INFO - 2018-08-01 12:25:24 --> URI Class telah di inisialisasi
+INFO - 2018-08-01 12:25:24 --> Router Class telah di inisialisasi
+INFO - 2018-08-01 12:25:24 --> Output Class telah di inisialisasi
+INFO - 2018-08-01 12:25:24 --> Security Class telah di inisialisasi
+DEBUG - 2018-08-01 12:25:24 --> Global POST, GET dan COOKIE data telah disanitasi
+INFO - 2018-08-01 12:25:24 --> Input Class telah di inisialisasi
+INFO - 2018-08-01 12:25:24 --> Language Class telah di inisialisasi
+INFO - 2018-08-01 12:25:24 --> Loader Class telah di inisialisasi
+INFO - 2018-08-01 12:25:24 --> Helper telah dimuat: url_helper
+INFO - 2018-08-01 12:25:24 --> Controller Class telah di inisialisasi
+DEBUG - 2018-08-01 12:25:24 --> Session: "sess_save_path" kosong; pakai "session.save_path" data dari php.ini.
+INFO - 2018-08-01 12:25:24 --> Session: Class initialized using 'files' driver.
+INFO - 2018-08-01 12:25:24 --> Helper telah dimuat: cookie_helper
+INFO - 2018-08-01 12:25:24 --> File telah dimuat: D:\XAMPP\htdocs\jb\application\views\jebews/html/head.php
+INFO - 2018-08-01 12:25:24 --> File telah dimuat: D:\XAMPP\htdocs\jb\application\views\jebews/product/manage.php
+INFO - 2018-08-01 12:25:24 --> Output akhir dikirim ke browser
+DEBUG - 2018-08-01 12:25:24 --> Total waktu eksekusi: 0.4560
+INFO - 2018-08-01 12:25:24 --> Config Class telah di inisialisasi
+INFO - 2018-08-01 12:25:24 --> Hooks Class telah di inisialisasi
+DEBUG - 2018-08-01 12:25:24 --> UTF-8 Support Aktif
+INFO - 2018-08-01 12:25:24 --> Utf8 Class telah di inisialisasi
+INFO - 2018-08-01 12:25:24 --> URI Class telah di inisialisasi
+INFO - 2018-08-01 12:25:24 --> Router Class telah di inisialisasi
+INFO - 2018-08-01 12:25:24 --> Output Class telah di inisialisasi
+INFO - 2018-08-01 12:25:24 --> Security Class telah di inisialisasi
+DEBUG - 2018-08-01 12:25:24 --> Global POST, GET dan COOKIE data telah disanitasi
+INFO - 2018-08-01 12:25:24 --> Input Class telah di inisialisasi
+INFO - 2018-08-01 12:25:24 --> Language Class telah di inisialisasi
+INFO - 2018-08-01 12:25:24 --> Loader Class telah di inisialisasi
+INFO - 2018-08-01 12:25:24 --> Helper telah dimuat: url_helper
+INFO - 2018-08-01 12:25:24 --> Controller Class telah di inisialisasi
+DEBUG - 2018-08-01 12:25:24 --> Session: "sess_save_path" kosong; pakai "session.save_path" data dari php.ini.
+INFO - 2018-08-01 12:25:24 --> Session: Class initialized using 'files' driver.
+INFO - 2018-08-01 12:25:24 --> Helper telah dimuat: cookie_helper
+INFO - 2018-08-01 12:25:25 --> Database Driver Class telah di inisialisasi
+INFO - 2018-08-01 12:25:25 --> Model "datatable" telah di inisialisasi
+INFO - 2018-08-01 12:25:25 --> Output akhir dikirim ke browser
+DEBUG - 2018-08-01 12:25:25 --> Total waktu eksekusi: 0.5088
+INFO - 2018-08-01 12:25:35 --> Config Class telah di inisialisasi
+INFO - 2018-08-01 12:25:35 --> Hooks Class telah di inisialisasi
+DEBUG - 2018-08-01 12:25:35 --> UTF-8 Support Aktif
+INFO - 2018-08-01 12:25:35 --> Utf8 Class telah di inisialisasi
+INFO - 2018-08-01 12:25:35 --> URI Class telah di inisialisasi
+INFO - 2018-08-01 12:25:35 --> Router Class telah di inisialisasi
+INFO - 2018-08-01 12:25:35 --> Output Class telah di inisialisasi
+INFO - 2018-08-01 12:25:35 --> Security Class telah di inisialisasi
+DEBUG - 2018-08-01 12:25:35 --> Global POST, GET dan COOKIE data telah disanitasi
+INFO - 2018-08-01 12:25:35 --> Input Class telah di inisialisasi
+INFO - 2018-08-01 12:25:35 --> Language Class telah di inisialisasi
+INFO - 2018-08-01 12:25:35 --> Loader Class telah di inisialisasi
+INFO - 2018-08-01 12:25:35 --> Helper telah dimuat: url_helper
+INFO - 2018-08-01 12:25:35 --> Controller Class telah di inisialisasi
+DEBUG - 2018-08-01 12:25:35 --> Session: "sess_save_path" kosong; pakai "session.save_path" data dari php.ini.
+INFO - 2018-08-01 12:25:35 --> Session: Class initialized using 'files' driver.
+INFO - 2018-08-01 12:25:36 --> Helper telah dimuat: cookie_helper
+INFO - 2018-08-01 12:25:36 --> File telah dimuat: D:\XAMPP\htdocs\jb\application\views\jebews/html/head.php
+INFO - 2018-08-01 12:25:36 --> File telah dimuat: D:\XAMPP\htdocs\jb\application\views\jebews/product/manage.php
+INFO - 2018-08-01 12:25:36 --> Output akhir dikirim ke browser
+DEBUG - 2018-08-01 12:25:36 --> Total waktu eksekusi: 0.4706
+INFO - 2018-08-01 12:25:36 --> Config Class telah di inisialisasi
+INFO - 2018-08-01 12:25:36 --> Hooks Class telah di inisialisasi
+DEBUG - 2018-08-01 12:25:36 --> UTF-8 Support Aktif
+INFO - 2018-08-01 12:25:36 --> Utf8 Class telah di inisialisasi
+INFO - 2018-08-01 12:25:36 --> URI Class telah di inisialisasi
+INFO - 2018-08-01 12:25:36 --> Router Class telah di inisialisasi
+INFO - 2018-08-01 12:25:36 --> Output Class telah di inisialisasi
+INFO - 2018-08-01 12:25:36 --> Security Class telah di inisialisasi
+DEBUG - 2018-08-01 12:25:36 --> Global POST, GET dan COOKIE data telah disanitasi
+INFO - 2018-08-01 12:25:36 --> Input Class telah di inisialisasi
+INFO - 2018-08-01 12:25:36 --> Language Class telah di inisialisasi
+INFO - 2018-08-01 12:25:36 --> Loader Class telah di inisialisasi
+INFO - 2018-08-01 12:25:36 --> Helper telah dimuat: url_helper
+INFO - 2018-08-01 12:25:36 --> Controller Class telah di inisialisasi
+DEBUG - 2018-08-01 12:25:36 --> Session: "sess_save_path" kosong; pakai "session.save_path" data dari php.ini.
+INFO - 2018-08-01 12:25:36 --> Session: Class initialized using 'files' driver.
+INFO - 2018-08-01 12:25:36 --> Helper telah dimuat: cookie_helper
+INFO - 2018-08-01 12:25:36 --> Database Driver Class telah di inisialisasi
+INFO - 2018-08-01 12:25:36 --> Model "datatable" telah di inisialisasi
+INFO - 2018-08-01 12:25:36 --> Output akhir dikirim ke browser
+DEBUG - 2018-08-01 12:25:36 --> Total waktu eksekusi: 0.4880
+INFO - 2018-08-01 12:26:07 --> Config Class telah di inisialisasi
+INFO - 2018-08-01 12:26:07 --> Hooks Class telah di inisialisasi
+DEBUG - 2018-08-01 12:26:07 --> UTF-8 Support Aktif
+INFO - 2018-08-01 12:26:07 --> Utf8 Class telah di inisialisasi
+INFO - 2018-08-01 12:26:07 --> URI Class telah di inisialisasi
+INFO - 2018-08-01 12:26:07 --> Router Class telah di inisialisasi
+INFO - 2018-08-01 12:26:07 --> Output Class telah di inisialisasi
+INFO - 2018-08-01 12:26:07 --> Security Class telah di inisialisasi
+DEBUG - 2018-08-01 12:26:07 --> Global POST, GET dan COOKIE data telah disanitasi
+INFO - 2018-08-01 12:26:07 --> Input Class telah di inisialisasi
+INFO - 2018-08-01 12:26:07 --> Language Class telah di inisialisasi
+INFO - 2018-08-01 12:26:07 --> Loader Class telah di inisialisasi
+INFO - 2018-08-01 12:26:07 --> Helper telah dimuat: url_helper
+INFO - 2018-08-01 12:26:07 --> Controller Class telah di inisialisasi
+DEBUG - 2018-08-01 12:26:07 --> Session: "sess_save_path" kosong; pakai "session.save_path" data dari php.ini.
+INFO - 2018-08-01 12:26:07 --> Session: Class initialized using 'files' driver.
+INFO - 2018-08-01 12:26:07 --> Helper telah dimuat: cookie_helper
+INFO - 2018-08-01 12:26:07 --> File telah dimuat: D:\XAMPP\htdocs\jb\application\views\jebews/html/head.php
+INFO - 2018-08-01 12:26:07 --> File telah dimuat: D:\XAMPP\htdocs\jb\application\views\jebews/product/manage.php
+INFO - 2018-08-01 12:26:07 --> Output akhir dikirim ke browser
+DEBUG - 2018-08-01 12:26:07 --> Total waktu eksekusi: 0.4612
+INFO - 2018-08-01 12:26:07 --> Config Class telah di inisialisasi
+INFO - 2018-08-01 12:26:07 --> Hooks Class telah di inisialisasi
+DEBUG - 2018-08-01 12:26:07 --> UTF-8 Support Aktif
+INFO - 2018-08-01 12:26:07 --> Utf8 Class telah di inisialisasi
+INFO - 2018-08-01 12:26:07 --> URI Class telah di inisialisasi
+INFO - 2018-08-01 12:26:07 --> Router Class telah di inisialisasi
+INFO - 2018-08-01 12:26:07 --> Output Class telah di inisialisasi
+INFO - 2018-08-01 12:26:07 --> Security Class telah di inisialisasi
+DEBUG - 2018-08-01 12:26:07 --> Global POST, GET dan COOKIE data telah disanitasi
+INFO - 2018-08-01 12:26:07 --> Input Class telah di inisialisasi
+INFO - 2018-08-01 12:26:07 --> Language Class telah di inisialisasi
+INFO - 2018-08-01 12:26:08 --> Loader Class telah di inisialisasi
+INFO - 2018-08-01 12:26:08 --> Helper telah dimuat: url_helper
+INFO - 2018-08-01 12:26:08 --> Controller Class telah di inisialisasi
+DEBUG - 2018-08-01 12:26:08 --> Session: "sess_save_path" kosong; pakai "session.save_path" data dari php.ini.
+INFO - 2018-08-01 12:26:08 --> Session: Class initialized using 'files' driver.
+INFO - 2018-08-01 12:26:08 --> Helper telah dimuat: cookie_helper
+INFO - 2018-08-01 12:26:08 --> Database Driver Class telah di inisialisasi
+INFO - 2018-08-01 12:26:08 --> Model "datatable" telah di inisialisasi
+INFO - 2018-08-01 12:26:08 --> Output akhir dikirim ke browser
+DEBUG - 2018-08-01 12:26:08 --> Total waktu eksekusi: 0.4970
+INFO - 2018-08-01 12:26:16 --> Config Class telah di inisialisasi
+INFO - 2018-08-01 12:26:17 --> Hooks Class telah di inisialisasi
+DEBUG - 2018-08-01 12:26:17 --> UTF-8 Support Aktif
+INFO - 2018-08-01 12:26:17 --> Utf8 Class telah di inisialisasi
+INFO - 2018-08-01 12:26:17 --> URI Class telah di inisialisasi
+INFO - 2018-08-01 12:26:17 --> Router Class telah di inisialisasi
+INFO - 2018-08-01 12:26:17 --> Output Class telah di inisialisasi
+INFO - 2018-08-01 12:26:17 --> Security Class telah di inisialisasi
+DEBUG - 2018-08-01 12:26:17 --> Global POST, GET dan COOKIE data telah disanitasi
+INFO - 2018-08-01 12:26:17 --> Input Class telah di inisialisasi
+INFO - 2018-08-01 12:26:17 --> Language Class telah di inisialisasi
+INFO - 2018-08-01 12:26:17 --> Loader Class telah di inisialisasi
+INFO - 2018-08-01 12:26:17 --> Helper telah dimuat: url_helper
+INFO - 2018-08-01 12:26:17 --> Controller Class telah di inisialisasi
+DEBUG - 2018-08-01 12:26:17 --> Session: "sess_save_path" kosong; pakai "session.save_path" data dari php.ini.
+INFO - 2018-08-01 12:26:17 --> Session: Class initialized using 'files' driver.
+INFO - 2018-08-01 12:26:17 --> Helper telah dimuat: cookie_helper
+INFO - 2018-08-01 12:26:17 --> File telah dimuat: D:\XAMPP\htdocs\jb\application\views\jebews/html/head.php
+INFO - 2018-08-01 12:26:17 --> File telah dimuat: D:\XAMPP\htdocs\jb\application\views\jebews/product/manage.php
+INFO - 2018-08-01 12:26:17 --> Output akhir dikirim ke browser
+DEBUG - 2018-08-01 12:26:17 --> Total waktu eksekusi: 0.4556
+INFO - 2018-08-01 12:26:17 --> Config Class telah di inisialisasi
+INFO - 2018-08-01 12:26:17 --> Hooks Class telah di inisialisasi
+DEBUG - 2018-08-01 12:26:17 --> UTF-8 Support Aktif
+INFO - 2018-08-01 12:26:17 --> Utf8 Class telah di inisialisasi
+INFO - 2018-08-01 12:26:17 --> URI Class telah di inisialisasi
+INFO - 2018-08-01 12:26:17 --> Router Class telah di inisialisasi
+INFO - 2018-08-01 12:26:17 --> Output Class telah di inisialisasi
+INFO - 2018-08-01 12:26:17 --> Security Class telah di inisialisasi
+DEBUG - 2018-08-01 12:26:17 --> Global POST, GET dan COOKIE data telah disanitasi
+INFO - 2018-08-01 12:26:17 --> Input Class telah di inisialisasi
+INFO - 2018-08-01 12:26:17 --> Language Class telah di inisialisasi
+INFO - 2018-08-01 12:26:17 --> Loader Class telah di inisialisasi
+INFO - 2018-08-01 12:26:17 --> Helper telah dimuat: url_helper
+INFO - 2018-08-01 12:26:17 --> Controller Class telah di inisialisasi
+DEBUG - 2018-08-01 12:26:17 --> Session: "sess_save_path" kosong; pakai "session.save_path" data dari php.ini.
+INFO - 2018-08-01 12:26:18 --> Session: Class initialized using 'files' driver.
+INFO - 2018-08-01 12:26:18 --> Helper telah dimuat: cookie_helper
+INFO - 2018-08-01 12:26:18 --> Database Driver Class telah di inisialisasi
+INFO - 2018-08-01 12:26:18 --> Model "datatable" telah di inisialisasi
+INFO - 2018-08-01 12:26:18 --> Output akhir dikirim ke browser
+DEBUG - 2018-08-01 12:26:18 --> Total waktu eksekusi: 0.4940
+INFO - 2018-08-01 12:26:44 --> Config Class telah di inisialisasi
+INFO - 2018-08-01 12:26:44 --> Hooks Class telah di inisialisasi
+DEBUG - 2018-08-01 12:26:44 --> UTF-8 Support Aktif
+INFO - 2018-08-01 12:26:44 --> Utf8 Class telah di inisialisasi
+INFO - 2018-08-01 12:26:44 --> URI Class telah di inisialisasi
+INFO - 2018-08-01 12:26:44 --> Router Class telah di inisialisasi
+INFO - 2018-08-01 12:26:44 --> Output Class telah di inisialisasi
+INFO - 2018-08-01 12:26:44 --> Security Class telah di inisialisasi
+DEBUG - 2018-08-01 12:26:44 --> Global POST, GET dan COOKIE data telah disanitasi
+INFO - 2018-08-01 12:26:44 --> Input Class telah di inisialisasi
+INFO - 2018-08-01 12:26:44 --> Language Class telah di inisialisasi
+INFO - 2018-08-01 12:26:44 --> Loader Class telah di inisialisasi
+INFO - 2018-08-01 12:26:44 --> Helper telah dimuat: url_helper
+INFO - 2018-08-01 12:26:44 --> Controller Class telah di inisialisasi
+DEBUG - 2018-08-01 12:26:44 --> Session: "sess_save_path" kosong; pakai "session.save_path" data dari php.ini.
+INFO - 2018-08-01 12:26:44 --> Session: Class initialized using 'files' driver.
+INFO - 2018-08-01 12:26:44 --> Helper telah dimuat: cookie_helper
+INFO - 2018-08-01 12:26:44 --> Database Driver Class telah di inisialisasi
+INFO - 2018-08-01 12:26:44 --> Model "datatable" telah di inisialisasi
+INFO - 2018-08-01 12:26:44 --> Output akhir dikirim ke browser
+DEBUG - 2018-08-01 12:26:44 --> Total waktu eksekusi: 0.4588
+INFO - 2018-08-01 12:26:45 --> Config Class telah di inisialisasi
+INFO - 2018-08-01 12:26:45 --> Hooks Class telah di inisialisasi
+DEBUG - 2018-08-01 12:26:45 --> UTF-8 Support Aktif
+INFO - 2018-08-01 12:26:45 --> Utf8 Class telah di inisialisasi
+INFO - 2018-08-01 12:26:45 --> URI Class telah di inisialisasi
+INFO - 2018-08-01 12:26:45 --> Router Class telah di inisialisasi
+INFO - 2018-08-01 12:26:45 --> Output Class telah di inisialisasi
+INFO - 2018-08-01 12:26:45 --> Security Class telah di inisialisasi
+DEBUG - 2018-08-01 12:26:45 --> Global POST, GET dan COOKIE data telah disanitasi
+INFO - 2018-08-01 12:26:45 --> Input Class telah di inisialisasi
+INFO - 2018-08-01 12:26:45 --> Language Class telah di inisialisasi
+INFO - 2018-08-01 12:26:45 --> Loader Class telah di inisialisasi
+INFO - 2018-08-01 12:26:45 --> Helper telah dimuat: url_helper
+INFO - 2018-08-01 12:26:45 --> Controller Class telah di inisialisasi
+DEBUG - 2018-08-01 12:26:46 --> Session: "sess_save_path" kosong; pakai "session.save_path" data dari php.ini.
+INFO - 2018-08-01 12:26:46 --> Session: Class initialized using 'files' driver.
+INFO - 2018-08-01 12:26:46 --> Helper telah dimuat: cookie_helper
+INFO - 2018-08-01 12:26:46 --> Database Driver Class telah di inisialisasi
+INFO - 2018-08-01 12:26:46 --> Model "datatable" telah di inisialisasi
+INFO - 2018-08-01 12:26:46 --> Output akhir dikirim ke browser
+DEBUG - 2018-08-01 12:26:46 --> Total waktu eksekusi: 0.4778
+INFO - 2018-08-01 12:26:56 --> Config Class telah di inisialisasi
+INFO - 2018-08-01 12:26:56 --> Hooks Class telah di inisialisasi
+DEBUG - 2018-08-01 12:26:56 --> UTF-8 Support Aktif
+INFO - 2018-08-01 12:26:56 --> Utf8 Class telah di inisialisasi
+INFO - 2018-08-01 12:26:56 --> URI Class telah di inisialisasi
+INFO - 2018-08-01 12:26:56 --> Router Class telah di inisialisasi
+INFO - 2018-08-01 12:26:56 --> Output Class telah di inisialisasi
+INFO - 2018-08-01 12:26:56 --> Security Class telah di inisialisasi
+DEBUG - 2018-08-01 12:26:56 --> Global POST, GET dan COOKIE data telah disanitasi
+INFO - 2018-08-01 12:26:56 --> Input Class telah di inisialisasi
+INFO - 2018-08-01 12:26:56 --> Language Class telah di inisialisasi
+INFO - 2018-08-01 12:26:56 --> Loader Class telah di inisialisasi
+INFO - 2018-08-01 12:26:56 --> Helper telah dimuat: url_helper
+INFO - 2018-08-01 12:26:56 --> Controller Class telah di inisialisasi
+DEBUG - 2018-08-01 12:26:56 --> Session: "sess_save_path" kosong; pakai "session.save_path" data dari php.ini.
+INFO - 2018-08-01 12:26:56 --> Session: Class initialized using 'files' driver.
+INFO - 2018-08-01 12:26:56 --> Helper telah dimuat: cookie_helper
+INFO - 2018-08-01 12:26:56 --> File telah dimuat: D:\XAMPP\htdocs\jb\application\views\jebews/html/head.php
+INFO - 2018-08-01 12:26:56 --> File telah dimuat: D:\XAMPP\htdocs\jb\application\views\jebews/product/manage.php
+INFO - 2018-08-01 12:26:56 --> Output akhir dikirim ke browser
+DEBUG - 2018-08-01 12:26:56 --> Total waktu eksekusi: 0.4636
+INFO - 2018-08-01 12:26:57 --> Config Class telah di inisialisasi
+INFO - 2018-08-01 12:26:57 --> Hooks Class telah di inisialisasi
+DEBUG - 2018-08-01 12:26:57 --> UTF-8 Support Aktif
+INFO - 2018-08-01 12:26:57 --> Utf8 Class telah di inisialisasi
+INFO - 2018-08-01 12:26:57 --> URI Class telah di inisialisasi
+INFO - 2018-08-01 12:26:57 --> Router Class telah di inisialisasi
+INFO - 2018-08-01 12:26:57 --> Output Class telah di inisialisasi
+INFO - 2018-08-01 12:26:57 --> Security Class telah di inisialisasi
+DEBUG - 2018-08-01 12:26:57 --> Global POST, GET dan COOKIE data telah disanitasi
+INFO - 2018-08-01 12:26:57 --> Input Class telah di inisialisasi
+INFO - 2018-08-01 12:26:57 --> Language Class telah di inisialisasi
+INFO - 2018-08-01 12:26:57 --> Loader Class telah di inisialisasi
+INFO - 2018-08-01 12:26:57 --> Helper telah dimuat: url_helper
+INFO - 2018-08-01 12:26:57 --> Controller Class telah di inisialisasi
+DEBUG - 2018-08-01 12:26:57 --> Session: "sess_save_path" kosong; pakai "session.save_path" data dari php.ini.
+INFO - 2018-08-01 12:26:57 --> Session: Class initialized using 'files' driver.
+INFO - 2018-08-01 12:26:57 --> Helper telah dimuat: cookie_helper
+INFO - 2018-08-01 12:26:57 --> Database Driver Class telah di inisialisasi
+INFO - 2018-08-01 12:26:57 --> Model "datatable" telah di inisialisasi
+INFO - 2018-08-01 12:26:57 --> Output akhir dikirim ke browser
+DEBUG - 2018-08-01 12:26:57 --> Total waktu eksekusi: 0.4974
+INFO - 2018-08-01 12:31:01 --> Config Class telah di inisialisasi
+INFO - 2018-08-01 12:31:01 --> Hooks Class telah di inisialisasi
+DEBUG - 2018-08-01 12:31:01 --> UTF-8 Support Aktif
+INFO - 2018-08-01 12:31:01 --> Utf8 Class telah di inisialisasi
+INFO - 2018-08-01 12:31:01 --> URI Class telah di inisialisasi
+INFO - 2018-08-01 12:31:01 --> Router Class telah di inisialisasi
+INFO - 2018-08-01 12:31:01 --> Output Class telah di inisialisasi
+INFO - 2018-08-01 12:31:01 --> Security Class telah di inisialisasi
+DEBUG - 2018-08-01 12:31:01 --> Global POST, GET dan COOKIE data telah disanitasi
+INFO - 2018-08-01 12:31:01 --> Input Class telah di inisialisasi
+INFO - 2018-08-01 12:31:01 --> Language Class telah di inisialisasi
+INFO - 2018-08-01 12:31:01 --> Loader Class telah di inisialisasi
+INFO - 2018-08-01 12:31:01 --> Helper telah dimuat: url_helper
+INFO - 2018-08-01 12:31:01 --> Controller Class telah di inisialisasi
+DEBUG - 2018-08-01 12:31:01 --> Session: "sess_save_path" kosong; pakai "session.save_path" data dari php.ini.
+INFO - 2018-08-01 12:31:01 --> Session: Class initialized using 'files' driver.
+INFO - 2018-08-01 12:31:02 --> Helper telah dimuat: cookie_helper
+INFO - 2018-08-01 12:31:02 --> File telah dimuat: D:\XAMPP\htdocs\jb\application\views\jebews/html/head.php
+INFO - 2018-08-01 12:31:02 --> File telah dimuat: D:\XAMPP\htdocs\jb\application\views\jebews/product/manage.php
+INFO - 2018-08-01 12:31:02 --> Output akhir dikirim ke browser
+DEBUG - 2018-08-01 12:31:02 --> Total waktu eksekusi: 0.5410
+INFO - 2018-08-01 12:31:02 --> Config Class telah di inisialisasi
+INFO - 2018-08-01 12:31:02 --> Hooks Class telah di inisialisasi
+DEBUG - 2018-08-01 12:31:02 --> UTF-8 Support Aktif
+INFO - 2018-08-01 12:31:02 --> Utf8 Class telah di inisialisasi
+INFO - 2018-08-01 12:31:02 --> URI Class telah di inisialisasi
+INFO - 2018-08-01 12:31:02 --> Router Class telah di inisialisasi
+INFO - 2018-08-01 12:31:02 --> Output Class telah di inisialisasi
+INFO - 2018-08-01 12:31:02 --> Security Class telah di inisialisasi
+DEBUG - 2018-08-01 12:31:02 --> Global POST, GET dan COOKIE data telah disanitasi
+INFO - 2018-08-01 12:31:02 --> Input Class telah di inisialisasi
+INFO - 2018-08-01 12:31:02 --> Language Class telah di inisialisasi
+INFO - 2018-08-01 12:31:02 --> Loader Class telah di inisialisasi
+INFO - 2018-08-01 12:31:02 --> Helper telah dimuat: url_helper
+INFO - 2018-08-01 12:31:02 --> Controller Class telah di inisialisasi
+DEBUG - 2018-08-01 12:31:02 --> Session: "sess_save_path" kosong; pakai "session.save_path" data dari php.ini.
+INFO - 2018-08-01 12:31:02 --> Session: Class initialized using 'files' driver.
+INFO - 2018-08-01 12:31:02 --> Helper telah dimuat: cookie_helper
+INFO - 2018-08-01 12:31:02 --> Database Driver Class telah di inisialisasi
+INFO - 2018-08-01 12:31:02 --> Model "datatable" telah di inisialisasi
+INFO - 2018-08-01 12:31:02 --> Output akhir dikirim ke browser
+DEBUG - 2018-08-01 12:31:02 --> Total waktu eksekusi: 0.5100
+INFO - 2018-08-01 12:31:22 --> Config Class telah di inisialisasi
+INFO - 2018-08-01 12:31:22 --> Hooks Class telah di inisialisasi
+DEBUG - 2018-08-01 12:31:22 --> UTF-8 Support Aktif
+INFO - 2018-08-01 12:31:22 --> Utf8 Class telah di inisialisasi
+INFO - 2018-08-01 12:31:22 --> URI Class telah di inisialisasi
+INFO - 2018-08-01 12:31:22 --> Router Class telah di inisialisasi
+INFO - 2018-08-01 12:31:22 --> Output Class telah di inisialisasi
+INFO - 2018-08-01 12:31:22 --> Security Class telah di inisialisasi
+DEBUG - 2018-08-01 12:31:22 --> Global POST, GET dan COOKIE data telah disanitasi
+INFO - 2018-08-01 12:31:22 --> Input Class telah di inisialisasi
+INFO - 2018-08-01 12:31:22 --> Language Class telah di inisialisasi
+INFO - 2018-08-01 12:31:22 --> Loader Class telah di inisialisasi
+INFO - 2018-08-01 12:31:22 --> Helper telah dimuat: url_helper
+INFO - 2018-08-01 12:31:22 --> Controller Class telah di inisialisasi
+DEBUG - 2018-08-01 12:31:22 --> Session: "sess_save_path" kosong; pakai "session.save_path" data dari php.ini.
+INFO - 2018-08-01 12:31:22 --> Session: Class initialized using 'files' driver.
+INFO - 2018-08-01 12:31:23 --> Helper telah dimuat: cookie_helper
+INFO - 2018-08-01 12:31:23 --> File telah dimuat: D:\XAMPP\htdocs\jb\application\views\jebews/html/head.php
+INFO - 2018-08-01 12:31:23 --> File telah dimuat: D:\XAMPP\htdocs\jb\application\views\jebews/product/manage.php
+INFO - 2018-08-01 12:31:23 --> Output akhir dikirim ke browser
+DEBUG - 2018-08-01 12:31:23 --> Total waktu eksekusi: 0.4540
+INFO - 2018-08-01 12:31:23 --> Config Class telah di inisialisasi
+INFO - 2018-08-01 12:31:23 --> Hooks Class telah di inisialisasi
+DEBUG - 2018-08-01 12:31:23 --> UTF-8 Support Aktif
+INFO - 2018-08-01 12:31:23 --> Utf8 Class telah di inisialisasi
+INFO - 2018-08-01 12:31:23 --> URI Class telah di inisialisasi
+INFO - 2018-08-01 12:31:23 --> Router Class telah di inisialisasi
+INFO - 2018-08-01 12:31:23 --> Output Class telah di inisialisasi
+INFO - 2018-08-01 12:31:23 --> Security Class telah di inisialisasi
+DEBUG - 2018-08-01 12:31:23 --> Global POST, GET dan COOKIE data telah disanitasi
+INFO - 2018-08-01 12:31:23 --> Input Class telah di inisialisasi
+INFO - 2018-08-01 12:31:23 --> Language Class telah di inisialisasi
+INFO - 2018-08-01 12:31:23 --> Loader Class telah di inisialisasi
+INFO - 2018-08-01 12:31:23 --> Helper telah dimuat: url_helper
+INFO - 2018-08-01 12:31:23 --> Controller Class telah di inisialisasi
+DEBUG - 2018-08-01 12:31:23 --> Session: "sess_save_path" kosong; pakai "session.save_path" data dari php.ini.
+INFO - 2018-08-01 12:31:23 --> Session: Class initialized using 'files' driver.
+INFO - 2018-08-01 12:31:23 --> Helper telah dimuat: cookie_helper
+INFO - 2018-08-01 12:31:23 --> Database Driver Class telah di inisialisasi
+INFO - 2018-08-01 12:31:23 --> Model "datatable" telah di inisialisasi
+INFO - 2018-08-01 12:31:23 --> Output akhir dikirim ke browser
+DEBUG - 2018-08-01 12:31:23 --> Total waktu eksekusi: 0.5300
+INFO - 2018-08-01 12:32:13 --> Config Class telah di inisialisasi
+INFO - 2018-08-01 12:32:13 --> Hooks Class telah di inisialisasi
+DEBUG - 2018-08-01 12:32:13 --> UTF-8 Support Aktif
+INFO - 2018-08-01 12:32:13 --> Utf8 Class telah di inisialisasi
+INFO - 2018-08-01 12:32:13 --> URI Class telah di inisialisasi
+INFO - 2018-08-01 12:32:13 --> Router Class telah di inisialisasi
+INFO - 2018-08-01 12:32:13 --> Output Class telah di inisialisasi
+INFO - 2018-08-01 12:32:13 --> Security Class telah di inisialisasi
+DEBUG - 2018-08-01 12:32:13 --> Global POST, GET dan COOKIE data telah disanitasi
+INFO - 2018-08-01 12:32:13 --> Input Class telah di inisialisasi
+INFO - 2018-08-01 12:32:13 --> Language Class telah di inisialisasi
+INFO - 2018-08-01 12:32:13 --> Loader Class telah di inisialisasi
+INFO - 2018-08-01 12:32:14 --> Helper telah dimuat: url_helper
+INFO - 2018-08-01 12:32:14 --> Controller Class telah di inisialisasi
+DEBUG - 2018-08-01 12:32:14 --> Session: "sess_save_path" kosong; pakai "session.save_path" data dari php.ini.
+INFO - 2018-08-01 12:32:14 --> Session: Class initialized using 'files' driver.
+INFO - 2018-08-01 12:32:14 --> Helper telah dimuat: cookie_helper
+INFO - 2018-08-01 12:32:14 --> File telah dimuat: D:\XAMPP\htdocs\jb\application\views\jebews/html/head.php
+INFO - 2018-08-01 12:32:14 --> File telah dimuat: D:\XAMPP\htdocs\jb\application\views\jebews/product/manage.php
+INFO - 2018-08-01 12:32:14 --> Output akhir dikirim ke browser
+DEBUG - 2018-08-01 12:32:14 --> Total waktu eksekusi: 0.4660
+INFO - 2018-08-01 12:32:14 --> Config Class telah di inisialisasi
+INFO - 2018-08-01 12:32:14 --> Hooks Class telah di inisialisasi
+DEBUG - 2018-08-01 12:32:14 --> UTF-8 Support Aktif
+INFO - 2018-08-01 12:32:14 --> Utf8 Class telah di inisialisasi
+INFO - 2018-08-01 12:32:14 --> URI Class telah di inisialisasi
+INFO - 2018-08-01 12:32:14 --> Router Class telah di inisialisasi
+INFO - 2018-08-01 12:32:14 --> Output Class telah di inisialisasi
+INFO - 2018-08-01 12:32:14 --> Security Class telah di inisialisasi
+DEBUG - 2018-08-01 12:32:14 --> Global POST, GET dan COOKIE data telah disanitasi
+INFO - 2018-08-01 12:32:14 --> Input Class telah di inisialisasi
+INFO - 2018-08-01 12:32:14 --> Language Class telah di inisialisasi
+INFO - 2018-08-01 12:32:14 --> Loader Class telah di inisialisasi
+INFO - 2018-08-01 12:32:14 --> Helper telah dimuat: url_helper
+INFO - 2018-08-01 12:32:14 --> Controller Class telah di inisialisasi
+DEBUG - 2018-08-01 12:32:14 --> Session: "sess_save_path" kosong; pakai "session.save_path" data dari php.ini.
+INFO - 2018-08-01 12:32:14 --> Session: Class initialized using 'files' driver.
+INFO - 2018-08-01 12:32:14 --> Helper telah dimuat: cookie_helper
+INFO - 2018-08-01 12:32:14 --> Database Driver Class telah di inisialisasi
+INFO - 2018-08-01 12:32:14 --> Model "datatable" telah di inisialisasi
+INFO - 2018-08-01 12:32:14 --> Output akhir dikirim ke browser
+DEBUG - 2018-08-01 12:32:14 --> Total waktu eksekusi: 0.5176
+INFO - 2018-08-01 12:32:26 --> Config Class telah di inisialisasi
+INFO - 2018-08-01 12:32:26 --> Hooks Class telah di inisialisasi
+DEBUG - 2018-08-01 12:32:26 --> UTF-8 Support Aktif
+INFO - 2018-08-01 12:32:26 --> Utf8 Class telah di inisialisasi
+INFO - 2018-08-01 12:32:26 --> URI Class telah di inisialisasi
+INFO - 2018-08-01 12:32:26 --> Router Class telah di inisialisasi
+INFO - 2018-08-01 12:32:26 --> Output Class telah di inisialisasi
+INFO - 2018-08-01 12:32:26 --> Security Class telah di inisialisasi
+DEBUG - 2018-08-01 12:32:26 --> Global POST, GET dan COOKIE data telah disanitasi
+INFO - 2018-08-01 12:32:26 --> Input Class telah di inisialisasi
+INFO - 2018-08-01 12:32:26 --> Language Class telah di inisialisasi
+INFO - 2018-08-01 12:32:26 --> Loader Class telah di inisialisasi
+INFO - 2018-08-01 12:32:26 --> Helper telah dimuat: url_helper
+INFO - 2018-08-01 12:32:26 --> Controller Class telah di inisialisasi
+DEBUG - 2018-08-01 12:32:26 --> Session: "sess_save_path" kosong; pakai "session.save_path" data dari php.ini.
+INFO - 2018-08-01 12:32:26 --> Session: Class initialized using 'files' driver.
+INFO - 2018-08-01 12:32:26 --> Helper telah dimuat: cookie_helper
+INFO - 2018-08-01 12:32:26 --> File telah dimuat: D:\XAMPP\htdocs\jb\application\views\jebews/html/head.php
+INFO - 2018-08-01 12:32:26 --> File telah dimuat: D:\XAMPP\htdocs\jb\application\views\jebews/product/manage.php
+INFO - 2018-08-01 12:32:26 --> Output akhir dikirim ke browser
+DEBUG - 2018-08-01 12:32:26 --> Total waktu eksekusi: 0.4656
+INFO - 2018-08-01 12:32:27 --> Config Class telah di inisialisasi
+INFO - 2018-08-01 12:32:27 --> Hooks Class telah di inisialisasi
+DEBUG - 2018-08-01 12:32:27 --> UTF-8 Support Aktif
+INFO - 2018-08-01 12:32:27 --> Utf8 Class telah di inisialisasi
+INFO - 2018-08-01 12:32:27 --> URI Class telah di inisialisasi
+INFO - 2018-08-01 12:32:27 --> Router Class telah di inisialisasi
+INFO - 2018-08-01 12:32:27 --> Output Class telah di inisialisasi
+INFO - 2018-08-01 12:32:27 --> Security Class telah di inisialisasi
+DEBUG - 2018-08-01 12:32:27 --> Global POST, GET dan COOKIE data telah disanitasi
+INFO - 2018-08-01 12:32:27 --> Input Class telah di inisialisasi
+INFO - 2018-08-01 12:32:27 --> Language Class telah di inisialisasi
+INFO - 2018-08-01 12:32:27 --> Loader Class telah di inisialisasi
+INFO - 2018-08-01 12:32:27 --> Helper telah dimuat: url_helper
+INFO - 2018-08-01 12:32:27 --> Controller Class telah di inisialisasi
+DEBUG - 2018-08-01 12:32:27 --> Session: "sess_save_path" kosong; pakai "session.save_path" data dari php.ini.
+INFO - 2018-08-01 12:32:27 --> Session: Class initialized using 'files' driver.
+INFO - 2018-08-01 12:32:27 --> Helper telah dimuat: cookie_helper
+INFO - 2018-08-01 12:32:27 --> Database Driver Class telah di inisialisasi
+INFO - 2018-08-01 12:32:27 --> Model "datatable" telah di inisialisasi
+INFO - 2018-08-01 12:32:27 --> Output akhir dikirim ke browser
+DEBUG - 2018-08-01 12:32:27 --> Total waktu eksekusi: 0.5236
+INFO - 2018-08-01 12:36:07 --> Config Class telah di inisialisasi
+INFO - 2018-08-01 12:36:07 --> Hooks Class telah di inisialisasi
+DEBUG - 2018-08-01 12:36:07 --> UTF-8 Support Aktif
+INFO - 2018-08-01 12:36:07 --> Utf8 Class telah di inisialisasi
+INFO - 2018-08-01 12:36:07 --> URI Class telah di inisialisasi
+INFO - 2018-08-01 12:36:07 --> Router Class telah di inisialisasi
+INFO - 2018-08-01 12:36:07 --> Output Class telah di inisialisasi
+INFO - 2018-08-01 12:36:07 --> Security Class telah di inisialisasi
+DEBUG - 2018-08-01 12:36:07 --> Global POST, GET dan COOKIE data telah disanitasi
+INFO - 2018-08-01 12:36:07 --> Input Class telah di inisialisasi
+INFO - 2018-08-01 12:36:07 --> Language Class telah di inisialisasi
+INFO - 2018-08-01 12:36:07 --> Loader Class telah di inisialisasi
+INFO - 2018-08-01 12:36:07 --> Helper telah dimuat: url_helper
+INFO - 2018-08-01 12:36:07 --> Controller Class telah di inisialisasi
+DEBUG - 2018-08-01 12:36:07 --> Session: "sess_save_path" kosong; pakai "session.save_path" data dari php.ini.
+INFO - 2018-08-01 12:36:07 --> Session: Class initialized using 'files' driver.
+INFO - 2018-08-01 12:36:07 --> Helper telah dimuat: cookie_helper
+INFO - 2018-08-01 12:36:07 --> File telah dimuat: D:\XAMPP\htdocs\jb\application\views\jebews/html/head.php
+INFO - 2018-08-01 12:36:07 --> File telah dimuat: D:\XAMPP\htdocs\jb\application\views\jebews/product/manage.php
+INFO - 2018-08-01 12:36:07 --> Output akhir dikirim ke browser
+DEBUG - 2018-08-01 12:36:07 --> Total waktu eksekusi: 0.4906
+INFO - 2018-08-01 12:36:08 --> Config Class telah di inisialisasi
+INFO - 2018-08-01 12:36:08 --> Hooks Class telah di inisialisasi
+DEBUG - 2018-08-01 12:36:08 --> UTF-8 Support Aktif
+INFO - 2018-08-01 12:36:08 --> Utf8 Class telah di inisialisasi
+INFO - 2018-08-01 12:36:08 --> URI Class telah di inisialisasi
+INFO - 2018-08-01 12:36:08 --> Router Class telah di inisialisasi
+INFO - 2018-08-01 12:36:08 --> Output Class telah di inisialisasi
+INFO - 2018-08-01 12:36:08 --> Security Class telah di inisialisasi
+DEBUG - 2018-08-01 12:36:08 --> Global POST, GET dan COOKIE data telah disanitasi
+INFO - 2018-08-01 12:36:08 --> Input Class telah di inisialisasi
+INFO - 2018-08-01 12:36:08 --> Language Class telah di inisialisasi
+INFO - 2018-08-01 12:36:08 --> Loader Class telah di inisialisasi
+INFO - 2018-08-01 12:36:08 --> Helper telah dimuat: url_helper
+INFO - 2018-08-01 12:36:08 --> Controller Class telah di inisialisasi
+DEBUG - 2018-08-01 12:36:08 --> Session: "sess_save_path" kosong; pakai "session.save_path" data dari php.ini.
+INFO - 2018-08-01 12:36:08 --> Session: Class initialized using 'files' driver.
+INFO - 2018-08-01 12:36:08 --> Helper telah dimuat: cookie_helper
+INFO - 2018-08-01 12:36:08 --> Database Driver Class telah di inisialisasi
+INFO - 2018-08-01 12:36:08 --> Model "datatable" telah di inisialisasi
+INFO - 2018-08-01 12:36:08 --> Output akhir dikirim ke browser
+DEBUG - 2018-08-01 12:36:08 --> Total waktu eksekusi: 0.5150
+INFO - 2018-08-01 12:37:39 --> Config Class telah di inisialisasi
+INFO - 2018-08-01 12:37:39 --> Hooks Class telah di inisialisasi
+DEBUG - 2018-08-01 12:37:39 --> UTF-8 Support Aktif
+INFO - 2018-08-01 12:37:39 --> Utf8 Class telah di inisialisasi
+INFO - 2018-08-01 12:37:39 --> URI Class telah di inisialisasi
+INFO - 2018-08-01 12:37:39 --> Router Class telah di inisialisasi
+INFO - 2018-08-01 12:37:39 --> Output Class telah di inisialisasi
+INFO - 2018-08-01 12:37:39 --> Security Class telah di inisialisasi
+DEBUG - 2018-08-01 12:37:39 --> Global POST, GET dan COOKIE data telah disanitasi
+INFO - 2018-08-01 12:37:39 --> Input Class telah di inisialisasi
+INFO - 2018-08-01 12:37:39 --> Language Class telah di inisialisasi
+INFO - 2018-08-01 12:37:39 --> Loader Class telah di inisialisasi
+INFO - 2018-08-01 12:37:39 --> Helper telah dimuat: url_helper
+INFO - 2018-08-01 12:37:40 --> Controller Class telah di inisialisasi
+DEBUG - 2018-08-01 12:37:40 --> Session: "sess_save_path" kosong; pakai "session.save_path" data dari php.ini.
+INFO - 2018-08-01 12:37:40 --> Session: Class initialized using 'files' driver.
+INFO - 2018-08-01 12:37:40 --> Helper telah dimuat: cookie_helper
+INFO - 2018-08-01 12:37:40 --> File telah dimuat: D:\XAMPP\htdocs\jb\application\views\jebews/html/head.php
+INFO - 2018-08-01 12:37:40 --> File telah dimuat: D:\XAMPP\htdocs\jb\application\views\jebews/product/manage.php
+INFO - 2018-08-01 12:37:40 --> Output akhir dikirim ke browser
+DEBUG - 2018-08-01 12:37:40 --> Total waktu eksekusi: 0.4662
+INFO - 2018-08-01 12:37:40 --> Config Class telah di inisialisasi
+INFO - 2018-08-01 12:37:40 --> Hooks Class telah di inisialisasi
+DEBUG - 2018-08-01 12:37:40 --> UTF-8 Support Aktif
+INFO - 2018-08-01 12:37:40 --> Utf8 Class telah di inisialisasi
+INFO - 2018-08-01 12:37:40 --> URI Class telah di inisialisasi
+INFO - 2018-08-01 12:37:40 --> Router Class telah di inisialisasi
+INFO - 2018-08-01 12:37:40 --> Output Class telah di inisialisasi
+INFO - 2018-08-01 12:37:40 --> Security Class telah di inisialisasi
+DEBUG - 2018-08-01 12:37:40 --> Global POST, GET dan COOKIE data telah disanitasi
+INFO - 2018-08-01 12:37:40 --> Input Class telah di inisialisasi
+INFO - 2018-08-01 12:37:40 --> Language Class telah di inisialisasi
+INFO - 2018-08-01 12:37:40 --> Loader Class telah di inisialisasi
+INFO - 2018-08-01 12:37:40 --> Helper telah dimuat: url_helper
+INFO - 2018-08-01 12:37:40 --> Controller Class telah di inisialisasi
+DEBUG - 2018-08-01 12:37:40 --> Session: "sess_save_path" kosong; pakai "session.save_path" data dari php.ini.
+INFO - 2018-08-01 12:37:40 --> Session: Class initialized using 'files' driver.
+INFO - 2018-08-01 12:37:40 --> Helper telah dimuat: cookie_helper
+INFO - 2018-08-01 12:37:40 --> Database Driver Class telah di inisialisasi
+INFO - 2018-08-01 12:37:40 --> Model "datatable" telah di inisialisasi
+INFO - 2018-08-01 12:37:40 --> Output akhir dikirim ke browser
+DEBUG - 2018-08-01 12:37:40 --> Total waktu eksekusi: 0.4990
+INFO - 2018-08-01 12:38:38 --> Config Class telah di inisialisasi
+INFO - 2018-08-01 12:38:38 --> Hooks Class telah di inisialisasi
+DEBUG - 2018-08-01 12:38:38 --> UTF-8 Support Aktif
+INFO - 2018-08-01 12:38:38 --> Utf8 Class telah di inisialisasi
+INFO - 2018-08-01 12:38:38 --> URI Class telah di inisialisasi
+INFO - 2018-08-01 12:38:38 --> Router Class telah di inisialisasi
+INFO - 2018-08-01 12:38:38 --> Output Class telah di inisialisasi
+INFO - 2018-08-01 12:38:38 --> Security Class telah di inisialisasi
+DEBUG - 2018-08-01 12:38:38 --> Global POST, GET dan COOKIE data telah disanitasi
+INFO - 2018-08-01 12:38:38 --> Input Class telah di inisialisasi
+INFO - 2018-08-01 12:38:38 --> Language Class telah di inisialisasi
+INFO - 2018-08-01 12:38:38 --> Loader Class telah di inisialisasi
+INFO - 2018-08-01 12:38:38 --> Helper telah dimuat: url_helper
+INFO - 2018-08-01 12:38:38 --> Controller Class telah di inisialisasi
+DEBUG - 2018-08-01 12:38:38 --> Session: "sess_save_path" kosong; pakai "session.save_path" data dari php.ini.
+INFO - 2018-08-01 12:38:38 --> Session: Class initialized using 'files' driver.
+INFO - 2018-08-01 12:38:38 --> Helper telah dimuat: cookie_helper
+INFO - 2018-08-01 12:38:38 --> File telah dimuat: D:\XAMPP\htdocs\jb\application\views\jebews/html/head.php
+INFO - 2018-08-01 12:38:38 --> File telah dimuat: D:\XAMPP\htdocs\jb\application\views\jebews/product/manage.php
+INFO - 2018-08-01 12:38:38 --> Output akhir dikirim ke browser
+DEBUG - 2018-08-01 12:38:38 --> Total waktu eksekusi: 0.5026
+INFO - 2018-08-01 12:38:38 --> Config Class telah di inisialisasi
+INFO - 2018-08-01 12:38:38 --> Hooks Class telah di inisialisasi
+DEBUG - 2018-08-01 12:38:39 --> UTF-8 Support Aktif
+INFO - 2018-08-01 12:38:39 --> Utf8 Class telah di inisialisasi
+INFO - 2018-08-01 12:38:39 --> URI Class telah di inisialisasi
+INFO - 2018-08-01 12:38:39 --> Router Class telah di inisialisasi
+INFO - 2018-08-01 12:38:39 --> Output Class telah di inisialisasi
+INFO - 2018-08-01 12:38:39 --> Security Class telah di inisialisasi
+DEBUG - 2018-08-01 12:38:39 --> Global POST, GET dan COOKIE data telah disanitasi
+INFO - 2018-08-01 12:38:39 --> Input Class telah di inisialisasi
+INFO - 2018-08-01 12:38:39 --> Language Class telah di inisialisasi
+INFO - 2018-08-01 12:38:39 --> Loader Class telah di inisialisasi
+INFO - 2018-08-01 12:38:39 --> Helper telah dimuat: url_helper
+INFO - 2018-08-01 12:38:39 --> Controller Class telah di inisialisasi
+DEBUG - 2018-08-01 12:38:39 --> Session: "sess_save_path" kosong; pakai "session.save_path" data dari php.ini.
+INFO - 2018-08-01 12:38:39 --> Session: Class initialized using 'files' driver.
+INFO - 2018-08-01 12:38:39 --> Helper telah dimuat: cookie_helper
+INFO - 2018-08-01 12:38:39 --> Database Driver Class telah di inisialisasi
+INFO - 2018-08-01 12:38:39 --> Model "datatable" telah di inisialisasi
+INFO - 2018-08-01 12:38:39 --> Output akhir dikirim ke browser
+DEBUG - 2018-08-01 12:38:39 --> Total waktu eksekusi: 0.5666
+INFO - 2018-08-01 12:38:45 --> Config Class telah di inisialisasi
+INFO - 2018-08-01 12:38:45 --> Hooks Class telah di inisialisasi
+DEBUG - 2018-08-01 12:38:45 --> UTF-8 Support Aktif
+INFO - 2018-08-01 12:38:45 --> Utf8 Class telah di inisialisasi
+INFO - 2018-08-01 12:38:45 --> URI Class telah di inisialisasi
+INFO - 2018-08-01 12:38:45 --> Router Class telah di inisialisasi
+INFO - 2018-08-01 12:38:45 --> Output Class telah di inisialisasi
+INFO - 2018-08-01 12:38:45 --> Security Class telah di inisialisasi
+DEBUG - 2018-08-01 12:38:45 --> Global POST, GET dan COOKIE data telah disanitasi
+INFO - 2018-08-01 12:38:45 --> Input Class telah di inisialisasi
+INFO - 2018-08-01 12:38:45 --> Language Class telah di inisialisasi
+INFO - 2018-08-01 12:38:45 --> Loader Class telah di inisialisasi
+INFO - 2018-08-01 12:38:45 --> Helper telah dimuat: url_helper
+INFO - 2018-08-01 12:38:45 --> Controller Class telah di inisialisasi
+DEBUG - 2018-08-01 12:38:45 --> Session: "sess_save_path" kosong; pakai "session.save_path" data dari php.ini.
+INFO - 2018-08-01 12:38:45 --> Session: Class initialized using 'files' driver.
+INFO - 2018-08-01 12:38:45 --> Helper telah dimuat: cookie_helper
+INFO - 2018-08-01 12:38:45 --> File telah dimuat: D:\XAMPP\htdocs\jb\application\views\jebews/html/head.php
+INFO - 2018-08-01 12:38:45 --> File telah dimuat: D:\XAMPP\htdocs\jb\application\views\jebews/product/manage.php
+INFO - 2018-08-01 12:38:45 --> Output akhir dikirim ke browser
+DEBUG - 2018-08-01 12:38:45 --> Total waktu eksekusi: 0.4782
+INFO - 2018-08-01 12:38:45 --> Config Class telah di inisialisasi
+INFO - 2018-08-01 12:38:45 --> Hooks Class telah di inisialisasi
+DEBUG - 2018-08-01 12:38:45 --> UTF-8 Support Aktif
+INFO - 2018-08-01 12:38:45 --> Utf8 Class telah di inisialisasi
+INFO - 2018-08-01 12:38:46 --> URI Class telah di inisialisasi
+INFO - 2018-08-01 12:38:46 --> Router Class telah di inisialisasi
+INFO - 2018-08-01 12:38:46 --> Output Class telah di inisialisasi
+INFO - 2018-08-01 12:38:46 --> Security Class telah di inisialisasi
+DEBUG - 2018-08-01 12:38:46 --> Global POST, GET dan COOKIE data telah disanitasi
+INFO - 2018-08-01 12:38:46 --> Input Class telah di inisialisasi
+INFO - 2018-08-01 12:38:46 --> Language Class telah di inisialisasi
+INFO - 2018-08-01 12:38:46 --> Loader Class telah di inisialisasi
+INFO - 2018-08-01 12:38:46 --> Helper telah dimuat: url_helper
+INFO - 2018-08-01 12:38:46 --> Controller Class telah di inisialisasi
+DEBUG - 2018-08-01 12:38:46 --> Session: "sess_save_path" kosong; pakai "session.save_path" data dari php.ini.
+INFO - 2018-08-01 12:38:46 --> Session: Class initialized using 'files' driver.
+INFO - 2018-08-01 12:38:46 --> Helper telah dimuat: cookie_helper
+INFO - 2018-08-01 12:38:46 --> Database Driver Class telah di inisialisasi
+INFO - 2018-08-01 12:38:46 --> Model "datatable" telah di inisialisasi
+INFO - 2018-08-01 12:38:46 --> Output akhir dikirim ke browser
+DEBUG - 2018-08-01 12:38:46 --> Total waktu eksekusi: 0.5340
+INFO - 2018-08-01 12:39:04 --> Config Class telah di inisialisasi
+INFO - 2018-08-01 12:39:04 --> Hooks Class telah di inisialisasi
+DEBUG - 2018-08-01 12:39:04 --> UTF-8 Support Aktif
+INFO - 2018-08-01 12:39:04 --> Utf8 Class telah di inisialisasi
+INFO - 2018-08-01 12:39:04 --> URI Class telah di inisialisasi
+INFO - 2018-08-01 12:39:04 --> Router Class telah di inisialisasi
+INFO - 2018-08-01 12:39:04 --> Output Class telah di inisialisasi
+INFO - 2018-08-01 12:39:04 --> Security Class telah di inisialisasi
+DEBUG - 2018-08-01 12:39:04 --> Global POST, GET dan COOKIE data telah disanitasi
+INFO - 2018-08-01 12:39:04 --> Input Class telah di inisialisasi
+INFO - 2018-08-01 12:39:04 --> Language Class telah di inisialisasi
+INFO - 2018-08-01 12:39:04 --> Loader Class telah di inisialisasi
+INFO - 2018-08-01 12:39:04 --> Helper telah dimuat: url_helper
+INFO - 2018-08-01 12:39:04 --> Controller Class telah di inisialisasi
+DEBUG - 2018-08-01 12:39:04 --> Session: "sess_save_path" kosong; pakai "session.save_path" data dari php.ini.
+INFO - 2018-08-01 12:39:04 --> Session: Class initialized using 'files' driver.
+INFO - 2018-08-01 12:39:04 --> Helper telah dimuat: cookie_helper
+INFO - 2018-08-01 12:39:04 --> File telah dimuat: D:\XAMPP\htdocs\jb\application\views\jebews/html/head.php
+INFO - 2018-08-01 12:39:04 --> File telah dimuat: D:\XAMPP\htdocs\jb\application\views\jebews/product/manage.php
+INFO - 2018-08-01 12:39:04 --> Output akhir dikirim ke browser
+DEBUG - 2018-08-01 12:39:04 --> Total waktu eksekusi: 0.4656
+INFO - 2018-08-01 12:39:04 --> Config Class telah di inisialisasi
+INFO - 2018-08-01 12:39:04 --> Hooks Class telah di inisialisasi
+DEBUG - 2018-08-01 12:39:04 --> UTF-8 Support Aktif
+INFO - 2018-08-01 12:39:04 --> Utf8 Class telah di inisialisasi
+INFO - 2018-08-01 12:39:04 --> URI Class telah di inisialisasi
+INFO - 2018-08-01 12:39:04 --> Router Class telah di inisialisasi
+INFO - 2018-08-01 12:39:04 --> Output Class telah di inisialisasi
+INFO - 2018-08-01 12:39:04 --> Security Class telah di inisialisasi
+DEBUG - 2018-08-01 12:39:04 --> Global POST, GET dan COOKIE data telah disanitasi
+INFO - 2018-08-01 12:39:04 --> Input Class telah di inisialisasi
+INFO - 2018-08-01 12:39:04 --> Language Class telah di inisialisasi
+INFO - 2018-08-01 12:39:05 --> Loader Class telah di inisialisasi
+INFO - 2018-08-01 12:39:05 --> Helper telah dimuat: url_helper
+INFO - 2018-08-01 12:39:05 --> Controller Class telah di inisialisasi
+DEBUG - 2018-08-01 12:39:05 --> Session: "sess_save_path" kosong; pakai "session.save_path" data dari php.ini.
+INFO - 2018-08-01 12:39:05 --> Session: Class initialized using 'files' driver.
+INFO - 2018-08-01 12:39:05 --> Helper telah dimuat: cookie_helper
+INFO - 2018-08-01 12:39:05 --> Database Driver Class telah di inisialisasi
+INFO - 2018-08-01 12:39:05 --> Model "datatable" telah di inisialisasi
+INFO - 2018-08-01 12:39:05 --> Output akhir dikirim ke browser
+DEBUG - 2018-08-01 12:39:05 --> Total waktu eksekusi: 0.5306
+INFO - 2018-08-01 12:39:17 --> Config Class telah di inisialisasi
+INFO - 2018-08-01 12:39:17 --> Hooks Class telah di inisialisasi
+DEBUG - 2018-08-01 12:39:17 --> UTF-8 Support Aktif
+INFO - 2018-08-01 12:39:17 --> Utf8 Class telah di inisialisasi
+INFO - 2018-08-01 12:39:17 --> URI Class telah di inisialisasi
+INFO - 2018-08-01 12:39:17 --> Router Class telah di inisialisasi
+INFO - 2018-08-01 12:39:17 --> Output Class telah di inisialisasi
+INFO - 2018-08-01 12:39:17 --> Security Class telah di inisialisasi
+DEBUG - 2018-08-01 12:39:17 --> Global POST, GET dan COOKIE data telah disanitasi
+INFO - 2018-08-01 12:39:17 --> Input Class telah di inisialisasi
+INFO - 2018-08-01 12:39:17 --> Language Class telah di inisialisasi
+INFO - 2018-08-01 12:39:18 --> Loader Class telah di inisialisasi
+INFO - 2018-08-01 12:39:18 --> Helper telah dimuat: url_helper
+INFO - 2018-08-01 12:39:18 --> Controller Class telah di inisialisasi
+DEBUG - 2018-08-01 12:39:18 --> Session: "sess_save_path" kosong; pakai "session.save_path" data dari php.ini.
+INFO - 2018-08-01 12:39:18 --> Session: Class initialized using 'files' driver.
+INFO - 2018-08-01 12:39:18 --> Helper telah dimuat: cookie_helper
+INFO - 2018-08-01 12:39:18 --> File telah dimuat: D:\XAMPP\htdocs\jb\application\views\jebews/html/head.php
+INFO - 2018-08-01 12:39:18 --> File telah dimuat: D:\XAMPP\htdocs\jb\application\views\jebews/product/manage.php
+INFO - 2018-08-01 12:39:18 --> Output akhir dikirim ke browser
+DEBUG - 2018-08-01 12:39:18 --> Total waktu eksekusi: 0.4886
+INFO - 2018-08-01 12:39:18 --> Config Class telah di inisialisasi
+INFO - 2018-08-01 12:39:18 --> Hooks Class telah di inisialisasi
+DEBUG - 2018-08-01 12:39:18 --> UTF-8 Support Aktif
+INFO - 2018-08-01 12:39:18 --> Utf8 Class telah di inisialisasi
+INFO - 2018-08-01 12:39:18 --> URI Class telah di inisialisasi
+INFO - 2018-08-01 12:39:18 --> Router Class telah di inisialisasi
+INFO - 2018-08-01 12:39:18 --> Output Class telah di inisialisasi
+INFO - 2018-08-01 12:39:18 --> Security Class telah di inisialisasi
+DEBUG - 2018-08-01 12:39:18 --> Global POST, GET dan COOKIE data telah disanitasi
+INFO - 2018-08-01 12:39:18 --> Input Class telah di inisialisasi
+INFO - 2018-08-01 12:39:18 --> Language Class telah di inisialisasi
+INFO - 2018-08-01 12:39:18 --> Loader Class telah di inisialisasi
+INFO - 2018-08-01 12:39:18 --> Helper telah dimuat: url_helper
+INFO - 2018-08-01 12:39:18 --> Controller Class telah di inisialisasi
+DEBUG - 2018-08-01 12:39:18 --> Session: "sess_save_path" kosong; pakai "session.save_path" data dari php.ini.
+INFO - 2018-08-01 12:39:18 --> Session: Class initialized using 'files' driver.
+INFO - 2018-08-01 12:39:18 --> Helper telah dimuat: cookie_helper
+INFO - 2018-08-01 12:39:18 --> Database Driver Class telah di inisialisasi
+INFO - 2018-08-01 12:39:18 --> Model "datatable" telah di inisialisasi
+INFO - 2018-08-01 12:39:18 --> Output akhir dikirim ke browser
+DEBUG - 2018-08-01 12:39:18 --> Total waktu eksekusi: 0.5482
+INFO - 2018-08-01 12:39:35 --> Config Class telah di inisialisasi
+INFO - 2018-08-01 12:39:35 --> Hooks Class telah di inisialisasi
+DEBUG - 2018-08-01 12:39:35 --> UTF-8 Support Aktif
+INFO - 2018-08-01 12:39:35 --> Utf8 Class telah di inisialisasi
+INFO - 2018-08-01 12:39:35 --> URI Class telah di inisialisasi
+INFO - 2018-08-01 12:39:35 --> Router Class telah di inisialisasi
+INFO - 2018-08-01 12:39:35 --> Output Class telah di inisialisasi
+INFO - 2018-08-01 12:39:35 --> Security Class telah di inisialisasi
+DEBUG - 2018-08-01 12:39:35 --> Global POST, GET dan COOKIE data telah disanitasi
+INFO - 2018-08-01 12:39:35 --> Input Class telah di inisialisasi
+INFO - 2018-08-01 12:39:35 --> Language Class telah di inisialisasi
+INFO - 2018-08-01 12:39:35 --> Loader Class telah di inisialisasi
+INFO - 2018-08-01 12:39:35 --> Helper telah dimuat: url_helper
+INFO - 2018-08-01 12:39:35 --> Controller Class telah di inisialisasi
+DEBUG - 2018-08-01 12:39:35 --> Session: "sess_save_path" kosong; pakai "session.save_path" data dari php.ini.
+INFO - 2018-08-01 12:39:35 --> Session: Class initialized using 'files' driver.
+INFO - 2018-08-01 12:39:35 --> Helper telah dimuat: cookie_helper
+INFO - 2018-08-01 12:39:35 --> File telah dimuat: D:\XAMPP\htdocs\jb\application\views\jebews/html/head.php
+INFO - 2018-08-01 12:39:35 --> File telah dimuat: D:\XAMPP\htdocs\jb\application\views\jebews/product/manage.php
+INFO - 2018-08-01 12:39:35 --> Output akhir dikirim ke browser
+DEBUG - 2018-08-01 12:39:35 --> Total waktu eksekusi: 0.4912
+INFO - 2018-08-01 12:39:36 --> Config Class telah di inisialisasi
+INFO - 2018-08-01 12:39:36 --> Hooks Class telah di inisialisasi
+DEBUG - 2018-08-01 12:39:36 --> UTF-8 Support Aktif
+INFO - 2018-08-01 12:39:36 --> Utf8 Class telah di inisialisasi
+INFO - 2018-08-01 12:39:36 --> URI Class telah di inisialisasi
+INFO - 2018-08-01 12:39:36 --> Router Class telah di inisialisasi
+INFO - 2018-08-01 12:39:36 --> Output Class telah di inisialisasi
+INFO - 2018-08-01 12:39:36 --> Security Class telah di inisialisasi
+DEBUG - 2018-08-01 12:39:36 --> Global POST, GET dan COOKIE data telah disanitasi
+INFO - 2018-08-01 12:39:36 --> Input Class telah di inisialisasi
+INFO - 2018-08-01 12:39:36 --> Language Class telah di inisialisasi
+INFO - 2018-08-01 12:39:36 --> Loader Class telah di inisialisasi
+INFO - 2018-08-01 12:39:36 --> Helper telah dimuat: url_helper
+INFO - 2018-08-01 12:39:36 --> Controller Class telah di inisialisasi
+DEBUG - 2018-08-01 12:39:36 --> Session: "sess_save_path" kosong; pakai "session.save_path" data dari php.ini.
+INFO - 2018-08-01 12:39:36 --> Session: Class initialized using 'files' driver.
+INFO - 2018-08-01 12:39:36 --> Helper telah dimuat: cookie_helper
+INFO - 2018-08-01 12:39:36 --> Database Driver Class telah di inisialisasi
+INFO - 2018-08-01 12:39:36 --> Model "datatable" telah di inisialisasi
+INFO - 2018-08-01 12:39:36 --> Output akhir dikirim ke browser
+DEBUG - 2018-08-01 12:39:36 --> Total waktu eksekusi: 0.5688
+INFO - 2018-08-01 12:39:46 --> Config Class telah di inisialisasi
+INFO - 2018-08-01 12:39:46 --> Hooks Class telah di inisialisasi
+DEBUG - 2018-08-01 12:39:46 --> UTF-8 Support Aktif
+INFO - 2018-08-01 12:39:46 --> Utf8 Class telah di inisialisasi
+INFO - 2018-08-01 12:39:46 --> URI Class telah di inisialisasi
+INFO - 2018-08-01 12:39:46 --> Router Class telah di inisialisasi
+INFO - 2018-08-01 12:39:46 --> Output Class telah di inisialisasi
+INFO - 2018-08-01 12:39:46 --> Security Class telah di inisialisasi
+DEBUG - 2018-08-01 12:39:46 --> Global POST, GET dan COOKIE data telah disanitasi
+INFO - 2018-08-01 12:39:47 --> Input Class telah di inisialisasi
+INFO - 2018-08-01 12:39:47 --> Language Class telah di inisialisasi
+INFO - 2018-08-01 12:39:47 --> Loader Class telah di inisialisasi
+INFO - 2018-08-01 12:39:47 --> Helper telah dimuat: url_helper
+INFO - 2018-08-01 12:39:47 --> Controller Class telah di inisialisasi
+DEBUG - 2018-08-01 12:39:47 --> Session: "sess_save_path" kosong; pakai "session.save_path" data dari php.ini.
+INFO - 2018-08-01 12:39:47 --> Session: Class initialized using 'files' driver.
+INFO - 2018-08-01 12:39:47 --> Helper telah dimuat: cookie_helper
+INFO - 2018-08-01 12:39:47 --> File telah dimuat: D:\XAMPP\htdocs\jb\application\views\jebews/html/head.php
+INFO - 2018-08-01 12:39:47 --> File telah dimuat: D:\XAMPP\htdocs\jb\application\views\jebews/product/manage.php
+INFO - 2018-08-01 12:39:47 --> Output akhir dikirim ke browser
+DEBUG - 2018-08-01 12:39:47 --> Total waktu eksekusi: 0.4766
+INFO - 2018-08-01 12:39:47 --> Config Class telah di inisialisasi
+INFO - 2018-08-01 12:39:47 --> Hooks Class telah di inisialisasi
+DEBUG - 2018-08-01 12:39:47 --> UTF-8 Support Aktif
+INFO - 2018-08-01 12:39:47 --> Utf8 Class telah di inisialisasi
+INFO - 2018-08-01 12:39:47 --> URI Class telah di inisialisasi
+INFO - 2018-08-01 12:39:47 --> Router Class telah di inisialisasi
+INFO - 2018-08-01 12:39:47 --> Output Class telah di inisialisasi
+INFO - 2018-08-01 12:39:47 --> Security Class telah di inisialisasi
+DEBUG - 2018-08-01 12:39:47 --> Global POST, GET dan COOKIE data telah disanitasi
+INFO - 2018-08-01 12:39:47 --> Input Class telah di inisialisasi
+INFO - 2018-08-01 12:39:47 --> Language Class telah di inisialisasi
+INFO - 2018-08-01 12:39:47 --> Loader Class telah di inisialisasi
+INFO - 2018-08-01 12:39:47 --> Helper telah dimuat: url_helper
+INFO - 2018-08-01 12:39:47 --> Controller Class telah di inisialisasi
+DEBUG - 2018-08-01 12:39:47 --> Session: "sess_save_path" kosong; pakai "session.save_path" data dari php.ini.
+INFO - 2018-08-01 12:39:47 --> Session: Class initialized using 'files' driver.
+INFO - 2018-08-01 12:39:47 --> Helper telah dimuat: cookie_helper
+INFO - 2018-08-01 12:39:47 --> Database Driver Class telah di inisialisasi
+INFO - 2018-08-01 12:39:47 --> Model "datatable" telah di inisialisasi
+INFO - 2018-08-01 12:39:48 --> Output akhir dikirim ke browser
+DEBUG - 2018-08-01 12:39:48 --> Total waktu eksekusi: 0.5514
+INFO - 2018-08-01 12:41:03 --> Config Class telah di inisialisasi
+INFO - 2018-08-01 12:41:03 --> Hooks Class telah di inisialisasi
+DEBUG - 2018-08-01 12:41:03 --> UTF-8 Support Aktif
+INFO - 2018-08-01 12:41:03 --> Utf8 Class telah di inisialisasi
+INFO - 2018-08-01 12:41:03 --> URI Class telah di inisialisasi
+INFO - 2018-08-01 12:41:03 --> Router Class telah di inisialisasi
+INFO - 2018-08-01 12:41:03 --> Output Class telah di inisialisasi
+INFO - 2018-08-01 12:41:03 --> Security Class telah di inisialisasi
+DEBUG - 2018-08-01 12:41:03 --> Global POST, GET dan COOKIE data telah disanitasi
+INFO - 2018-08-01 12:41:03 --> Input Class telah di inisialisasi
+INFO - 2018-08-01 12:41:03 --> Language Class telah di inisialisasi
+INFO - 2018-08-01 12:41:03 --> Loader Class telah di inisialisasi
+INFO - 2018-08-01 12:41:03 --> Helper telah dimuat: url_helper
+INFO - 2018-08-01 12:41:03 --> Controller Class telah di inisialisasi
+DEBUG - 2018-08-01 12:41:03 --> Session: "sess_save_path" kosong; pakai "session.save_path" data dari php.ini.
+INFO - 2018-08-01 12:41:03 --> Session: Class initialized using 'files' driver.
+INFO - 2018-08-01 12:41:03 --> Helper telah dimuat: cookie_helper
+INFO - 2018-08-01 12:41:03 --> File telah dimuat: D:\XAMPP\htdocs\jb\application\views\jebews/html/head.php
+INFO - 2018-08-01 12:41:03 --> File telah dimuat: D:\XAMPP\htdocs\jb\application\views\jebews/product/manage.php
+INFO - 2018-08-01 12:41:03 --> Output akhir dikirim ke browser
+DEBUG - 2018-08-01 12:41:03 --> Total waktu eksekusi: 0.4580
+INFO - 2018-08-01 12:41:03 --> Config Class telah di inisialisasi
+INFO - 2018-08-01 12:41:03 --> Hooks Class telah di inisialisasi
+DEBUG - 2018-08-01 12:41:03 --> UTF-8 Support Aktif
+INFO - 2018-08-01 12:41:03 --> Utf8 Class telah di inisialisasi
+INFO - 2018-08-01 12:41:03 --> URI Class telah di inisialisasi
+INFO - 2018-08-01 12:41:04 --> Router Class telah di inisialisasi
+INFO - 2018-08-01 12:41:04 --> Output Class telah di inisialisasi
+INFO - 2018-08-01 12:41:04 --> Security Class telah di inisialisasi
+DEBUG - 2018-08-01 12:41:04 --> Global POST, GET dan COOKIE data telah disanitasi
+INFO - 2018-08-01 12:41:04 --> Input Class telah di inisialisasi
+INFO - 2018-08-01 12:41:04 --> Language Class telah di inisialisasi
+INFO - 2018-08-01 12:41:04 --> Loader Class telah di inisialisasi
+INFO - 2018-08-01 12:41:04 --> Helper telah dimuat: url_helper
+INFO - 2018-08-01 12:41:04 --> Controller Class telah di inisialisasi
+DEBUG - 2018-08-01 12:41:04 --> Session: "sess_save_path" kosong; pakai "session.save_path" data dari php.ini.
+INFO - 2018-08-01 12:41:04 --> Session: Class initialized using 'files' driver.
+INFO - 2018-08-01 12:41:04 --> Helper telah dimuat: cookie_helper
+INFO - 2018-08-01 12:41:04 --> Database Driver Class telah di inisialisasi
+INFO - 2018-08-01 12:41:04 --> Model "datatable" telah di inisialisasi
+INFO - 2018-08-01 12:41:04 --> Output akhir dikirim ke browser
+DEBUG - 2018-08-01 12:41:04 --> Total waktu eksekusi: 0.5770
+INFO - 2018-08-01 12:41:19 --> Config Class telah di inisialisasi
+INFO - 2018-08-01 12:41:20 --> Hooks Class telah di inisialisasi
+DEBUG - 2018-08-01 12:41:20 --> UTF-8 Support Aktif
+INFO - 2018-08-01 12:41:20 --> Utf8 Class telah di inisialisasi
+INFO - 2018-08-01 12:41:20 --> URI Class telah di inisialisasi
+INFO - 2018-08-01 12:41:20 --> Router Class telah di inisialisasi
+INFO - 2018-08-01 12:41:20 --> Output Class telah di inisialisasi
+INFO - 2018-08-01 12:41:20 --> Security Class telah di inisialisasi
+DEBUG - 2018-08-01 12:41:20 --> Global POST, GET dan COOKIE data telah disanitasi
+INFO - 2018-08-01 12:41:20 --> Input Class telah di inisialisasi
+INFO - 2018-08-01 12:41:20 --> Language Class telah di inisialisasi
+INFO - 2018-08-01 12:41:20 --> Loader Class telah di inisialisasi
+INFO - 2018-08-01 12:41:20 --> Helper telah dimuat: url_helper
+INFO - 2018-08-01 12:41:20 --> Controller Class telah di inisialisasi
+DEBUG - 2018-08-01 12:41:20 --> Session: "sess_save_path" kosong; pakai "session.save_path" data dari php.ini.
+INFO - 2018-08-01 12:41:20 --> Session: Class initialized using 'files' driver.
+INFO - 2018-08-01 12:41:20 --> Helper telah dimuat: cookie_helper
+INFO - 2018-08-01 12:41:20 --> File telah dimuat: D:\XAMPP\htdocs\jb\application\views\jebews/html/head.php
+INFO - 2018-08-01 12:41:20 --> File telah dimuat: D:\XAMPP\htdocs\jb\application\views\jebews/product/manage.php
+INFO - 2018-08-01 12:41:20 --> Output akhir dikirim ke browser
+DEBUG - 2018-08-01 12:41:20 --> Total waktu eksekusi: 0.4670
+INFO - 2018-08-01 12:41:20 --> Config Class telah di inisialisasi
+INFO - 2018-08-01 12:41:20 --> Hooks Class telah di inisialisasi
+DEBUG - 2018-08-01 12:41:20 --> UTF-8 Support Aktif
+INFO - 2018-08-01 12:41:20 --> Utf8 Class telah di inisialisasi
+INFO - 2018-08-01 12:41:20 --> URI Class telah di inisialisasi
+INFO - 2018-08-01 12:41:21 --> Router Class telah di inisialisasi
+INFO - 2018-08-01 12:41:21 --> Output Class telah di inisialisasi
+INFO - 2018-08-01 12:41:21 --> Security Class telah di inisialisasi
+DEBUG - 2018-08-01 12:41:21 --> Global POST, GET dan COOKIE data telah disanitasi
+INFO - 2018-08-01 12:41:21 --> Input Class telah di inisialisasi
+INFO - 2018-08-01 12:41:21 --> Language Class telah di inisialisasi
+INFO - 2018-08-01 12:41:21 --> Loader Class telah di inisialisasi
+INFO - 2018-08-01 12:41:21 --> Helper telah dimuat: url_helper
+INFO - 2018-08-01 12:41:21 --> Controller Class telah di inisialisasi
+DEBUG - 2018-08-01 12:41:21 --> Session: "sess_save_path" kosong; pakai "session.save_path" data dari php.ini.
+INFO - 2018-08-01 12:41:21 --> Session: Class initialized using 'files' driver.
+INFO - 2018-08-01 12:41:21 --> Helper telah dimuat: cookie_helper
+INFO - 2018-08-01 12:41:21 --> Database Driver Class telah di inisialisasi
+INFO - 2018-08-01 12:41:21 --> Model "datatable" telah di inisialisasi
+INFO - 2018-08-01 12:41:21 --> Output akhir dikirim ke browser
+DEBUG - 2018-08-01 12:41:21 --> Total waktu eksekusi: 0.5990
+INFO - 2018-08-01 12:41:49 --> Config Class telah di inisialisasi
+INFO - 2018-08-01 12:41:49 --> Hooks Class telah di inisialisasi
+DEBUG - 2018-08-01 12:41:49 --> UTF-8 Support Aktif
+INFO - 2018-08-01 12:41:49 --> Utf8 Class telah di inisialisasi
+INFO - 2018-08-01 12:41:49 --> URI Class telah di inisialisasi
+INFO - 2018-08-01 12:41:49 --> Router Class telah di inisialisasi
+INFO - 2018-08-01 12:41:49 --> Output Class telah di inisialisasi
+INFO - 2018-08-01 12:41:49 --> Security Class telah di inisialisasi
+DEBUG - 2018-08-01 12:41:49 --> Global POST, GET dan COOKIE data telah disanitasi
+INFO - 2018-08-01 12:41:49 --> Input Class telah di inisialisasi
+INFO - 2018-08-01 12:41:49 --> Language Class telah di inisialisasi
+INFO - 2018-08-01 12:41:49 --> Loader Class telah di inisialisasi
+INFO - 2018-08-01 12:41:49 --> Helper telah dimuat: url_helper
+INFO - 2018-08-01 12:41:49 --> Controller Class telah di inisialisasi
+DEBUG - 2018-08-01 12:41:49 --> Session: "sess_save_path" kosong; pakai "session.save_path" data dari php.ini.
+INFO - 2018-08-01 12:41:49 --> Session: Class initialized using 'files' driver.
+INFO - 2018-08-01 12:41:49 --> Helper telah dimuat: cookie_helper
+INFO - 2018-08-01 12:41:49 --> File telah dimuat: D:\XAMPP\htdocs\jb\application\views\jebews/html/head.php
+INFO - 2018-08-01 12:41:49 --> File telah dimuat: D:\XAMPP\htdocs\jb\application\views\jebews/product/manage.php
+INFO - 2018-08-01 12:41:49 --> Output akhir dikirim ke browser
+DEBUG - 2018-08-01 12:41:49 --> Total waktu eksekusi: 0.4620
+INFO - 2018-08-01 12:41:50 --> Config Class telah di inisialisasi
+INFO - 2018-08-01 12:41:50 --> Hooks Class telah di inisialisasi
+DEBUG - 2018-08-01 12:41:50 --> UTF-8 Support Aktif
+INFO - 2018-08-01 12:41:50 --> Utf8 Class telah di inisialisasi
+INFO - 2018-08-01 12:41:50 --> URI Class telah di inisialisasi
+INFO - 2018-08-01 12:41:50 --> Router Class telah di inisialisasi
+INFO - 2018-08-01 12:41:50 --> Output Class telah di inisialisasi
+INFO - 2018-08-01 12:41:50 --> Security Class telah di inisialisasi
+DEBUG - 2018-08-01 12:41:50 --> Global POST, GET dan COOKIE data telah disanitasi
+INFO - 2018-08-01 12:41:50 --> Input Class telah di inisialisasi
+INFO - 2018-08-01 12:41:50 --> Language Class telah di inisialisasi
+INFO - 2018-08-01 12:41:50 --> Loader Class telah di inisialisasi
+INFO - 2018-08-01 12:41:50 --> Helper telah dimuat: url_helper
+INFO - 2018-08-01 12:41:50 --> Controller Class telah di inisialisasi
+DEBUG - 2018-08-01 12:41:50 --> Session: "sess_save_path" kosong; pakai "session.save_path" data dari php.ini.
+INFO - 2018-08-01 12:41:50 --> Session: Class initialized using 'files' driver.
+INFO - 2018-08-01 12:41:50 --> Helper telah dimuat: cookie_helper
+INFO - 2018-08-01 12:41:50 --> Database Driver Class telah di inisialisasi
+INFO - 2018-08-01 12:41:50 --> Model "datatable" telah di inisialisasi
+INFO - 2018-08-01 12:41:50 --> Output akhir dikirim ke browser
+DEBUG - 2018-08-01 12:41:50 --> Total waktu eksekusi: 0.5770
+INFO - 2018-08-01 12:42:05 --> Config Class telah di inisialisasi
+INFO - 2018-08-01 12:42:05 --> Hooks Class telah di inisialisasi
+DEBUG - 2018-08-01 12:42:05 --> UTF-8 Support Aktif
+INFO - 2018-08-01 12:42:05 --> Utf8 Class telah di inisialisasi
+INFO - 2018-08-01 12:42:06 --> URI Class telah di inisialisasi
+INFO - 2018-08-01 12:42:06 --> Router Class telah di inisialisasi
+INFO - 2018-08-01 12:42:06 --> Output Class telah di inisialisasi
+INFO - 2018-08-01 12:42:06 --> Security Class telah di inisialisasi
+DEBUG - 2018-08-01 12:42:06 --> Global POST, GET dan COOKIE data telah disanitasi
+INFO - 2018-08-01 12:42:06 --> Input Class telah di inisialisasi
+INFO - 2018-08-01 12:42:06 --> Language Class telah di inisialisasi
+INFO - 2018-08-01 12:42:06 --> Loader Class telah di inisialisasi
+INFO - 2018-08-01 12:42:06 --> Helper telah dimuat: url_helper
+INFO - 2018-08-01 12:42:06 --> Controller Class telah di inisialisasi
+DEBUG - 2018-08-01 12:42:06 --> Session: "sess_save_path" kosong; pakai "session.save_path" data dari php.ini.
+INFO - 2018-08-01 12:42:06 --> Session: Class initialized using 'files' driver.
+INFO - 2018-08-01 12:42:06 --> Helper telah dimuat: cookie_helper
+INFO - 2018-08-01 12:42:06 --> File telah dimuat: D:\XAMPP\htdocs\jb\application\views\jebews/html/head.php
+INFO - 2018-08-01 12:42:06 --> File telah dimuat: D:\XAMPP\htdocs\jb\application\views\jebews/product/manage.php
+INFO - 2018-08-01 12:42:06 --> Output akhir dikirim ke browser
+DEBUG - 2018-08-01 12:42:06 --> Total waktu eksekusi: 0.4796
+INFO - 2018-08-01 12:42:13 --> Config Class telah di inisialisasi
+INFO - 2018-08-01 12:42:14 --> Hooks Class telah di inisialisasi
+DEBUG - 2018-08-01 12:42:14 --> UTF-8 Support Aktif
+INFO - 2018-08-01 12:42:14 --> Utf8 Class telah di inisialisasi
+INFO - 2018-08-01 12:42:14 --> URI Class telah di inisialisasi
+INFO - 2018-08-01 12:42:14 --> Router Class telah di inisialisasi
+INFO - 2018-08-01 12:42:14 --> Output Class telah di inisialisasi
+INFO - 2018-08-01 12:42:14 --> Security Class telah di inisialisasi
+DEBUG - 2018-08-01 12:42:14 --> Global POST, GET dan COOKIE data telah disanitasi
+INFO - 2018-08-01 12:42:14 --> Input Class telah di inisialisasi
+INFO - 2018-08-01 12:42:14 --> Language Class telah di inisialisasi
+INFO - 2018-08-01 12:42:14 --> Loader Class telah di inisialisasi
+INFO - 2018-08-01 12:42:14 --> Helper telah dimuat: url_helper
+INFO - 2018-08-01 12:42:14 --> Controller Class telah di inisialisasi
+DEBUG - 2018-08-01 12:42:14 --> Session: "sess_save_path" kosong; pakai "session.save_path" data dari php.ini.
+INFO - 2018-08-01 12:42:14 --> Session: Class initialized using 'files' driver.
+INFO - 2018-08-01 12:42:14 --> Helper telah dimuat: cookie_helper
+INFO - 2018-08-01 12:42:14 --> File telah dimuat: D:\XAMPP\htdocs\jb\application\views\jebews/html/head.php
+INFO - 2018-08-01 12:42:14 --> File telah dimuat: D:\XAMPP\htdocs\jb\application\views\jebews/product/manage.php
+INFO - 2018-08-01 12:42:14 --> Output akhir dikirim ke browser
+DEBUG - 2018-08-01 12:42:14 --> Total waktu eksekusi: 0.4706
+INFO - 2018-08-01 12:42:29 --> Config Class telah di inisialisasi
+INFO - 2018-08-01 12:42:29 --> Hooks Class telah di inisialisasi
+DEBUG - 2018-08-01 12:42:29 --> UTF-8 Support Aktif
+INFO - 2018-08-01 12:42:29 --> Utf8 Class telah di inisialisasi
+INFO - 2018-08-01 12:42:29 --> URI Class telah di inisialisasi
+INFO - 2018-08-01 12:42:29 --> Router Class telah di inisialisasi
+INFO - 2018-08-01 12:42:29 --> Output Class telah di inisialisasi
+INFO - 2018-08-01 12:42:29 --> Security Class telah di inisialisasi
+DEBUG - 2018-08-01 12:42:29 --> Global POST, GET dan COOKIE data telah disanitasi
+INFO - 2018-08-01 12:42:30 --> Input Class telah di inisialisasi
+INFO - 2018-08-01 12:42:30 --> Language Class telah di inisialisasi
+INFO - 2018-08-01 12:42:30 --> Loader Class telah di inisialisasi
+INFO - 2018-08-01 12:42:30 --> Helper telah dimuat: url_helper
+INFO - 2018-08-01 12:42:30 --> Controller Class telah di inisialisasi
+DEBUG - 2018-08-01 12:42:30 --> Session: "sess_save_path" kosong; pakai "session.save_path" data dari php.ini.
+INFO - 2018-08-01 12:42:30 --> Session: Class initialized using 'files' driver.
+INFO - 2018-08-01 12:42:30 --> Helper telah dimuat: cookie_helper
+INFO - 2018-08-01 12:42:30 --> File telah dimuat: D:\XAMPP\htdocs\jb\application\views\jebews/html/head.php
+INFO - 2018-08-01 12:42:30 --> File telah dimuat: D:\XAMPP\htdocs\jb\application\views\jebews/product/manage.php
+INFO - 2018-08-01 12:42:30 --> Output akhir dikirim ke browser
+DEBUG - 2018-08-01 12:42:30 --> Total waktu eksekusi: 0.4726
+INFO - 2018-08-01 12:42:38 --> Config Class telah di inisialisasi
+INFO - 2018-08-01 12:42:38 --> Hooks Class telah di inisialisasi
+DEBUG - 2018-08-01 12:42:38 --> UTF-8 Support Aktif
+INFO - 2018-08-01 12:42:38 --> Utf8 Class telah di inisialisasi
+INFO - 2018-08-01 12:42:38 --> URI Class telah di inisialisasi
+INFO - 2018-08-01 12:42:38 --> Router Class telah di inisialisasi
+INFO - 2018-08-01 12:42:38 --> Output Class telah di inisialisasi
+INFO - 2018-08-01 12:42:38 --> Security Class telah di inisialisasi
+DEBUG - 2018-08-01 12:42:38 --> Global POST, GET dan COOKIE data telah disanitasi
+INFO - 2018-08-01 12:42:38 --> Input Class telah di inisialisasi
+INFO - 2018-08-01 12:42:38 --> Language Class telah di inisialisasi
+INFO - 2018-08-01 12:42:38 --> Loader Class telah di inisialisasi
+INFO - 2018-08-01 12:42:38 --> Helper telah dimuat: url_helper
+INFO - 2018-08-01 12:42:38 --> Controller Class telah di inisialisasi
+DEBUG - 2018-08-01 12:42:39 --> Session: "sess_save_path" kosong; pakai "session.save_path" data dari php.ini.
+INFO - 2018-08-01 12:42:39 --> Session: Class initialized using 'files' driver.
+INFO - 2018-08-01 12:42:39 --> Helper telah dimuat: cookie_helper
+INFO - 2018-08-01 12:42:39 --> File telah dimuat: D:\XAMPP\htdocs\jb\application\views\jebews/html/head.php
+INFO - 2018-08-01 12:42:39 --> File telah dimuat: D:\XAMPP\htdocs\jb\application\views\jebews/product/manage.php
+INFO - 2018-08-01 12:42:39 --> Output akhir dikirim ke browser
+DEBUG - 2018-08-01 12:42:39 --> Total waktu eksekusi: 0.4826
+INFO - 2018-08-01 12:42:39 --> Config Class telah di inisialisasi
+INFO - 2018-08-01 12:42:39 --> Hooks Class telah di inisialisasi
+DEBUG - 2018-08-01 12:42:39 --> UTF-8 Support Aktif
+INFO - 2018-08-01 12:42:39 --> Utf8 Class telah di inisialisasi
+INFO - 2018-08-01 12:42:39 --> URI Class telah di inisialisasi
+INFO - 2018-08-01 12:42:39 --> Router Class telah di inisialisasi
+INFO - 2018-08-01 12:42:39 --> Output Class telah di inisialisasi
+INFO - 2018-08-01 12:42:39 --> Security Class telah di inisialisasi
+DEBUG - 2018-08-01 12:42:39 --> Global POST, GET dan COOKIE data telah disanitasi
+INFO - 2018-08-01 12:42:39 --> Input Class telah di inisialisasi
+INFO - 2018-08-01 12:42:39 --> Language Class telah di inisialisasi
+INFO - 2018-08-01 12:42:39 --> Loader Class telah di inisialisasi
+INFO - 2018-08-01 12:42:39 --> Helper telah dimuat: url_helper
+INFO - 2018-08-01 12:42:39 --> Controller Class telah di inisialisasi
+DEBUG - 2018-08-01 12:42:39 --> Session: "sess_save_path" kosong; pakai "session.save_path" data dari php.ini.
+INFO - 2018-08-01 12:42:39 --> Session: Class initialized using 'files' driver.
+INFO - 2018-08-01 12:42:39 --> Helper telah dimuat: cookie_helper
+INFO - 2018-08-01 12:42:39 --> Database Driver Class telah di inisialisasi
+INFO - 2018-08-01 12:42:39 --> Model "datatable" telah di inisialisasi
+INFO - 2018-08-01 12:42:39 --> Output akhir dikirim ke browser
+DEBUG - 2018-08-01 12:42:39 --> Total waktu eksekusi: 0.5260
+INFO - 2018-08-01 12:43:08 --> Config Class telah di inisialisasi
+INFO - 2018-08-01 12:43:08 --> Hooks Class telah di inisialisasi
+DEBUG - 2018-08-01 12:43:08 --> UTF-8 Support Aktif
+INFO - 2018-08-01 12:43:08 --> Utf8 Class telah di inisialisasi
+INFO - 2018-08-01 12:43:08 --> URI Class telah di inisialisasi
+INFO - 2018-08-01 12:43:08 --> Router Class telah di inisialisasi
+INFO - 2018-08-01 12:43:08 --> Output Class telah di inisialisasi
+INFO - 2018-08-01 12:43:08 --> Security Class telah di inisialisasi
+DEBUG - 2018-08-01 12:43:08 --> Global POST, GET dan COOKIE data telah disanitasi
+INFO - 2018-08-01 12:43:08 --> Input Class telah di inisialisasi
+INFO - 2018-08-01 12:43:08 --> Language Class telah di inisialisasi
+INFO - 2018-08-01 12:43:08 --> Loader Class telah di inisialisasi
+INFO - 2018-08-01 12:43:09 --> Helper telah dimuat: url_helper
+INFO - 2018-08-01 12:43:09 --> Controller Class telah di inisialisasi
+DEBUG - 2018-08-01 12:43:09 --> Session: "sess_save_path" kosong; pakai "session.save_path" data dari php.ini.
+INFO - 2018-08-01 12:43:09 --> Session: Class initialized using 'files' driver.
+INFO - 2018-08-01 12:43:09 --> Helper telah dimuat: cookie_helper
+INFO - 2018-08-01 12:43:09 --> File telah dimuat: D:\XAMPP\htdocs\jb\application\views\jebews/html/head.php
+INFO - 2018-08-01 12:43:09 --> File telah dimuat: D:\XAMPP\htdocs\jb\application\views\jebews/product/manage.php
+INFO - 2018-08-01 12:43:09 --> Output akhir dikirim ke browser
+DEBUG - 2018-08-01 12:43:09 --> Total waktu eksekusi: 0.4676
+INFO - 2018-08-01 12:43:09 --> Config Class telah di inisialisasi
+INFO - 2018-08-01 12:43:09 --> Hooks Class telah di inisialisasi
+DEBUG - 2018-08-01 12:43:09 --> UTF-8 Support Aktif
+INFO - 2018-08-01 12:43:09 --> Utf8 Class telah di inisialisasi
+INFO - 2018-08-01 12:43:09 --> URI Class telah di inisialisasi
+INFO - 2018-08-01 12:43:09 --> Router Class telah di inisialisasi
+INFO - 2018-08-01 12:43:09 --> Output Class telah di inisialisasi
+INFO - 2018-08-01 12:43:09 --> Security Class telah di inisialisasi
+DEBUG - 2018-08-01 12:43:09 --> Global POST, GET dan COOKIE data telah disanitasi
+INFO - 2018-08-01 12:43:09 --> Input Class telah di inisialisasi
+INFO - 2018-08-01 12:43:09 --> Language Class telah di inisialisasi
+INFO - 2018-08-01 12:43:09 --> Loader Class telah di inisialisasi
+INFO - 2018-08-01 12:43:09 --> Helper telah dimuat: url_helper
+INFO - 2018-08-01 12:43:09 --> Controller Class telah di inisialisasi
+DEBUG - 2018-08-01 12:43:09 --> Session: "sess_save_path" kosong; pakai "session.save_path" data dari php.ini.
+INFO - 2018-08-01 12:43:09 --> Session: Class initialized using 'files' driver.
+INFO - 2018-08-01 12:43:09 --> Helper telah dimuat: cookie_helper
+INFO - 2018-08-01 12:43:09 --> Database Driver Class telah di inisialisasi
+INFO - 2018-08-01 12:43:09 --> Model "datatable" telah di inisialisasi
+INFO - 2018-08-01 12:43:09 --> Output akhir dikirim ke browser
+DEBUG - 2018-08-01 12:43:09 --> Total waktu eksekusi: 0.5128
+INFO - 2018-08-01 12:43:11 --> Config Class telah di inisialisasi
+INFO - 2018-08-01 12:43:11 --> Hooks Class telah di inisialisasi
+DEBUG - 2018-08-01 12:43:11 --> UTF-8 Support Aktif
+INFO - 2018-08-01 12:43:11 --> Utf8 Class telah di inisialisasi
+INFO - 2018-08-01 12:43:11 --> URI Class telah di inisialisasi
+INFO - 2018-08-01 12:43:11 --> Router Class telah di inisialisasi
+INFO - 2018-08-01 12:43:11 --> Output Class telah di inisialisasi
+INFO - 2018-08-01 12:43:11 --> Security Class telah di inisialisasi
+DEBUG - 2018-08-01 12:43:11 --> Global POST, GET dan COOKIE data telah disanitasi
+INFO - 2018-08-01 12:43:11 --> Input Class telah di inisialisasi
+INFO - 2018-08-01 12:43:11 --> Language Class telah di inisialisasi
+INFO - 2018-08-01 12:43:11 --> Loader Class telah di inisialisasi
+INFO - 2018-08-01 12:43:11 --> Helper telah dimuat: url_helper
+INFO - 2018-08-01 12:43:11 --> Controller Class telah di inisialisasi
+DEBUG - 2018-08-01 12:43:11 --> Session: "sess_save_path" kosong; pakai "session.save_path" data dari php.ini.
+INFO - 2018-08-01 12:43:11 --> Session: Class initialized using 'files' driver.
+INFO - 2018-08-01 12:43:11 --> Helper telah dimuat: cookie_helper
+INFO - 2018-08-01 12:43:12 --> File telah dimuat: D:\XAMPP\htdocs\jb\application\views\jebews/html/head.php
+INFO - 2018-08-01 12:43:12 --> File telah dimuat: D:\XAMPP\htdocs\jb\application\views\jebews/product/manage.php
+INFO - 2018-08-01 12:43:12 --> Output akhir dikirim ke browser
+DEBUG - 2018-08-01 12:43:12 --> Total waktu eksekusi: 0.4796
+INFO - 2018-08-01 12:43:12 --> Config Class telah di inisialisasi
+INFO - 2018-08-01 12:43:12 --> Hooks Class telah di inisialisasi
+DEBUG - 2018-08-01 12:43:12 --> UTF-8 Support Aktif
+INFO - 2018-08-01 12:43:12 --> Utf8 Class telah di inisialisasi
+INFO - 2018-08-01 12:43:12 --> URI Class telah di inisialisasi
+INFO - 2018-08-01 12:43:12 --> Router Class telah di inisialisasi
+INFO - 2018-08-01 12:43:12 --> Output Class telah di inisialisasi
+INFO - 2018-08-01 12:43:12 --> Security Class telah di inisialisasi
+DEBUG - 2018-08-01 12:43:12 --> Global POST, GET dan COOKIE data telah disanitasi
+INFO - 2018-08-01 12:43:12 --> Input Class telah di inisialisasi
+INFO - 2018-08-01 12:43:12 --> Language Class telah di inisialisasi
+INFO - 2018-08-01 12:43:12 --> Loader Class telah di inisialisasi
+INFO - 2018-08-01 12:43:12 --> Helper telah dimuat: url_helper
+INFO - 2018-08-01 12:43:12 --> Controller Class telah di inisialisasi
+DEBUG - 2018-08-01 12:43:12 --> Session: "sess_save_path" kosong; pakai "session.save_path" data dari php.ini.
+INFO - 2018-08-01 12:43:12 --> Session: Class initialized using 'files' driver.
+INFO - 2018-08-01 12:43:12 --> Helper telah dimuat: cookie_helper
+INFO - 2018-08-01 12:43:12 --> Database Driver Class telah di inisialisasi
+INFO - 2018-08-01 12:43:12 --> Model "datatable" telah di inisialisasi
+INFO - 2018-08-01 12:43:12 --> Output akhir dikirim ke browser
+DEBUG - 2018-08-01 12:43:12 --> Total waktu eksekusi: 0.5070
+INFO - 2018-08-01 12:43:35 --> Config Class telah di inisialisasi
+INFO - 2018-08-01 12:43:35 --> Hooks Class telah di inisialisasi
+DEBUG - 2018-08-01 12:43:35 --> UTF-8 Support Aktif
+INFO - 2018-08-01 12:43:35 --> Utf8 Class telah di inisialisasi
+INFO - 2018-08-01 12:43:35 --> URI Class telah di inisialisasi
+INFO - 2018-08-01 12:43:36 --> Router Class telah di inisialisasi
+INFO - 2018-08-01 12:43:36 --> Output Class telah di inisialisasi
+INFO - 2018-08-01 12:43:36 --> Security Class telah di inisialisasi
+DEBUG - 2018-08-01 12:43:36 --> Global POST, GET dan COOKIE data telah disanitasi
+INFO - 2018-08-01 12:43:36 --> Input Class telah di inisialisasi
+INFO - 2018-08-01 12:43:36 --> Language Class telah di inisialisasi
+INFO - 2018-08-01 12:43:36 --> Loader Class telah di inisialisasi
+INFO - 2018-08-01 12:43:36 --> Helper telah dimuat: url_helper
+INFO - 2018-08-01 12:43:36 --> Controller Class telah di inisialisasi
+DEBUG - 2018-08-01 12:43:36 --> Session: "sess_save_path" kosong; pakai "session.save_path" data dari php.ini.
+INFO - 2018-08-01 12:43:36 --> Session: Class initialized using 'files' driver.
+INFO - 2018-08-01 12:43:36 --> Helper telah dimuat: cookie_helper
+INFO - 2018-08-01 12:43:36 --> File telah dimuat: D:\XAMPP\htdocs\jb\application\views\jebews/html/head.php
+INFO - 2018-08-01 12:43:36 --> File telah dimuat: D:\XAMPP\htdocs\jb\application\views\jebews/product/manage.php
+INFO - 2018-08-01 12:43:36 --> Output akhir dikirim ke browser
+DEBUG - 2018-08-01 12:43:36 --> Total waktu eksekusi: 0.4976
+INFO - 2018-08-01 12:43:36 --> Config Class telah di inisialisasi
+INFO - 2018-08-01 12:43:36 --> Hooks Class telah di inisialisasi
+DEBUG - 2018-08-01 12:43:36 --> UTF-8 Support Aktif
+INFO - 2018-08-01 12:43:36 --> Utf8 Class telah di inisialisasi
+INFO - 2018-08-01 12:43:36 --> URI Class telah di inisialisasi
+INFO - 2018-08-01 12:43:36 --> Router Class telah di inisialisasi
+INFO - 2018-08-01 12:43:36 --> Output Class telah di inisialisasi
+INFO - 2018-08-01 12:43:36 --> Security Class telah di inisialisasi
+DEBUG - 2018-08-01 12:43:36 --> Global POST, GET dan COOKIE data telah disanitasi
+INFO - 2018-08-01 12:43:36 --> Input Class telah di inisialisasi
+INFO - 2018-08-01 12:43:36 --> Language Class telah di inisialisasi
+INFO - 2018-08-01 12:43:36 --> Loader Class telah di inisialisasi
+INFO - 2018-08-01 12:43:36 --> Helper telah dimuat: url_helper
+INFO - 2018-08-01 12:43:36 --> Controller Class telah di inisialisasi
+DEBUG - 2018-08-01 12:43:36 --> Session: "sess_save_path" kosong; pakai "session.save_path" data dari php.ini.
+INFO - 2018-08-01 12:43:36 --> Session: Class initialized using 'files' driver.
+INFO - 2018-08-01 12:43:36 --> Helper telah dimuat: cookie_helper
+INFO - 2018-08-01 12:43:37 --> Database Driver Class telah di inisialisasi
+INFO - 2018-08-01 12:43:37 --> Model "datatable" telah di inisialisasi
+INFO - 2018-08-01 12:43:37 --> Output akhir dikirim ke browser
+DEBUG - 2018-08-01 12:43:37 --> Total waktu eksekusi: 0.5436
+INFO - 2018-08-01 12:43:45 --> Config Class telah di inisialisasi
+INFO - 2018-08-01 12:43:45 --> Hooks Class telah di inisialisasi
+DEBUG - 2018-08-01 12:43:45 --> UTF-8 Support Aktif
+INFO - 2018-08-01 12:43:45 --> Utf8 Class telah di inisialisasi
+INFO - 2018-08-01 12:43:45 --> URI Class telah di inisialisasi
+INFO - 2018-08-01 12:43:45 --> Router Class telah di inisialisasi
+INFO - 2018-08-01 12:43:45 --> Output Class telah di inisialisasi
+INFO - 2018-08-01 12:43:45 --> Security Class telah di inisialisasi
+DEBUG - 2018-08-01 12:43:45 --> Global POST, GET dan COOKIE data telah disanitasi
+INFO - 2018-08-01 12:43:45 --> Input Class telah di inisialisasi
+INFO - 2018-08-01 12:43:45 --> Language Class telah di inisialisasi
+INFO - 2018-08-01 12:43:45 --> Loader Class telah di inisialisasi
+INFO - 2018-08-01 12:43:45 --> Helper telah dimuat: url_helper
+INFO - 2018-08-01 12:43:45 --> Controller Class telah di inisialisasi
+DEBUG - 2018-08-01 12:43:45 --> Session: "sess_save_path" kosong; pakai "session.save_path" data dari php.ini.
+INFO - 2018-08-01 12:43:46 --> Session: Class initialized using 'files' driver.
+INFO - 2018-08-01 12:43:46 --> Helper telah dimuat: cookie_helper
+INFO - 2018-08-01 12:43:46 --> File telah dimuat: D:\XAMPP\htdocs\jb\application\views\jebews/html/head.php
+INFO - 2018-08-01 12:43:46 --> File telah dimuat: D:\XAMPP\htdocs\jb\application\views\jebews/product/manage.php
+INFO - 2018-08-01 12:43:46 --> Output akhir dikirim ke browser
+DEBUG - 2018-08-01 12:43:46 --> Total waktu eksekusi: 0.4946
+INFO - 2018-08-01 12:43:46 --> Config Class telah di inisialisasi
+INFO - 2018-08-01 12:43:46 --> Hooks Class telah di inisialisasi
+DEBUG - 2018-08-01 12:43:46 --> UTF-8 Support Aktif
+INFO - 2018-08-01 12:43:46 --> Utf8 Class telah di inisialisasi
+INFO - 2018-08-01 12:43:46 --> URI Class telah di inisialisasi
+INFO - 2018-08-01 12:43:46 --> Router Class telah di inisialisasi
+INFO - 2018-08-01 12:43:46 --> Output Class telah di inisialisasi
+INFO - 2018-08-01 12:43:46 --> Security Class telah di inisialisasi
+DEBUG - 2018-08-01 12:43:46 --> Global POST, GET dan COOKIE data telah disanitasi
+INFO - 2018-08-01 12:43:46 --> Input Class telah di inisialisasi
+INFO - 2018-08-01 12:43:46 --> Language Class telah di inisialisasi
+INFO - 2018-08-01 12:43:46 --> Loader Class telah di inisialisasi
+INFO - 2018-08-01 12:43:46 --> Helper telah dimuat: url_helper
+INFO - 2018-08-01 12:43:46 --> Controller Class telah di inisialisasi
+DEBUG - 2018-08-01 12:43:46 --> Session: "sess_save_path" kosong; pakai "session.save_path" data dari php.ini.
+INFO - 2018-08-01 12:43:46 --> Session: Class initialized using 'files' driver.
+INFO - 2018-08-01 12:43:46 --> Helper telah dimuat: cookie_helper
+INFO - 2018-08-01 12:43:46 --> Database Driver Class telah di inisialisasi
+INFO - 2018-08-01 12:43:46 --> Model "datatable" telah di inisialisasi
+INFO - 2018-08-01 12:43:46 --> Output akhir dikirim ke browser
+DEBUG - 2018-08-01 12:43:46 --> Total waktu eksekusi: 0.5120
+INFO - 2018-08-01 12:44:20 --> Config Class telah di inisialisasi
+INFO - 2018-08-01 12:44:20 --> Hooks Class telah di inisialisasi
+DEBUG - 2018-08-01 12:44:20 --> UTF-8 Support Aktif
+INFO - 2018-08-01 12:44:20 --> Utf8 Class telah di inisialisasi
+INFO - 2018-08-01 12:44:20 --> URI Class telah di inisialisasi
+INFO - 2018-08-01 12:44:20 --> Router Class telah di inisialisasi
+INFO - 2018-08-01 12:44:20 --> Output Class telah di inisialisasi
+INFO - 2018-08-01 12:44:21 --> Security Class telah di inisialisasi
+DEBUG - 2018-08-01 12:44:21 --> Global POST, GET dan COOKIE data telah disanitasi
+INFO - 2018-08-01 12:44:21 --> Input Class telah di inisialisasi
+INFO - 2018-08-01 12:44:21 --> Language Class telah di inisialisasi
+INFO - 2018-08-01 12:44:21 --> Loader Class telah di inisialisasi
+INFO - 2018-08-01 12:44:21 --> Helper telah dimuat: url_helper
+INFO - 2018-08-01 12:44:21 --> Controller Class telah di inisialisasi
+DEBUG - 2018-08-01 12:44:21 --> Session: "sess_save_path" kosong; pakai "session.save_path" data dari php.ini.
+INFO - 2018-08-01 12:44:21 --> Session: Class initialized using 'files' driver.
+INFO - 2018-08-01 12:44:21 --> Helper telah dimuat: cookie_helper
+INFO - 2018-08-01 12:44:21 --> File telah dimuat: D:\XAMPP\htdocs\jb\application\views\jebews/html/head.php
+INFO - 2018-08-01 12:44:21 --> File telah dimuat: D:\XAMPP\htdocs\jb\application\views\jebews/product/manage.php
+INFO - 2018-08-01 12:44:21 --> Output akhir dikirim ke browser
+DEBUG - 2018-08-01 12:44:21 --> Total waktu eksekusi: 0.4916
+INFO - 2018-08-01 12:44:21 --> Config Class telah di inisialisasi
+INFO - 2018-08-01 12:44:21 --> Hooks Class telah di inisialisasi
+DEBUG - 2018-08-01 12:44:21 --> UTF-8 Support Aktif
+INFO - 2018-08-01 12:44:21 --> Utf8 Class telah di inisialisasi
+INFO - 2018-08-01 12:44:21 --> URI Class telah di inisialisasi
+INFO - 2018-08-01 12:44:21 --> Router Class telah di inisialisasi
+INFO - 2018-08-01 12:44:21 --> Output Class telah di inisialisasi
+INFO - 2018-08-01 12:44:21 --> Security Class telah di inisialisasi
+DEBUG - 2018-08-01 12:44:21 --> Global POST, GET dan COOKIE data telah disanitasi
+INFO - 2018-08-01 12:44:21 --> Input Class telah di inisialisasi
+INFO - 2018-08-01 12:44:21 --> Language Class telah di inisialisasi
+INFO - 2018-08-01 12:44:21 --> Loader Class telah di inisialisasi
+INFO - 2018-08-01 12:44:21 --> Helper telah dimuat: url_helper
+INFO - 2018-08-01 12:44:21 --> Controller Class telah di inisialisasi
+DEBUG - 2018-08-01 12:44:21 --> Session: "sess_save_path" kosong; pakai "session.save_path" data dari php.ini.
+INFO - 2018-08-01 12:44:21 --> Session: Class initialized using 'files' driver.
+INFO - 2018-08-01 12:44:21 --> Helper telah dimuat: cookie_helper
+INFO - 2018-08-01 12:44:21 --> Database Driver Class telah di inisialisasi
+INFO - 2018-08-01 12:44:21 --> Model "datatable" telah di inisialisasi
+INFO - 2018-08-01 12:44:22 --> Output akhir dikirim ke browser
+DEBUG - 2018-08-01 12:44:22 --> Total waktu eksekusi: 0.5084
+INFO - 2018-08-01 12:44:39 --> Config Class telah di inisialisasi
+INFO - 2018-08-01 12:44:39 --> Hooks Class telah di inisialisasi
+DEBUG - 2018-08-01 12:44:39 --> UTF-8 Support Aktif
+INFO - 2018-08-01 12:44:39 --> Utf8 Class telah di inisialisasi
+INFO - 2018-08-01 12:44:39 --> URI Class telah di inisialisasi
+INFO - 2018-08-01 12:44:39 --> Router Class telah di inisialisasi
+INFO - 2018-08-01 12:44:39 --> Output Class telah di inisialisasi
+INFO - 2018-08-01 12:44:39 --> Security Class telah di inisialisasi
+DEBUG - 2018-08-01 12:44:39 --> Global POST, GET dan COOKIE data telah disanitasi
+INFO - 2018-08-01 12:44:39 --> Input Class telah di inisialisasi
+INFO - 2018-08-01 12:44:39 --> Language Class telah di inisialisasi
+INFO - 2018-08-01 12:44:39 --> Loader Class telah di inisialisasi
+INFO - 2018-08-01 12:44:39 --> Helper telah dimuat: url_helper
+INFO - 2018-08-01 12:44:40 --> Controller Class telah di inisialisasi
+DEBUG - 2018-08-01 12:44:40 --> Session: "sess_save_path" kosong; pakai "session.save_path" data dari php.ini.
+INFO - 2018-08-01 12:44:40 --> Session: Class initialized using 'files' driver.
+INFO - 2018-08-01 12:44:40 --> Helper telah dimuat: cookie_helper
+INFO - 2018-08-01 12:44:40 --> File telah dimuat: D:\XAMPP\htdocs\jb\application\views\jebews/html/head.php
+INFO - 2018-08-01 12:44:40 --> File telah dimuat: D:\XAMPP\htdocs\jb\application\views\jebews/product/manage.php
+INFO - 2018-08-01 12:44:40 --> Output akhir dikirim ke browser
+DEBUG - 2018-08-01 12:44:40 --> Total waktu eksekusi: 0.4842
+INFO - 2018-08-01 12:44:40 --> Config Class telah di inisialisasi
+INFO - 2018-08-01 12:44:40 --> Hooks Class telah di inisialisasi
+DEBUG - 2018-08-01 12:44:40 --> UTF-8 Support Aktif
+INFO - 2018-08-01 12:44:40 --> Utf8 Class telah di inisialisasi
+INFO - 2018-08-01 12:44:40 --> URI Class telah di inisialisasi
+INFO - 2018-08-01 12:44:40 --> Router Class telah di inisialisasi
+INFO - 2018-08-01 12:44:40 --> Output Class telah di inisialisasi
+INFO - 2018-08-01 12:44:40 --> Security Class telah di inisialisasi
+DEBUG - 2018-08-01 12:44:40 --> Global POST, GET dan COOKIE data telah disanitasi
+INFO - 2018-08-01 12:44:40 --> Input Class telah di inisialisasi
+INFO - 2018-08-01 12:44:40 --> Language Class telah di inisialisasi
+INFO - 2018-08-01 12:44:40 --> Loader Class telah di inisialisasi
+INFO - 2018-08-01 12:44:40 --> Helper telah dimuat: url_helper
+INFO - 2018-08-01 12:44:40 --> Controller Class telah di inisialisasi
+DEBUG - 2018-08-01 12:44:40 --> Session: "sess_save_path" kosong; pakai "session.save_path" data dari php.ini.
+INFO - 2018-08-01 12:44:40 --> Session: Class initialized using 'files' driver.
+INFO - 2018-08-01 12:44:40 --> Helper telah dimuat: cookie_helper
+INFO - 2018-08-01 12:44:40 --> Database Driver Class telah di inisialisasi
+INFO - 2018-08-01 12:44:40 --> Model "datatable" telah di inisialisasi
+INFO - 2018-08-01 12:44:40 --> Output akhir dikirim ke browser
+DEBUG - 2018-08-01 12:44:40 --> Total waktu eksekusi: 0.5160
+INFO - 2018-08-01 12:45:28 --> Config Class telah di inisialisasi
+INFO - 2018-08-01 12:45:28 --> Hooks Class telah di inisialisasi
+DEBUG - 2018-08-01 12:45:28 --> UTF-8 Support Aktif
+INFO - 2018-08-01 12:45:28 --> Utf8 Class telah di inisialisasi
+INFO - 2018-08-01 12:45:28 --> URI Class telah di inisialisasi
+INFO - 2018-08-01 12:45:28 --> Router Class telah di inisialisasi
+INFO - 2018-08-01 12:45:28 --> Output Class telah di inisialisasi
+INFO - 2018-08-01 12:45:28 --> Security Class telah di inisialisasi
+DEBUG - 2018-08-01 12:45:28 --> Global POST, GET dan COOKIE data telah disanitasi
+INFO - 2018-08-01 12:45:28 --> Input Class telah di inisialisasi
+INFO - 2018-08-01 12:45:28 --> Language Class telah di inisialisasi
+INFO - 2018-08-01 12:45:28 --> Loader Class telah di inisialisasi
+INFO - 2018-08-01 12:45:28 --> Helper telah dimuat: url_helper
+INFO - 2018-08-01 12:45:28 --> Controller Class telah di inisialisasi
+DEBUG - 2018-08-01 12:45:28 --> Session: "sess_save_path" kosong; pakai "session.save_path" data dari php.ini.
+INFO - 2018-08-01 12:45:28 --> Session: Class initialized using 'files' driver.
+INFO - 2018-08-01 12:45:28 --> Helper telah dimuat: cookie_helper
+INFO - 2018-08-01 12:45:28 --> File telah dimuat: D:\XAMPP\htdocs\jb\application\views\jebews/html/head.php
+INFO - 2018-08-01 12:45:29 --> File telah dimuat: D:\XAMPP\htdocs\jb\application\views\jebews/product/manage.php
+INFO - 2018-08-01 12:45:29 --> Output akhir dikirim ke browser
+DEBUG - 2018-08-01 12:45:29 --> Total waktu eksekusi: 0.4896
+INFO - 2018-08-01 12:45:29 --> Config Class telah di inisialisasi
+INFO - 2018-08-01 12:45:29 --> Hooks Class telah di inisialisasi
+DEBUG - 2018-08-01 12:45:29 --> UTF-8 Support Aktif
+INFO - 2018-08-01 12:45:29 --> Utf8 Class telah di inisialisasi
+INFO - 2018-08-01 12:45:29 --> URI Class telah di inisialisasi
+INFO - 2018-08-01 12:45:29 --> Router Class telah di inisialisasi
+INFO - 2018-08-01 12:45:29 --> Output Class telah di inisialisasi
+INFO - 2018-08-01 12:45:29 --> Security Class telah di inisialisasi
+DEBUG - 2018-08-01 12:45:29 --> Global POST, GET dan COOKIE data telah disanitasi
+INFO - 2018-08-01 12:45:29 --> Input Class telah di inisialisasi
+INFO - 2018-08-01 12:45:29 --> Language Class telah di inisialisasi
+INFO - 2018-08-01 12:45:29 --> Loader Class telah di inisialisasi
+INFO - 2018-08-01 12:45:29 --> Helper telah dimuat: url_helper
+INFO - 2018-08-01 12:45:29 --> Controller Class telah di inisialisasi
+DEBUG - 2018-08-01 12:45:29 --> Session: "sess_save_path" kosong; pakai "session.save_path" data dari php.ini.
+INFO - 2018-08-01 12:45:29 --> Session: Class initialized using 'files' driver.
+INFO - 2018-08-01 12:45:29 --> Helper telah dimuat: cookie_helper
+INFO - 2018-08-01 12:45:29 --> Database Driver Class telah di inisialisasi
+INFO - 2018-08-01 12:45:29 --> Model "datatable" telah di inisialisasi
+INFO - 2018-08-01 12:45:29 --> Output akhir dikirim ke browser
+DEBUG - 2018-08-01 12:45:29 --> Total waktu eksekusi: 0.5150
+INFO - 2018-08-01 12:46:04 --> Config Class telah di inisialisasi
+INFO - 2018-08-01 12:46:04 --> Hooks Class telah di inisialisasi
+DEBUG - 2018-08-01 12:46:04 --> UTF-8 Support Aktif
+INFO - 2018-08-01 12:46:04 --> Utf8 Class telah di inisialisasi
+INFO - 2018-08-01 12:46:04 --> URI Class telah di inisialisasi
+INFO - 2018-08-01 12:46:04 --> Router Class telah di inisialisasi
+INFO - 2018-08-01 12:46:04 --> Output Class telah di inisialisasi
+INFO - 2018-08-01 12:46:04 --> Security Class telah di inisialisasi
+DEBUG - 2018-08-01 12:46:04 --> Global POST, GET dan COOKIE data telah disanitasi
+INFO - 2018-08-01 12:46:04 --> Input Class telah di inisialisasi
+INFO - 2018-08-01 12:46:04 --> Language Class telah di inisialisasi
+INFO - 2018-08-01 12:46:04 --> Loader Class telah di inisialisasi
+INFO - 2018-08-01 12:46:04 --> Helper telah dimuat: url_helper
+INFO - 2018-08-01 12:46:04 --> Controller Class telah di inisialisasi
+DEBUG - 2018-08-01 12:46:04 --> Session: "sess_save_path" kosong; pakai "session.save_path" data dari php.ini.
+INFO - 2018-08-01 12:46:04 --> Session: Class initialized using 'files' driver.
+INFO - 2018-08-01 12:46:04 --> Helper telah dimuat: cookie_helper
+INFO - 2018-08-01 12:46:04 --> File telah dimuat: D:\XAMPP\htdocs\jb\application\views\jebews/html/head.php
+INFO - 2018-08-01 12:46:04 --> File telah dimuat: D:\XAMPP\htdocs\jb\application\views\jebews/product/manage.php
+INFO - 2018-08-01 12:46:04 --> Output akhir dikirim ke browser
+DEBUG - 2018-08-01 12:46:04 --> Total waktu eksekusi: 0.4756
+INFO - 2018-08-01 12:46:04 --> Config Class telah di inisialisasi
+INFO - 2018-08-01 12:46:04 --> Hooks Class telah di inisialisasi
+DEBUG - 2018-08-01 12:46:04 --> UTF-8 Support Aktif
+INFO - 2018-08-01 12:46:04 --> Utf8 Class telah di inisialisasi
+INFO - 2018-08-01 12:46:04 --> URI Class telah di inisialisasi
+INFO - 2018-08-01 12:46:04 --> Router Class telah di inisialisasi
+INFO - 2018-08-01 12:46:04 --> Output Class telah di inisialisasi
+INFO - 2018-08-01 12:46:04 --> Security Class telah di inisialisasi
+DEBUG - 2018-08-01 12:46:05 --> Global POST, GET dan COOKIE data telah disanitasi
+INFO - 2018-08-01 12:46:05 --> Input Class telah di inisialisasi
+INFO - 2018-08-01 12:46:05 --> Language Class telah di inisialisasi
+INFO - 2018-08-01 12:46:05 --> Loader Class telah di inisialisasi
+INFO - 2018-08-01 12:46:05 --> Helper telah dimuat: url_helper
+INFO - 2018-08-01 12:46:05 --> Controller Class telah di inisialisasi
+DEBUG - 2018-08-01 12:46:05 --> Session: "sess_save_path" kosong; pakai "session.save_path" data dari php.ini.
+INFO - 2018-08-01 12:46:05 --> Session: Class initialized using 'files' driver.
+INFO - 2018-08-01 12:46:05 --> Helper telah dimuat: cookie_helper
+INFO - 2018-08-01 12:46:05 --> Database Driver Class telah di inisialisasi
+INFO - 2018-08-01 12:46:05 --> Model "datatable" telah di inisialisasi
+INFO - 2018-08-01 12:46:05 --> Output akhir dikirim ke browser
+DEBUG - 2018-08-01 12:46:05 --> Total waktu eksekusi: 0.5402
+INFO - 2018-08-01 12:46:09 --> Config Class telah di inisialisasi
+INFO - 2018-08-01 12:46:09 --> Hooks Class telah di inisialisasi
+DEBUG - 2018-08-01 12:46:09 --> UTF-8 Support Aktif
+INFO - 2018-08-01 12:46:09 --> Utf8 Class telah di inisialisasi
+INFO - 2018-08-01 12:46:09 --> URI Class telah di inisialisasi
+INFO - 2018-08-01 12:46:09 --> Router Class telah di inisialisasi
+INFO - 2018-08-01 12:46:09 --> Output Class telah di inisialisasi
+INFO - 2018-08-01 12:46:09 --> Security Class telah di inisialisasi
+DEBUG - 2018-08-01 12:46:09 --> Global POST, GET dan COOKIE data telah disanitasi
+INFO - 2018-08-01 12:46:09 --> Input Class telah di inisialisasi
+INFO - 2018-08-01 12:46:09 --> Language Class telah di inisialisasi
+INFO - 2018-08-01 12:46:09 --> Loader Class telah di inisialisasi
+INFO - 2018-08-01 12:46:09 --> Helper telah dimuat: url_helper
+INFO - 2018-08-01 12:46:09 --> Controller Class telah di inisialisasi
+DEBUG - 2018-08-01 12:46:10 --> Session: "sess_save_path" kosong; pakai "session.save_path" data dari php.ini.
+INFO - 2018-08-01 12:46:10 --> Session: Class initialized using 'files' driver.
+INFO - 2018-08-01 12:46:10 --> Helper telah dimuat: cookie_helper
+INFO - 2018-08-01 12:46:10 --> File telah dimuat: D:\XAMPP\htdocs\jb\application\views\jebews/html/head.php
+INFO - 2018-08-01 12:46:10 --> File telah dimuat: D:\XAMPP\htdocs\jb\application\views\jebews/product/manage.php
+INFO - 2018-08-01 12:46:10 --> Output akhir dikirim ke browser
+DEBUG - 2018-08-01 12:46:10 --> Total waktu eksekusi: 0.4882
+INFO - 2018-08-01 12:46:10 --> Config Class telah di inisialisasi
+INFO - 2018-08-01 12:46:10 --> Hooks Class telah di inisialisasi
+DEBUG - 2018-08-01 12:46:10 --> UTF-8 Support Aktif
+INFO - 2018-08-01 12:46:10 --> Utf8 Class telah di inisialisasi
+INFO - 2018-08-01 12:46:10 --> URI Class telah di inisialisasi
+INFO - 2018-08-01 12:46:10 --> Router Class telah di inisialisasi
+INFO - 2018-08-01 12:46:10 --> Output Class telah di inisialisasi
+INFO - 2018-08-01 12:46:10 --> Security Class telah di inisialisasi
+DEBUG - 2018-08-01 12:46:10 --> Global POST, GET dan COOKIE data telah disanitasi
+INFO - 2018-08-01 12:46:10 --> Input Class telah di inisialisasi
+INFO - 2018-08-01 12:46:10 --> Language Class telah di inisialisasi
+INFO - 2018-08-01 12:46:10 --> Loader Class telah di inisialisasi
+INFO - 2018-08-01 12:46:10 --> Helper telah dimuat: url_helper
+INFO - 2018-08-01 12:46:10 --> Controller Class telah di inisialisasi
+DEBUG - 2018-08-01 12:46:10 --> Session: "sess_save_path" kosong; pakai "session.save_path" data dari php.ini.
+INFO - 2018-08-01 12:46:10 --> Session: Class initialized using 'files' driver.
+INFO - 2018-08-01 12:46:10 --> Helper telah dimuat: cookie_helper
+INFO - 2018-08-01 12:46:10 --> Database Driver Class telah di inisialisasi
+INFO - 2018-08-01 12:46:10 --> Model "datatable" telah di inisialisasi
+INFO - 2018-08-01 12:46:10 --> Output akhir dikirim ke browser
+DEBUG - 2018-08-01 12:46:10 --> Total waktu eksekusi: 0.5680
+INFO - 2018-08-01 12:46:30 --> Config Class telah di inisialisasi
+INFO - 2018-08-01 12:46:30 --> Hooks Class telah di inisialisasi
+DEBUG - 2018-08-01 12:46:30 --> UTF-8 Support Aktif
+INFO - 2018-08-01 12:46:30 --> Utf8 Class telah di inisialisasi
+INFO - 2018-08-01 12:46:31 --> URI Class telah di inisialisasi
+INFO - 2018-08-01 12:46:31 --> Router Class telah di inisialisasi
+INFO - 2018-08-01 12:46:31 --> Output Class telah di inisialisasi
+INFO - 2018-08-01 12:46:31 --> Security Class telah di inisialisasi
+DEBUG - 2018-08-01 12:46:31 --> Global POST, GET dan COOKIE data telah disanitasi
+INFO - 2018-08-01 12:46:31 --> Input Class telah di inisialisasi
+INFO - 2018-08-01 12:46:31 --> Language Class telah di inisialisasi
+INFO - 2018-08-01 12:46:31 --> Loader Class telah di inisialisasi
+INFO - 2018-08-01 12:46:31 --> Helper telah dimuat: url_helper
+INFO - 2018-08-01 12:46:31 --> Controller Class telah di inisialisasi
+DEBUG - 2018-08-01 12:46:31 --> Session: "sess_save_path" kosong; pakai "session.save_path" data dari php.ini.
+INFO - 2018-08-01 12:46:31 --> Session: Class initialized using 'files' driver.
+INFO - 2018-08-01 12:46:31 --> Output akhir dikirim ke browser
+DEBUG - 2018-08-01 12:46:31 --> Total waktu eksekusi: 0.4326
+INFO - 2018-08-01 12:46:31 --> Config Class telah di inisialisasi
+INFO - 2018-08-01 12:46:31 --> Hooks Class telah di inisialisasi
+DEBUG - 2018-08-01 12:46:31 --> UTF-8 Support Aktif
+INFO - 2018-08-01 12:46:31 --> Utf8 Class telah di inisialisasi
+INFO - 2018-08-01 12:46:31 --> URI Class telah di inisialisasi
+INFO - 2018-08-01 12:46:31 --> Router Class telah di inisialisasi
+INFO - 2018-08-01 12:46:31 --> Output Class telah di inisialisasi
+INFO - 2018-08-01 12:46:31 --> Security Class telah di inisialisasi
+DEBUG - 2018-08-01 12:46:31 --> Global POST, GET dan COOKIE data telah disanitasi
+INFO - 2018-08-01 12:46:31 --> Input Class telah di inisialisasi
+INFO - 2018-08-01 12:46:31 --> Language Class telah di inisialisasi
+INFO - 2018-08-01 12:46:31 --> Loader Class telah di inisialisasi
+INFO - 2018-08-01 12:46:31 --> Helper telah dimuat: url_helper
+INFO - 2018-08-01 12:46:31 --> Controller Class telah di inisialisasi
+DEBUG - 2018-08-01 12:46:31 --> Session: "sess_save_path" kosong; pakai "session.save_path" data dari php.ini.
+INFO - 2018-08-01 12:46:31 --> Session: Class initialized using 'files' driver.
+INFO - 2018-08-01 12:46:31 --> File telah dimuat: D:\XAMPP\htdocs\jb\application\views\jebews/html/head.php
+INFO - 2018-08-01 12:46:31 --> File telah dimuat: D:\XAMPP\htdocs\jb\application\views\jebews/login.php
+INFO - 2018-08-01 12:46:31 --> Output akhir dikirim ke browser
+DEBUG - 2018-08-01 12:46:31 --> Total waktu eksekusi: 0.4540

@@ -6,7 +6,7 @@
             switch ($what) {
                 case 'product_available':
                     $this->load->database();
-                    $this->db->where('STATUS', 'ACTIVE');
+                    $this->db->where('STATUS !=', 'DRAFT');
                     $this->db->where('QUANTITY !=', 0);
                     return $this->db->get('PRODUCT')->num_rows();
                     break;
