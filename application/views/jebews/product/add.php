@@ -240,6 +240,7 @@
                $('#detil-form, #spek-form').summernote({
                     height: "250px"
                });
+               $('#add-product').validate()
             });
 
             $('#add-product').submit(function( event ) {

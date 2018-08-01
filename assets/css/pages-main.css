@@ -549,6 +549,7 @@ select{
     border:0
 }
 .navbar{
+	height: 60px;
     border:none;
     padding-top:0;
     padding-bottom:0;
@@ -652,7 +653,7 @@ select{
     display:block;
     font-size:14px;
     font-weight:400;
-    padding:5px 20px;
+    padding:5px 0;
     color:#326bf3;
     margin-right:0;
     background-color:#fff;
@@ -2195,14 +2196,6 @@ a,input,.tr-dropdown-menu,.category-info,.slick-dots li button,.category-image:b
 ::-webkit-inner-spin-button{
     display:none
 }
-.navbar{
-    height:60px;
-    -webkit-box-shadow:0 3px 12px rgba(0,0,0,.09);
-    -moz-box-shadow:0 3px 12px rgba(0,0,0,.09);
-    -ms-box-shadow:0 3px 12px rgba(0,0,0,.09);
-    -o-box-shadow:0 3px 12px rgba(0,0,0,.09);
-    box-shadow:0 3px 12px rgba(0,0,0,.09)
-}
 #jb-main-logo{
     background-image:url(../img/main-logo.png);
     background-repeat:no-repeat;
@@ -2221,13 +2214,14 @@ form#jb-search-form > .input-group-text{
     border:0;
     border-right:0;
     margin-top:4px;
-    height:35px;
+    height:40px;
     padding:5px;
+    padding-top: 9px;
     background:#ffffff;
 }
 form#jb-search-form > .form-control{
     width:500px;
-    height:35px;
+    height:40px;
     margin-top:34px;
     border-style:solid;
     border-left:0;
@@ -2235,45 +2229,6 @@ form#jb-search-form > .form-control{
     background:#ffffff;
     border:0;
     border-left:0
-}
-.dropdown{
-    padding:0;
-    margin:0;
-    padding-top:10px;
-    margin-bottom:15px
-}
-.dropdown-menu,.dropdown-item{
-    padding:0
-}
-.dropdown-item{
-    padding:5px
-}
-.dropdown-divider{
-    margin:0
-}
-.dropdown-submenu{
-    position:relative
-}
-.dropdown-submenu > .dropdown-menu{
-    top:0;
-    left:100%;
-    margin-left:-3px;
-    border-left:0;
-    background:#fff;
-    border:solid 1px #ccc;
-    border-left:0
-}
-.dropdown-submenu > .dropdown-menu > li > .dropdown-item{
-    background:#fff;
-    padding:7px;
-    padding-left:20px
-}
-.dropdown-submenu > .dropdown-menu > li > .dropdown-item:hover,.dropdown-menu > li > a.dropdown-item:hover{
-    background:#e1e1e1;
-    color:#000
-}
-.dropdown-submenu:hover > .dropdown-menu{
-    display:block
 }
 .footer-bottom-sm{
     height:30px;
@@ -2286,40 +2241,19 @@ form#jb-search-form > .form-control{
     background-repeat:no-repeat;
     background-size:200px
 }
-.navbar-light .navbar-nav .show > .nav-link,.navbar-light .navbar-nav .active > .nav-link,.navbar-light .navbar-nav .nav-link.show,.navbar-light .navbar-nav .nav-link.active{
-    color:#eb222a
+.filter-submit {
+    margin-top: 10px;
+    background: none;
+    border: 0;
+    font-weight: bold;
+    color: #aaaaaa;
 }
-@media (max-width: 1300px){
-    form#jb-search-form > .form-control{
-        width:300px
-    }
+.filter-submit > i {
+    margin-right: 10px;
 }
-@media (max-width: 1200px){
-    .navbar{
-        margin:0;
-        padding:0;
-        padding-right:15px
-    }
-    form#jb-search-form > .form-control{
-        width:200px
-    }
+.filter-submit:hover {
+    color: #326bf3;
 }
-@media (max-width: 991px){
-    #jb-main-logo{
-        margin-top:0;
-        margin-left:-25px
-    }
-}
-@media (max-width: 575px){
-    #jb-main-logo{
-        margin-right:-15px
-    }
-    .col-payment{
-        margin-top:10px
-    }
-}
-@media (max-width: 400px){
-    #jb-main-logo{
-        margin-right:0
-    }
+.panel-collapse > .panel-body > .tr-list > .active > a {
+    font-weight: bold;
 }

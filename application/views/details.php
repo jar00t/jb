@@ -13,83 +13,22 @@
     </head>
     <body class="bg-light">
         <div class="tr-menu">
-            <nav class="navbar navbar-toggleable-md">
-                <a id="jb-main-logo" class="navbar-brand" href="javascript:void(0)"></a>
+            <nav class="navbar navbar-toggleable-md" style="background:#b0171f">
+                <a id="jb-main-logo" class="navbar-brand" href="<?php echo base_url(); ?>"></a>
                 <a class="btn navbar-toggler navbar-toggler-right no-border" href="javascript:void(0)">
                     <span class="navbar-toggler-icon"></span>
                 </a>
 
                 <div id="navbarSupportedContent" class="collapse navbar-collapse">
                     <ul class="navbar-nav mr-auto">
-                        <li class="nav-item dropdown">
-                            <a id="navbarDropdown" class="nav-link dropdown-toggle" href="javascript:void(0)" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
-                                Produk
-                            </a>
-                            <ul class="dropdown-menu dropright multi-level" aria-labelledby="navbarDropdown">
-                                <li class="dropdown-submenu">
-                                    <a class="dropdown-item dropdown-toggle" href="javascript:void(0)" data-toggle="dropdown">
-                                        <img src="<?php echo base_url(); ?>assets/img/brands/advan-200x25.png">
-                                    </a>
-                                    <ul class="dropdown-menu">
-                                        <li><a class="dropdown-item" href="advan/smart">Smartphone</a></li>
-                                        <li><a class="dropdown-item" href="advan/tab">Tablet</a></li>
-                                    </ul>
-                                </li>
-                                <li class="dropdown-submenu">
-                                    <a href="#" class="dropdown-item dropdown-toggle" data-toggle="dropdown">
-                                        <img src="<?php echo base_url(); ?>assets/img/brands/asus-200x25.png">
-                                    </a>
-                                    <ul class="dropdown-menu">
-                                        <li><a class="dropdown-item" href="asus/smart">Smartphone</a></li>
-                                        <li><a class="dropdown-item" href="asus/tab">Tablet</a></li>
-                                        <li><a class="dropdown-item" href="asus/laptop">Laptop</a></li>
-                                    </ul>
-                                </li>
-                                <li><a class="dropdown-item" href="javascript:void(0)"><img src="<?php echo base_url(); ?>assets/img/brands/blackberry-200x25.png"></a></li>
-                                <li><a class="dropdown-item" href="javascript:void(0)"><img src="<?php echo base_url(); ?>assets/img/brands/evercoss-200x25.png"></a></li>
-                                <li><a class="dropdown-item" href="javascript:void(0)"><img src="<?php echo base_url(); ?>assets/img/brands/huawei-200x25.png"></a></li>
-                                <li><a class="dropdown-item" href="javascript:void(0)"><img src="<?php echo base_url(); ?>assets/img/brands/lenovo-200x25.png"></a></li>
-                                <li><a class="dropdown-item" href="javascript:void(0)"><img src="<?php echo base_url(); ?>assets/img/brands/lg-200x25.png"></a></li>
-                                <li><a class="dropdown-item" href="javascript:void(0)"><img src="<?php echo base_url(); ?>assets/img/brands/luna-200x25.png"></a></li>
-                                <li><a class="dropdown-item" href="javascript:void(0)"><img src="<?php echo base_url(); ?>assets/img/brands/nokia-200x25.png"></a></li>
-                                <li><a class="dropdown-item" href="javascript:void(0)"><img src="<?php echo base_url(); ?>assets/img/brands/oppo-200x25.png"></a></li>
-                                <li><a class="dropdown-item" href="javascript:void(0)"><img src="<?php echo base_url(); ?>assets/img/brands/samsung-200x25.png"></a></li>
-                                <li><a class="dropdown-item" href="javascript:void(0)"><img src="<?php echo base_url(); ?>assets/img/brands/spc-200x25.png"></a></li>
-                                <li><a class="dropdown-item" href="javascript:void(0)"><img src="<?php echo base_url(); ?>assets/img/brands/vivo-200x25.png"></a></li>
-                                <li><a class="dropdown-item" href="javascript:void(0)"><img src="<?php echo base_url(); ?>assets/img/brands/xiaomi-200x25.png"></a></li>
-                            </ul>
-                        </li>
-
-                        <form id="jb-search-form" class="form-inline">
+                        <form id="jb-search-form" class="form-inline" method="GET" action="<?php echo base_url('product/search'); ?>">
                             <span id="basic-addon1" class="input-group-text ml-lg-5"><i style="padding:4px" class="fa fa-search"></i></span>
-                            <input class="form-control" type="search" placeholder="Search" aria-label="Search">
-                            <div class="dropdown">
-                                <button id="dropdownMenuButton" class="btn dropdown-toggle" type="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
-                                    Semua
-                                </button>
-                                <div class="dropdown-menu" aria-labelledby="dropdownMenuButton">
-                                    <a class="dropdown-item" href="javascript:void(0)"><img src="<?php echo base_url(); ?>assets/img/brands/advan-200x25.png"></a>
-                                    <a class="dropdown-item" href="javascript:void(0)"><img src="<?php echo base_url(); ?>assets/img/brands/asus-200x25.png"></a>
-                                    <a class="dropdown-item" href="javascript:void(0)"><img src="<?php echo base_url(); ?>assets/img/brands/blackberry-200x25.png"></a>
-                                    <a class="dropdown-item" href="javascript:void(0)"><img src="<?php echo base_url(); ?>assets/img/brands/evercoss-200x25.png"></a>
-                                    <a class="dropdown-item" href="javascript:void(0)"><img src="<?php echo base_url(); ?>assets/img/brands/huawei-200x25.png"></a>
-                                    <a class="dropdown-item" href="javascript:void(0)"><img src="<?php echo base_url(); ?>assets/img/brands/lenovo-200x25.png"></a>
-                                    <a class="dropdown-item" href="javascript:void(0)"><img src="<?php echo base_url(); ?>assets/img/brands/lg-200x25.png"></a>
-                                    <a class="dropdown-item" href="javascript:void(0)"><img src="<?php echo base_url(); ?>assets/img/brands/luna-200x25.png"></a>
-                                    <a class="dropdown-item" href="javascript:void(0)"><img src="<?php echo base_url(); ?>assets/img/brands/nokia-200x25.png"></a>
-                                    <a class="dropdown-item" href="javascript:void(0)"><img src="<?php echo base_url(); ?>assets/img/brands/oppo-200x25.png"></a>
-                                    <a class="dropdown-item" href="javascript:void(0)"><img src="<?php echo base_url(); ?>assets/img/brands/samsung-200x25.png"></a>
-                                    <a class="dropdown-item" href="javascript:void(0)"><img src="<?php echo base_url(); ?>assets/img/brands/spc-200x25.png"></a>
-                                    <a class="dropdown-item" href="javascript:void(0)"><img src="<?php echo base_url(); ?>assets/img/brands/vivo-200x25.png"></a>
-                                    <a class="dropdown-item" href="javascript:void(0)"><img src="<?php echo base_url(); ?>assets/img/brands/xiaomi-200x25.png"></a>
-                                </div>
-                            </div>
-                            <button class="btn my-2 my-sm-0" type="submit">Cari</button>
+                            <input class="form-control" type="search" name="keyword" placeholder="Cari sesuatu..." aria-label="Cari sesuatu..." autocomplete="off">
                         </form>
                     </ul>
                 </div>
             </nav>
-        </div>     
+        </div>          
 
         <div class="main-wrapper product-details">
             <div class="container">
@@ -123,7 +62,7 @@
                                         <h1><?php echo $product->NAME; ?></h1>
                                         <div class="quantity-price">
                                             <div class="price">
-                                                <span>Rp.<?php echo $product->PRICE; ?>,-</span>
+                                                <span>Rp.<?php echo number_format($product->PRICE, NULL, '.', '.'); ?>,-</span>
                                             </div>                                             
                                         </div>
                                     </div>

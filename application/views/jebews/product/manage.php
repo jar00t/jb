@@ -91,7 +91,6 @@
                                             <th>Merek</th>
                                             <th>Stok</th>
                                             <th>Harga</th>
-                                            <!--<th>Action</th>-->
                                         </tr>
                                     </thead>
                                     <tbody></tbody>
@@ -149,7 +148,7 @@
                         'scrollCollapse': true,
                         'processing': true,
                         'serverSide': true,
-                        'order': [],
+                        'order': [[0, 'desc']],
                         'ajax': {
                             'url': '<?php echo base_url("jebews/product/manage/load"); ?>',
                             'type': 'POST'

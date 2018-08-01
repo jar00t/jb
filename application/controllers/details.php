@@ -11,12 +11,17 @@
 
 		public function index($url = '') {
 			$this->db->where('URL', $url);
-			$this->data['product'] = $this->db->get('PRODUCT')->row();
-			$this->data['head'] = $this->load->view('html/head', array(
-				'author' => 'MUHAMMAD YUSUF NUR FAJAR',
-				'description' => 'Website Resmi Jaya Baru Selular',
-				'title' => $this->data['product']->NAME . ' | Jaya Baru Selular | Belanja Hemat, Lengkap, dan Nyaman'
-			), TRUE);
-			$this->load->view('details', $this->data);
+			$this->data['product'] = $this->db->get('PRODUCT');
+			if ($this->data['product']->num_rows() != 0) {
+				$this->data['product'] = $this->data['product']->row();
+				$this->data['head'] = $this->load->view('html/head', array(
+					'author' => 'MUHAMMAD YUSUF NUR FAJAR',
+					'description' => 'Website Resmi Jaya Baru Selular',
+					'title' => $this->data['product']->NAME . ' | Jaya Baru Selular | Belanja Hemat, Lengkap, dan Nyaman'
+				), TRUE);
+				$this->load->view('details', $this->data);
+			} else {
+				show_404();
+			}
 		}
 	}

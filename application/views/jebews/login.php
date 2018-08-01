@@ -38,7 +38,7 @@
                         <div class="form-group form-group-default">
                             <label>Login</label>
                             <div class="controls">
-                                <input class="form-control" type="text" name="username" placeholder="Username" required>
+                                <input class="form-control" type="text" name="username" placeholder="Username" autocomplete="off" required>
                             </div>
                         </div>
                         <div class="form-group form-group-default">
@@ -76,7 +76,7 @@
             $(document).ready(function() {
                 var message = '<?php if (isset($error_msg)) { echo $error_msg; } else { echo ''; } ?>';
                 if (message !== '') {
-                    $('body').pgNotification({
+                    $('html').pgNotification({
                         style: 'bar',
                         message: message,
                         position: 'top',

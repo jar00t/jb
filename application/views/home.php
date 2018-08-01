@@ -14,16 +14,16 @@
     <body>
         <div class="tr-menu">
             <nav class="navbar navbar-toggleable-md" style="background:#b0171f">
-                <a id="jb-main-logo" class="navbar-brand" href="javascript:void(0)"></a>
+                <a id="jb-main-logo" class="navbar-brand" href="<?php echo base_url(); ?>"></a>
                 <a class="btn navbar-toggler navbar-toggler-right no-border" href="javascript:void(0)">
                     <span class="navbar-toggler-icon"></span>
                 </a>
 
                 <div id="navbarSupportedContent" class="collapse navbar-collapse">
                     <ul class="navbar-nav mr-auto">
-                        <form id="jb-search-form" class="form-inline">
+                        <form id="jb-search-form" class="form-inline" method="GET" action="<?php echo base_url('product/search'); ?>">
                             <span id="basic-addon1" class="input-group-text ml-lg-5"><i style="padding:4px" class="fa fa-search"></i></span>
-                            <input class="form-control" type="search" placeholder="Cari sesuatu..." aria-label="Cari sesuatu...">
+                            <input class="form-control" type="search" name="keyword" placeholder="Cari sesuatu..." aria-label="Cari sesuatu..." autocomplete="off">
                         </form>
                     </ul>
                 </div>
@@ -32,21 +32,25 @@
 
         <div class="tr-banner">     
             <div id="home-carousel" class="carousel slide" data-ride="carousel">            
-                <div class="carousel-inner" role="listbox">                
-                    <div class="carousel-item item active">
+                <div class="carousel-inner" role="listbox">
+                    <?php
+                        $i = 0;
+                        foreach ($new_products as $new_product) {
+                    ?>
+                    <div class="carousel-item <?php if ($i == 0) { echo 'item active'; } ?>">
                         <div class="container">
                             <div class="row">
                                 <div class="col-sm-6">
                                     <div class="banner-info">
                                         <div class="info-middle">
                                             <span class="click-cart" data-animation="animated fadeInDown">Produk Baru</span>
-                                            <h1 data-animation="animated fadeInDown"><span>Advan</span> i6</h1>
+                                            <h2 data-animation="animated fadeInDown"><?php echo $new_product['NAME']; ?></h2>
                                             <div class="paragraphs" data-animation="animated fadeInDown">
-                                                <p>Dapatkan Hape Advan i6 Gratisan Sekarang</p>
+                                                <p><?php echo $new_product['CAPTION']; ?></p>
                                             </div>
                                             <div class="buy-now" data-animation="animated fadeInUp">
-                                                <span>Rp.999rb</span>
-                                                <a class="btn btn-primary" href="javascript:void(0)">Lihat</a>
+                                                <span>Rp.<?php echo number_format($new_product['PRICE'], NULL, '.', '.'); ?>,-</span>
+                                                <a class="btn btn-primary" href="<?php echo base_url($new_product['URL']); ?>">Lihat</a>
                                             </div>
                                         </div>
                                     </div>
@@ -54,75 +58,37 @@
                                 <div class="col-sm-6">
                                     <div class="banner-image" data-animation="animated fadeInUp">
                                         <div class="info-middle">
-                                            <img class="img-fluid" src="<?php echo base_url(); ?>assets/img/product/advan/advan-i6-banner.png" alt="Image">
+                                            <?php
+                                                $this->db->select('NAME');
+                                                $this->db->where('TOKEN', $new_product['BANNER']);
+                                                $query = $this->db->get('UPLOAD');
+                                                if ($query->num_rows() != 0) {
+                                                    $img = $query->row()->NAME;
+                                            ?>
+                                            <img class="img-fluid" src="<?php echo base_url('uploads/products/' . $img); ?>" alt="<?php echo $new_product['NAME']; ?>">
+                                            <?php
+                                                }
+                                            ?>
                                         </div>
                                     </div>   
                                 </div>              
                             </div>                              
                         </div>                 
                     </div>
-                    <div class="carousel-item">
-                        <div class="container">
-                            <div class="row">
-                                <div class="col-sm-6">
-                                    <div class="banner-info">
-                                        <div class="info-middle">
-                                            <span class="click-cart" data-animation="animated fadeInDown">Promo</span>
-                                            <h1 data-animation="animated fadeInDown"><span>Asus</span> Zenpong 900</h1>
-                                            <div class="paragraphs" data-animation="animated fadeInDown">
-                                                <p>Ada promo baru nich sobat jb! yuk intipin!</p>
-                                            </div>
-                                            <div class="buy-now" data-animation="animated fadeInUp">
-                                                <span>Rp.123rb</span>
-                                                <a class="btn btn-primary" href="javascript:void(0)">Lihat</a>
-                                            </div>
-                                        </div>
-                                    </div>
-                                </div>              
-                                <div class="col-sm-6">
-                                    <div data-animation="animated fadeInDown" class="banner-image">
-                                        <div class="info-middle">
-                                            <img class="img-fluid" src="<?php echo base_url(); ?>assets/img/product/advan/advan-i6-banner.png" alt="Image">
-                                        </div>
-                                    </div>   
-                                </div>              
-                            </div>            
-                        </div>     
-                    </div>
-                    <div class="carousel-item">
-                        <div class="container">
-                            <div class="row">
-                                <div class="col-sm-6">
-                                    <div class="banner-info">
-                                        <div class="info-middle">
-                                            <span class="click-cart" data-animation="animated fadeInDown">Promo Cashback</span>
-                                            <h1 data-animation="animated fadeInDown"><span>Epercos</span> ABCDEFG</h1>
-                                            <div class="paragraphs" data-animation="animated fadeInDown">
-                                                <p>Halo gan! ada promo kesbek nich! ikutan yuukk!</p>
-                                            </div>
-                                            <div class="buy-now" data-animation="animated fadeInUp">
-                                                <span>Rp.1,5jt</span>
-                                                <a class="btn btn-primary" href="javascript:void(0)">Lihat</a>
-                                            </div>
-                                        </div>
-                                    </div>
-                                </div>              
-                                <div class="col-sm-6">
-                                    <div class="banner-image" data-animation="animated fadeInUp">
-                                        <div class="info-middle">
-                                            <img class="img-fluid" src="<?php echo base_url(); ?>assets/img/product/advan/advan-i6-banner.png" alt="Image">
-                                        </div>
-                                    </div>   
-                                </div>              
-                            </div>            
-                        </div>             
-                    </div>
+                    <?php
+                            $i = 1;
+                        }
+                    ?>                
                 </div>
                 <div class="container indicators-content">
                     <ol class="carousel-indicators">
-                        <li data-target="#home-carousel" data-slide-to="0" class="active"></li>
-                        <li data-target="#home-carousel" data-slide-to="1"></li>
-                        <li data-target="#home-carousel" data-slide-to="2"></li>
+                        <?php
+                            for ($i = 0; $i < count($new_products); $i++) {
+                        ?>
+                        <li data-target="#home-carousel" data-slide-to="<?php echo $i; ?>" <?php if ($i == 0) { echo 'class="active"'; } ?>></li>
+                        <?php
+                            }
+                        ?>
                     </ol>                   
                 </div>
             </div>
@@ -135,8 +101,8 @@
                         <div class="col-md-5 col-lg-4">
                             <div class="promotion promotion-left">
                                 <div class="left-content">
-                                    <h1>Produk Terbaru</h1>
-                                    <span>1000+ Produk</span>
+                                    <h1>Produk Tersedia</h1>
+                                    <span><?php echo $product_total; ?> Produk</span>
                                 </div>
                             </div>
                         </div>

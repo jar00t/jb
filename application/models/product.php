@@ -5,10 +5,14 @@
         public function count($what) {
             switch ($what) {
                 case 'product_available':
-                    return 659;
+                    $this->load->database();
+                    $this->db->where('STATUS', 'ACTIVE');
+                    $this->db->where('QUANTITY !=', 0);
+                    return $this->db->get('PRODUCT')->num_rows();
                     break;
                 case 'product_total':
-                    return 890;
+                    $this->load->database();
+                    return $this->db->get('PRODUCT')->num_rows();
                     break;
 
                 default:
