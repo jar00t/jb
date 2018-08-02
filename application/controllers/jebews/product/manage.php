@@ -29,7 +29,7 @@
                 $row[] = '<a href="' . base_url($field->URL) . '" target="_blank">' . $field->NAME . '</a>';
                 $row[] = $field->BRAND;
                 $row[] = $field->QUANTITY;
-                $row[] = $field->PRICE;
+                $row[] = 'Rp. ' . number_format($field->PRICE, NULL, '.', '.') . ',-';
      
                 $data[] = $row;
             }

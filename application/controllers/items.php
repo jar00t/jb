@@ -58,7 +58,7 @@
 			$this->data['url'] = explode('?', current_full_url(), 2);
             $this->data['page'] = str_replace(base_url(), '', $this->data['url'][0]);
 			$this->db->select(array('NAME', 'BRAND', 'PRICE', 'IMAGE', 'URL'));
-			$this->db->where('STATUS !==', 'DRAFT');
+			$this->db->where('STATUS !=', 'DRAFT');
 			$this->data['products'] = $this->db->get('PRODUCT')->result_array();
 			$this->load->view('items', $this->data);
 		}

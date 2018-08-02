@@ -123,8 +123,14 @@
                                                 <div class="col-md-9">
                                                     <div class="form-group p-t-0 p-b-0">
                                                         <select class="full-width" name="product-brand" data-init-plugin="select2">
-                                                            <option value="ADVAN">Advan</option>
-                                                            <option value="ASUS">Asus</option>
+                                                            <?php 
+                                                                $this->load->config('brands');
+                                                                foreach ($this->config->item('brands') as $brand) {
+                                                            ?>
+                                                            <option value="<?php echo strtoupper($brand); ?>"><?php echo ucfirst($brand); ?></option>
+                                                            <?php 
+                                                                }
+                                                            ?>
                                                         </select>
                                                     </div>
                                                 </div>

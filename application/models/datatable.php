@@ -44,6 +44,7 @@
             $this->_get_datatables_query();
             if($_POST['length'] != -1)
             $this->db->limit($_POST['length'], $_POST['start']);
+            $this->db->order_by('ID', 'DESC');
             $query = $this->db->get();
             return $query->result();
         }

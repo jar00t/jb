@@ -80,11 +80,11 @@
                             <li class="breadcrumb-item active">Manage Produk</li>
                         </ol>
                     </div>
-                    <div style="position:fixed;height:100%;top:0;width:100%;margin-left:-250px;padding-left:230px;padding-right:0;padding-top:90px">
-                        <div class="card card-transparent" style="position:fixed;width:100%;margin-right:0;padding-right:0">
-                            <div class="card-block" style="position:fixed;width:100%;margin-right:0;padding-right:0;overflow:auto">
-                                <table id="product-table" class="table table-striped dt-responsive" style="position:fixed;margin-right:0;padding-right:0">
-                                    <thead style="background:#ffffff">
+                    <div class="tbl-container">
+                        <div class="card card-transparent tbl-card">
+                            <div class="card-block tbl-block">
+                                <table id="product-table" class="table table-striped tbl">
+                                    <thead class="bg-white">
                                         <tr>
                                             <th>No</th>
                                             <th>Nama Produk</th>
@@ -129,6 +129,24 @@
 
                 'use strict';
 
+                var initAutoWidthTable = function() {
+                    if ($(document).width() <= 1200 && $(document).width() >= 993) {
+                        $('#product-table').css('width', ($(document).width() - 70) + 'px');
+                    } else if ($(document).width() <= 992) {
+                        $('#product-table').css('width', '100%');
+                    } else {
+                        $('#product-table').css('width', ($(document).width() - 250) + 'px');
+                    }
+                    $('.tbl > tbody').css('height', ($(document).height() - 210) + 'px');
+                    if ($('.dataTables_empty').length == 0) {
+                        for (var i = 1; i <= $('tr th').length; i++) {
+                            $('tr td:nth-child(' + i + ')').css('width', ($('tr th:nth-child(' + i + ')').width() + 20) + 'px');
+                        };
+                    } else {
+                        $('tr td').css('width', ($('tbody').width()) + 'px').css('border', '0');
+                    }
+                }
+
                 var initProductTable = function() {
                     var table = $('#product-table');
 
@@ -153,7 +171,13 @@
                             'sEmptyTable': 'Data masih kosong',
                             'sZeroRecords': 'Data tidak ditemukan'
                         },
-                        'iDisplayLength': 5
+                        'iDisplayLength': 5,
+                        'initComplete': function(settings, json) {
+                            initAutoWidthTable();
+                        },
+                        'drawCallback': function(settings) {
+                           initAutoWidthTable();
+                        },
                     };
 
                     table.dataTable(settings);
@@ -175,24 +199,9 @@
                         type: '<?php echo $message[0]; ?>'
                     }).show();
                     <?php } ?>
-
-                    if ($(document).width() <= 1200) {
-                        $('#product-table').css('width', ($(document).width() - 70) + 'px');
-                    } else if ($(document).width() <= 992) {
-                        $('#product-table').css('width', ($(document).width()) + 'px');
-                    } else {
-                        $('#product-table').css('width', ($(document).width() - 250) + 'px');
-                    }
                 });
                 $(window).resize(function() {
-                    if ($(document).width() <= 1200) {
-                        $('#product-table').css('width', ($(document).width() - 70) + 'px');
-                    } else if ($(document).width() <= 992) {
-                        $('#product-table').css('width', ($(document).width()) + 'px');
-                    } else {
-                        $('#product-table').css('width', ($(document).width() - 250) + 'px');
-                    }
-                    
+                    initAutoWidthTable();
                 });
 
                 initProductTable();
