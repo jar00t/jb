@@ -127,7 +127,15 @@
                         $row[] = $no;
                         $row[] = '<a href="' . base_url('jebews/audit/inventory/report/' . $field->URL . '_' . $field->ID) . '">' . $field->NAME . '</a>';
                         $row[] = date('d/m/Y', strtotime($field->DATE));
-                        $row[] = $field->AUTHOR;
+
+                        $this->db->select('NAME');
+                        $this->db->where('USERNAME', $field->AUTHOR);
+                        $auditor = $this->db->get('USER');
+                        if ($auditor->num_rows() != 0) {
+                            $row[] = $auditor->row()->NAME;
+                        } else {
+                            $row[] = 'ANONIM';
+                        }
              
                         $this->data['data'][] = $row;
                     }

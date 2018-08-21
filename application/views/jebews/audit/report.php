@@ -124,9 +124,9 @@
                                             ?>
                                             <tr>
                                                 <td class="">
-                                                    <p class="text-black"><?php echo $content_item; ?></p>
+                                                    <p class="text-black"><?php echo strtoupper($content_item); ?></p>
                                                     <p class="small hint-text">
-                                                        <b>Catatan:</b> <?php echo $note[$key]; ?>
+                                                        <b>Catatan:</b> <?php echo strtoupper($note[$key]); ?>
                                                     </p>
                                                 </td>
                                                 <td class="text-center"><?php echo $qbef[$key]; ?></td>
