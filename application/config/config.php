@@ -1,6 +1,6 @@
 <?php
 	defined('BASEPATH') OR exit('Akses skrip langsung tidak diizinkan');
-	$config['base_url'] = 'http://localhost/jb/';
+	$config['base_url'] = 'http://it/jb/';
 	$config['index_page'] = '';
 	$config['uri_protocol']	= 'REQUEST_URI';
 	$config['url_suffix'] = '';

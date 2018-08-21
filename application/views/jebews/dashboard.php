@@ -20,43 +20,7 @@
 					data-src="<?php echo base_url(); ?>assets/img/logo.png" 
 					data-src-retina="<?php echo base_url(); ?>assets/img/logo_2x.png" alt="logo" width="78" height="22">
 			</div>
-			<div class="sidebar-menu">
-				<ul class="menu-items">
-					<li class="m-t-30 active">
-						<a href="<?php echo base_url(); ?>jebews/dashboard" class="detailed">
-							<span class="title">Dashboard</span>
-						</a>
-						<span class="icon-thumbnail"><i data-feather="shield"></i></span>
-					</li>
-					<li class="">
-						<a href="javascript:void(0);"><span class="title">Produk</span>
-						<span class="arrow"></span></a>
-						<span class="icon-thumbnail"><i data-feather="grid"></i></span>
-						<ul class="sub-menu">
-							<li class="">
-								<a href="<?php echo base_url(); ?>jebews/product/add">Tambah Produk</a>
-								<span class="icon-thumbnail"><i data-feather="plus"></i></span>
-							</li>
-							<li class="">
-								<a href="<?php echo base_url(); ?>jebews/product/manage">Manage Produk</a>
-								<span class="icon-thumbnail"><i data-feather="list"></i></span>
-							</li>
-						</ul>
-					</li>
-					<li>
-						<a href="javascript:void(0);"><span class="title">Profil</span> 
-						<span class="arrow"></span></a>
-						<span class="icon-thumbnail"><i data-feather="user"></i></span>
-						<ul class="sub-menu">
-							<li class="">
-								<a href="<?php echo base_url(); ?>jebews/logout">Logout</a>
-								<span class="icon-thumbnail"><i data-feather="power"></i></span>
-							</li>
-						</ul>
-					</li>
-				</ul>
-				<div class="clearfix"></div>
-			</div>
+			<?php echo $menu; ?>
 		</nav>
 		<div class="page-container ">
 			<div class="header">

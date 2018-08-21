@@ -8,7 +8,7 @@
 			parent::__construct();
 			$this->load->library('session');
 			$this->load->model(array('product', 'visitor'));
-			$this->load->helper('tools');
+			$this->load->helper(array('tools', 'menu'));
 			if (!isset($this->session->userdata['jb-user'])) {
 	            header("location: " . base_url('jebews/login'));
 	        }
@@ -20,6 +20,7 @@
 				'description' => 'Website Resmi Jaya Baru Selular',
 				'title' => 'Jaya Baru Selular | Belanja Hemat, Lengkap, dan Nyaman'
 			), TRUE);
+			$this->data['menu'] = $this->load->view('jebews/html/menu', array('page' => array('dashboard')), TRUE);
 			$this->data['product_available'] = $this->product->count('product_available');
 			$this->data['product_total'] = $this->product->count('product_total');
 			$this->data['product_percentage'] = ($this->data['product_available'] / $this->data['product_total']) * 100;

@@ -34,27 +34,105 @@
                             data-src="<?php echo base_url(); ?>assets/img/logo.png" 
                             data-src-retina="<?php echo base_url(); ?>assets/img/logo_2x.png" alt="logo" width="78" height="22">
                     </div>
+                    <?php if ($table !== 'location') { ?>
+                    <button id="add-modal" class="btn btn-cons btn-primary m-l-20 hidden-md-down"><i class="fa fa-plus"></i> Tambah</button>
+                    <?php } ?>
                 </div>
             </div>
             <div class="page-content-wrapper">
-                <div class="content ">
+                <div class="content">
+                    <?php if ($table !== 'location') { ?>
+                    <div class="modal fade stick-up" id="addNewModal" tabindex="-1" role="dialog" aria-labelledby="addNewModal" aria-hidden="true">
+                        <div class="modal-dialog">
+                            <div class="modal-content">
+                                <?php if ($inventory != NULL) { ?>
+                                <form id="add-audit" method="POST" action="" role="form">
+                                    <div class="modal-header clearfix">
+                                        <button type="button" class="close" data-dismiss="modal" aria-hidden="true"><i class="pg-close fs-14"></i></button>
+                                        <h4 class="p-b-5"><span class="semi-bold">Tambah</span> Inventaris</h4>
+                                    </div>
+                                    <div class="modal-body">
+                                        <div class="row">
+                                            <div class="col-sm-12">
+                                                <div class="form-group form-group-default">
+                                                    <label>Nama</label>
+                                                    <input name="audit-name" type="text" class="form-control" placeholder="Judul Audit" required>
+                                                </div>
+                                            </div>
+                                        </div>
+                                        <?php
+                                            foreach ($inventory as $key => $inven) {
+                                        ?>
+                                        <div class="row">
+                                            <div class="col-sm-12">
+                                                <h5><?php echo $key; ?></h5>
+                                            </div>
+                                        </div>
+                                        <?php
+                                                foreach ($inven as $item) {
+                                        ?>
+                                        <div class="row">
+                                            <div class="col-sm-6">
+                                                <div class="form-group form-group-default">
+                                                    <label><?php echo $item['QUANTITY'] . ' Unit ' . $item['NAME']; ?></label>
+                                                    <input name="inventory-qafter-<?php echo $item['ID']; ?>" type="number" max="<?php echo $item['QUANTITY']; ?>" class="form-control" placeholder="Jumlah Sekarang" required>
+                                                </div>
+                                            </div>
+                                            <div class="col-sm-6">
+                                                <div class="form-group form-group-default">
+                                                    <label>Catatan</label>
+                                                    <input name="inventory-note-<?php echo $item['ID']; ?>" type="text" class="form-control" placeholder="Keterangan" required>
+                                                </div>
+                                            </div>
+                                        </div>
+                                        <?php
+                                                }
+                                            }
+                                        ?>
+                                    </div>
+                                    <div class="modal-footer">
+                                        <button type="submit" class="btn btn-primary  btn-cons">Tambah</button>
+                                        <button type="button" class="btn btn-cons" data-dismiss="modal">Batal</button>
+                                    </div>
+                                </form>
+                                <?php } else { ?>
+                                TIDAK ADA INVENTARIS
+                                <?php } ?>
+                            </div>
+                        </div>
+                    </div>
+                    <?php } ?>
                     <div class="container-fluid container-fixed-lg" style="z-index:2">
                         <ol class="breadcrumb">
                             <li class="breadcrumb-item"><a href="<?php echo base_url(); ?>jebews/dashboard">Home</a></li>
-                            <li class="breadcrumb-item active">Manage Produk</li>
+                            <li class="breadcrumb-item"><a href="<?php echo base_url(); ?>jebews/audit">Audit</a></li>
+                            <?php
+                                if ($table !== 'location') {
+                            ?>
+                            <li class="breadcrumb-item"><a href="<?php echo base_url(); ?>jebews/audit/inventory">Inventaris</a></li>
+                            <li class="breadcrumb-item active"><?php echo ($page_name); ?></li>
+                            <?php
+                                } else {
+                            ?>
+                            <li class="breadcrumb-item active">Inventaris</li>
+                            <?php
+                                }
+                            ?>
                         </ol>
                     </div>
                     <div class="tbl-container">
                         <div class="card card-transparent tbl-card">
                             <div class="card-block tbl-block">
-                                <table id="product-table" class="table table-striped tbl">
+                                <table id="<?php echo $table; ?>-table" class="table table-striped tbl">
                                     <thead class="bg-white">
                                         <tr>
-                                            <th>No</th>
-                                            <th>Nama Produk</th>
-                                            <th>Merek</th>
-                                            <th>Stok</th>
-                                            <th>Harga</th>
+                                            <?php
+                                                foreach ($table_cols as $table_col) {
+                                            ?>
+                                            <th><?php echo $table_col; ?></th>
+                                            <?php
+                                                }
+                                            ?>
                                         </tr>
                                     </thead>
                                     <tbody></tbody>
@@ -81,6 +159,7 @@
         <script src="<?php echo base_url(); ?>assets/plugins/select2/select2.js" type="text/javascript"></script>
         <script src="<?php echo base_url(); ?>assets/plugins/classie/classie.js" type="text/javascript"></script>
         <script src="<?php echo base_url(); ?>assets/plugins/switchery/switchery.js" type="text/javascript"></script>
+        <script src="<?php echo base_url(); ?>assets/plugins/jquery-validation/jquery.validate.js" type="text/javascript"></script>
         <script src="<?php echo base_url(); ?>assets/plugins/jquery-datatable/jquery-datatable.js" type="text/javascript"></script>
         <script src="<?php echo base_url(); ?>assets/plugins/jquery-datatable/jquery-datatable-table-tools.js" type="text/javascript"></script>
         <script src="<?php echo base_url(); ?>assets/plugins/jquery-datatable/datatable-bootstrap.js" type="text/javascript"></script>
@@ -95,11 +174,11 @@
 
                 var initAutoWidthTable = function() {
                     if ($(document).width() <= 1200 && $(document).width() >= 993) {
-                        $('#product-table').css('width', ($(document).width() - 70) + 'px');
+                        $('#<?php echo $table; ?>-table').css('width', ($(document).width() - 70) + 'px');
                     } else if ($(document).width() <= 992) {
-                        $('#product-table').css('width', '100%');
+                        $('#<?php echo $table; ?>-table').css('width', '100%');
                     } else {
-                        $('#product-table').css('width', ($(document).width() - 250) + 'px');
+                        $('#<?php echo $table; ?>-table').css('width', ($(document).width() - 250) + 'px');
                     }
                     $('.tbl > tbody').css('height', ($(document).height() - 210) + 'px');
                     if ($('.dataTables_empty').length == 0) {
@@ -112,7 +191,7 @@
                 }
 
                 var initProductTable = function() {
-                    var table = $('#product-table');
+                    var table = $('#<?php echo $table; ?>-table');
 
                     var settings = {
                         'dom': '<t><<"tbl-prc"r><"tbl-pgn"p>><<"tbl-src"f><"tbl-len"l>>',
@@ -122,7 +201,7 @@
                         'serverSide': true,
                         'order': [[0, 'desc']],
                         'ajax': {
-                            'url': '<?php echo base_url("jebews/product/manage/load"); ?>',
+                            'url': '<?php echo base_url("jebews/audit/inventory/load" . $page_url); ?>',
                             'type': 'POST'
                         },
                         'columnDefs': [{
@@ -173,6 +252,13 @@
                 $('.panel-collapse label').on('click', function(e){
                     e.stopPropagation();
                 });
+
+                <?php if ($table !== 'location') { ?>
+                $('#add-modal').click(function() {
+                    $('#addNewModal').modal('show');
+                    $('#add-audit').validate();
+                });
+                <?php } ?>
 
                 feather.replace({
                     'width':16, 

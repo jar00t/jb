@@ -2,10 +2,11 @@
     defined('BASEPATH') OR exit('Akses skrip langsung tidak diizinkan');
     class datatable extends CI_Model {
  
-        var $table = 'PRODUCT';
-        var $column_order = array(null, 'NAME','BRAND','QUANTITY', 'PRICE');
-        var $column_search = array('NAME','BRAND','QUANTITY', 'PRICE');
-        var $order = array('ID' => 'ASC');
+        var $table;
+        var $column_order;
+        var $column_search;
+        var $order;
+        var $where;
  
         public function __construct() {
             parent::__construct();
@@ -30,6 +31,13 @@
                     }
                 }
                 $i++;
+            }
+
+            if(isset($this->where)) {
+                $where = $this->where;
+                foreach ($where as $key => $value) {
+                    $this->db->where($key, $value);
+                }
             }
          
             if (isset($_POST['order'])) {

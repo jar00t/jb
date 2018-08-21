@@ -2,10 +2,12 @@
 	defined('BASEPATH') OR exit('Akses skrip langsung tidak diizinkan');
 	class add extends CI_Controller {
 
+		public $data;
+
 		public function __construct() {
 			parent::__construct();
 			$this->load->library('session');
-			$this->load->helper('file');
+			$this->load->helper(array('menu', 'file'));
 			if (!isset($this->session->userdata['jb-user'])) {
 	            header("location: " . base_url('jebews/login'));
 	        }
@@ -74,14 +76,13 @@
 		}
 
 		public function load() {
-			$head = $this->load->view('jebews/html/head', array(
+			$this->data['head'] = $this->load->view('jebews/html/head', array(
 				'author' => 'MUHAMMAD YUSUF NUR FAJAR',
 				'description' => 'Website Resmi Jaya Baru Selular',
 				'title' => 'Tambah Produk | Jaya Baru Selular | Belanja Hemat, Lengkap, dan Nyaman'
 			), TRUE);
-			$this->load->view('jebews/product/add', array(
-				'head' => $head
-			));
+			$this->data['menu'] = $this->load->view('jebews/html/menu', array('page' => array('product', 'add')), TRUE);
+			$this->load->view('jebews/product/add', $this->data);
 		}
 		
 		public function index() {
