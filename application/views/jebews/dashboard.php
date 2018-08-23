@@ -32,6 +32,7 @@
 							data-src="<?php echo base_url(); ?>assets/img/logo.png" 
 							data-src-retina="<?php echo base_url(); ?>assets/img/logo_2x.png" alt="logo" width="78" height="22">
 					</div>
+					<a href="<?php echo base_url('jebews/product/add'); ?>" class="btn btn-cons btn-danger text-white m-l-20 hidden-md-down"><i class="fa fa-plus"></i> Tambah Produk</a>
 				</div>
 			</div>
 			<div class="page-content-wrapper">
@@ -108,6 +109,48 @@
 									</div>
 								</div>
 							</div>
+							<div class="col-lg-6 m-b-10 d-flex">
+                				<div class="widget-11-2 card no-border card-condensed no-margin widget-loader-circle align-self-stretch d-flex flex-column">
+                  					<div class="padding-25">
+                    					<div class="pull-left">
+                      						<h2 class="text-success no-margin">REPORT</h2>
+                      						<p class="no-margin"><?php echo $reports_noread; ?> Laporan belum di lihat</p>
+                    					</div>
+                    					<h3 class="pull-right semi-bold"><?php echo $reports_total; ?></h3>
+                    					<div class="clearfix"></div>
+                  					</div>
+                  					<div class="auto-overflow widget-11-2-table">
+	                    				<table class="table table-condensed table-hover">
+	                      					<tbody>
+	                      					<?php
+												foreach ($reports as $report) {
+													$readers = explode(',', $report->READER);
+													if (in_array($this->session->userdata['jb-user']['username'], $readers)) {
+														$report_name = $report->NAME;
+													} else {
+														$report_name = '<b>' . $report->NAME . '</b>';
+													}
+											?>
+												<tr>
+	                          						<td class="font-montserrat all-caps fs-12 w-50"><a href="<?php echo base_url('jebews/audit/' . strtolower($report->TYPE) . '/report/' . $report->URL . '_' . $report->ID); ?>" target="_blank"><?php echo $report_name; ?></a></td>
+	                          						<td class="text-right b-r b-dashed b-grey w-25">
+	                            						<span class="hint-text small"><?php echo date('d/m/Y', strtotime($report->DATE)); ?></span>
+	                          						</td>
+	                        					</tr>
+											<?php
+												}
+											?>
+	                      					</tbody>
+	                    				</table>
+	                  				</div>
+	                  				<div class="padding-25 mt-auto">
+	                    				<p class="small no-margin">
+	                      					<a href="<?php echo base_url('jebews/audit/reports'); ?>"><i class="fa fs-16 fa-arrow-circle-o-down text-success m-r-10"></i></a>
+	                      					<span class="hint-text ">Lihat semua laporan</span>
+	                    				</p>
+	                  				</div>
+	                			</div>
+	              			</div>
 						</div>
 					</div>
 				</div>

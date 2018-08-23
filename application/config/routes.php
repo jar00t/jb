@@ -6,6 +6,7 @@
 	$route['jebews/master/inventory/(:any)'] = 'jebews/master/inventory/index/$1';
 	$route['jebews/master/inventory/add/(:any)'] = 'jebews/master/inventory/add/$1';
 	$route['jebews/master/inventory/load/(:any)/(:any)'] = 'jebews/master/inventory/load/$1/$2';
+	$route['jebews/audit'] = 'jebews/audit/reports';
 	$route['jebews/audit/inventory/(:any)'] = 'jebews/audit/inventory/index/$1';
 	$route['jebews/audit/inventory/add/(:any)'] = 'jebews/audit/inventory/add/$1';
 	$route['jebews/audit/inventory/report/(:any)'] = 'jebews/audit/inventory/report/$1';

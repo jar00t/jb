@@ -37,24 +37,23 @@
                 </div>
             </div>
             <div class="page-content-wrapper">
-                <div class="content ">
+                <div class="content">
                     <div class="container-fluid container-fixed-lg" style="z-index:2">
                         <ol class="breadcrumb">
                             <li class="breadcrumb-item"><a href="<?php echo base_url(); ?>jebews/dashboard">Home</a></li>
-                            <li class="breadcrumb-item active">Manage Produk</li>
+                            <li class="breadcrumb-item active">Audit</li>
                         </ol>
                     </div>
                     <div class="tbl-container">
                         <div class="card card-transparent tbl-card">
                             <div class="card-block tbl-block">
-                                <table id="product-table" class="table table-striped tbl">
+                                <table id="audit-table" class="table table-striped tbl">
                                     <thead class="bg-white">
                                         <tr>
                                             <th>No</th>
-                                            <th>Nama Produk</th>
-                                            <th>Merek</th>
-                                            <th>Stok</th>
-                                            <th>Harga</th>
+                                            <th>Nama</th>
+                                            <th>Tipe</th>
+                                            <th>Tanggal Audit</th>
                                         </tr>
                                     </thead>
                                     <tbody></tbody>
@@ -81,6 +80,7 @@
         <script src="<?php echo base_url(); ?>assets/plugins/select2/select2.js" type="text/javascript"></script>
         <script src="<?php echo base_url(); ?>assets/plugins/classie/classie.js" type="text/javascript"></script>
         <script src="<?php echo base_url(); ?>assets/plugins/switchery/switchery.js" type="text/javascript"></script>
+        <script src="<?php echo base_url(); ?>assets/plugins/jquery-validation/jquery.validate.js" type="text/javascript"></script>
         <script src="<?php echo base_url(); ?>assets/plugins/jquery-datatable/jquery-datatable.js" type="text/javascript"></script>
         <script src="<?php echo base_url(); ?>assets/plugins/jquery-datatable/jquery-datatable-table-tools.js" type="text/javascript"></script>
         <script src="<?php echo base_url(); ?>assets/plugins/jquery-datatable/datatable-bootstrap.js" type="text/javascript"></script>
@@ -95,11 +95,11 @@
 
                 var initAutoWidthTable = function() {
                     if ($(document).width() <= 1200 && $(document).width() >= 993) {
-                        $('#product-table').css('width', ($(document).width() - 70) + 'px');
+                        $('#audit-table').css('width', ($(document).width() - 70) + 'px');
                     } else if ($(document).width() <= 992) {
-                        $('#product-table').css('width', '100%');
+                        $('#audit-table').css('width', '100%');
                     } else {
-                        $('#product-table').css('width', ($(document).width() - 250) + 'px');
+                        $('#audit-table').css('width', ($(document).width() - 250) + 'px');
                     }
                     $('.tbl > tbody').css('height', ($(document).height() - 210) + 'px');
                     if ($('.dataTables_empty').length == 0) {
@@ -112,7 +112,7 @@
                 }
 
                 var initProductTable = function() {
-                    var table = $('#product-table');
+                    var table = $('#audit-table');
 
                     var settings = {
                         'dom': '<t><<"tbl-prc"r><"tbl-pgn"p>><<"tbl-src"f><"tbl-len"l>>',
@@ -122,7 +122,7 @@
                         'serverSide': true,
                         'order': [[0, 'desc']],
                         'ajax': {
-                            'url': '<?php echo base_url("jebews/product/manage/load"); ?>',
+                            'url': '<?php echo base_url("jebews/audit/reports/load"); ?>',
                             'type': 'POST'
                         },
                         'columnDefs': [{

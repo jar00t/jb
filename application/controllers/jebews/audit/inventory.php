@@ -50,7 +50,7 @@
                     }
                 }
 
-                $data = array(
+                $data_audit = array(
                     'NAME' => $this->input->post('audit-name'),
                     'ITEMS' => $items,
                     'QBEFORE' => $qbefore,
@@ -62,8 +62,14 @@
                     'LOCATION' => $location,
                     'URL' => strtolower(preg_replace('/\W+/' , '-', $this->input->post('audit-name')))
                 );
+                $data_report = array(
+                    'NAME' => $this->input->post('audit-name'),
+                    'URL' => strtolower(preg_replace('/\W+/' , '-', $this->input->post('audit-name'))),
+                    'DATE' => date('Y-m-d H:i:s'),
+                    'TYPE' => 'INVENTORY'
+                );
 
-                if($this->db->insert('AUDIT', $data)) {
+                if($this->db->insert('AUDIT', $data_audit) && $this->db->insert('REPORT', $data_report)) {
                     $this->data['message'] = array('success', 'Data Audit berhasil di tambahkan.');
                 } else {
                     $this->data['message'] = array('failed', 'Data Audit gagal di tambahkan.');
@@ -165,6 +171,25 @@
                         $this->data['auditor'] = $auditor->row()->NAME;
                     } else {
                         $this->data['auditor'] = 'ANONIM';
+                    }
+
+                    $this->db->select('READER');
+                    $this->db->where('ID', $this->data['report']->ID);
+                    $report = $this->db->get('REPORT');
+                    if ($report->num_rows() != 0) {
+                        $report = $report->row();
+                        $readers = explode(',', $report->READER);
+                        if (!in_array($this->session->userdata['jb-user']['username'], $readers)) {
+                            if ($report->READER !== '') {
+                                $reader = $this->session->userdata['jb-user']['username'];
+                            } else {
+                                $reader = $report->READER . ',' . $this->session->userdata['jb-user']['username'];
+                            }
+                            $this->db->where('ID', $this->data['report']->ID);
+                            $this->db->update('REPORT', array('READER' => $reader));
+                        }
+                    } else {
+                        show_404();
                     }
                 } else {
                     show_404();

@@ -30,6 +30,21 @@
 			$this->data['visitor_percentage'] = (abs($this->data['visitor_tomorrow'] - $this->data['visitor_today']) / $this->data['visitor_tomorrow']) * 100;
 			$this->data['visitor_howmuach'] = howmuach($this->data['visitor_today'], $this->data['visitor_tomorrow']);
 
+			$this->reports();
+
 			$this->load->view('jebews/dashboard', $this->data);
+		}
+
+		public function reports() {
+			$this->load->database();
+			$this->db->select(array('ID', 'NAME', 'URL', 'DATE', 'READER', 'TYPE'));
+			$this->db->order_by('ID', 'DESC');
+			$this->db->limit(15);
+			$this->data['reports'] = $this->db->get('REPORT')->result();
+
+			$this->data['reports_total'] = $this->db->get('REPORT')->num_rows();
+
+			$this->db->like('READER', $this->session->userdata['jb-user']['username']);
+			$this->data['reports_noread'] = $this->data['reports_total'] - $this->db->get('REPORT')->num_rows();
 		}
 	}

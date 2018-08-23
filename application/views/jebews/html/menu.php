@@ -26,6 +26,10 @@
 						<span class="arrow<?php echo active_menu('audit', $page, 0, 'open '); ?>"></span></a>
 						<span class="icon-thumbnail"><i data-feather="clipboard"></i></span>
 						<ul class="sub-menu">
+							<li class="<?php echo active_menu('reports', $page, 1); ?>">
+								<a href="<?php echo base_url(); ?>jebews/audit/reports">Report</a>
+								<span class="icon-thumbnail"><i data-feather="file-text"></i></span>
+							</li>
 							<li class="<?php echo active_menu('inventory', $page, 1); ?>">
 								<a href="<?php echo base_url(); ?>jebews/audit/inventory">Inventaris</a>
 								<span class="icon-thumbnail"><i data-feather="box"></i></span>

@@ -214,7 +214,7 @@
                             'sEmptyTable': 'Data masih kosong',
                             'sZeroRecords': 'Data tidak ditemukan'
                         },
-                        'iDisplayLength': 5,
+                        'iDisplayLength': 20,
                         'initComplete': function(settings, json) {
                             initAutoWidthTable();
                         },
