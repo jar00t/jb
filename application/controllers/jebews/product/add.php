@@ -67,7 +67,7 @@
 			} else {
 				$cookie= array(
 		        	'name' => 'throw-message',
-		        	'value' => 'failed,Produk baru gagal ditambahkan',
+		        	'value' => 'error,Produk baru gagal ditambahkan',
 		           	'expire' => '3600',
 		       	);
 			}

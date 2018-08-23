@@ -74,16 +74,16 @@
               $('#form-login').validate()
             })
             $(document).ready(function() {
-                var message = '<?php if (isset($error_msg)) { echo $error_msg; } else { echo ''; } ?>';
-                if (message !== '') {
-                    $('html').pgNotification({
-                        style: 'bar',
-                        message: message,
-                        position: 'top',
-                        timeout: 3000,
-                        type: 'danger'
-                    }).show();
-                }
+                <?php if (isset($message)) { ?>
+                var message = '<?php echo $message[1]; ?>';
+                $('html').pgNotification({
+                    style: 'bar',
+                    message: message,
+                    position: 'top',
+                    timeout: 3000,
+                    type: '<?php echo $message[0]; ?>'
+                }).show();
+                <?php } ?>
             });
         </script>
     </body>

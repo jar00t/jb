@@ -114,7 +114,7 @@
                   					<div class="padding-25">
                     					<div class="pull-left">
                       						<h2 class="text-success no-margin">REPORT</h2>
-                      						<p class="no-margin"><?php echo $reports_noread; ?> Laporan belum di lihat</p>
+                      						<p class="no-margin"><?php echo ($reports_noread == 0)? 'Tidak ada' : $reports_noread; ?> Laporan baru</p>
                     					</div>
                     					<h3 class="pull-right semi-bold"><?php echo $reports_total; ?></h3>
                     					<div class="clearfix"></div>
@@ -132,7 +132,7 @@
 													}
 											?>
 												<tr>
-	                          						<td class="font-montserrat all-caps fs-12 w-50"><a href="<?php echo base_url('jebews/audit/' . strtolower($report->TYPE) . '/report/' . $report->URL . '_' . $report->ID); ?>" target="_blank"><?php echo $report_name; ?></a></td>
+	                          						<td class="font-montserrat all-caps fs-12 w-50"><a href="<?php echo base_url('jebews/audit/' . strtolower($report->TYPE) . '/report/' . $report->URL . '_' . $report->ID); ?>" target="_blank" onclick="$(this).html('<?php echo $report->NAME; ?>');"><?php echo $report_name; ?></a></td>
 	                          						<td class="text-right b-r b-dashed b-grey w-25">
 	                            						<span class="hint-text small"><?php echo date('d/m/Y', strtotime($report->DATE)); ?></span>
 	                          						</td>

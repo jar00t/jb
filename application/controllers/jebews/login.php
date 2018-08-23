@@ -10,12 +10,17 @@
 			if (isset($this->session->userdata['jb-user'])) {
 	            header('location: ' . base_url('jebews/dashboard'));
 	        }
+	        $this->load->helper('cookie');
+            if (get_cookie('throw-message') != NULL) {
+                $this->data['message'] = explode(',', get_cookie('throw-message'));
+                delete_cookie('throw-message');
+            }
 		}
 
 		public function auth() {
 			$this->load->model('user');
 			if ($this->user->auth() == FALSE) {
-				$this->data['error_msg'] = 'Username & Password salah';
+				$this->data['message'] = array('error', 'Username & Password salah');
 			} else {
 				$this->data = array(
 					'username' => $this->input->post('username'),
